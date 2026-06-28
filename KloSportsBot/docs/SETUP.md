@@ -5,6 +5,7 @@ in a gitignored `*.example` → real-file copy; you never edit a committed file 
 
 ## 0. Prerequisites
 
+- **An AI coding-agent runtime + subscription.** This loop is *driven by an agent*, not a standalone daemon. The reference instance runs on **[Claude Code](https://www.anthropic.com/claude-code)** (Anthropic's agentic CLI — a subscription is required); an equivalent agent CLI such as **OpenAI Codex** that can read a skill/prompt file and run shell + Node works too. The agent executes `skill/SKILL.md` and orchestrates everything (step 6).
 - **Node ≥ 22** and **Python ≥ 3.11** (the model uses only the Python stdlib — no pip deps).
 - **Playwright + Chromium**.
 - **`wacli`** — the external WhatsApp CLI (see step 2).
@@ -111,11 +112,16 @@ bridge/post.sh text "$BRIDGE_GROUP_JID" "hello from the bridge"
 
 ## 6. Wire up the skill / agent loop
 
-Point your agent at `skill/SKILL.md` and fill in its placeholders (`<AGENT_NAME>`,
-`<AGENT_EMOJI>`, `<GROUP_JID>`, `<SELF_DM_TARGET>`, `<POOL_BASE>`, `<REPO_DIR>`,
-`<POOL_ADMIN>`). The agent loads the persona files (`skill/persona/*.md`), stands up the
-bridge, schedules per-game timers, and runs the live loop. The model is driven from the
-command line, e.g.:
+**This loop is run by an AI coding agent** (see [Prerequisites](#0-prerequisites)) — the
+reference instance runs on **[Claude Code](https://www.anthropic.com/claude-code)**. Install
+`skill/SKILL.md` as a skill your agent can invoke — in Claude Code, place it under your skills
+directory (e.g. `~/.claude/skills/<your-bot>/SKILL.md`) — and fill in its placeholders
+(`<AGENT_NAME>`, `<AGENT_EMOJI>`, `<GROUP_JID>`, `<SELF_DM_TARGET>`, `<POOL_BASE>`,
+`<REPO_DIR>`, `<POOL_ADMIN>`). Invoking the skill is what kicks off the loop.
+
+The agent loads the persona files (`skill/persona/*.md`), stands up the bridge, schedules
+per-game timers, and runs the live loop. The prediction model is driven from the command
+line, e.g.:
 
 ```sh
 node browser/predict_open.mjs
@@ -123,6 +129,25 @@ python3 browser/predict_model.py "Portugal,DR Congo" "England,Croatia"
 node browser/submit_picks.mjs '[["Portugal",2,0],["England",1,0]]'
 node browser/verify_picks.mjs
 ```
+
+### Steering it live — the self-DM command channel
+
+Once the loop is running, you control the bot **privately** by sending yourself a
+**note-to-self** on WhatsApp (the same "Message yourself" thread from step 4). The bot posts
+to the group, but you talk to it here:
+
+1. You send yourself a note — e.g. *"post the leaderboard now,"* *"slow the live updates,"*
+   *"skip the late game,"* or just a question.
+2. The `wait_dm.mjs` **waiter** is watching that thread. Your message makes it exit, and its
+   exit **wakes the agent** (it's a one-shot — the agent relaunches it after each wake).
+3. The agent reads your note from `bridge/triggers.ndjson`, acts on it, and **replies on the
+   same self-DM thread** — never in the group.
+
+This is your remote control: retune cadence, request an off-schedule post, change what's
+covered, or ask a question, all invisible to the group. Because the bot shares your WhatsApp
+account, the self-DM channel is how you command it without a second phone number. (The bot's
+own replies are id-skiplisted via `bridge/post.sh` / `send_self.sh` so they don't
+re-trigger the waiter.)
 
 ## 7. Genericizing for a non-FIFA / non-KGP97 pool
 

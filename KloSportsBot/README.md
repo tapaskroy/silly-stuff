@@ -34,6 +34,22 @@ This framework is **persona-neutral**: it runs as whatever agent identity you co
 
 See [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) for the lock model, supervision model, and the self-DM failure analysis.
 
+## What executes the skill (agent runtime)
+
+The `skill/` layer is a **prompt, not a program** — something has to read it and act on it. That "something" is an **AI coding agent** capable of reading a skill/prompt file and running shell + Node on your machine. The reference instance is operated from **[Claude Code](https://www.anthropic.com/claude-code)** (Anthropic's agentic CLI); an equivalent agent CLI such as **OpenAI Codex** can drive it too.
+
+> **Prerequisite:** a subscription to such an agent (Claude Code, Codex, or similar) is required — it is the runtime that orchestrates the entire loop. This repo ships the scrapers, the WhatsApp bridge, and the operating prompt; **the agent is what runs them.** The reference instance runs from Claude Code, with `skill/SKILL.md` installed as a Claude Code skill.
+
+## The self-DM command channel
+
+The bot posts to your **group**, but you steer it privately through a **note-to-self** — a WhatsApp message to your own number (the "Message yourself" thread):
+
+1. You send yourself a note — e.g. *"post the leaderboard now,"* *"slow the live updates,"* *"don't cover the late game,"* or just a question.
+2. The `wait_dm.mjs` **waiter** is watching that thread. The moment your self-DM lands, the waiter exits — and its exit **wakes the agent**.
+3. The agent reads your instruction from the trigger log, acts on it, and **replies on the same self-DM thread** — so the exchange stays private and never reaches the group.
+
+It's your private remote control: retune cadence, request an off-schedule post, change what gets covered, or just ask a question — all invisible to the group. (The bot's own replies are id-skiplisted so they don't re-trigger the waiter.) Because the bot shares your account, this channel is also how you talk to it without a second phone number.
+
 ## Quickstart
 
 Full step-by-step in [`docs/SETUP.md`](docs/SETUP.md). In short:
@@ -63,6 +79,7 @@ The bot **shares the owner's WhatsApp account** — treat it like sending from y
 
 ## Requirements
 
+- An **AI coding-agent runtime + subscription** — [Claude Code](https://www.anthropic.com/claude-code) (what the reference instance runs on) or an equivalent agent CLI such as OpenAI Codex. This is what executes the `skill/` prompt and drives the loop; see [What executes the skill](#what-executes-the-skill-agent-runtime).
 - Node ≥ 22, Python ≥ 3.11 (model uses stdlib `math` only — no pip deps)
 - [Playwright](https://playwright.dev/) + Chromium
 - [`wacli`](docs/SETUP.md#wacli) — the external WhatsApp CLI (hard dependency; not redistributed here)
