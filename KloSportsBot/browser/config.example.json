@@ -1,0 +1,48 @@
+{
+  "_comment": "Copy to config.json (gitignored) and fill in your pool's values. The framework is pool-agnostic: it works against any prediction-pool site that exposes the DOM contract documented in docs/ARCHITECTURE.md. KGP97's Vercel app is the reference implementation.",
+
+  "poolBase": "https://your-pool.example.com",
+  "routes": {
+    "login": "/login",
+    "tournament": "/tournament",
+    "predict": "/predict",
+    "predictPast": "/predict?tab=past",
+    "leaderboard": "/leaderboard",
+    "stats": "/stats",
+    "statsCup": "/stats/cup",
+    "bigOnes": "/picks?view=big-ones"
+  },
+
+  "timezone": "America/Los_Angeles",
+
+  "_modelComment": "Per-team (attack, defense) multipliers for the Poisson model. attack >1 = scores more; defense <1 = concedes fewer. These are generic football priors — edit for your competition. predict_model.py reads this table.",
+  "teamRatings": {
+    "Portugal":     [1.55, 0.70],
+    "DR Congo":     [0.72, 1.32],
+    "England":      [1.45, 0.65],
+    "Croatia":      [1.15, 0.90],
+    "Ghana":        [1.05, 1.05],
+    "Panama":       [0.80, 1.20],
+    "Uzbekistan":   [0.85, 1.12],
+    "Colombia":     [1.30, 0.85],
+    "Czechia":      [1.15, 0.95],
+    "South Africa": [0.85, 1.15],
+    "Switzerland":  [1.10, 0.85],
+    "Bosnia":       [1.05, 1.05],
+    "Canada":       [1.12, 0.95],
+    "Qatar":        [0.88, 1.12],
+    "Mexico":       [1.20, 0.90],
+    "South Korea":  [1.15, 0.95]
+  },
+
+  "_baseGoals": "Average goals per team per game (model baseline).",
+  "baseGoals": 1.35,
+
+  "_eloComment": "Elo-style ratings for the title-odds model (big_model.py). Edit for your field.",
+  "eloRatings": {
+    "France": 2085, "Argentina": 2080, "Spain": 2075, "Brazil": 2025, "England": 2010,
+    "Portugal": 1990, "Netherlands": 1985, "Germany": 1965, "Belgium": 1925, "Croatia": 1900,
+    "Uruguay": 1895, "Morocco": 1875, "Colombia": 1860, "USA": 1820, "Mexico": 1810,
+    "Senegal": 1805, "Switzerland": 1800, "Japan": 1795, "Ecuador": 1780
+  }
+}

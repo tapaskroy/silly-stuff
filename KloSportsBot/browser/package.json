@@ -1,0 +1,10 @@
+{
+  "name": "sportsbot-browser",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Playwright scrapers, screenshots, model and pick submitters for the sports-pool browser layer.",
+  "dependencies": {
+    "playwright": "^1.61.0"
+  }
+}
