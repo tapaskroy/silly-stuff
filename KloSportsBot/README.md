@@ -6,9 +6,7 @@ A persona-neutral framework for a **personal AI WhatsApp sports-companion bot** 
 
 ## The worked example
 
-The reference instance was built for the **KGP97 (IIT Kharagpur class of '97) "Sports Fans" WhatsApp group**, which runs a FIFA World Cup 2026 prediction pool on a Vercel app ([kgp97-wc2026.vercel.app](https://kgp97-wc2026.vercel.app)). The pool admin set a per-game mandate: a kickoff screenshot, and a full-time result card with a one-line comment. The bot automates exactly that, and adds short witty updates on confirmed major plays while games are live.
-
-> The pool is named here with the pool admin's blessing — swap to a generic name if you prefer.
+The reference instance was built for the **KGP97 (IIT Kharagpur class of '97) "Sports Fans" WhatsApp group**, which runs a FIFA World Cup 2026 prediction pool. The pool admin set a per-game mandate: a kickoff screenshot, and a full-time result card with a one-line comment. The bot automates exactly that, and adds short witty updates on confirmed major plays while games are live.
 
 ## Persona / lineage
 
