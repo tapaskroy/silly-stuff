@@ -1,0 +1,68 @@
+# ============================================================================
+# SECRETS & PERSONAL DATA — NEVER COMMIT THESE (listed first, on purpose).
+# See SECURITY.md for the full rationale and the pre-commit sanitization checklist.
+# ============================================================================
+
+# Live pool session / cookies
+auth.json
+**/auth.json
+!**/auth.json.example
+
+# Credentials / environment
+.env
+.env.*
+!templates/env.example
+
+# Filled-in bridge config (real WhatsApp JIDs / phone / LID)
+bridge/bridge.config.sh
+!bridge/bridge.config.example.sh
+
+# Filled-in browser config (your pool URL / ratings if you treat them as private)
+browser/config.json
+!browser/config.example.json
+
+# Real persona / personal data — only the *.template.md scaffolds and SOUL.md ship
+skill/persona/IDENTITY.md
+skill/persona/USER.md
+skill/persona/MEMORY.md
+
+# WhatsApp message bodies & run state (real personal content)
+*.ndjson
+events.ndjson
+triggers.ndjson
+agent_sent_ids.txt
+klo_sent_ids.txt
+agent_group_sent.txt
+bot_group_sent.txt
+group_last_check.txt
+state_*.txt
+BRIDGE_PAUSE
+
+# Logs (may contain message text / JIDs)
+*.log
+
+# Screenshots / images that may show real member names or picks
+*.png
+*.jpg
+*.jpeg
+*.gif
+!docs/images/*           # only redacted/synthetic images, added deliberately
+
+# Scratch / sim dumps
+*.csv
+picks.json
+*_sim.py
+*.pdf
+
+# ============================================================================
+# Standard build / tooling ignores
+# ============================================================================
+node_modules/
+npm-debug.log*
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/

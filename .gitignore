@@ -1,0 +1,14 @@
+# Root safety net — never track secrets or personal data anywhere in this repo.
+# (KloSportsBot/.gitignore has the project-specific list; this is belt-and-suspenders.)
+**/auth.json
+!**/auth.json.example
+**/.env
+**/bridge.config.sh
+**/*.ndjson
+**/*.log
+**/state_*.txt
+**/node_modules/
+**/USER.md
+**/MEMORY.md
+**/*.png
+.DS_Store

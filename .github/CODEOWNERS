@@ -1,0 +1,4 @@
+# Tapas is auto-requested as a reviewer on every change to the KloSportsBot project.
+# (Placed at .github/CODEOWNERS so GitHub actually honors it.)
+/KloSportsBot/   @tapaskroy
+*                @tapaskroy
