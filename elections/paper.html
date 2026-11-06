@@ -1,0 +1,418 @@
+<!doctype html><html><head><meta charset="utf-8"><title>A Transparent Poll-Based Forecast of the 2026 U.S. Midterm Elections</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.js"></script>
+<style>
+@page { size: letter; margin: 0.85in 0.9in; }
+body { font-family: "Charter", "Georgia", serif; font-size: 10.5pt; line-height: 1.45; color: #111; }
+h1 { font-size: 20pt; line-height: 1.2; margin: 0 0 6pt; }
+h1 + p em { font-size: 11pt; color: #333; }
+.byline { color: #444; font-size: 10pt; margin: 4pt 0 18pt; }
+h2 { font-size: 13pt; margin: 18pt 0 6pt; break-after: avoid; }
+h3 { font-size: 11pt; margin: 12pt 0 4pt; break-after: avoid; }
+p { margin: 0 0 7pt; text-align: justify; hyphens: auto; }
+ul, ol { margin: 0 0 8pt; padding-left: 20pt; } li { margin-bottom: 3pt; }
+table { border-collapse: collapse; width: 100%; font-size: 8.6pt; margin: 6pt 0 10pt; break-inside: avoid; }
+th, td { border-top: 0.5pt solid #999; padding: 3pt 5pt; text-align: left; vertical-align: top; }
+thead th { border-top: 1pt solid #111; border-bottom: 0.75pt solid #111; }
+tbody tr:last-child td { border-bottom: 1pt solid #111; }
+div.tex { margin: 8pt 0 10pt; }
+figure { margin: 10pt 0; break-inside: avoid; } figure img { width: 100%; }
+figcaption { font-size: 9pt; color: #333; margin-top: 4pt; }
+.katex { font-size: 1.05em; }
+</style></head><body>
+<h1>A Transparent Poll-Based Forecast of the 2026 U.S. Midterm Elections</h1>
+<p><em>Senate, House and gubernatorial forecasts from individual polls, a weak fundamentals prior and correlated polling error, with an audit of agent-collected data</em></p>
+<p class="byline">Tapas Roy · October 26, 2026 · Working paper, pre-election version</p><h2>Abstract</h2>
+<p>We present a fully specified, reproducible probabilistic forecast of the 2026 U.S. Senate, House and gubernatorial elections, published eight days before the November 3 vote. The forecast is built from 837 individually recorded polls (328 Senate, 224 House, 285 gubernatorial), each counted once and weighted by recency, sample size, population and sponsorship. A weak fundamentals prior anchored on the 2024 presidential margin is blended with the poll average by precision, and outcomes are simulated with correlated national, regional and race-level Student-<span class="tex" data-display="false">t</span> errors whose scales are calibrated on historical poll error.</p>
+<p>As of October 25, 2026 the model gives Democrats a 69% chance of Senate control (28% Republican, 3% held by unaligned independents), an 88% chance of a House majority (expected 233 seats, 80% interval 216 to 252), and a 67% chance of holding 26 or more governorships. Uniform polling-miss scenarios show that a 3-point Republican-leaning miss, the size seen in 2016 and 2024, makes Republicans favored to keep the Senate (Democrats 33%) and the governor majority (Democrats 31%).</p>
+<p>The work makes two contributions beyond the forecast itself. First, it replaces a judgment-based first version with a rule-based model in response to a structured critique, and documents how the calls changed. Second, it audits poll and candidate data gathered by large-language-model research agents, finding two fabricated polls and several false factual claims, which we report as evidence on the reliability of agent-assisted data collection. We pre-register a post-election evaluation.</p>
+<p><strong>Keywords:</strong> election forecasting, poll aggregation, correlated error, calibration, LLM-assisted research, reproducibility</p>
+<h2>1. Introduction</h2>
+<p>Public election forecasts are now routine, but their methods are often partly opaque, and many informal forecasts still rest on judgment calls dressed as analysis. This paper documents a forecast whose every input and parameter is written down, whose code runs end to end from a poll file to a published page, and whose probabilities can be checked against outcomes after November 3, 2026.</p>
+<p>The project began as a judgment-based sheet. Each race was called by rule: a leader with a polling margin above 10 points was called confidently, and closer races were decided by a &quot;deep dive&quot; into primary margins, history and local issues. An external review of that first version identified five problems:</p>
+<ol>
+<li>Historical polling-error adjustments were applied inconsistently, and every one moved close races toward Republicans.</li>
+<li>Polling aggregators were treated as independent evidence alongside the polls they aggregate.</li>
+<li>Primary margins were used as if they predicted general-election results.</li>
+<li>The 10-point cutoff created artificial confidence on one side of the line and none on the other.</li>
+<li>Uncertainty across races was treated as independent, when polling errors are strongly correlated.</li>
+</ol>
+<p>The rebuilt model addresses each point. Polls enter once, individually. State-specific &quot;polls underestimate Republicans here&quot; tilts are removed, because a state&#39;s past polling miss predicts its next one only weakly. Primary results and local issues are kept on the page as context but are not model inputs. The cutoff survives only as a flag for which races receive a manual review, narrowed on October 29 from 10 points to 6. Correlated error is simulated directly.</p>
+<p>Our contributions are:</p>
+<ul>
+<li>A transparent three-chamber forecast with calibrated, correlated uncertainty and explicit handling of independents, ranked-choice voting and one-party ballots.</li>
+<li>A before-and-after record of how removing judgment tilts changed the calls: four Senate races (Iowa, Kansas, Maine, Texas) and nine House districts changed projected leader.</li>
+<li>An audit of agent-collected election data, reporting fabricated polls and false claims found before publication.</li>
+<li>Interactive sensitivity tools that let a reader impose a polling miss, rescale uncertainty, or fix the outcome of close races and see control probabilities recomputed under the same random draws.</li>
+<li>A pre-registered evaluation plan.</li>
+</ul>
+<h2>2. Related work</h2>
+<p><strong>Poll aggregation and dynamic models.</strong> Linzer (2013) combined state polls with a structural prior in a dynamic Bayesian model of presidential vote intention. Heidemanns, Gelman and Morris (2020) extended that line with correlated state errors for <em>The Economist</em>. FiveThirtyEight&#39;s published methodology (Silver, various years) popularized pollster weighting, house-effect adjustment and simulation with correlated errors for congressional races. Our model is deliberately simpler than these: it uses a closed-form weighted average rather than a latent time series, and a one-step precision blend rather than full Bayesian updating. In exchange, every step can be audited by hand.</p>
+<p><strong>Polling error.</strong> Shirani-Mehr, Rothschild, Goel and Gelman (2018) showed that total survey error in election polls is roughly twice the reported sampling error, and that errors are correlated within an election. Jennings and Wlezien (2018) documented polling errors across countries and decades, finding no secular trend. The AAPOR evaluation of 2016 (Kennedy et al., 2018) attributed much of that year&#39;s miss to late shifts and the under-weighting of non-college voters. These results motivate our three-level error structure and our refusal to assume a fixed partisan direction of bias.</p>
+<p><strong>Fundamentals.</strong> Structural models of congressional and presidential outcomes use national conditions, presidential approval and incumbency (for example Abramowitz&#39;s work on the generic ballot). We use the simplest version of this idea: the 2024 presidential margin in each state or district, shifted by the national swing implied by the generic congressional ballot, plus an incumbency term.</p>
+<p><strong>LLM-assisted research.</strong> A growing literature reports that large language models fabricate citations and facts at non-trivial rates. We are not aware of published audits of LLM agents used to collect election polling data. Section 8 offers a small case study.</p>
+<h2>3. Data</h2>
+<p>The forecast uses 837 general-election polls, of which 828 enter a model average; the other nine are in House races already decided by the ballot (one party absent, or a same-party top-two in California).</p>
+<table>
+<thead>
+<tr>
+<th>Chamber</th>
+<th>Races</th>
+<th>Polls recorded</th>
+<th>Polls used</th>
+<th>Verified at source</th>
+<th>Campaign- or party-sponsored</th>
+<th>One-party pollster, unsponsored</th>
+<th>Likely-voter</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Senate</td>
+<td>35</td>
+<td>328</td>
+<td>328</td>
+<td>62</td>
+<td>48</td>
+<td>156</td>
+<td>302</td>
+</tr>
+<tr>
+<td>House</td>
+<td>435 (168 audited, 109 polled)</td>
+<td>224</td>
+<td>215</td>
+<td>98</td>
+<td>130</td>
+<td>17</td>
+<td>203</td>
+</tr>
+<tr>
+<td>Governor</td>
+<td>36</td>
+<td>285</td>
+<td>285</td>
+<td>139</td>
+<td>36</td>
+<td>53</td>
+<td>251</td>
+</tr>
+</tbody></table>
+<p><strong>Collection.</strong> Polls were gathered by LLM research agents working state by state under a written protocol, then merged by script. The protocol required one record per poll, never an aggregator average; the likely-voter version when both were published; fieldwork dates, sample size and population; the sponsor; and a source URL. Polls ending on or after August 1, 2026 were collected, with earlier 2026 polls added where a race had fewer than three. A poll is marked <em>verified</em> only when its numbers were seen in the original release or a reputable outlet&#39;s report of it; numbers seen only in a secondary polling table are kept but down-weighted.</p>
+<p><strong>Ballot and fact audit.</strong> For every Senate and governor race, and for 168 competitive or polled House districts, agents recorded the exact general-election ballot, incumbency status, withdrawals, ranked-choice and runoff rules, and the three to six factual claims most likely to change a reader&#39;s view, each marked CONFIRMED, UNCONFIRMED or FALSE with a source. Section 8 reports what the audit found.</p>
+<p><strong>Fundamentals.</strong> For each race we record the 2024 presidential margin (on the 2026 district lines for the House, which in several states were redrawn mid-decade) and the most recent result for the office. The national swing is the October 2026 generic-ballot average (D+8.7) minus the 2024 national presidential margin (R+1.5), giving a shift of 10.2 points toward Democrats.</p>
+<p><strong>Calibration data.</strong> Error parameters were estimated from FiveThirtyEight&#39;s public historical poll files (raw polls 1998 to 2024 and the historical generic-ballot series) and from district results 2016 to 2024; Section 5 gives the estimates.</p>
+<p><strong>Context not used.</strong> Primary margins, ratings from Cook, Sabato and Inside Elections, and local issues were collected and are displayed, but are not model inputs.</p>
+<h2>4. Model</h2>
+<p>All margins are the Democrat (or main anti-Republican challenger) minus the Republican, in percentage points. The model has four steps: a weighted poll average, a fundamentals prior, a precision-weighted blend, and a correlated simulation.</p>
+<h3>4.1 Poll average</h3>
+<p>Each poll <span class="tex" data-display="false">i</span> in race <span class="tex" data-display="false">r</span> receives a weight</p>
+<div class="tex" data-display="true">w_i = 2^{-a_i/h} \cdot \sqrt{\min(n_i,\, n_{\max})} \cdot \pi_i \cdot s_i \cdot v_i \cdot \rho^{k_i} \tag{1}</div>
+<p>where <span class="tex" data-display="false">a_i</span> is the poll&#39;s age in days at the as-of date; <span class="tex" data-display="false">h</span> the recency half-life (14 days for Senate and governor races, 21 for the House); <span class="tex" data-display="false">n_i</span> the sample size, capped at <span class="tex" data-display="false">n_{\max}</span> (1,500 statewide, 1,000 district); <span class="tex" data-display="false">\pi_i</span> the population factor (likely voters 1, registered voters and adults lower); <span class="tex" data-display="false">s_i = 0.5</span> for campaign- or party-sponsored polls; <span class="tex" data-display="false">v_i = 0.85</span> for polls not verified at source; and <span class="tex" data-display="false">\rho^{k_i} = 0.35^{k_i}</span> down-weights a pollster&#39;s release that has <span class="tex" data-display="false">k_i</span> newer releases in the same race, so that frequent pollsters do not dominate.</p>
+<p>Before averaging, sponsored polls are shifted against their sponsor by <span class="tex" data-display="false">\delta_s</span> (3.5 points Senate, 4.5 House, 4.0 governor), and unsponsored one-party pollsters by 1.5 points. The race average <span class="tex" data-display="false">\bar m_r</span> is the weighted mean of adjusted margins, and the effective number of polls is the Kish quantity</p>
+<div class="tex" data-display="true">n_{\text{eff}} = \frac{\left(\sum_i w_i\right)^2}{\sum_i w_i^2}. \tag{2}</div>
+<p>Ranked-choice races use a pollster&#39;s final-round numbers where published; otherwise minor candidates&#39; first preferences are transferred by fixed shares.</p>
+<h3>4.2 Fundamentals prior</h3>
+<p>The prior is the 2024 presidential margin <span class="tex" data-display="false">p</span> shifted by the national swing <span class="tex" data-display="false">S = 10.2</span>, plus incumbency <span class="tex" data-display="false">I</span> (<span class="tex" data-display="false">+1</span> for a Democratic incumbent, <span class="tex" data-display="false">-1</span> for a Republican, <span class="tex" data-display="false">0</span> for an open seat). It differs by office:</p>
+<ul>
+<li><strong>Senate:</strong> <span class="tex" data-display="false">\mu^{\text{prior}} = p + S + 2I</span>.</li>
+<li><strong>House:</strong> <span class="tex" data-display="false">\mu^{\text{prior}} = p + (S - 1.0)\,e + \text{inc}</span>, where the <span class="tex" data-display="false">-1.0</span> shades the generic ballot for its history of overstating Democrats, and <span class="tex" data-display="false">e = 1 - 0.25 \cdot \min(|p|, 40)/40</span> damps the swing in lopsided seats. Incumbency is 3 points (halved on mostly new territory), plus half of the member&#39;s own 2024 over- or under-performance when the 2024 race was on comparable lines.</li>
+<li><strong>Governor:</strong> Governors run far from their party&#39;s presidential vote, so the state lean is shrunk to 0.75, the national swing to 0.55, and incumbency is large:</li>
+</ul>
+<div class="tex" data-display="true">\mu^{\text{prior}} = 0.8\,\big[-1.5 + 0.75\,(p + 1.5) + 0.55\,S + 8I\big] + 0.2\,\big[g_{\text{last}} + 0.55\,\Delta_{\text{since}}\big] \tag{3}</div>
+<p>where <span class="tex" data-display="false">g_{\text{last}}</span> is the last governor margin and <span class="tex" data-display="false">\Delta_{\text{since}}</span> the national swing since that election.</p>
+<p>Races whose main challenger is an independent (Nebraska, South Dakota, Idaho and Montana Senate; Alaska&#39;s at-large House seat; Rhode Island governor) have no meaningful D-versus-R prior and use polls only, with an extra 2.5 points of error.</p>
+<h3>4.3 Blend</h3>
+<p>The poll average carries a standard deviation</p>
+<div class="tex" data-display="true">\sigma_{\text{poll}}^2 = \sigma_{\text{state}}^2\,(1 + \lambda d) + \frac{\sigma_{\text{single}}^2}{n_{\text{eff}}} + (\gamma U)^2 \tag{4}</div>
+<p>where <span class="tex" data-display="false">d</span> is days to the election, <span class="tex" data-display="false">U</span> the average undecided share, and the remaining symbols are calibrated in Section 5. Polls and prior are combined by inverse-variance weighting,</p>
+<div class="tex" data-display="true">\mu_r = \frac{\bar m_r/\sigma_{\text{poll}}^2 + \mu_r^{\text{prior}}/\sigma_{\text{prior}}^2}{1/\sigma_{\text{poll}}^2 + 1/\sigma_{\text{prior}}^2}, \qquad \sigma_r^2 = \frac{1}{1/\sigma_{\text{poll}}^2 + 1/\sigma_{\text{prior}}^2}, \tag{5}</div>
+<p>so the prior matters only where polling is thin. A race with no polls uses the prior alone with its own, wider standard deviation.</p>
+<h3>4.4 Simulation</h3>
+<p>Each simulated election draws one national error <span class="tex" data-display="false">N</span>, one error <span class="tex" data-display="false">R_g</span> per census region, and one race error <span class="tex" data-display="false">\varepsilon_r</span>:</p>
+<div class="tex" data-display="true">M_r = \mu_r + N + R_{g(r)} + \varepsilon_r, \qquad N \sim \sigma_N\, t_\nu,\quad R_g \sim \sigma_R\, t_\nu,\quad \varepsilon_r \sim \sigma_r\, t_\nu \tag{6}</div>
+<p>with Student-<span class="tex" data-display="false">t</span> draws scaled to unit variance (<span class="tex" data-display="false">\nu = 6</span> for Senate and governors, 8 for the House). The challenger wins when <span class="tex" data-display="false">M_r &gt; 0</span>. Seats are tallied per simulation: 40,000 simulations for the headline forecasts and 20,000 per scenario. Chamber rules then apply:</p>
+<ul>
+<li><strong>Senate:</strong> control needs 51 seats, or 50 with the Vice President&#39;s tie-break (Republican). Unaligned independents are counted three ways: staying unaligned, caucusing with Democrats, or caucusing with Republicans.</li>
+<li><strong>House:</strong> 218 seats; 18 districts decided by the ballot are fixed before simulation.</li>
+<li><strong>Governors:</strong> the 14 seats not up are added; a majority is 26 of 50.</li>
+</ul>
+<p>A race&#39;s win probability is its share of simulations won. Tiers are labels on that probability (Safe ≥ 99%, Likely ≥ 90%, Lean ≥ 75%, Tilt ≥ 60%, else Toss-up); no race-specific adjustment enters anywhere.</p>
+<h2>5. Calibration</h2>
+<p>Most error parameters are estimates from historical poll files; the remainder are labelled judgment. No parameter was tuned to move a particular race.</p>
+<table>
+<thead>
+<tr>
+<th>Parameter</th>
+<th>Senate</th>
+<th>House</th>
+<th>Governor</th>
+<th>Evidence</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>National error SD <span class="tex" data-display="false">\sigma_N</span></td>
+<td>3.0</td>
+<td>3.0</td>
+<td>3.0</td>
+<td>SD of cycle-level poll bias 2.7 (Senate, 1998 to 2022) and 3.1 (governor); generic-ballot RMSE 2.84 (2006 to 2024). Senate and governor cycle biases correlate 0.88.</td>
+</tr>
+<tr>
+<td>Regional SD <span class="tex" data-display="false">\sigma_R</span></td>
+<td>1.75</td>
+<td>2.0</td>
+<td>1.25</td>
+<td>Same-state Senate and presidential poll errors correlate 0.51; regional clustering of district error 1.0 to 1.3.</td>
+</tr>
+<tr>
+<td>Race error <span class="tex" data-display="false">\sigma_{\text{state}}</span></td>
+<td>3.5</td>
+<td>4.5</td>
+<td>3.75</td>
+<td>Residual race error net of the national miss: 3.5 to 3.9 (Senate), 4.2 to 5.8 (district polls), 3.7 to 4.05 (governor).</td>
+</tr>
+<tr>
+<td>Single-poll scatter <span class="tex" data-display="false">\sigma_{\text{single}}</span></td>
+<td>4.0</td>
+<td>5.5</td>
+<td>4.5</td>
+<td>Within-race spread of polls around their mean.</td>
+</tr>
+<tr>
+<td>Sponsor shift <span class="tex" data-display="false">\delta_s</span></td>
+<td>3.5</td>
+<td>4.5</td>
+<td>4.0</td>
+<td>Sponsored polls ran 3.6 (Senate), 4.4 to 5.6 (House), 3.9 to 4.3 (governor) points toward the sponsor versus independent polls of the same race.</td>
+</tr>
+<tr>
+<td>Prior SD <span class="tex" data-display="false">\sigma_{\text{prior}}</span></td>
+<td>12</td>
+<td>5.5 to 6.5</td>
+<td>11 (14 unpolled)</td>
+<td>Residual SD of presidential lean plus swing: about 9 if the swing were known; House 6.2, 5.5 with overperformance; governor 9.2 to 10.3.</td>
+</tr>
+<tr>
+<td>Student-<span class="tex" data-display="false">t</span> <span class="tex" data-display="false">\nu</span></td>
+<td>6</td>
+<td>8</td>
+<td>6</td>
+<td>State errors near-normal (excess kurtosis 0.35); fat tails kept for national misses like 2020 (governor polls R+8.3).</td>
+</tr>
+<tr>
+<td>Incumbency</td>
+<td>2</td>
+<td>3</td>
+<td>8</td>
+<td>Regression estimates shaded for selection (weak incumbents retire).</td>
+</tr>
+<tr>
+<td>Assumed partisan bias</td>
+<td>0</td>
+<td>−1.0 (generic ballot)</td>
+<td>0</td>
+<td>Direction of cycle bias does not persist (lag-1 correlation 0.17 Senate, about 0 governor). The generic ballot overstated Democrats by 1.85 points in 7 of 10 cycles; half is applied.</td>
+</tr>
+</tbody></table>
+<p>Three choices deserve comment. First, the baseline assumes no partisan polling bias for Senate and governor races, because the sign of past misses does not predict the next one; bias is instead explored as scenarios (Section 7). The House is treated differently because the evidence is different: the generic ballot is one national question asked the same way every cycle, and its final average overstated Democrats in 7 of 10 cycles from 2006 to 2024 (by 1.85 points, standard error about 0.7). That is a persistent property of a specific instrument rather than a cycle-level polling bias, so half of it is applied, with the full and zero versions shown as scenarios. Second, the time-to-election term <span class="tex" data-display="false">\lambda</span> is small: final-week averages were no more accurate than those 8 to 21 days out. Third, the undecided term <span class="tex" data-display="false">\gamma</span> is a judgment, kept small because the governor data show only a weak relation (about 0.09 points of error per undecided point).</p>
+<h2>6. Results</h2>
+<p>As of October 25, 2026, Democrats are favored in all three contests, but none is beyond the reach of a historically ordinary polling miss.</p>
+<table>
+<thead>
+<tr>
+<th>Contest</th>
+<th>Democrats win</th>
+<th>Expected Democratic seats (whole seats, rounded down)</th>
+<th>80% interval</th>
+<th>If every leader wins</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Senate (51 for control)</td>
+<td>69% (Republicans 28%, unaligned independents decide 3%)</td>
+<td>52 (incl. independents)</td>
+<td>48 to 56</td>
+<td>54 D, 46 R</td>
+</tr>
+<tr>
+<td>House (218)</td>
+<td>88%</td>
+<td>233</td>
+<td>216 to 252</td>
+<td>229 D, 206 R</td>
+</tr>
+<tr>
+<td>Governors (26 of 50)</td>
+<td>67%</td>
+<td>26</td>
+<td>23 to 30</td>
+<td>26 D, 24 R</td>
+</tr>
+</tbody></table>
+<h3>6.1 Senate</h3>
+<p>Eight races fall within 25% to 75% and decide control. Democrats lead narrowly in six of them, which is why the expected seat count (52) sits well below the leaders-win count (54): the errors that would flip one of these races tend to flip the others.</p>
+<table>
+<thead>
+<tr>
+<th>State</th>
+<th>Challenger vs. Republican</th>
+<th>Polls</th>
+<th>Poll average</th>
+<th>Forecast margin ± SD</th>
+<th>Challenger wins</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Iowa</td>
+<td>Turek (D) vs. Hinson</td>
+<td>26</td>
+<td>D+0.5</td>
+<td>D+0.1 ± 5.1</td>
+<td>51%</td>
+</tr>
+<tr>
+<td>Kansas</td>
+<td>Hamilton (D) vs. Marshall</td>
+<td>11</td>
+<td>D+1.2</td>
+<td>D+0.2 ± 5.2</td>
+<td>52%</td>
+</tr>
+<tr>
+<td>Alaska</td>
+<td>Peltola (D) vs. Sullivan</td>
+<td>14</td>
+<td>D+1.4</td>
+<td>D+0.8 ± 5.1</td>
+<td>57%</td>
+</tr>
+<tr>
+<td>Nebraska</td>
+<td>Osborn (I) vs. Ricketts</td>
+<td>10</td>
+<td>R+1.3</td>
+<td>R+1.3 ± 5.9</td>
+<td>41%</td>
+</tr>
+<tr>
+<td>Texas</td>
+<td>Talarico (D) vs. Paxton</td>
+<td>41</td>
+<td>D+2.4</td>
+<td>D+1.9 ± 5.0</td>
+<td>66%</td>
+</tr>
+<tr>
+<td>South Carolina</td>
+<td>Andrews (D) vs. Graham</td>
+<td>10</td>
+<td>R+1.7</td>
+<td>R+2.4 ± 5.3</td>
+<td>32%</td>
+</tr>
+<tr>
+<td>Maine</td>
+<td>Jackson (D) vs. Collins</td>
+<td>23</td>
+<td>D+1.8</td>
+<td>D+3.0 ± 5.1</td>
+<td>75%</td>
+</tr>
+<tr>
+<td>Ohio</td>
+<td>Brown (D) vs. Husted</td>
+<td>24</td>
+<td>D+3.8</td>
+<td>D+3.1 ± 5.1</td>
+<td>75%</td>
+</tr>
+</tbody></table>
+<p>The SD column combines national, regional and race error. Four independents (Osborn, Achilles, Bodnar, Bengs) have said they would caucus with neither party; treating them as Democratic-caucusing raises Democratic control from 69% to 72%, and as Republican-caucusing raises Republican control from 28% to 31%.</p>
+<h3>6.2 House</h3>
+<p>Of 435 seats, 270 are Safe, 85 Likely, 31 Lean, 21 Tilt and 10 Toss-up; 18 are decided by the ballot. If every leader wins, Democrats gain 22 seats from Republicans and lose 10, a net gain that outweighs the roughly nine notional seats Republicans gained in mid-decade redistricting. Thirty-one districts in 18 states have a Democratic win probability between 25% and 75%; Ohio (4), Texas, Florida and Pennsylvania (3 each) hold the most.</p>
+<h3>6.3 Governors</h3>
+<p>Democrats currently hold 24 governorships. If every leader wins, they gain Alaska, Iowa and Ohio and lose Kansas, reaching 26. The closest races are Georgia (Bottoms 46%), Vermont (Janoo 44%), Ohio (Acton 67%) and Nevada (Ford 26%).</p>
+<p>The weak prior matters in two places. In Oregon the polls are close to even (Kotek +0.7), but incumbency and state lean move the forecast to Kotek +4.0 (78%). In Vermont the prior expects a Democratic state (D+7.6) and pulls a Scott +2.4 poll lead to near even (Janoo 44%). The Vermont result is a known weakness: a presidential-margin prior cannot represent a popular cross-party incumbent, and Scott&#39;s personal strength enters only through the 20% weight on his last result.</p>
+<h2>7. Sensitivity</h2>
+<p>The forecast is most sensitive to a correlated national polling miss, and a miss of ordinary historical size is enough to make Republicans favored in the Senate and in governorships.</p>
+<figure><img src="paper_fig1.png" alt="Probability Democrats win each contest by uniform polling miss"><figcaption><b>Figure 1.</b> Probability that Democrats win each contest under a uniform polling miss applied to every race. Model scenario runs, 20,000 simulations each, as of October 25, 2026. House shifts are relative to a baseline that already shades the generic ballot 1 point toward Republicans.</figcaption></figure><p>Each point re-runs the simulation with the same shift added to every race. The House is the most robust: Republicans become favorites only with a miss of roughly 4 points or more beyond the baseline shading. The Senate and governor curves are nearly identical, because both hinge on a handful of races within 3 points.</p>
+<p><strong>Caucus assumptions.</strong> The Senate result also depends on how unaligned independents are counted (Section 6.1), but only by 3 points either way, because only Osborn in Nebraska is competitive.</p>
+<p><strong>Interactive levers.</strong> Each published sheet re-implements the simulation in the browser, with a fixed random seed so that a change in output is attributable to the lever rather than to noise. Readers can impose a uniform miss, add regional swings (House), rescale all error terms from zero to twice the historical size, and fix the outcome of any race whose model probability lies between 20% and 80% (25% to 75% before October 28 for the Senate and governors, and before October 30 for the House). The browser results match the Python model within one percentage point on every scenario we checked; for example, Democratic Senate control is 68.9% in the browser against 69.2% in the model.</p>
+<h2>8. Data-quality audit</h2>
+<p>The audit found that agent-collected election data is usable only with verification: across 228 audited claims, 19 were false and 39 could not be confirmed, and two polls in the collected data appear not to exist.</p>
+<table>
+<thead>
+<tr>
+<th>Chamber</th>
+<th>Claims audited</th>
+<th>Confirmed</th>
+<th>Unconfirmed</th>
+<th>False</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Senate</td>
+<td>70</td>
+<td>67</td>
+<td>1</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Governor</td>
+<td>158</td>
+<td>103</td>
+<td>38</td>
+<td>17</td>
+</tr>
+</tbody></table>
+<p>The House audit recorded field-level corrections against official sources rather than claim statuses, so it is not in the table.</p>
+<p><strong>Fabricated polls.</strong> Two polls were excluded as fabricated: a Wedgewood poll of the Mississippi Senate race, and a Wisconsin governor poll, both of which the audit could not trace to any genuine release. Both were plausible in size and direction, which is what makes fabrication hard to catch without a source check.</p>
+<p><strong>False claims, examples.</strong> That Texas Democrat Talarico had led eleven consecutive polls (he had not); that Wisconsin&#39;s governor was term-limited (Wisconsin has no gubernatorial term limit; Evers chose not to run); that Maine elects its governor by ranked choice (it uses plurality in general elections for governor); that Stefanik was New York&#39;s Republican nominee; and that two Republicans advanced from California&#39;s top-two primary for governor.</p>
+<p><strong>Transcription errors.</strong> Marist&#39;s Ohio likely-voter and registered-voter rows had been swapped, and a Texas governor poll was recorded with the candidates reversed (Hinojosa 46, Abbott 45). In the House data, uncontested 2024 races produced spurious &quot;overperformance&quot; of 60 points or more until filtered, and candidate names with compound or accented surnames failed to match their poll results until the matcher normalized them.</p>
+<p><strong>Real events the audit surfaced.</strong> The audit also confirmed late changes that a stale dataset would miss: Governor Walz withdrew in Minnesota and Senator Klobuchar became the nominee; Governor McKee lost Rhode Island&#39;s Democratic primary, leaving a Democrat-versus-independent general; Mayor Duggan ended his independent bid in Michigan; and Weiser defeated Bennet in Colorado&#39;s Democratic primary.</p>
+<p><strong>Process safeguards.</strong> Three safeguards came out of this experience: every poll must carry a source URL and a verified flag; a script lists any in-window poll that fails to reach a model average (most often a name mismatch, which otherwise drops the poll silently); and fact changes such as withdrawals are made only after a human confirms them.</p>
+<h2>9. Limitations</h2>
+<p>The largest limitation is that the model has not been backtested: its parameters are estimated from historical error, but the full pipeline has not been run on 2018, 2020, 2022 or 2024 data and scored.</p>
+<ul>
+<li><strong>No out-of-sample validation yet.</strong> Calibration of individual error terms does not guarantee calibration of the combined forecast. A reliability check requires either a backtest or this cycle&#39;s results (Section 10).</li>
+<li><strong>One cycle, few races.</strong> Thirty-five Senate and 36 governor races give little power to distinguish a well-calibrated model from a lucky one; correlated errors mean the effective sample is closer to one draw of the national miss.</li>
+<li><strong>Data collection under constraints.</strong> Agents worked under a limited web-search budget and, once it was exhausted, fetched pages directly. Some House districts may lack internal polls that were released but not indexed, and ratings were taken from Wikipedia&#39;s compilation where the raters&#39; sites were unreachable. Two Alabama district baselines are agent estimates rather than official figures.</li>
+<li><strong>Simplified dynamics.</strong> The poll average is a recency-weighted mean, not a latent time-series model, and pollster house effects are handled only through sponsorship and one-party flags rather than estimated pollster by pollster.</li>
+<li><strong>Uniform correlation structure.</strong> Errors correlate through a single national term and four census regions. Demographic correlation (for example, shared misses among states with many non-college white voters, as in 2016 and 2020) is represented only coarsely by the regional term.</li>
+<li><strong>Judgment parameters.</strong> The undecided-voter term, the one-party pollster shift, the extra error for independent challengers and the cap on carried-forward overperformance are labelled judgments, not estimates.</li>
+<li><strong>Known model misspecification.</strong> The governor prior cannot represent strong cross-party incumbents (Vermont), and runoffs (Georgia, Louisiana) are not modeled.</li>
+<li><strong>Single as-of date.</strong> Results are a snapshot at October 25, 2026, eight days before the election; late polls and events are not included.</li>
+</ul>
+<h2>10. Pre-registered evaluation and conclusion</h2>
+<p>We commit, before the election, to scoring the October 25 forecast exactly as published, with no re-estimation, once certified results are available.</p>
+<ol>
+<li><strong>Race-level accuracy:</strong> Brier score and log loss for all 35 Senate, 435 House and 36 governor races, reported separately for races with model probabilities between 10% and 90%. Benchmarks: a polls-only average with the same weights, the prior alone, and the expert ratings mapped to probabilities.</li>
+<li><strong>Calibration:</strong> reliability by probability decile, pooled across chambers, with the caveat that correlated outcomes make the bins far from independent.</li>
+<li><strong>Seat totals:</strong> where the actual Senate, House and governor totals fall in the forecast distributions (percentile rank).</li>
+<li><strong>The national miss:</strong> the realized average polling error across races, compared with the scenario grid in Section 7, to separate error in the poll average from error in the model&#39;s uncertainty.</li>
+<li><strong>The v1 comparison:</strong> the same scores for the judgment-based first version, to test whether removing judgment tilts helped.</li>
+<li><strong>Backtest:</strong> the same pipeline, unchanged, run on 2018 and 2022 midterm polls to provide out-of-sample evidence that does not depend on one cycle.</li>
+</ol>
+<p><strong>Conclusion.</strong> A simple, fully documented forecast can be built from individual polls, a weak prior and correlated simulation, with every parameter traceable to an estimate or a labelled judgment. The forecast favors Democrats in all three contests while showing that a 3-point miss toward Republicans would reverse the Senate and governor outlooks. The audit shows that agent-collected data needs source verification before use: fabricated polls and false claims were present and plausible. Whether the model is well calibrated is an empirical question this paper leaves open, and the evaluation above is designed to answer it.</p>
+<h2>Disclosure of AI assistance</h2>
+<p>The model code, poll collection, fact audit and this draft were produced with Claude (Anthropic), working under the author&#39;s direction; the critique that prompted the rebuild came from a separate AI system. The author chose the method and reviewed the outputs. Most journals require this disclosure and do not allow an AI system to be listed as an author.</p>
+<h2>Data and code availability</h2>
+<p>Poll files with source URLs, model parameters with their evidence, the three model scripts, page builders and the in-browser simulators are kept in the author&#39;s project repository and will be released on publication. The interactive sheets are hosted on the author&#39;s website; the address is withheld from this draft because the pages are currently unlisted.</p>
+<h2>References</h2>
+<p><em>Reference details below were written from memory and must be checked against the original publications before submission.</em></p>
+<ul>
+<li>Abramowitz, A. I. (2018). Will Democrats catch a wave? The generic ballot model and the 2018 US House elections. <em>PS: Political Science &amp; Politics</em>, 51(S1).</li>
+<li>FiveThirtyEight. Public data repository: historical raw polls and generic-ballot averages. GitHub, fivethirtyeight/data.</li>
+<li>Heidemanns, M., Gelman, A., &amp; Morris, G. E. (2020). An updated dynamic Bayesian forecasting model for the US presidential election. <em>Harvard Data Science Review</em>, 2(4).</li>
+<li>Jennings, W., &amp; Wlezien, C. (2018). Election polling errors across time and space. <em>Nature Human Behaviour</em>, 2, 276–283.</li>
+<li>Kennedy, C., et al. (2018). An evaluation of the 2016 election polls in the United States. <em>Public Opinion Quarterly</em>, 82(1), 1–33.</li>
+<li>Kish, L. (1965). <em>Survey Sampling</em>. Wiley.</li>
+<li>Linzer, D. A. (2013). Dynamic Bayesian forecasting of presidential elections in the states. <em>Journal of the American Statistical Association</em>, 108(501), 124–134.</li>
+<li>Shirani-Mehr, H., Rothschild, D., Goel, S., &amp; Gelman, A. (2018). Disentangling bias and variance in election polls. <em>Journal of the American Statistical Association</em>, 113(522), 607–614.</li>
+<li>Silver, N. FiveThirtyEight Senate, House and governor forecast methodology (2018 to 2022 editions).</li>
+</ul>
+
+<script>
+document.querySelectorAll('.tex').forEach(el => katex.render(el.textContent, el,
+  {displayMode: el.dataset.display === 'true', throwOnError: true, output: 'html'}));
+document.title = 'typeset ' + document.querySelectorAll('.katex').length;
+</script></body></html>

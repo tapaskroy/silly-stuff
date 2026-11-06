@@ -1,0 +1,9 @@
+{
+ "_about": "Structural facts only (who the real challenger is, ranked-choice transfers). No outcome judgments belong here.",
+ "AK-AL": {
+  "challenger": "Bill Hill",
+  "challenger_party": "I",
+  "rcv_to_r": {"Hafner": 0.15, "McDermott": 0.6, "Williams": 0.5},
+  "why": "Ranked-choice. Independent Bill Hill is the main challenger; nominal Democrat Hafner polls 5-9% and his voters mostly rank Hill next. Hill has not said which party he would caucus with, so a Hill win is counted as an independent, not a Democratic seat."
+ }
+}

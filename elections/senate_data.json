@@ -1,0 +1,1550 @@
+[
+ {
+  "state": "Georgia",
+  "seat": "",
+  "incumbent": "Jon Ossoff (D)",
+  "open_seat": false,
+  "dem": "Jon Ossoff (incumbent)",
+  "rep": "Mike Collins (U.S. Rep., GA-10)",
+  "other": "No notable third-party candidate found (unverified)",
+  "polling": {
+   "source": "270toWin polling average (5 most recent polls)",
+   "date": "2026-10-20 (latest poll in average)",
+   "dem_pct": 52.0,
+   "rep_pct": 43.6,
+   "margin": 8.4,
+   "leader": "Ossoff (D)",
+   "notes": "Recent polls: ActiVote 10/20 Ossoff 54-46; Quantus Insights (Oct 15-17, 755 LV) 53-45 (51.8-44.9 unrounded); Trafalgar 10/10 51-43; AJC/UGA (Oct 7-15, 1,000 LV) Ossoff +7. Every October poll found shows Ossoff ahead."
+  },
+  "primaries": {
+   "dem": "Ossoff unopposed (May 19, 2026)",
+   "rep": "May 19 first round: Collins ~41%, Derek Dooley ~30%, Buddy Carter ~25% (Collins +11, forced runoff). June 16 runoff: Collins 55.5%, Dooley 44.5% (+11). Trump endorsed Collins just before the runoff; Gov. Kemp backed Dooley."
+  },
+  "history": {
+   "last_senate": "Jan 2021 runoff (2020 cycle): Ossoff 50.6% to Perdue 49.4%, D+1.2",
+   "pres_2024": "Trump +2.2"
+  },
+  "ratings": {
+   "cook": "Likely D (as of Oct 20, 2026; moved from Lean D on Sept 23)",
+   "sabato": "Likely D (as of Oct 14, 2026)",
+   "inside": "Lean D (as of Oct 15, 2026; moved from Tilt D on Oct 1)"
+  },
+  "issues": [
+   "Huge money gap: Ossoff raised $33M in Q3 with $26M cash on hand. Collins had $2.1M on hand at end of June versus about $42M for Ossoff. Senate Majority PAC reportedly pulled Georgia ad reservations because it is confident in Ossoff.",
+   "Divisive GOP nomination: Collins needed a runoff against Kemp-backed Derek Dooley and won it after a late Trump endorsement, so the Kemp and Trump wings of the party are split.",
+   "Ossoff calls Collins a Trump devotee, and Collins calls Ossoff a liberal funded by out-of-state donors. They held two debates.",
+   "Georgia's governor race is close at the top of the ticket, while the Senate polling is clearly D. Early voting ends Oct 30."
+  ],
+  "sources": [
+   "https://www.270towin.com/2026-senate-polls/georgia",
+   "https://www.ajc.com/politics/2026/10/ajc-poll-ossoff-leads-collins-in-georgias-us-senate-race/",
+   "https://www.atlantanewsfirst.com/2026/10/19/new-georgia-poll-ossoff-leads-by-nearly-7-jackson-dolezal-cling-narrow-edges/",
+   "https://www.wrdw.com/2026/06/17/collins-defeats-dooley-gop-runoff-moving-challenge-sen-jon-ossoff/",
+   "https://www.ajc.com/politics/2026/10/jon-ossoff-hauls-in-33m-as-georgia-senate-race-enters-final-weeks/",
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections"
+  ],
+  "key": "Georgia"
+ },
+ {
+  "state": "Michigan",
+  "seat": "",
+  "incumbent": "Gary Peters (D), retiring",
+  "open_seat": true,
+  "dem": "Abdul El-Sayed (former Detroit health director)",
+  "rep": "Mike Rogers (former U.S. Rep.; 2024 Senate nominee)",
+  "other": "No notable third-party candidate found (unverified)",
+  "polling": {
+   "source": "270toWin polling average (5 most recent polls)",
+   "date": "2026-10-23 (latest poll in average)",
+   "dem_pct": 48.4,
+   "rep_pct": 45.2,
+   "margin": 3.2,
+   "leader": "El-Sayed (D)",
+   "notes": "InsiderAdvantage 10/23 El-Sayed 47-46; Marist (Oct 15-18, 1,185 LV) 50-48 (El-Sayed +7 among RV); InsiderAdvantage 10/11 48-46; Z to A 10/9 49-42; Quantus 10/7 48-47; CBS Detroit/Mitchell (early Oct) 46-41. Every poll is within or close to the margin of error."
+  },
+  "primaries": {
+   "dem": "Aug 4, 2026: El-Sayed 48.5%, Haley Stevens 47.5%, Mallory McMorrow 4% (McMorrow had suspended her campaign and endorsed El-Sayed). Margin +1.0. Bitter primary.",
+   "rep": "Rogers unopposed (per Michigan Advance/Bloomberg reporting)"
+  },
+  "history": {
+   "last_senate": "2020: Peters 49.9% to John James 48.2%, D+1.7",
+   "pres_2024": "Trump +1.4"
+  },
+  "ratings": {
+   "cook": "Toss-up (as of Oct 20, 2026)",
+   "sabato": "Leans D (moved from Toss-up on Sept 22, 2026)",
+   "inside": "Tilt D (moved from Toss-up on Oct 1, 2026)"
+  },
+  "issues": [
+   "Democrats must reunite after a nearly 50-50 progressive-vs-establishment primary (El-Sayed vs Stevens). El-Sayed is courting independents and some former Trump voters.",
+   "Rogers is distancing himself from Trump on the Iran war (he wants it ended quickly) and on Canada tariffs. With Trump off the ballot, he has to turn out Republicans while also winning moderates.",
+   "Money: El-Sayed trailed nearly 2-to-1 in ad spending in early October. Outside spending was $135.7M, and the total ad spend is projected near $300M by Election Day. AIPAC's United Democracy Project has started small mail spending against El-Sayed.",
+   "It is an open seat in a state Trump narrowly carried, and one of the GOP's best pickup chances."
+  ],
+  "sources": [
+   "https://www.270towin.com/2026-senate-polls/michigan",
+   "https://maristpoll.marist.edu/polls/midterm-elections-in-michigan-october-2026/",
+   "https://news.bgov.com/bloomberg-government-news/el-sayed-wins-michigan-democratic-senate-primary-nbc-projects",
+   "https://www.pbs.org/newshour/politics/rogers-and-el-sayed-are-set-for-their-first-debate-in-michigans-senate-race-after-sparring-online",
+   "https://prospect.org/2026/10/12/aipac-tiny-expenditure-michigan-senate-race-el-sayed-rogers/",
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan"
+  ],
+  "key": "Michigan"
+ },
+ {
+  "state": "North Carolina",
+  "seat": "",
+  "incumbent": "Thom Tillis (R), retiring",
+  "open_seat": true,
+  "dem": "Roy Cooper (former Governor)",
+  "rep": "Michael Whatley (former RNC chair)",
+  "other": "No notable third-party candidate found (unverified)",
+  "polling": {
+   "source": "270toWin polling average (5 most recent polls)",
+   "date": "2026-10-22 (latest poll in average)",
+   "dem_pct": 52.8,
+   "rep_pct": 41.0,
+   "margin": 11.8,
+   "leader": "Cooper (D)",
+   "notes": "Harper 10/22 Cooper 49-39; ActiVote 10/20 57-43; YouGov 10/20 54-43; Change Research 10/13 50-40; SurveyUSA/WRAL-WSOC (Oct 7-11) 54-40; Trafalgar 10/12 49-41; Elon final poll (Sept 29-Oct 8) 52-39; ECU (Sept 30-Oct 3) 50-43."
+  },
+  "primaries": {
+   "dem": "Mar 3, 2026: Cooper ~92.0%, Justin Dues 2.7% (margin ~+89; near-final unofficial count)",
+   "rep": "Mar 3, 2026: Whatley ~64.6%, Donald Brown 15.6% (margin ~+49; near-final unofficial count). Trump-endorsed."
+  },
+  "history": {
+   "last_senate": "2020: Tillis 48.7% to Cal Cunningham 46.9%, R+1.8",
+   "pres_2024": "Trump +3.2"
+  },
+  "ratings": {
+   "cook": "Likely D, Dem flip (moved from Lean D on Oct 6, 2026)",
+   "sabato": "Leans D, Dem flip (moved from Toss-up in June 2026)",
+   "inside": "Lean D, Dem flip (moved from Tilt D on Oct 1, 2026)"
+  },
+  "issues": [
+   "Candidate quality: Cooper is a two-term governor with a moderate brand and high name recognition. Whatley still has low name ID statewide.",
+   "GOP attacks call Cooper soft on crime and immigration, featuring the Charlotte killing of Iryna Zarutska, and tie him to national progressives such as Zohran Mamdani.",
+   "Trump's unpopularity: the WRAL/WSOC poll found 60% disapprove of Trump. Cooper leads among independents and women.",
+   "Debates were never confirmed, and the race has lost national spotlight as it has moved toward Cooper. Early voting runs through Oct 31."
+  ],
+  "sources": [
+   "https://www.270towin.com/2026-senate-polls/north-carolina",
+   "https://www.elon.edu/u/news/?p=1060821",
+   "https://www.wsoctv.com/news/local/roy-cooper-leads-michael-whatley-wsocwral-poll/2X632IFVOFC3XCC2KKQSVURQGE/",
+   "https://www.nbcnews.com/politics/2026-primary-elections/north-carolina-senate-results",
+   "https://ncnewsline.com/2026/03/03/roy-cooper-michael-whatley-secure-us-senate-nominations-setting-up-fierce-november-election/",
+   "https://justthenews.com/nation/states/center-square/election-2026-once-marquee-matchup-us-senate-losing-spotlight"
+  ],
+  "key": "North Carolina"
+ },
+ {
+  "state": "Maine",
+  "seat": "",
+  "incumbent": "Susan Collins (R)",
+  "open_seat": false,
+  "dem": "Troy Jackson (former Maine Senate President), chosen as a replacement nominee by party convention",
+  "rep": "Susan Collins (incumbent, seeking 6th term)",
+  "other": "UNUSUAL: Graham Platner won the June 9 Democratic primary but withdrew on July 10 after a former girlfriend accused him of a 2021 sexual assault, which he denies. On July 25, 2026, Maine Democrats picked Jackson at a first-ever delegate nominating convention in Bangor (601 delegates). No notable independent was found (unverified). Maine uses ranked-choice voting for federal general elections.",
+  "polling": {
+   "source": "270toWin polling average (5 most recent polls)",
+   "date": "2026-10-22 (latest poll in average)",
+   "dem_pct": 49.6,
+   "rep_pct": 47.2,
+   "margin": 2.4,
+   "leader": "Jackson (D)",
+   "notes": "Fox News 10/22 (1,514 LV) 49-49 tie; InsiderAdvantage (Oct 13-14) Jackson 49-47; Suffolk (Oct 8-11, 500 LV) Jackson 49-47; WaPo/Schar (Sept 30-Oct 5) Jackson 50-46; Marist (Oct 1-4, RV) Jackson 51-47. A recent NYT poll reportedly had Collins slightly ahead (numbers unverified). RCP average was about Jackson +1.3 in early-mid October. The race is tightening: prediction markets fell from roughly 66-71% Jackson to 57-60%."
+  },
+  "primaries": {
+   "dem": "June 9, 2026 primary: Platner 72.3%, Janet Mills 19.4% (Mills had suspended in April but stayed on the ballot), David Costello 8.3%. Platner later withdrew. Jackson won a majority at the July 25 convention after Bellows, Shah and Wood dropped out and endorsed him. Only Saundra Pelletier remained against him. Exact delegate tally unverified; his campaign claimed 480+ of 601 committed.",
+   "rep": "Collins unopposed"
+  },
+  "history": {
+   "last_senate": "2020: Collins 51.0% to Sara Gideon 42.4%, R+8.6",
+   "pres_2024": "Harris +6.9 statewide"
+  },
+  "ratings": {
+   "cook": "Toss-up (as of Oct 20, 2026)",
+   "sabato": "Toss-up (as of Oct 14, 2026)",
+   "inside": "Toss-up (as of Oct 15, 2026)"
+  },
+  "issues": [
+   "Nominee turmoil: the Platner scandals, his withdrawal, and Jackson's selection by convention. Jackson is a logger and labor-populist from Aroostook County who has to win over Maine's large independent bloc.",
+   "Collins runs on her seniority and appropriations power, including $1.5B she steered to Maine. She also defends her Kavanaugh vote and her independence from Trump.",
+   "Jackson hits energy and housing costs, the Iran war and tariffs. In the 4th and final debate (Oct 15, Bangor) he told Collins to 'shut up', which drew GOP criticism.",
+   "Age gap: Collins leads older voters by about 12 points (AARP poll). Collins had raised $16M+ by July."
+  ],
+  "sources": [
+   "https://www.270towin.com/2026-senate-polls/maine",
+   "https://www.newsweek.com/maine-senate-polling-as-susan-collins-troy-jackson-head-into-fourth-debate-12569146",
+   "https://abc11.com/post/maine-senate-candidates-democrats-choose-troy-jackson-new-nominee-face-susan-collins-graham-platner-withdraws/19574928/",
+   "https://www.wcax.com/2026/07/10/graham-platner-formally-withdraws-maine-senate-race/",
+   "https://www.bangordailynews.com/2026/06/10/politics/maine-vote-results-graham-platner-senate/",
+   "https://www.wbur.org/news/2026/10/16/susan-collins-troy-jackson-senate-debate-recap"
+  ],
+  "key": "Maine"
+ },
+ {
+  "state": "New Hampshire",
+  "seat": "",
+  "incumbent": "Jeanne Shaheen (D), retiring",
+  "open_seat": true,
+  "dem": "Chris Pappas (U.S. Rep., NH-1)",
+  "rep": "John E. Sununu (former U.S. Senator, 2003-2009)",
+  "other": "No notable third-party candidate found (unverified)",
+  "polling": {
+   "source": "270toWin polling average (5 most recent polls)",
+   "date": "2026-10-22 (latest poll in average)",
+   "dem_pct": 49.7,
+   "rep_pct": 42.8,
+   "margin": 6.9,
+   "leader": "Pappas (D)",
+   "notes": "Saint Anselm 10/22 (1,672 LV) Pappas 50-43; National Public Affairs 10/20 50-43; Saint Anselm (Sept 28-29) 51-44; YouGov 10/6 51-43; Trafalgar 9/27 47-41; UNH 9/24 50-42."
+  },
+  "primaries": {
+   "dem": "Sept 8, 2026: Pappas ~62%, Karishma Manzur ~35-36% (margin ~+26-27; unofficial counts, sources vary)",
+   "rep": "Sept 8, 2026: Sununu ~69-70%, Scott Brown ~25-26% (margin ~+44; unofficial counts). Trump endorsed Sununu in Feb 2026."
+  },
+  "history": {
+   "last_senate": "2020: Shaheen 56.6% to Corky Messner 41.0%, D+15.6",
+   "pres_2024": "Harris +2.8"
+  },
+  "ratings": {
+   "cook": "Lean D (moved from Toss-up on Oct 6, 2026)",
+   "sabato": "Likely D (as of Oct 14, 2026)",
+   "inside": "Tilt D (as of Oct 15, 2026)"
+  },
+  "issues": [
+   "Sununu is a well-known family name, and the GOP recruited him as a strong candidate. Despite the Trump endorsement, he kept Trump at arm's length in the Oct 13 debate and tied Pappas to Biden.",
+   "Pappas consistently outraised Sununu, while Sununu has relied more on outside spending.",
+   "Health care costs and affordability are central. Pappas runs on lowering costs and corporate accountability, and broke with Biden on the border.",
+   "Polls tightened in the summer and then moved to a steady Pappas lead of about 7 in October."
+  ],
+  "sources": [
+   "https://www.270towin.com/2026-senate-polls/new-hampshire",
+   "https://www.newsfromthestates.com/article/pappas-and-sununu-prevail-primaries-setting-expensive-fight-us-senate",
+   "https://political.org/2026/10/13/sununu-keeps-trump-at-arms-length-in-first-new-hampshire-senate-debate-ties-chris-pappas-to-biden/",
+   "https://www.wcax.com/2026/10/20/campaign-countdown-pappas-sununu-face-off-nh-senate-seat/",
+   "https://politicalwire.com/2026/10/16/pappas-leads-sununu-in-new-hampshire-senate-race-2/",
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections"
+  ],
+  "key": "New Hampshire"
+ },
+ {
+  "state": "Ohio",
+  "seat": "Special election (Vance seat)",
+  "incumbent": "Jon Husted (R), appointed Jan 2025 after Vance became Vice President",
+  "open_seat": false,
+  "dem": "Sherrod Brown (former U.S. Senator, lost in 2024)",
+  "rep": "Jon Husted (appointed incumbent, former Lt. Governor)",
+  "other": "Bill Redpath (Libertarian, former LNC chair) and Greg Levy (independent, PSL member). Levy's ads are reportedly backed by a Trump-aligned super PAC, apparently to siphon left votes from Brown. Each polls around 2-4% in InsiderAdvantage.",
+  "polling": {
+   "source": "270toWin polling average (7 polls, Oct 16-23)",
+   "date": "2026-10-23 (latest poll in average)",
+   "dem_pct": 48.9,
+   "rep_pct": 44.9,
+   "margin": 4.0,
+   "leader": "Brown (D)",
+   "notes": "InsiderAdvantage 10/23 Brown 47-44; Verasight 10/22 48-44; New River/GSG 10/21 49-43; Fox News 10/21 (1,592 LV) 52-47; Marist 10/20 48-44; ActiVote 10/18 50-50; BGSU (Oct 2-14) about 49-48. Every recent poll except ActiVote has Brown ahead."
+  },
+  "primaries": {
+   "dem": "May 5, 2026: Brown 89.4%, Ron Kincaid 10.6% (+78.8)",
+   "rep": "Husted unopposed (100%)"
+  },
+  "history": {
+   "last_senate": "2022 (this seat): Vance 53.0% to Tim Ryan 47.0%, R+6.1. Brown lost the other Ohio seat in 2024 to Bernie Moreno by about 3.6.",
+   "pres_2024": "Trump +11.2"
+  },
+  "ratings": {
+   "cook": "Toss-up (as of Oct 20, 2026)",
+   "sabato": "Toss-up (as of Oct 14, 2026)",
+   "inside": "Toss-up (as of Oct 15, 2026)"
+  },
+  "issues": [
+   "Brown's fundraising edge: about $23.1M in Q3 vs about $4.8M for Husted, and he has outraised Husted for five straight quarters. Outside money favors the GOP by about $105M: SLF has put $93M behind Husted, the crypto PAC Defend American Jobs has $45M against Brown, and Musk has given $7M+. The race is the second-costliest in the country, at $466M+.",
+   "Husted's support for data centers and the resulting electricity-rate increases. A leaked NRSC memo called this 'the anchor hanging around Husted's neck.'",
+   "Brown attacks Husted's deciding vote on the 'big beautiful bill' (health care cuts), his support for the Iran war, and his ties to a utility scandal. Husted also drew criticism for remarks about poor people's 'work ethic.'",
+   "Husted is an appointed incumbent without a prior Senate win. Brown has universal name ID and a strong personal brand. The Columbus Dispatch endorsed Brown."
+  ],
+  "sources": [
+   "https://www.270towin.com/2026-senate-polls/ohio",
+   "https://www.thenation.com/article/politics/ohio-senate-race-sherrod-brown-jon-husted/",
+   "https://spectrumnews1.com/oh/columbus/news/2026/10/15/ohio-senate-q3-brown-husted",
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Ohio",
+   "https://politicalwire.com/2026/10/06/sherrod-brown-leads-in-ohio-senate-race-2/"
+  ],
+  "key": "Ohio"
+ },
+ {
+  "state": "Texas",
+  "seat": "",
+  "incumbent": "John Cornyn (R), defeated in the primary runoff",
+  "open_seat": true,
+  "dem": "James Talarico (state Rep., Austin area)",
+  "rep": "Ken Paxton (Texas Attorney General)",
+  "other": "Ted Brown (Libertarian), about 3% in the UH Hobby poll",
+  "polling": {
+   "source": "270toWin polling average (9 polls)",
+   "date": "2026-10-23 (latest poll in average)",
+   "dem_pct": 49.3,
+   "rep_pct": 47.3,
+   "margin": 2.0,
+   "leader": "Talarico (D)",
+   "notes": "Verasight 10/23 Talarico 48-45; Texas Public Opinion Research 10/23 51-47; Emerson 10/22 49-48; New River/GSG 10/21 49-44; ActiVote 10/21 51-49; Fox News 10/21 49-49 tie; UH Hobby School (Oct 10-14, 2,000 LV) 48-46-3. NYT/Siena had 51-45 (date unverified). Talarico has led in 11 consecutive polls since September. RCP average was Talarico +2.7 as of early October."
+  },
+  "primaries": {
+   "dem": "Mar 3, 2026: Talarico 52.4% (per Wikipedia; early AP count 52-47) over Rep. Jasmine Crockett. Margin about +5, exact final margin unverified. No runoff.",
+   "rep": "Mar 3 first round: Cornyn 42.0%, Paxton 40.5%, Wesley Hunt 13.5% (Cornyn +1.5, forced runoff). May 26 runoff: Paxton 63.8%, Cornyn 36.2% (+27.6). Trump endorsed Paxton on May 19."
+  },
+  "history": {
+   "last_senate": "2020: Cornyn 53.5% to MJ Hegar 43.9%, R+9.6",
+   "pres_2024": "Trump +13.7"
+  },
+  "ratings": {
+   "cook": "Toss-up (moved from Lean R in late Aug 2026)",
+   "sabato": "Toss-up (as of Oct 14, 2026)",
+   "inside": "Toss-up (moved Lean R to Tilt R on Oct 1, then to Toss-up Oct 23)"
+  },
+  "issues": [
+   "Paxton's baggage: the securities-fraud indictment (resolved without conviction), his 2023 impeachment and Senate acquittal, and a $6.66M whistleblower judgment. Cook notes that more Texans view him unfavorably than favorably.",
+   "GOP divisions after Paxton ousted Cornyn with Trump's late endorsement, leaving lingering bad feelings among Cornyn Republicans. Trump made three campaign visits in the two months before early voting.",
+   "Money: $442M+ in ad spending, the most expensive non-presidential race on record. Republicans outspent Democrats $326M to $116M on ads, even though Paxton has historically struggled to raise money himself.",
+   "Inflation and prices top voter concerns, followed by immigration and health care. Talarico is a Presbyterian seminarian who campaigns on faith and church-state separation. Early voting began Oct 19."
+  ],
+  "sources": [
+   "https://www.270towin.com/2026-senate-polls/texas",
+   "https://www.fox9.com/news/texas-2026-senate-race-what-know-about-james-talarico-vs-ken-paxton",
+   "https://www.fox26houston.com/news/texas-senate-race-talarico-holds-razor-thin-lead-over-paxton-latest-poll",
+   "https://news.ballotpedia.org/2026/05/27/ken-paxton-r-defeated-incumbent-john-cornyn-r-in-the-republican-primary-runoff-for-u-s-senate-in-texas-on-may-26-2026/",
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
+   "https://san.com/cc/battle-for-senate-expands-as-texas-iowa-move-into-toss-up-territory/"
+  ],
+  "key": "Texas"
+ },
+ {
+  "state": "Iowa",
+  "seat": "",
+  "incumbent": "Joni Ernst (R), not seeking a third term",
+  "open_seat": true,
+  "dem": "Josh Turek (state representative, HD-20)",
+  "rep": "Ashley Hinson (U.S. Rep., IA-2)",
+  "other": "Thomas Laehn (Libertarian), polling about 2-4%",
+  "polling": {
+   "source": "Composite of 5 aggregators as compiled on Wikipedia: 270toWin, Decision Desk HQ, FiftyPlusOne, RealClearPolitics, Silver Bulletin",
+   "date": "through Oct 19-22, 2026",
+   "dem_pct": 46.0,
+   "rep_pct": 46.0,
+   "margin": 0.0,
+   "leader": "Tie",
+   "notes": "The aggregators split: 270toWin Hinson +0.3 (Oct 6-19); DDHQ Hinson +0.8 (46.5-45.7, thru Oct 22); RCP Hinson +0.6 (Sep 29-Oct 22); FiftyPlusOne Turek +0.2; Silver Bulletin Turek +1.2 (45.6-46.8, thru Oct 19). Recent polls: InsiderAdvantage (R), Oct 21-22: Hinson 47-45; co/efficient (R), Oct 15-19: Hinson 48-45; Trafalgar (R), Oct 13-15: Hinson 46-44; YouGov, Oct 6-12: Turek 47-46; Marist (mid-Oct): Turek 48-45; Suffolk, Oct 1-4: Turek 48-44; NYT/Siena, Sep 22-Oct 1: Hinson 48-47. The most recent polls are mostly Republican-sponsored and lean Hinson."
+  },
+  "primaries": {
+   "dem": "June 2: Turek 62.7% (120,287) vs. state Sen. Zach Wahls 37.3%, a 25.4-point margin",
+   "rep": "June 2: Hinson about 74% (table 74.2%, lead text 73.9%) vs. Jim Carlin, a margin of about 48 points"
+  },
+  "history": {
+   "last_senate": "2020: Ernst (R) 51.7% vs. Theresa Greenfield (D) 45.2%, R +6.5",
+   "pres_2024": "Trump +13.2"
+  },
+  "ratings": {
+   "cook": "Toss-up (Oct 20)",
+   "sabato": "Toss-up (Oct 14)",
+   "inside": "Tilt R (Oct 15)"
+  },
+  "issues": [
+   "Open seat after Ernst retired; she had drawn backlash for her 'we are all going to die' remark defending Medicaid and SNAP cuts in the One Big Beautiful Bill Act",
+   "Farm economy: Turek blames Trump tariffs and Iran-war-driven fuel and fertilizer costs and promises a vote to end the tariffs; Hinson attacks Turek on the farm bill, Prop 12 and 'Green New Deal' votes",
+   "Turek leads on money: $24.3M raised vs. Hinson's $14.1M (FEC, as of Oct 14), plus heavy outside spending including a Musk-linked super PAC",
+   "Turek backs lifting the Social Security payroll cap, which Republicans attack; the race has been a dead heat in polls for weeks, while betting markets give Hinson about 57-58%"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa",
+   "https://politicalwire.com/2026/10/15/josh-turek-leads-in-iowa-senate-race/",
+   "https://politicalwire.com/2026/10/09/hinson-narrowly-leads-turek-in-iowa/",
+   "https://www.newsweek.com/josh-turek-ashley-hinson-iowa-polls-trump-voters-12569851",
+   "https://www.agweb.com/news/policy/iowa-senate-race-plays-out-amid-tight-farm-margins",
+   "https://www.kcrg.com/2026/07/06/iowa-senate-candidate-josh-turek-outlines-farm-policies-calls-right-to-repair-tariff-relief/"
+  ],
+  "key": "Iowa"
+ },
+ {
+  "state": "Alaska",
+  "seat": "",
+  "incumbent": "Dan S. Sullivan (R), seeking a third term",
+  "open_seat": false,
+  "dem": "Mary Peltola (former U.S. Rep.)",
+  "rep": "Dan S. Sullivan (incumbent)",
+  "other": "Ranked-choice general with four candidates: Daniel J. Sullivan Jr. (no party listed, a namesake candidate accused of being a spoiler) and Gerald L. Heikes (R), who advanced after Democrat David Leslie withdrew",
+  "polling": {
+   "source": "Composite of DDHQ, FiftyPlusOne, RealClearPolitics and Silver Bulletin, as compiled on Wikipedia",
+   "date": "through about Oct 22, 2026",
+   "dem_pct": 48.6,
+   "rep_pct": 46.2,
+   "margin": 2.4,
+   "leader": "Peltola (D)",
+   "notes": "Per aggregator: DDHQ Peltola +2.4, FiftyPlusOne +2.8, RCP +2.5, Silver Bulletin +2.8. First-round polls: Data for Progress (D), Oct 8-16: Peltola 47-44; PPP (D), Oct 14-15: 48-47; Rasmussen, Oct 12-15: 44-42; InsiderAdvantage (R), Oct 9-10: 48-43 (RCV final round 50-48); Quantus: 46-46; NYT/Siena, Sep 24-Oct 1: Peltola 50-43. Alaska Survey Research's RCV final round: Peltola 51-49."
+  },
+  "primaries": {
+   "dem": "Aug 18 top-four nonpartisan primary: Peltola placed first with 49.5%, 8.1 points ahead of Sullivan (41.4%)",
+   "rep": "Aug 18 top-four primary: Sullivan placed second with 41.4%, the top Republican; Daniel J. Sullivan Jr. had 2.5% and Heikes 1.1%"
+  },
+  "history": {
+   "last_senate": "2020: Sullivan (R) 53.9% vs. Al Gross (I/D) 41.2%, R +12.7 (before ranked-choice voting)",
+   "pres_2024": "Trump +13.1"
+  },
+  "ratings": {
+   "cook": "Toss-up",
+   "sabato": "Lean D (flip)",
+   "inside": "Toss-up"
+  },
+  "issues": [
+   "Peltola outran Sullivan by 8 points in the top-four primary, and Trump's unpopularity, including over the 2026 Iran war, is lifting Democrats in a state they have not won a Senate race in since 2008",
+   "Ballot confusion: the namesake candidate 'Daniel J. Sullivan Jr.' reached the ballot after Alaska Supreme Court litigation; super PACs spent about $2M boosting minor candidates to split the vote",
+   "A Sept. 23 NYT report carried anonymous aides' allegations about Peltola's conduct; she disputed parts of it, and polls afterward still showed her ahead",
+   "A late-October DOJ lawsuit seeks to block certification if Sullivan loses; Murkowski endorsed Sullivan despite backing Peltola's House bids"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
+   "https://votes.decisiondeskhq.com/polls/2080",
+   "https://politicalwire.com/2026/10/20/three-tight-races-in-alaska/",
+   "https://www.newsweek.com/mary-peltola-is-pulling-ahead-in-the-final-stretch-against-dan-sullivan-12592675",
+   "https://www.newsweek.com/alaska-poll-gives-mary-peltola-7-point-lead-after-nyt-staffer-report-12523514"
+  ],
+  "key": "Alaska"
+ },
+ {
+  "state": "Minnesota",
+  "seat": "",
+  "incumbent": "Tina Smith (DFL), not seeking re-election",
+  "open_seat": true,
+  "dem": "Peggy Flanagan (lieutenant governor, DFL)",
+  "rep": "Michele Tafoya (former sports broadcaster; Trump-endorsed)",
+  "other": "Marisa Simonetti (independent) and Rebecca Whiting (Libertarian), both minor",
+  "polling": {
+   "source": "Composite of 270toWin, DDHQ, FiftyPlusOne, RealClearPolitics and Silver Bulletin, as compiled on Wikipedia",
+   "date": "through Oct 15, 2026",
+   "dem_pct": 46.4,
+   "rep_pct": 43.1,
+   "margin": 3.3,
+   "leader": "Flanagan (D)",
+   "notes": "Per aggregator: DDHQ Flanagan +3.7 (46.6-42.9); FiftyPlusOne +3.8; RCP +2.8; Silver Bulletin +4.6; 270toWin +1.5 (stale, Sep data). Recent polls: Rasmussen (R), Oct 20-21: Flanagan 48-45; Trafalgar (R), Oct 13-15: 48-45; KSTP/SurveyUSA, Oct 8-12: 45-42; Star Tribune/Mason-Dixon, Oct 5-7: 47-43; Morning Consult, Oct 2-7 (RV): 45-41. Flanagan has led every recent poll, by 3-4 points."
+  },
+  "primaries": {
+   "dem": "Aug 11: Flanagan 59.0% vs. U.S. Rep. Angie Craig 39.4%, a 19.6-point margin; Flanagan also won the DFL endorsement after Craig withdrew from it",
+   "rep": "Aug 11: Tafoya 52.1% vs. Adam Schwarze 24.0%, a 28.1-point margin; Royce White had 11.2%"
+  },
+  "history": {
+   "last_senate": "2020: Smith (DFL) 48.7% vs. Jason Lewis (R) 43.5%, D +5.2",
+   "pres_2024": "Harris +4.2"
+  },
+  "ratings": {
+   "cook": "Lean D (Oct 20, per Wikipedia; one secondary source says Likely D)",
+   "sabato": "Lean D (Oct 14)",
+   "inside": "Lean D (Oct 15)"
+  },
+  "issues": [
+   "Flanagan's progressive positioning: she rejected corporate PAC and AIPAC money and called for dismantling and replacing ICE after an ICE agent killed Ren\u00e9e Good; Republicans call this extreme",
+   "Fundraising: Tafoya out-raised Flanagan after the primary ($12.5M vs. $11.6M, with $2.8M vs. $993K cash on hand as of Oct 14); the costly primary against Craig drained Flanagan",
+   "A quiet race with little outside spending (MPR); Tafoya runs as a celebrity outsider with Trump's endorsement",
+   "Ratings and markets (Kalshi about 86% Flanagan) are more confident than the 3-point polling lead"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota",
+   "https://politicalwire.com/2026/10/12/peggy-flanagan-holds-narrow-lead-in-minnesota/",
+   "https://politicalwire.com/2026/10/14/peggy-flanagan-holds-slim-lead-in-minnesota/",
+   "https://www.mprnews.org/2026/10/12/peggy-flanagan-michele-tafoya-senate-race-stays-quiet-in-minnesota",
+   "https://defirate.com/news/minnesota-senate-polls-toss-up-kalshi-86-chance/"
+  ],
+  "key": "Minnesota"
+ },
+ {
+  "state": "Nebraska",
+  "seat": "",
+  "incumbent": "Pete Ricketts (R), seeking his first full term",
+  "open_seat": false,
+  "dem": "None on the ballot. Democratic primary winner Cindy Burbank withdrew in July to back Osborn, and a lawsuit seeking to name a Democratic nominee was dismissed Aug 26.",
+  "rep": "Pete Ricketts (incumbent)",
+  "other": "UNUSUAL RACE: independent Dan Osborn (former union leader who ran in 2024) is the de facto opponent, supported by the Nebraska Democratic Party. Minor candidates: Chuck Conboy (America First), Robin Richards (Nebraska Working People Party), and Mike Marvin (Legal Marijuana NOW), who withdrew and endorsed Osborn but remains on the ballot.",
+  "polling": {
+   "source": "Composite of 270toWin, DDHQ, FiftyPlusOne and Silver Bulletin, as compiled on Wikipedia",
+   "date": "through Oct 22, 2026",
+   "dem_pct": null,
+   "rep_pct": 46.6,
+   "margin": 0.9,
+   "leader": "Ricketts (R)",
+   "notes": "dem_pct is null because there is no Democrat; Osborn (I) averages 45.7%. Per aggregator: DDHQ Ricketts +0.6 (47.0-46.4); Silver Bulletin +0.7; FiftyPlusOne tie; 270toWin +2.3 (Sep 8-Oct 5). Recent polls (Ricketts-Osborn): GBAO (D), Oct 18-22: 45-46; Concord (D), Oct 15-18: 41-48; Impact Research (D), Oct 14-20: 49-47; National Public Affairs (R), Oct 15-18: 46-43; YouGov, Sep 24-Oct 3: 47-48."
+  },
+  "primaries": {
+   "dem": "Burbank won the Democratic primary with 89.5% over William Forbes (10.5%), then withdrew. Osborn, an independent, ran in no primary.",
+   "rep": "May: Ricketts 81.5% vs. Todd Knobel 8.1%, a 73.4-point margin"
+  },
+  "history": {
+   "last_senate": "2024 special: Ricketts (R) 62.6% vs. Preston Love Jr. (D) 37.4%, R +25.2. In the other 2024 race (Fischer's seat), Osborn lost to Fischer by about 6.7 points.",
+   "pres_2024": "Trump +20.4 statewide"
+  },
+  "ratings": {
+   "cook": "Likely R (Oct 20)",
+   "sabato": "Lean R (Oct 14)",
+   "inside": "Lean R (Oct 15)"
+  },
+  "issues": [
+   "Osborn's independent, populist, anti-party brand; Democrats cleared the field (Burbank withdrew), and Republicans attack him as a Democrat in disguise",
+   "Ballot fights over spoilers: Forbes accused of being a spoiler on the Democratic side; Marvin accused of being an Osborn plant; challenges to minor-party names were rejected by the Nebraska Supreme Court; earlier controversy over Osborn staffers who joined the Legal Marijuana NOW party board",
+   "Money: Ricketts, a billionaire family heir and former governor, raised $14.5M vs. Osborn's $11.0M (as of Oct 14), and Senate Leadership Fund-linked groups are spending heavily",
+   "Reports of senior Osborn staff departures (unverified secondhand item citing Punchbowl); polls are tied while ratings still lean R because of the state's partisanship"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Nebraska",
+   "https://politicalwire.com/2026/10/06/osborn-edges-ricketts-in-nebraska-senate-race/",
+   "https://politicalwire.com/2026/10/12/ricketts-leads-osborn-in-nebraska-senate-race/",
+   "https://www.newsweek.com/republicans-chances-of-losing-to-dan-osborn-in-nebraska-senate-race-12370545",
+   "https://www.rawstory.com/dan-osborn/",
+   "https://nebraskaexaminer.com/2025/05/23/ricketts-gets-early-ads-from-group-tied-to-senate-gop-in-potential-osborn-race/"
+  ],
+  "key": "Nebraska"
+ },
+ {
+  "state": "Florida",
+  "seat": "Special election (Rubio seat)",
+  "incumbent": "Ashley Moody (R), appointed by DeSantis in Jan 2025 after Rubio became Secretary of State; running",
+  "open_seat": false,
+  "dem": "Angie Nixon (state representative)",
+  "rep": "Ashley Moody (appointed incumbent, former attorney general)",
+  "other": "Neil J. Gillespie (independent), minor",
+  "polling": {
+   "source": "Composite of 270toWin, DDHQ, FiftyPlusOne, RealClearPolitics and Silver Bulletin, as compiled on Wikipedia",
+   "date": "updated Oct 21, 2026",
+   "dem_pct": 43.3,
+   "rep_pct": 49.7,
+   "margin": 6.4,
+   "leader": "Moody (R)",
+   "notes": "Per aggregator: 270toWin Moody +7.0; DDHQ +6.3 (49.6-43.3); FiftyPlusOne +5.8; RCP +6.8; Silver Bulletin +5.9. Recent polls: co/efficient (R), Oct 18-20: Moody 48-40; UNF, Oct 12-19: 49-45; Univision/YouGov, Oct 2-15: 51-42; MDW, Oct 4-10: 48-42; Stetson, Oct 1-9: 52-41; Mason-Dixon: 50-40. The closest poll was St. Pete Polls (early Oct), Moody +2."
+  },
+  "primaries": {
+   "dem": "Aug 18: Nixon 56.1% vs. Alex Vindman 43.9%, a 12.2-point margin; an upset of the better-funded favorite",
+   "rep": "Aug 18: Moody 79.6% vs. Chris Gleason 13.7%, a 65.9-point margin"
+  },
+  "history": {
+   "last_senate": "2022: Rubio (R) 57.7% vs. Val Demings (D) 41.3%, R +16.4 (seat filled by appointment in 2025)",
+   "pres_2024": "Trump +13.1"
+  },
+  "ratings": {
+   "cook": "Solid R (Oct 20)",
+   "sabato": "Safe R (Oct 14)",
+   "inside": "Likely R (Oct 15)"
+  },
+  "issues": [
+   "Hope Florida scandal: a grand jury found the DeSantis administration misappropriated $10M and said then-AG Moody knew of the plan; this is the center of Nixon's 'corruption' message",
+   "Moody refuses to debate and is accused by Democrats of avoiding town halls and the press",
+   "Moody brands Nixon a 'socialist' tied to the DSA (Nixon disputes membership) over her support for Medicare for All and abolishing ICE; Nixon runs on affordability",
+   "Nixon had more cash on hand ($3.27M vs. $0.82M as of Oct 14), but Moody out-raised her ($14.5M vs. $11.3M); Florida's red trend (no Democratic Senate win since 2012) keeps markets near 90% Moody"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida",
+   "https://wusf.org/politics-issues/2026-10-01/democrats-slam-ashley-moody-amid-heated-us-senate-race",
+   "https://www.actionnetwork.com/news/florida-senate-race-2026-polls-predictions-odds-update-moody-vs-nixon-florida-senate-election-odds",
+   "https://www.newsweek.com/ashley-moody-sounds-alarm-as-second-poll-shows-dead-heat-with-angie-nixon-12465288",
+   "https://floridaphoenix.com/2026/08/21/angie-nixon-shrugs-off-the-florida-gop-attacks-that-are-just-beginning/"
+  ],
+  "key": "Florida"
+ },
+ {
+  "state": "Virginia",
+  "seat": "",
+  "incumbent": "Mark Warner (D), seeking a fourth term",
+  "open_seat": false,
+  "dem": "Mark Warner (incumbent)",
+  "rep": "Bert Mizusawa (retired Army major general)",
+  "other": "None notable. Independent Mark Moran withdrew to run for Fairfax County Commonwealth's Attorney.",
+  "polling": {
+   "source": "No polling average; very little public polling, with nothing found since June",
+   "date": "latest poll fielded June 12-16, 2026",
+   "dem_pct": 51,
+   "rep_pct": 33,
+   "margin": 18,
+   "leader": "Warner (D)",
+   "notes": "Only two Warner-Mizusawa polls are public, both from the Public Sentiment Institute: June 12-16 (996 LV), Warner 51-33; May 1-5 (1,047 LV, Virginia Project (R) sponsor), Warner 55-29. No fall 2026 polling was found."
+  },
+  "primaries": {
+   "dem": "Aug 4: Warner unopposed",
+   "rep": "Aug 4: Mizusawa 51.5% vs. David Williams 28.9%, a 22.6-point margin; Kim Farington had 19.6%"
+  },
+  "history": {
+   "last_senate": "2020: Warner (D) 56.0% vs. Daniel Gade (R) 44.0%, D +12.1",
+   "pres_2024": "Harris +5.8"
+  },
+  "ratings": {
+   "cook": "Solid D (Oct 20)",
+   "sabato": "Safe D (Oct 14)",
+   "inside": "Solid D (Oct 15)"
+  },
+  "issues": [
+   "Large money gap: Warner raised $27.2M with $7.5M on hand vs. Mizusawa's $1.0M raised and $0.23M on hand (Sep 30)",
+   "No debates: AARP and the League of Women Voters both cancelled, citing the Warner campaign's noncommittal stance",
+   "Crossover endorsements: former Republican officials Barbara Comstock, Denver Riggleman, Tommy Norment and others endorsed Warner",
+   "Virginia's Democratic lean (no Republican Senate win since 2002) and the anti-Trump midterm environment"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Virginia",
+   "https://www.270towin.com/2026-senate-polls/virginia",
+   "https://virginiamercury.com/2026/03/16/warner-files-for-reelection-launching-bid-for-fourth-u-s-senate-term/",
+   "https://cardinalnews.org/2025/12/29/republicans-dont-have-a-name-senate-candidate-in-virginia-here-are-the-challenges-they-face/"
+  ],
+  "key": "Virginia"
+ },
+ {
+  "state": "New Mexico",
+  "seat": "",
+  "incumbent": "Ben Ray Luj\u00e1n (D), seeking a second term",
+  "open_seat": false,
+  "dem": "Ben Ray Luj\u00e1n (incumbent)",
+  "rep": "Larry Marker (Roswell, former oil and gas operator), nominated by write-in",
+  "other": "None on the ballot. Libertarian, Forward and independent hopefuls failed to qualify.",
+  "polling": {
+   "source": "No polling average; individual polls only",
+   "date": "latest poll fielded Oct 1-9, 2026 (Research & Polling Inc. for the Albuquerque Journal)",
+   "dem_pct": 53,
+   "rep_pct": 37,
+   "margin": 16,
+   "leader": "Luj\u00e1n (D)",
+   "notes": "Research & Polling/ABQ Journal, Oct 1-9 (1,125 LV): Luj\u00e1n 53-37; SurveyUSA/KOB-TV, Sep 25-30 (567 LV): 54-36; Research & Polling, Aug 21-28 (516 LV): 53-38."
+  },
+  "primaries": {
+   "dem": "June 2: Luj\u00e1n 84.2% vs. Matt Dodson 15.8%, a 68.4-point margin (lead text says 83.7%)",
+   "rep": "June 2: no Republican qualified for the ballot (Christopher Heuvel was disqualified); Marker won as a write-in with 31,220 votes, effectively unopposed, clearing the 2,351-vote threshold"
+  },
+  "history": {
+   "last_senate": "2020: Luj\u00e1n (D) 51.7% vs. Mark Ronchetti (R) 45.6%, D +6.1",
+   "pres_2024": "Harris +6.0"
+  },
+  "ratings": {
+   "cook": "Solid D (Oct 20)",
+   "sabato": "Safe D (Oct 14)",
+   "inside": "Solid D (Oct 15)"
+  },
+  "issues": [
+   "Weak Republican candidate: Marker only made the ballot as a write-in and had raised $92K with $1.9K on hand (Sep 30), against Luj\u00e1n's $9.3M raised and $3.6M on hand",
+   "Trump unpopularity: the Albuquerque Journal finds 32% approval in New Mexico, and Luj\u00e1n is an outspoken Trump critic",
+   "No Republican Senate win in New Mexico since 2002; national groups are not contesting the race"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Mexico",
+   "https://www.abqjournal.com/news/journal-poll-us-sen-ben-ray-lujan-has-comfortable-lead-in-reelection-campaign/3112569",
+   "https://politicalwire.com/2026/10/06/lujan-leads-marker-in-new-mexico-senate-race/",
+   "https://sourcenm.com/2026/09/11/new-mexico-election-2026-us-senator/"
+  ],
+  "key": "New Mexico"
+ },
+ {
+  "state": "Colorado",
+  "seat": "",
+  "incumbent": "John Hickenlooper (D), seeking a 2nd term (has said it will be his last)",
+  "open_seat": false,
+  "dem": "John Hickenlooper",
+  "rep": "Mark Baisley (state senator, Woodland Park)",
+  "other": "Christopher Baum (Approval Voting), Bob Chew (Forward), Blake Huber (Libertarian), Adam Withrow (Unity). None is a notable factor.",
+  "polling": {
+   "source": "None. No public general-election polling or average found (checked Wikipedia and news searches as of 2026-10-25).",
+   "date": null,
+   "dem_pct": null,
+   "rep_pct": null,
+   "margin": null,
+   "leader": "Hickenlooper (by ratings and fundamentals, not polls)",
+   "notes": "No public general-election polling. Only primary polls exist: Colorado Community Research (May 17-28, 2026) Hickenlooper 41, Gonzales 34; Data for Progress (D, Feb 20-25, 2026) Hickenlooper 45, Gonzales 13."
+  },
+  "primaries": {
+   "dem": "June 30, 2026: Hickenlooper 52.8%, state Sen. Julie Gonzales 47.2% (Hickenlooper +5.6). A progressive challenge.",
+   "rep": "June 30, 2026: Baisley unopposed (100%). Other Republicans were eliminated at the state assembly, where Baisley won 45% after Lauren Boebert introduced him."
+  },
+  "history": {
+   "last_senate": "2020: Hickenlooper (D) 53.5%, Cory Gardner (R) 44.2%, D+9.3",
+   "pres_2024": "Harris +11.0 (54.1-43.1)"
+  },
+  "ratings": {
+   "cook": "Solid D (Oct 20, 2026)",
+   "sabato": "Safe D (Oct 14, 2026)",
+   "inside": "Solid D (Oct 15, 2026)"
+  },
+  "issues": [
+   "Iran war and gas prices: Baisley defended the war in the mid-October 9News debate, saying high gas prices are a necessary cost; Axios calls the war a dividing line in the race",
+   "Hickenlooper running as a check on Trump; he attacks the 2025 tax and spending law ('One Big Bad Betrayal Act') over health-care cuts and costs",
+   "Affordability: Baisley blames Colorado Democrats' long hold on power and calls criticism of Trump 'TDS'",
+   "Leftover friction from the progressive primary (Gonzales took 47%) over Medicare for All and ICE"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Colorado",
+   "https://www.axios.com/local/denver/2026/10/15/hickenlooper-baisley-senate-colorado-debate-2026-election",
+   "https://www.denver7.com/news/politics/republican-candidate-looks-to-unseat-colorado-senator-seeking-reelection-in-the-midterms",
+   "https://www.summitdaily.com/news/hickenlooper-wins-colorados-democratic-senate-primary-election/",
+   "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections"
+  ],
+  "key": "Colorado"
+ },
+ {
+  "state": "Illinois",
+  "seat": "",
+  "incumbent": "Dick Durbin (D), retiring (announced Apr 23, 2025)",
+  "open_seat": true,
+  "dem": "Juliana Stratton (Lt. Governor; endorsed by Gov. JB Pritzker)",
+  "rep": "Don Tracy (former Illinois GOP chair)",
+  "other": "Whitfield Harrington Jr. (American Center Party). He missed the 15% threshold for the debate.",
+  "polling": {
+   "source": "No polling average. Individual polls listed on Wikipedia.",
+   "date": "2026-10-20 (ActiVote field end)",
+   "dem_pct": 58.5,
+   "rep_pct": 41.5,
+   "margin": 17.0,
+   "leader": "Stratton",
+   "notes": "ActiVote (Sep 26-Oct 20, 400 LV) Stratton 58.5, Tracy 41.5 (+17; ActiVote reports no undecideds). Public Policy Polling (D) (Sep 30-Oct 1, 569 LV) Stratton 49, Tracy 36 (+13). Polling is sparse and there is no aggregator average."
+  },
+  "primaries": {
+   "dem": "March 17, 2026: Stratton 40.4%, Rep. Raja Krishnamoorthi 32.7%, Rep. Robin Kelly 18.3% (Stratton +7.7 over Krishnamoorthi)",
+   "rep": "March 17, 2026: Tracy 40.0%, Jeannie Evans 22.8%, Casey Chlebek 11.2% (Tracy +17.2 over Evans)"
+  },
+  "history": {
+   "last_senate": "2020: Durbin (D) 54.9%, Mark Curran (R) 38.9%, D+16.0",
+   "pres_2024": "Harris +10.9 (54.4-43.5)"
+  },
+  "ratings": {
+   "cook": "Solid D (Oct 20, 2026)",
+   "sabato": "Safe D (Oct 14, 2026)",
+   "inside": "Solid D (Oct 15, 2026)"
+  },
+  "issues": [
+   "Cost of living and Trump's tariffs: Tracy said 'the jury's still out on tariffs' at the Oct 20 WTTW forum",
+   "Stratton running as a check on Trump; Tracy calls her a 'Democratic socialist' and attacks her $25 federal minimum-wage proposal",
+   "Immigration, health care, and energy and climate were debated at the only forum",
+   "Tracy loaned his campaign $3.5M for TV ads; Stratton was criticized for avoiding earlier debates"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Illinois",
+   "https://chicago.suntimes.com/elections/2026/10/14/democrat-juliana-stratton-republican-don-tracy-us-senate-race-dick-durbin-seat",
+   "https://capitolnewsillinois.com/news/stratton-tracy-clash-over-trump-affordability-in-lone-u-s-senate-forum/",
+   "https://www.wbez.org/government-politics/elections/2026/10/21/takeaways-senate-debate-juliana-stratton-don-tracy-midterm-election",
+   "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections"
+  ],
+  "key": "Illinois"
+ },
+ {
+  "state": "Kentucky",
+  "seat": "",
+  "incumbent": "Mitch McConnell (R), retiring",
+  "open_seat": true,
+  "dem": "Charles Booker (former state rep.; 2022 nominee)",
+  "rep": "Andy Barr (U.S. Rep., KY-6; endorsed by Trump)",
+  "other": "Christopher Todd Campbell (independent), not a notable factor",
+  "polling": {
+   "source": "No polling average. Only Booker-campaign internals exist.",
+   "date": "2026-08-27 (Global Strategy Group field end)",
+   "dem_pct": 40,
+   "rep_pct": 49,
+   "margin": 9,
+   "leader": "Barr",
+   "notes": "Global Strategy Group (D, Booker campaign; Aug 24-27, 600 LV) Barr 49, Booker 40. Public Policy Polling (D, Booker campaign; Dec 18-19, 2025) Barr 49, Booker 38. No independent public polls. Prediction markets give the GOP roughly 93-95% (Newsweek)."
+  },
+  "primaries": {
+   "dem": "May 19, 2026: Booker 46.8%, Amy McGrath 35.9% (Booker +10.9)",
+   "rep": "May 19, 2026: Barr 60.5%, former AG Daniel Cameron 30.8% (Barr +29.7). Nate Morris withdrew and endorsed Barr."
+  },
+  "history": {
+   "last_senate": "2020: McConnell (R) 57.8%, Amy McGrath (D) 38.2%, R+19.6",
+   "pres_2024": "Trump +30.6 (64.5-33.9)"
+  },
+  "ratings": {
+   "cook": "Solid R (Oct 20, 2026)",
+   "sabato": "Safe R (Oct 14, 2026)",
+   "inside": "Solid R (Oct 15, 2026)"
+  },
+  "issues": [
+   "Affordability: gas and grocery prices, the Iran war, and tariffs (Booker's poll found a majority disapproving of the tariffs)",
+   "Barr labels Booker 'the Mamdani of Kentucky' and attacks his support for Medicare for All and alleged 'defund police' positions",
+   "Surveillance (Flock cameras), data-center development, and AI and social-media regulation came up at the Oct 19 WKYT debate",
+   "McConnell's legacy, and the first open Senate seat in Kentucky in decades"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kentucky",
+   "https://www.fox19.com/2026/10/20/barr-booker-spar-over-inflation-iran-war-wkyt-debate/",
+   "https://www.newsweek.com/charles-bookers-chances-of-flipping-kentucky-seat-amid-mcconnell-absence-12422104",
+   "https://thegrio.com/2026/09/25/charles-booker-kentucky-senate-campaign-racism-affordability/",
+   "https://www.wuky.org/text/wuky-news/2026-05-19/its-booker-vs-barr-in-kentuckys-u-s-senate-race-pitting-a-progressive-against-a-staunch-trump-ally"
+  ],
+  "key": "Kentucky"
+ },
+ {
+  "state": "Louisiana",
+  "seat": "",
+  "incumbent": "Bill Cassidy (R), ran but lost the closed GOP primary",
+  "open_seat": true,
+  "dem": "Jamie Davis (Tensas Parish police juror and farmer)",
+  "rep": "Julia Letlow (U.S. Rep., LA-5; endorsed by Trump, Gov. Landry, and Scalise)",
+  "other": "None notable found. Wikipedia has an external link for 'Jamie LaBranche', whose status was not verified.",
+  "polling": {
+   "source": "No polling average. Only Democratic-aligned polls exist.",
+   "date": "2026-09-19 (Hart Research field end)",
+   "dem_pct": 44,
+   "rep_pct": 48,
+   "margin": 4,
+   "leader": "Letlow",
+   "notes": "Hart Research (D, Davis campaign; Sep 17-19, 500 LV) Letlow 48, Davis 44. Public Policy Polling (D; Jul 21-22, 518 RV) Letlow 41, Davis 37. No nonpartisan public polls. Treat the closeness skeptically given who sponsored them."
+  },
+  "primaries": {
+   "dem": "Closed primary May 16, 2026: Davis 47.4%, Gary Crockett 26.3%, Nicholas Albares 26.2%. Runoff June 27: Davis 79.9%, Crockett 20.1% (+59.8).",
+   "rep": "Closed primary May 16, 2026: Letlow 44.8%, Treasurer John Fleming 28.3%, Sen. Bill Cassidy 24.8% (incumbent eliminated), Mark Spencer 2.1%. Runoff June 27: Letlow 56.9%, Fleming 43.1% (+13.8). Some outlets reported about 55%."
+  },
+  "history": {
+   "last_senate": "2020 (jungle primary): Cassidy (R) 59.3%, Adrian Perkins (D) 19.0%, R+40.3",
+   "pres_2024": "Trump +22.0 (60.2-38.2)"
+  },
+  "ratings": {
+   "cook": "Solid R (Oct 20, 2026)",
+   "sabato": "Safe R (Oct 14, 2026)",
+   "inside": "Solid R (Oct 15, 2026)"
+  },
+  "issues": [
+   "Trump-backed purge of Cassidy, rooted in his 2021 impeachment vote; Letlow is the Trump/Landry-aligned nominee",
+   "First Senate cycle under the new closed party primaries with runoffs",
+   "Davis runs on cost of living and protecting the social safety net (Medicaid and SNAP), as a rural farmer outsider",
+   "Money gap: Letlow raised $6.2M to Davis's $2.0M (as of June 30)"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Louisiana",
+   "https://www.wafb.com/2026/06/28/julia-letlow-jamie-davis-advance-louisiana-us-senate-race-ap-projects/",
+   "https://www.theadvocate.com/baton_rouge/news/politics/julia-letlow-jamie-davis-win-us-senate-runoffs/article_a1b67af8-6e3c-555c-acb2-947dafe95634.html",
+   "https://www.newsweek.com/trump-endorsed-julia-letlow-chances-of-winning-louisiana-senate-race-12131959",
+   "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections"
+  ],
+  "key": "Louisiana"
+ },
+ {
+  "state": "Mississippi",
+  "seat": "",
+  "incumbent": "Cindy Hyde-Smith (R), seeking a 2nd full term",
+  "open_seat": false,
+  "dem": "Scott Colom (Lowndes County-area district attorney)",
+  "rep": "Cindy Hyde-Smith",
+  "other": "Ty Pinkins (independent; 2024 Democratic Senate nominee), polling 6-7%",
+  "polling": {
+   "source": "No polling average. All public polls are Democratic-aligned.",
+   "date": "2026-10-22 (Change Research field end)",
+   "dem_pct": 40,
+   "rep_pct": 43,
+   "margin": 3,
+   "leader": "Hyde-Smith",
+   "notes": "Change Research (D; Oct 21-22, 842 LV) Hyde-Smith 43, Colom 40, Pinkins 6. Data for Progress (D; Aug 5-15, 1,018 LV) Hyde-Smith 44, Colom 38, Pinkins 7 (head-to-head 47-41). Impact Research (D/SPLC Action Fund; Apr 8-12, 500 LV) Hyde-Smith 42, Colom 39, Pinkins 6 (head-to-head 47-44). No nonpartisan or GOP polls found."
+  },
+  "primaries": {
+   "dem": "March 10, 2026: Colom 72.9%, Priscilla Williams-Till 18.6%, Albert Littell 8.5% (Colom +54.3)",
+   "rep": "March 10, 2026: Hyde-Smith 80.8%, Sarah Adlakha 19.2% (+61.6)"
+  },
+  "history": {
+   "last_senate": "2020: Hyde-Smith (R) 54.1%, Mike Espy (D) 44.1%, R+10.0",
+   "pres_2024": "Trump +22.9 (60.9-38.0)"
+  },
+  "ratings": {
+   "cook": "Likely R (Oct 20, 2026)",
+   "sabato": "Likely R (Oct 14, 2026)",
+   "inside": "Solid R (Oct 15, 2026)"
+  },
+  "issues": [
+   "Black turnout. Pinkins could split the anti-incumbent vote (Presley lost the 2023 governor's race by only about 26,000 votes).",
+   "Hyde-Smith avoiding debates; Colom's 'Where's Cindy' town-hall tour",
+   "Health care and rural hospitals (national Democrats such as Alsobrooks and Warnock have campaigned for Colom)",
+   "Colom has outraised Hyde-Smith in two quarters, and outside spending is heavy on both sides"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
+   "https://mississippitoday.org/2026/09/21/mississippi-midterms-senate-hyde-smith-colom/",
+   "https://www.wlox.com/2026/09/04/hyde-smith-faces-colom-pinkins-bid-keep-senate-seat/",
+   "https://vicksburgnews.com/pinkins-seeks-six-stop-debate-tour-ahead-of-2026-senate-election/",
+   "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections"
+  ],
+  "key": "Mississippi"
+ },
+ {
+  "state": "Montana",
+  "seat": "",
+  "incumbent": "Steve Daines (R), retiring. He withdrew minutes before the March 5, 2026 filing deadline and endorsed Alme.",
+  "open_seat": true,
+  "dem": "Alani Bankhead (retired Air Force Lt. Col.)",
+  "rep": "Kurt Alme (former U.S. Attorney for Montana)",
+  "other": "Seth Bodnar (independent, former University of Montana president), the main challenger. He polls second, about 29%, and is endorsed by Tester, Bullock, the Montana AFL-CIO, and the state Democratic chair, who resigned on Oct 12 to back him. Kyle Austin (Libertarian; disavowed by his party).",
+  "polling": {
+   "source": "Average of 270toWin, Decision Desk HQ, FiftyPlusOne, RealClearPolitics, and Silver Bulletin, as compiled on Wikipedia",
+   "date": "2026-10-20",
+   "dem_pct": 17.9,
+   "rep_pct": 42.5,
+   "margin": 13.0,
+   "leader": "Alme",
+   "notes": "The margin is Alme over the second-place independent Bodnar (29.5%), not over the Democrat. Alme leads Bankhead by about 24.6 points. Individual averages: RCP Alme +12.0, DDHQ +12.5, Silver Bulletin +10.8, 270toWin +18.0 (all over Bodnar). Latest poll: Quantus (R; Oct 15-18) Alme 44, Bodnar 28, Bankhead 21. A Bodnar-campaign poll (Concord, Oct 6-8) had Bodnar 37, Alme 35. In head-to-heads (hypothetical, since Bankhead stayed in past the Aug 10 deadline), Bodnar and Alme are roughly even."
+  },
+  "primaries": {
+   "dem": "June 2, 2026: Bankhead 43.6%, Reilly Neill 33.0%, Michael Black Wolf 13.1% (Bankhead +10.6)",
+   "rep": "June 2, 2026: Alme 76.1%, Lee Calhoun 14.1%, Charles WalkingChild 9.7% (Alme +62.0)"
+  },
+  "history": {
+   "last_senate": "2020 (this seat): Daines (R) 55.0%, Steve Bullock (D) 45.0%, R+10.0",
+   "pres_2024": "Trump +19.9 (58.4-38.5)"
+  },
+  "ratings": {
+   "cook": "Solid R (Oct 20, 2026)",
+   "sabato": "Safe R (Oct 14, 2026)",
+   "inside": "Solid R (Oct 15, 2026)"
+  },
+  "issues": [
+   "Three-way split of the center-left vote: Bankhead refused to withdraw despite pressure from Democratic legislators, Bullock, Tester, and the party chair",
+   "Bodnar's nonpartisan, anti-Washington pitch and fundraising edge (about $4.9M, more than his rivals)",
+   "Alme is a first-time candidate with low name recognition, handpicked by Daines (the late withdrawal drew 'rigged' criticism)",
+   "Public lands and conservation (Montana Conservation Voters back Bodnar); an investigation into Bodnar's ballot-petition signatures in Cascade County"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Montana",
+   "https://www.mtpr.org/montana-news/2026-08-12/bankhead-bodnar-remain-on-the-senate-ballot-setting-up-a-three-way-race",
+   "https://www.notus.org/2026-election/montana-senate-race-democrat-independent",
+   "https://flatheadbeacon.com/2026/06/15/in-montana-senate-race-democrat-bankhead-doubles-down-on-bid-against-bodnar/",
+   "https://missoulacurrent.com/montana-senate-race-8/",
+   "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections"
+  ],
+  "key": "Montana"
+ },
+ {
+  "state": "South Carolina",
+  "seat": "",
+  "incumbent": "Darline Graham (R), appointed July 13, 2026 after her brother Sen. Lindsey Graham died on July 11, 2026. She is running for the full term.",
+  "open_seat": false,
+  "dem": "Annie Andrews (pediatrician; 2022 SC-1 House nominee)",
+  "rep": "Darline Graham",
+  "other": "Kasie Whitener (Libertarian), Mark Hackett (Constitution)",
+  "polling": {
+   "source": "Average of 270toWin, Decision Desk HQ, FiftyPlusOne, RealClearPolitics, and Silver Bulletin, as compiled on Wikipedia",
+   "date": "2026-10-23",
+   "dem_pct": 44.9,
+   "rep_pct": 46.9,
+   "margin": 2.0,
+   "leader": "Graham",
+   "notes": "Individual averages: RCP Graham +2.7, DDHQ +2.3, 270toWin +2.0, Silver Bulletin +1.7, FiftyPlusOne +1.7. Recent polls: Impact Research (D; Oct 15-21, 800 LV) Andrews 45, Graham 44; Trafalgar (R; Oct 16-18, 1,095 LV) Graham 49, Andrews 46; Rasmussen (Oct 5-8, 837 LV) Graham 49, Andrews 45; InsiderAdvantage (Sep 28-29) Graham 46, Andrews 45."
+  },
+  "primaries": {
+   "dem": "June 9, 2026: Andrews 61.5%, Brandon Brown 30.2%, Kyle Freeman 8.3% (Andrews +31.3)",
+   "rep": "Original June 9 primary: Lindsey Graham 56.8%, Mark Lynch 28.9%. After his death, a special primary was held Aug 11: Darline Graham 32.8%, Rep. Ralph Norman 24.6%, Rep. Russell Fry 19.7%, Mark Sanford 14.9%. Runoff Aug 25: Darline Graham 52.4%, Norman 47.6% (+4.8). Wikipedia's lead says 52.5%; the table says 52.4%."
+  },
+  "history": {
+   "last_senate": "2020: Lindsey Graham (R) 54.4%, Jaime Harrison (D) 44.2%, R+10.3",
+   "pres_2024": "Trump +17.8 (58.2-40.4)"
+  },
+  "ratings": {
+   "cook": "Lean R (Oct 20, 2026)",
+   "sabato": "Likely R (Oct 14, 2026)",
+   "inside": "Lean R (Oct 15, 2026)"
+  },
+  "issues": [
+   "Dynastic succession: Darline Graham was appointed and is running on her brother's name; the Oct 11 debate clashed over 'the last name'",
+   "Bruising special runoff against Ralph Norman (47.6%) may leave MAGA-wing turnout and enthusiasm soft",
+   "Andrews runs on health care and children's issues and on affordability as a pediatrician outsider",
+   "Unusually close for SC (Winthrop's Huffmon cites a 'roughly 10-point baseline'), with the Libertarian Whitener taking a few points"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
+   "https://mediaite.com/politics/democrat-annie-andrews-releases-internal-poll-of-sc-senate-race-with-surprising-numbers",
+   "https://newsweek.com/darline-graham-annie-andrews-last-name-sc-senate-debate-12553534",
+   "https://abcnews4.com/news/lowcountry-and-state-politics/candidates-experts-react-after-new-poll-shows-scs-us-senate-race-as-neck-and-neck-annie-andrews-darline-graham-ralph-norman",
+   "https://www.foxcarolina.com/2026/09/10/new-polls-give-insight-into-us-senate-races-carolinas/"
+  ],
+  "key": "South Carolina"
+ },
+ {
+  "state": "Alabama",
+  "seat": "",
+  "incumbent": "Tommy Tuberville (R) - not running; running for governor",
+  "open_seat": true,
+  "dem": "Everett Wess",
+  "rep": "Rep. Barry Moore",
+  "other": "Craig Jelks (I, educator) listed as declared independent; ballot status unverified",
+  "polling": {
+   "source": "No polling average published; most recent individual polls (Wikipedia race page)",
+   "date": "2026-10-17",
+   "dem_pct": 35,
+   "rep_pct": 50,
+   "margin": 15,
+   "leader": "Moore (R)",
+   "notes": "Recent polls: Cygnal (R) Oct 16-17, 500 LV: Moore 50, Wess 35. The Alabama Poll Oct 15-16, 600 LV: Moore 56, Wess 35 (R+21). RMG Research (R) Sep 21-25, 800 RV: Moore 54, Wess 33 (R+21). yes.every kid (advocacy) Jul 8-11: Moore 47, Wess 32. Simple mean of the two October polls: Moore +18. Money gap is huge: Wess raised under $4K through June vs. about $2.5M for Moore."
+  },
+  "primaries": {
+   "dem": "May 19: Wess 39.8%, Larriett 28.9%, Wheeler 17.4%, Sweetser 13.9%. Runoff Jun 16: Wess 54.6% vs. Larriett 45.4% (+9.2)",
+   "rep": "May 19: Moore 39.2%, Jared Hudson 25.6%, AG Steve Marshall 24.5%, others. Runoff Jun 16: Moore 55.8% vs. Hudson 44.2% (+11.6). Trump endorsed Moore."
+  },
+  "history": {
+   "last_senate": "2020: Tuberville (R) 60.1% vs. Doug Jones (D) 39.7%, R+20.4",
+   "pres_2024": "Trump 64.57% vs. Harris 34.10%, R+30.5"
+  },
+  "ratings": {
+   "cook": "Solid R (Oct 20)",
+   "sabato": "Safe R (Oct 14)",
+   "inside": "Solid R (Oct 15)"
+  },
+  "issues": [
+   "Open seat after Tuberville left to run for governor; Trump-endorsed Moore (Freedom Caucus) won the runoff",
+   "Wess campaigning on cost of living; massive fundraising disparity",
+   "AL.com issue framing: Trump, Iran war, marijuana, immigration; school choice (CHOOSE Act funding)"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alabama",
+   "https://www.alreporter.com/2026/06/17/moore-wess-secure-u-s-senate-nominations-following-runoffs/",
+   "https://www.apr.org/news/2026-06-17/moore-wess-robertson-wahl-and-sneed-win-in-alabama-runoff",
+   "https://ballotpedia.org/Everett_Wess"
+  ],
+  "key": "Alabama"
+ },
+ {
+  "state": "Arkansas",
+  "seat": "",
+  "incumbent": "Tom Cotton (R) - running for a third term",
+  "open_seat": false,
+  "dem": "Hallie Shoffner (farmer/entrepreneur)",
+  "rep": "Tom Cotton",
+  "other": "Jeff Wadlin (Libertarian)",
+  "polling": {
+   "source": "270toWin polling average",
+   "date": "2026-10-09",
+   "dem_pct": 41.0,
+   "rep_pct": 47.5,
+   "margin": 6.5,
+   "leader": "Cotton (R)",
+   "notes": "Silver Bulletin (through Oct 4): Cotton 48.2, Shoffner 40.6 (R+7.6). Recent polls: Hendrix College Oct 8-13, 709 LV: Cotton 50, Shoffner 41. GrayHouse (R) Sep 30-Oct 4: 50-39. J.L. Partners Aug 14-18: 51-35. Hendrix College Aug 11-12: Shoffner 47, Cotton 44 (her only lead)."
+  },
+  "primaries": {
+   "dem": "Mar 3: Shoffner 78.3% vs. Ethan Dunbar 21.7% (+56.6)",
+   "rep": "Mar 3: Cotton 81.6%, Micah Ashby 9.2%, Jeb Little 9.1% (+72.4)"
+  },
+  "history": {
+   "last_senate": "2020: Cotton (R) 66.5% vs. Ricky Dale Harrington Jr. (Libertarian) 33.5%, R+33.0 (no Democrat ran)",
+   "pres_2024": "Trump 64.20% vs. Harris 33.56%, R+30.6"
+  },
+  "ratings": {
+   "cook": "Solid R (Oct 20)",
+   "sabato": "Safe R (Oct 14)",
+   "inside": "Solid R (Oct 15)"
+  },
+  "issues": [
+   "Farm stress and the rural economy (Shoffner closed her family farm in 2025); Cotton's past votes against farm bills",
+   "SNAP/Medicaid cuts in the One Big Beautiful Bill; Cotton opposed extending ACA subsidies; affordability",
+   "Cotton skipped the debates; he holds a large cash edge (more than $9.6M on hand)"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Arkansas",
+   "https://www.newsfromthestates.com/article/debate-arkansas-us-senate-race-wont-take-place-cotton-and-shoffner-campaigns-say",
+   "https://www.agweb.com/news/policy/arkansas-senate-race-plays-out-amid-farm-stress",
+   "https://msmagazine.com/2026/10/13/arkansas-hallie-shoffner-farmer-senate-tom-cotton/"
+  ],
+  "key": "Arkansas"
+ },
+ {
+  "state": "Idaho",
+  "seat": "",
+  "incumbent": "Jim Risch (R) - running for a fourth term",
+  "open_seat": false,
+  "dem": "None. Primary winner David Roth withdrew Jul 28, 2026 and no replacement was named; Democrats effectively backing independent Todd Achilles",
+  "rep": "Jim Risch",
+  "other": "Todd Achilles (I, former Democratic state rep; main challenger, Forward Party-endorsed); Matt Loesby (Libertarian); Natalie Fleming (I)",
+  "polling": {
+   "source": "No current average (Silver Bulletin average is stale, through Aug 13: Risch 45.7, Achilles 26.3, R+19.4); most recent individual poll shown",
+   "date": "2026-10-22",
+   "dem_pct": null,
+   "rep_pct": 49,
+   "margin": 6,
+   "leader": "Risch (R)",
+   "notes": "Challenger is independent Achilles, not a Democrat. VoteNexus Research Oct 21-22, 700 LV: Risch 49, Achilles 43. Peak Insights (R) Sep 28-30, 500 LV: Risch 49, Achilles 24. Advanced Targeting Research Sep 13-16, 700 RV: reportedly Achilles ahead (about 46-39), but the figures were garbled in the extract, so unverified. Bullfinch (Achilles internal) Aug 4-7: Achilles 38, Risch 33. Polls vary widely."
+  },
+  "primaries": {
+   "dem": "May 19: David Roth 61.9%, Brad Moore 31.1%, Nickolas Bonds 7.0% (+30.8); Roth later withdrew",
+   "rep": "May 19: Risch 67.3%, Josh Roy 14.3%, Joe Evans 14.1%, Denny LaVe 4.4% (+53.0)"
+  },
+  "history": {
+   "last_senate": "2020: Risch (R) 62.6% vs. Paulette Jordan (D) 33.3%, R+29.3",
+   "pres_2024": "Trump 66.87% vs. Harris 30.38%, R+36.5"
+  },
+  "ratings": {
+   "cook": "Solid R (Oct 20)",
+   "sabato": "Safe R (Oct 14)",
+   "inside": "Solid R (Oct 15)"
+  },
+  "issues": [
+   "Democratic nominee withdrew to consolidate behind independent Achilles; Republicans have not lost an Idaho Senate race since 1974",
+   "Risch declined debates and forums (skipped the Sep 30 LWV forum)",
+   "Tariffs, the Iran war, federal spending/deficit, immigration"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Idaho",
+   "https://idahocapitalsun.com/2026/09/30/idaho-us-senate-candidates-weigh-in-on-tariffs-iran-war-federal-spending-and-more/",
+   "https://idahonews.com/news/local/idaho-democratic-us-senate-candidate-drops-out-of-race",
+   "https://idahocapitalsun.com/2026/05/21/independent-challenger-calls-on-risch-to-do-three-public-debates-ahead-of-idahos-general-election/"
+  ],
+  "key": "Idaho"
+ },
+ {
+  "state": "Kansas",
+  "seat": "",
+  "incumbent": "Roger Marshall (R) - running for a second term",
+  "open_seat": false,
+  "dem": "Adam Hamilton (pastor, founder of Church of the Resurrection)",
+  "rep": "Roger Marshall",
+  "other": "David Graham (Libertarian)",
+  "polling": {
+   "source": "270toWin polling average",
+   "date": "2026-10-22",
+   "dem_pct": 46.0,
+   "rep_pct": 45.0,
+   "margin": 1.0,
+   "leader": "Hamilton (D)",
+   "notes": "Other averages: DDHQ (Oct 16) Hamilton +1.5 (wording from the source extract; the reported 46.0-45.1 implies +0.9); FiftyPlusOne (Oct 15) Hamilton +1.3; Silver Bulletin (Oct 21) Hamilton +1.1; RealClearPolitics (Oct 15) Marshall +0.3. Recent polls: InsiderAdvantage (R) Oct 13-14: Marshall 48, Hamilton 47. InsiderAdvantage Oct 9-10: Hamilton 48, Marshall 47. YouGov Sep 24-Oct 4: Hamilton 48-45. NYT/Siena Sep 22-30: tied 45-45. Effectively a tossup."
+  },
+  "primaries": {
+   "dem": "Aug primary: Hamilton 34.6%, Christy Davis 14.2%, Noah Taylor 13.6%, 8 others (+20.4 in an 11-way field)",
+   "rep": "Aug primary: Marshall 79.9% vs. Arch Naramore 20.1% (+59.8)"
+  },
+  "history": {
+   "last_senate": "2020: Marshall (R) 53.2% vs. Barbara Bollier (D) 41.8%, R+11.4",
+   "pres_2024": "Trump 57.16% vs. Harris 41.04%, R+16.1"
+  },
+  "ratings": {
+   "cook": "Toss-up (Oct 20)",
+   "sabato": "Toss-up (Oct 14)",
+   "inside": "Tilt R (Oct 15)"
+  },
+  "issues": [
+   "Affordability, tariffs (Marshall backs them; Hamilton calls them a regressive tax), gas prices and inflation",
+   "Iran war and Russia policy; AI regulation",
+   "Marshall's past medical-debt lawsuits against patients (Hamilton ads); Trump's slur at a Marshall rally drew ADL criticism"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
+   "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections",
+   "https://en.wikipedia.org/wiki/2024_United_States_presidential_election"
+  ],
+  "key": "Kansas"
+ },
+ {
+  "state": "Oklahoma",
+  "seat": "",
+  "incumbent": "Alan Armstrong (R) - appointed Mar 2026 after Markwayne Mullin became DHS Secretary; barred by state law from seeking the full term, so not running",
+  "open_seat": true,
+  "dem": "N'Kiyla Jasmine Thomas (nurse)",
+  "rep": "Rep. Kevin Hern",
+  "other": "Sevier White (Libertarian); Ron Meinhardt (I); Curtis Stinnett (I)",
+  "polling": {
+   "source": "Single public poll: CHS & Associates (no average exists)",
+   "date": "2026-08-06",
+   "dem_pct": 25,
+   "rep_pct": 49,
+   "margin": 24,
+   "leader": "Hern (R)",
+   "notes": "CHS & Associates Aug 3-6, 500 RV: Hern 49, Thomas 25, other 8, undecided 19. No other general-election polling found. Fundraising: Hern $10.77M vs. Thomas about $107K (through Sep 30)."
+  },
+  "primaries": {
+   "dem": "Jun 16: Thomas 45.2%, Jim Priest 23.9%, Troy Green 19.8%, others. Runoff Aug 25: Thomas 61.2% vs. Priest 38.8% (+22.4)",
+   "rep": "Jun 16: Hern 69.8%, Ty England 13.5%, others (+56.3; no runoff needed). Trump endorsed Hern."
+  },
+  "history": {
+   "last_senate": "2022 special (this seat): Mullin (R) 61.8% vs. Kendra Horn (D) 35.2%, R+26.5",
+   "pres_2024": "Trump 66.16% vs. Harris 31.90%, R+34.3"
+  },
+  "ratings": {
+   "cook": "Solid R (Oct 20)",
+   "sabato": "Safe R (Oct 14)",
+   "inside": "Solid R (Oct 15)"
+  },
+  "issues": [
+   "Open seat created by Mullin's move to DHS and the caretaker appointment of Armstrong",
+   "Trump endorsement cleared the GOP field for Hern; Democrats have not won an Oklahoma Senate race since 1990",
+   "Specific campaign issues: unverified (little coverage of the general election)"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oklahoma",
+   "https://www.kxii.com/2026/06/17/kevin-hern-wins-republican-nomination-us-senate-oklahoma/",
+   "https://www.krmg.com/2026/03/11/rep-kevin-hern-announces-a-run-for-the-u-s-senate"
+  ],
+  "key": "Oklahoma"
+ },
+ {
+  "state": "South Dakota",
+  "seat": "",
+  "incumbent": "Mike Rounds (R) - running for a third term",
+  "open_seat": false,
+  "dem": "None. Nominee Julian Beaudion (unopposed in primary) withdrew Aug 4, 2026; SD Democrats said they would not name a replacement",
+  "rep": "Mike Rounds",
+  "other": "Brian Bengs (I; 2022 Democratic nominee, veteran, ex-professor; Forward Party-endorsed) is the only major challenger",
+  "polling": {
+   "source": "Silver Bulletin polling average",
+   "date": "2026-10-21",
+   "dem_pct": null,
+   "rep_pct": 52.9,
+   "margin": 11.0,
+   "leader": "Rounds (R)",
+   "notes": "Challenger is independent Bengs at 41.9 (not a Democrat). Recent polls: Emerson Oct 19-20, 803 LV: Rounds 50, Bengs 42. Quantus (R) Oct 17-19: 57-37. POS (R) Oct 12-16: 54-37. Mason-Dixon Oct 12-14: 56-37. Concord (D) Oct 6-8: Bengs 43, Rounds 42."
+  },
+  "primaries": {
+   "dem": "Jun 2: Beaudion unopposed (later withdrew)",
+   "rep": "Jun 2: Rounds 75.8% vs. Justin McNeal 24.2% (+51.6)"
+  },
+  "history": {
+   "last_senate": "2020: Rounds (R) 65.7% vs. Dan Ahlers (D) 34.3%, R+31.4",
+   "pres_2024": "Trump 63.43% vs. Harris 34.24%, R+29.2"
+  },
+  "ratings": {
+   "cook": "Solid R (Oct 20)",
+   "sabato": "Safe R (Oct 14)",
+   "inside": "Solid R (Oct 15)"
+  },
+  "issues": [
+   "AI data centers (water and power use, land) and Rounds's donations from AI and data-center companies",
+   "Rounds declined debates (SDPB, KELOLAND); Bengs focuses on rural hospital closures and cost of living",
+   "Rounds runs on agriculture, veterans, defense (Ellsworth AFB, 114th Fighter Wing)"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Dakota",
+   "https://www.dakotanewsnow.com/2026/10/09/bengs-challenges-rounds-public-debate-before-election-day/",
+   "https://www.kotatv.com/2026/08/06/south-dakotas-us-senate-race-shifts-two-way-matchup-after-democrat-candidate-suspends-campaign/",
+   "https://www.keloland.com/news/local-news/beaudion-drops-out-of-south-dakotas-u-s-senate-race/amp/"
+  ],
+  "key": "South Dakota"
+ },
+ {
+  "state": "Tennessee",
+  "seat": "",
+  "incumbent": "Bill Hagerty (R) - running for a second term",
+  "open_seat": false,
+  "dem": "Marquita Bradshaw (2020 nominee; rematch)",
+  "rep": "Bill Hagerty",
+  "other": "Nine minor independents (Chandler, Gerena, Hearn, Jones, Macon III, Matthews, Sutman Jr., Whitson, Mixon/Federalist); none notable",
+  "polling": {
+   "source": "Single public poll: Targoz Market Research for the Beacon Center (no average exists)",
+   "date": "2026-08-26",
+   "dem_pct": 31,
+   "rep_pct": 51,
+   "margin": 20,
+   "leader": "Hagerty (R)",
+   "notes": "Targoz Aug 15-26, 1,157 RV: Hagerty 51, Bradshaw 31, independent 6, undecided 12. No other public general-election polling found."
+  },
+  "primaries": {
+   "dem": "Aug 6: Bradshaw 54.8%, Maria Brewer 18.0%, McCants 10.1%, others (+36.8)",
+   "rep": "Aug 6: Hagerty unopposed (100%)"
+  },
+  "history": {
+   "last_senate": "2020: Hagerty (R) 62.2% vs. Bradshaw (D) 35.2%, R+27.0",
+   "pres_2024": "Trump 64.19% vs. Harris 34.47%, R+29.7"
+  },
+  "ratings": {
+   "cook": "Solid R (Oct 20)",
+   "sabato": "Safe R (Oct 14)",
+   "inside": "Solid R (Oct 15)"
+  },
+  "issues": [
+   "Rematch of 2020; Democrats have not won a Tennessee Senate race since 1990",
+   "Severe money gap: Hagerty about $16M raised vs. Democrats under $10K each (mid-2026)",
+   "Specific campaign issues: unverified (minimal general-election coverage)"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Tennessee",
+   "https://www.wkms.org/government-politics/2026-08-06/u-s-sen-bill-hagerty-will-face-democratic-challenger-marquita-bradshaw-for-a-second-time",
+   "https://tennesseelookout.com/voter-guides/contests/2026-u-s-senate/"
+  ],
+  "key": "Tennessee"
+ },
+ {
+  "state": "West Virginia",
+  "seat": "",
+  "incumbent": "Shelley Moore Capito (R), seeking a 3rd term",
+  "open_seat": false,
+  "dem": "Rachel Fetty Anderson (former Morgantown city council member)",
+  "rep": "Shelley Moore Capito (incumbent)",
+  "other": "S. Marshall Wilson (Constitution Party); Rio Phillips (listed by Wikipedia; party/write-in status unverified)",
+  "polling": {
+   "source": "None - no public general-election polling found (Wikipedia race page, web search)",
+   "date": "checked 2026-10-25",
+   "dem_pct": null,
+   "rep_pct": null,
+   "margin": null,
+   "leader": "Capito (by ratings/fundamentals; no polls)",
+   "notes": "No public head-to-head polls. Kalshi market ~97-98% Capito (Aug 2026, via Octagon AI). Fundraising thru 9/30: Capito $7.13M raised / $4.64M COH vs Anderson $137K / $25K COH."
+  },
+  "primaries": {
+   "dem": "May 12, 2026: Anderson 33.2% vs Jeff Kessler 27.0% (margin +6.2; plurality, no runoff in WV)",
+   "rep": "May 12, 2026: Capito 66.5% vs Tom Willis 18.9% (margin +47.6); Trump-endorsed"
+  },
+  "history": {
+   "last_senate": "2020: Capito (R) 70.3% - Swearengin (D) 27.0%, R+43.3",
+   "pres_2024": "Trump 69.97% - Harris 28.10%, R+41.87"
+  },
+  "ratings": {
+   "cook": "Solid R (Oct 20, 2026)",
+   "sabato": "Safe R (Oct 14, 2026)",
+   "inside": "Solid R (Oct 15, 2026)"
+  },
+  "issues": [
+   "Massive resource gap: Capito ~50x Anderson in fundraising; race not contested by national Democrats",
+   "Capito drew a Trump-endorsed but right-flank primary challenge (Willis, backed by Students for Life Action) and won easily",
+   "Statewide Democratic collapse - WV went R+41.9 in 2024; other WV seat (Justice) also R"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_West_Virginia",
+   "https://westvirginiawatch.com/2026/05/12/capito-easily-secures-gop-nomination-for-u-s-senate-seat-tuesday-shortly-after-polls-close-in-wv/",
+   "https://www.octagonai.co/markets/elections/senate/west-virginia-senate-winner/",
+   "https://en.wikipedia.org/wiki/2024_United_States_presidential_election"
+  ],
+  "key": "West Virginia"
+ },
+ {
+  "state": "Wyoming",
+  "seat": "",
+  "incumbent": "Cynthia Lummis (R), retiring - not seeking a 2nd term",
+  "open_seat": true,
+  "dem": "James W. Byrd (former state representative)",
+  "rep": "Harriet Hageman (U.S. Representative, WY-AL)",
+  "other": "None listed",
+  "polling": {
+   "source": "None - no public general-election polling found (Wikipedia race page, web search)",
+   "date": "checked 2026-10-25",
+   "dem_pct": null,
+   "rep_pct": null,
+   "margin": null,
+   "leader": "Hageman (by ratings/fundamentals; no polls)",
+   "notes": "No public polls. FEC (7/29/2026): Hageman ~$2.44M receipts vs Byrd ~$23K. Democrats have not won a WY Senate race since 1970."
+  },
+  "primaries": {
+   "dem": "Aug 18, 2026: Byrd 79.3% vs Billy Benavidez 20.7% (margin +58.6)",
+   "rep": "Aug 18, 2026: Hageman 64.9% vs Sam Mead 27.8% (margin +37.1); endorsed by Trump, Barrasso, Lummis"
+  },
+  "history": {
+   "last_senate": "2020: Lummis (R) 73.1% - Ben-David (D) 26.9%, R+46.2",
+   "pres_2024": "Trump 71.60% - Harris 25.84%, R+45.76"
+  },
+  "ratings": {
+   "cook": "Solid R (Oct 20, 2026)",
+   "sabato": "Safe R (Oct 14, 2026)",
+   "inside": "Solid R (Oct 15, 2026)"
+  },
+  "issues": [
+   "Public lands: Byrd attacking Hageman over her bill requiring road construction in national-forest roadless areas; opposes sale of public lands",
+   "Energy/resource access, low taxes, immigration enforcement (Hageman platform); Hageman's loyalty to Trump",
+   "Open seat also opens Hageman's at-large House seat"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Wyoming",
+   "https://wyofile.com/five-republicans-2-democrats-vie-for-us-senate-in-wyoming-primaries/",
+   "https://wtop.com/news/2026/08/ap-decision-notes-what-to-expect-in-wyomings-state-primary/",
+   "https://en.wikipedia.org/wiki/2024_United_States_presidential_election"
+  ],
+  "key": "Wyoming"
+ },
+ {
+  "state": "Delaware",
+  "seat": "",
+  "incumbent": "Chris Coons (D), seeking a 3rd full term",
+  "open_seat": false,
+  "dem": "Chris Coons (incumbent)",
+  "rep": "Michael Katz (former Democratic state senator 2009-2013; 2024 Independent Party nominee)",
+  "other": "None listed; Independent Party of Delaware endorsed Katz",
+  "polling": {
+   "source": "None - no public general-election polling found (Wikipedia race page, Fox29 preview Oct 21, web search)",
+   "date": "checked 2026-10-25",
+   "dem_pct": null,
+   "rep_pct": null,
+   "margin": null,
+   "leader": "Coons (by ratings/fundamentals; no polls)",
+   "notes": "No public polls. Fundraising: Coons ~$6.9M vs Katz ~$159K."
+  },
+  "primaries": {
+   "dem": "Sep 15, 2026: Coons 78.0% vs Jeff Appelhans 10.6% (margin +67.4)",
+   "rep": "Sep 15, 2026: Katz 77.3% vs John Shulli 22.7% (margin +54.6)"
+  },
+  "history": {
+   "last_senate": "2020: Coons (D) 59.4% - Witzke (R) 37.9%, D+21.5",
+   "pres_2024": "Harris 56.49% - Trump 41.79%, D+14.70"
+  },
+  "ratings": {
+   "cook": "Solid D (Oct 20, 2026)",
+   "sabato": "Safe D (Oct 14, 2026)",
+   "inside": "Solid D (Oct 15, 2026)"
+  },
+  "issues": [
+   "Trump tariffs, ACA, clean energy, immigration reform (Coons platform)",
+   "Katz's party switch: ex-Democrat running on border wall, sanctuary-city funding cuts, SAVE Act, reshoring",
+   "No Republican Senate win in Delaware since 1994"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Delaware",
+   "https://fox29.com/news/election-2026-delaware-senate-chris-coons-michael-katz-bios",
+   "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections"
+  ],
+  "key": "Delaware"
+ },
+ {
+  "state": "Massachusetts",
+  "seat": "",
+  "incumbent": "Ed Markey (D), seeking reelection (age 79/80)",
+  "open_seat": false,
+  "dem": "Ed Markey (incumbent)",
+  "rep": "John Deaton (attorney; 2024 GOP nominee vs. Warren)",
+  "other": "Shiva Ayyadurai (Independent); Joe Tache (Party for Socialism and Liberation)",
+  "polling": {
+   "source": "270toWin / RealClearPolitics average (as reported on Wikipedia race page)",
+   "date": "polls Sep 14 - Oct 18, 2026",
+   "dem_pct": 55.8,
+   "rep_pct": 29.8,
+   "margin": 26.0,
+   "leader": "Markey",
+   "notes": "Silver Bulletin (thru Oct 12): Markey 56.5-29.9 (+26.6). Latest polls: Suffolk Oct 14-18 Markey 60-32; UMass Amherst/YouGov Oct 5-12 56-29 (Tache 3); MassINC Sep 14-22 54-28; UNH Sep 17-21 53-30 (Tache 9)."
+  },
+  "primaries": {
+   "dem": "Sep 1, 2026: Markey 64.7% vs Rep. Seth Moulton 35.0% (margin +29.7)",
+   "rep": "Sep 1, 2026: Deaton 99.3% (effectively unopposed; write-ins 0.7%)"
+  },
+  "history": {
+   "last_senate": "2020: Markey (D) 66.2% - O'Connor (R) 33.0%, D+33.2",
+   "pres_2024": "Harris 61.22% - Trump 36.02%, D+25.20"
+  },
+  "ratings": {
+   "cook": "Solid D (Oct 20, 2026)",
+   "sabato": "Safe D (Oct 14, 2026)",
+   "inside": "Solid D (Oct 15, 2026)"
+  },
+  "issues": [
+   "Markey's age (79; would turn 80 in term) - central to Moulton's generational primary challenge, which Markey beat by ~30",
+   "Markey's low cash on hand after costly primary ($800K COH vs Deaton $488K as of Oct 14)",
+   "Deaton's second straight Senate run (crypto-lawyer profile per 2024 coverage - unverified for 2026 messaging); left-wing third-party (Tache) drawing up to 9%"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Massachusetts",
+   "https://www.270towin.com/content/2026-senate-polling",
+   "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections",
+   "https://en.wikipedia.org/wiki/2024_United_States_presidential_election"
+  ],
+  "key": "Massachusetts"
+ },
+ {
+  "state": "New Jersey",
+  "seat": "",
+  "incumbent": "Cory Booker (D), seeking a 3rd full term",
+  "open_seat": false,
+  "dem": "Cory Booker (incumbent)",
+  "rep": "Justin Murphy (former Tabernacle Township deputy mayor)",
+  "other": "Veronica Fernandez (End the Corruption!); Joanne Kuniansky (Socialist Workers); Eduardo Castillo (write-in)",
+  "polling": {
+   "source": "None - no public 2026 general-election polling found (Wikipedia race page, web search)",
+   "date": "checked 2026-10-25",
+   "dem_pct": null,
+   "rep_pct": null,
+   "margin": null,
+   "leader": "Booker (by ratings/fundamentals; no polls)",
+   "notes": "No public head-to-head polls. Booker raised $33M+ vs Murphy ~$27K (as of June 30); Q3: Booker $1.8M vs Murphy $35,860. Markets ~97-99% Booker."
+  },
+  "primaries": {
+   "dem": "Jun 2, 2026: Booker unopposed (100%)",
+   "rep": "Jun 2, 2026: Murphy 33.4% vs Richard Tabor 29.2% (margin +4.2); Alex Zdan 26.8%, Robert Lebovics 10.7%"
+  },
+  "history": {
+   "last_senate": "2020: Booker (D) 57.2% - Mehta (R) 40.9%, D+16.3",
+   "pres_2024": "Harris 51.97% - Trump 46.06%, D+5.91"
+  },
+  "ratings": {
+   "cook": "Solid D (Oct 20, 2026)",
+   "sabato": "Safe D (Oct 14, 2026)",
+   "inside": "Solid D (Oct 15, 2026)"
+  },
+  "issues": [
+   "Iran war: Oct 8 Rider/NJ Globe debate - Murphy's viral 'finish' the Iran war line vs Booker calling Trump's Iran policy 'colossally stupid'",
+   "Cost of living / Trump tariffs (Booker) vs Murphy touting record-low poverty rate",
+   "NJ's 2024 rightward shift (D+5.9) vs GOP's 54-year Senate drought (no R win since 1972)"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Jersey",
+   "https://newjerseymonitor.com/?p=25551",
+   "https://www.foxnews.com/politics/booker-rival-shoots-hip-hopes-viral-debate-moment-break-gops-senate-drought",
+   "https://www.newsfromthestates.com/article/cory-booker-outraises-gop-challenger-justin-murphy-factor-50"
+  ],
+  "key": "New Jersey"
+ },
+ {
+  "state": "Oregon",
+  "seat": "",
+  "incumbent": "Jeff Merkley (D), seeking a 4th term",
+  "open_seat": false,
+  "dem": "Jeff Merkley (incumbent)",
+  "rep": "David Brock Smith (state senator, Port Orford)",
+  "other": "Chris Henry (Progressive; cross-nominated by Pacific Green); Gary Dye (Libertarian)",
+  "polling": {
+   "source": "None - no public general-election polling found (Wikipedia race page, OPB Oct 14, web search)",
+   "date": "checked 2026-10-25",
+   "dem_pct": null,
+   "rep_pct": null,
+   "margin": null,
+   "leader": "Merkley (by ratings/fundamentals; no polls)",
+   "notes": "No public head-to-head polls. Thru 9/30: Merkley $8.56M raised / $6.82M COH vs Smith $291K / $50K COH. Kalshi ~98% Merkley."
+  },
+  "primaries": {
+   "dem": "May 19, 2026: Merkley 93.2% vs Paul D. Wells 6.2% (margin +87.0)",
+   "rep": "May 19, 2026: Brock Smith 29.5% vs Jo Rae Perkins 27.1% (margin +2.4); Brent Barker 23.3%"
+  },
+  "history": {
+   "last_senate": "2020: Merkley (D) 56.9% - Perkins (R) 39.3%, D+17.6",
+   "pres_2024": "Harris 55.27% - Trump 40.97%, D+14.30"
+  },
+  "ratings": {
+   "cook": "Solid D (Oct 6, 2026)",
+   "sabato": "Safe D (Oct 14, 2026)",
+   "inside": "Solid D (Oct 15, 2026)"
+  },
+  "issues": [
+   "Merkley reversed planned retirement to fight Trump (National Guard federalization, 'authoritarian' tactics)",
+   "Brock Smith runs on taxes/cost of living and as a bipartisan Salem dealmaker; defends federal social-services changes as anti-fraud",
+   "Narrow GOP primary over 2020 nominee Perkins; no OR Republican Senate win since 2002"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oregon",
+   "https://www.opb.org/article/2026/10/14/us-sen-jeff-merkley-was-headed-for-retirement-president-trumps-actions-changed-his-mind/",
+   "https://kptv.com/2026/05/24/david-brock-smith-wins-gop-primary-us-senate-oregon-will-face-democratic-incumbent-merkley/",
+   "https://www.oddsshopper.com/articles/prediction-markets/why-jeff-merkley-will-win-the-oregon-senate-race"
+  ],
+  "key": "Oregon"
+ },
+ {
+  "state": "Rhode Island",
+  "seat": "",
+  "incumbent": "Jack Reed (D), seeking a 6th term",
+  "open_seat": false,
+  "dem": "Jack Reed (incumbent)",
+  "rep": "Raymond McKay (former RI GOP State Central Committee member; 2024 Senate candidate)",
+  "other": "Michael Bahry (Independent; Salve Regina lecturer) - polling 4-7%",
+  "polling": {
+   "source": "No published average; latest individual poll Emerson College/WPRI-TV",
+   "date": "Oct 8-11, 2026",
+   "dem_pct": 59,
+   "rep_pct": 25,
+   "margin": 34,
+   "leader": "Reed",
+   "notes": "Other polls: Embold Research/Pell Center Oct 5-8 Reed 55-32 (Bahry 4); UNH Sep 17-21 53-33 (Bahry 5); UNH Aug 20-24 51-31. Simple mean of the two October polls (computed here, not a published average): Reed 57.0 - McKay 28.5 = +28.5."
+  },
+  "primaries": {
+   "dem": "Sep 9, 2026: Reed 76.8% vs Connor Burbridge 13.4% (margin +63.4); Luis Daniel Munoz 9.8%",
+   "rep": "Sep 9, 2026: McKay unopposed (100%)"
+  },
+  "history": {
+   "last_senate": "2020: Reed (D) 66.6% - Waters (R) 33.4%, D+33.2",
+   "pres_2024": "Harris 55.54% - Trump 41.76%, D+13.78"
+  },
+  "ratings": {
+   "cook": "Solid D (Oct 20, 2026)",
+   "sabato": "Safe D (Oct 14, 2026)",
+   "inside": "Solid D (Oct 15, 2026)"
+  },
+  "issues": [
+   "Reed's age/tenure (seeking 6th term) - drew a generational primary challenge from Burbridge (Reed won by 63)",
+   "Lopsided money: Reed ~$4.7M raised / $3.0M COH vs McKay ~$196K / ~$6.7K COH",
+   "Independent Bahry splitting non-Reed vote; no RI Republican Senate win since 2000"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Rhode_Island",
+   "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections",
+   "https://en.wikipedia.org/wiki/2024_United_States_presidential_election"
+  ],
+  "key": "Rhode Island"
+ }
+]
