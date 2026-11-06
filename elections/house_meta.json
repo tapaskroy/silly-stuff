@@ -1,0 +1,31 @@
+{
+ "as_of": "Oct 25, 2026 (ratings: Cook Oct 23, Sabato Oct 20, Inside Elections Oct 15)",
+ "pre": {
+  "D": 215,
+  "R": 220
+ },
+ "composition": "Today: 218 R + 1 independent caucusing R (Kiley), 214 D, 2 vacancies (TX-23 R, FL-20 D)",
+ "environment": "generic ballot about D+8.7 vs. R+2.6 in the 2024 House vote, roughly an 11-point swing; Trump approval about 36/61",
+ "callout": "Democrats are projected to win the House comfortably, in line with the forecast models, which give Democrats a 76-93% chance. Mid-decade redistricting cost Democrats about 9 notional seats: new Republican maps in TX, FL, OH, NC, TN, AL and LA, offset by California's Prop 50 and Utah's court-ordered map. But an environment about 11 points more Democratic than 2024 more than wipes that out. Democratic gains are concentrated in suburban Republican seats in PA, NY, NJ, VA, MI, WI, IA, AZ and CO, and in the California seats Prop 50 redrew. Republican gains come almost entirely from new maps: FL-9, FL-22, TX-9, TX-32, TN-9, AL-2 and LA-6. 34 seats are Tilt calls (18 D, 16 R). If every Tilt-D seat went Republican, Democrats would still have exactly 218: their Safe, Likely and Lean seats alone make a bare majority.",
+ "footer": "Sources: Wikipedia and Ballotpedia 2026 House pages by state; Cook Political Report, Sabato's Crystal Ball and Inside Elections ratings via Wikipedia and 270toWin; The Downballot, 270toWin and Dave's Redistricting for 2024 presidential results on 2026 lines; district polls as listed. Most district polls are campaign or party internals and are labeled (D) or (R); treat them with caution. Some baselines are rounded or unverified; these are marked in each deep dive. Louisiana uses a Nov 3 all-candidate primary with a Dec 12 runoff.",
+ "state_notes": {
+  "AL": "Back to the legislature's 2023 map after Louisiana v. Callais (SCOTUS, Jun 2, 2026). AL-2 drops from about 50% to about 40% Black and becomes R-leaning. Special primaries were held Aug 11.",
+  "CA": "New Prop 50 map (passed Nov 2025), designed to flip up to 5 Republican seats. Top-two system, so some districts have same-party general elections.",
+  "FL": "New map signed May 4, 2026 and in use (a state-court suit is pending). Drawn to flip FL-9, 14, 22 and 25 to Republicans.",
+  "LA": "New map (SB 121, signed May 29, 2026) after Callais dismantles LA-6. All-candidate ballot Nov 3; Dec 12 runoff if no one reaches 50%.",
+  "MO": "The 2025 map was blocked pending a Nov 3 referendum. The Missouri Supreme Court ordered the 2022 lines, and SCOTUS declined to intervene (Sep 25).",
+  "NC": "2025 Republican mid-decade map (SB 249) in use; reshapes NC-1.",
+  "OH": "New map adopted by the Ohio Redistricting Commission, Oct 31, 2025.",
+  "TN": "May 2026 Republican map splits Memphis; TN-9 goes from safe D to Trump +21. Cohen withdrew.",
+  "TX": "2025 mid-decade map in use (SCOTUS stayed the lower-court block, Dec 4, 2025), drawn for about 5 Republican pickups. TX-23 is vacant after Gonzales resigned.",
+  "UT": "Court-ordered map (Nov 2025) creates a Salt Lake County seat (UT-1, Harris +24) with no incumbent.",
+  "VA": "2021 map. The voter-approved 2026 redraw was voided by the Virginia Supreme Court (May 8).",
+  "NY": "2024 lines. A court-ordered NY-11 redraw was blocked by SCOTUS (Mar 2, 2026).",
+  "IN": "2021 map. The state Senate rejected the proposed redraw, 31-19.",
+  "KS": "2022 map. The KS-3 redraw lacked the votes to override Gov. Kelly's veto.",
+  "MD": "2022 map. The redraw died in the state Senate.",
+  "WI": "2022 map. Redraw suits were dismissed in spring 2026.",
+  "AK": "At-large seat with ranked-choice voting. Democrats withdrew and back independent Bill Hill.",
+  "NE": "NE-2 is open (Bacon retiring)."
+ }
+}

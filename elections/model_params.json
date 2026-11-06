@@ -1,0 +1,113 @@
+{
+ "as_of": "2026-11-03",
+ "election": "2026-11-03",
+ "poll_window_start": "2026-08-01",
+ "holdover": {
+  "D": 34,
+  "R": 31
+ },
+ "sims": 40000,
+ "scenario_sims": 20000,
+ "national_shift": 10.2,
+ "incumbency_bonus": 2.0,
+ "weights": {
+  "half_life_days": 14,
+  "default_n": 600,
+  "n_cap": 1500,
+  "pop": {
+   "LV": 1.0,
+   "RV": 0.8,
+   "A": 0.6,
+   "null": 0.9
+  },
+  "partisan_sponsor": 0.5,
+  "partisan_shift": 3.5,
+  "lean_shift": 1.5,
+  "unverified": 0.85,
+  "superseded": 0.35,
+  "min_recent_polls": 3
+ },
+ "error": {
+  "national_sd": 3.0,
+  "regional_sd": 1.75,
+  "state_sd": 3.5,
+  "per_day": 0.01,
+  "single_poll_sd": 4.0,
+  "per_undecided": 0.15,
+  "fundamentals_sd": 12.0,
+  "independent_extra_sd": 2.5,
+  "t_df": 6
+ },
+ "tiers": [
+  [
+   "Safe",
+   0.99
+  ],
+  [
+   "Likely",
+   0.9
+  ],
+  [
+   "Lean",
+   0.75
+  ],
+  [
+   "Tilt",
+   0.6
+  ]
+ ],
+ "caucus_modes": [
+  {
+   "key": "separate",
+   "label": "Independents stay unaligned (their stated position)",
+   "independents": null
+  },
+  {
+   "key": "with_d",
+   "label": "Independents organize with Democrats",
+   "independents": "D"
+  },
+  {
+   "key": "with_r",
+   "label": "Independents organize with Republicans",
+   "independents": "R"
+  }
+ ],
+ "scenarios": [
+  {
+   "label": "Polls exactly right (baseline)",
+   "shift": 0
+  },
+  {
+   "label": "Long-run average bias (R+0.5)",
+   "shift": -0.5
+  },
+  {
+   "label": "Modest miss toward R (R+3, like 2016/2024)",
+   "shift": -3
+  },
+  {
+   "label": "Large miss toward R (R+6, like 2020)",
+   "shift": -6
+  },
+  {
+   "label": "Modest miss toward D (D+3, like 2012)",
+   "shift": 3
+  }
+ ],
+ "sources": {
+  "national_sd": "SD of cycle-level Senate poll bias 1998-2022 = 2.7 (538 raw-polls.csv recompute); bias correlation between cycles 0.17",
+  "regional_sd": "Same-state Senate/presidential poll errors correlate 0.51; 538 2024 Senate model used regional 2.8 months out",
+  "state_sd": "Residual race-level error 3.5-3.9 for races with 5-10+ polls, final 21 days (538 raw-polls recompute)",
+  "per_day": "Final-7-day averages no more accurate than 8-21 days out (6.3 vs 6.1 RMSE)",
+  "single_poll_sd": "Single-poll scatter around race average ~4.0 (sampling for n~700)",
+  "per_undecided": "Judgment: 538 data show little relation; kept small as 538/Silver models widen with undecideds",
+  "fundamentals_sd": "Prior presidential margin + national swing: SD ~9 if the swing were known, 12-14 otherwise; 12 used since the swing itself is uncertain",
+  "partisan_shift": "Sponsored Senate polls ran 3.6 pts toward sponsor vs nonpartisan polls in same race (538 recompute); Silver uses ~4",
+  "lean_shift": "Judgment: one-party pollsters without a sponsor, roughly half the sponsored-poll effect (Split Ticket 2024)",
+  "independent_extra_sd": "Judgment: thin record for independent-vs-R races (Kansas 2014 miss ~11, Nebraska 2024)",
+  "t_df": "State errors near-normal (excess kurtosis 0.35); df 6 gives modest fat tails for the national term",
+  "national_shift": "Generic ballot D+8.7 (Oct 2026 avg) minus 2024 national presidential margin R+1.5",
+  "prior_bias": "Zero in baseline: direction does not persist; midterm averages near zero (2018 +0.3, 2022 +1.2 nonpartisan / -0.9 all). Tested as scenarios instead."
+ }
+}

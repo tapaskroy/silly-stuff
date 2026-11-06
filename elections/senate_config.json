@@ -1,0 +1,355 @@
+{
+ "Alabama": {
+  "challenger": "Wess",
+  "challenger_party": "D",
+  "rep": "Moore",
+  "region": "South",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": 0,
+  "seat": null
+ },
+ "Alaska": {
+  "challenger": "Peltola",
+  "challenger_party": "D",
+  "rep": "Sullivan",
+  "region": "West",
+  "rcv": true,
+  "rcv_to_r": {
+   "Heikes": 0.8,
+   "Sullivan Jr.": 0.5
+  },
+  "incumbency": -1,
+  "seat": null
+ },
+ "Arkansas": {
+  "challenger": "Shoffner",
+  "challenger_party": "D",
+  "rep": "Cotton",
+  "region": "South",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": -1,
+  "seat": null
+ },
+ "Colorado": {
+  "challenger": "Hickenlooper",
+  "challenger_party": "D",
+  "rep": "Baisley",
+  "region": "West",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": 1,
+  "seat": null
+ },
+ "Delaware": {
+  "challenger": "Coons",
+  "challenger_party": "D",
+  "rep": "Katz",
+  "region": "Northeast",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": 1,
+  "seat": null
+ },
+ "Florida": {
+  "challenger": "Nixon",
+  "challenger_party": "D",
+  "rep": "Moody",
+  "region": "South",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": -1,
+  "seat": "Special"
+ },
+ "Georgia": {
+  "challenger": "Ossoff",
+  "challenger_party": "D",
+  "rep": "Collins",
+  "region": "South",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": 1,
+  "seat": null
+ },
+ "Idaho": {
+  "challenger": "Achilles",
+  "challenger_party": "I",
+  "rep": "Risch",
+  "region": "West",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": 0,
+  "seat": null
+ },
+ "Illinois": {
+  "challenger": "Stratton",
+  "challenger_party": "D",
+  "rep": "Tracy",
+  "region": "Midwest",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": 0,
+  "seat": null
+ },
+ "Iowa": {
+  "challenger": "Turek",
+  "challenger_party": "D",
+  "rep": "Hinson",
+  "region": "Midwest",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": 0,
+  "seat": null
+ },
+ "Kansas": {
+  "challenger": "Hamilton",
+  "challenger_party": "D",
+  "rep": "Marshall",
+  "region": "Midwest",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": -1,
+  "seat": null
+ },
+ "Kentucky": {
+  "challenger": "Booker",
+  "challenger_party": "D",
+  "rep": "Barr",
+  "region": "South",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": 0,
+  "seat": null
+ },
+ "Louisiana": {
+  "challenger": "Davis",
+  "challenger_party": "D",
+  "rep": "Letlow",
+  "region": "South",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": 0,
+  "seat": null
+ },
+ "Maine": {
+  "challenger": "Jackson",
+  "challenger_party": "D",
+  "rep": "Collins",
+  "region": "Northeast",
+  "rcv": true,
+  "rcv_to_r": {},
+  "incumbency": -1,
+  "seat": null
+ },
+ "Massachusetts": {
+  "challenger": "Markey",
+  "challenger_party": "D",
+  "rep": "Deaton",
+  "region": "Northeast",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": 1,
+  "seat": null
+ },
+ "Michigan": {
+  "challenger": "El-Sayed",
+  "challenger_party": "D",
+  "rep": "Rogers",
+  "region": "Midwest",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": 0,
+  "seat": null
+ },
+ "Minnesota": {
+  "challenger": "Flanagan",
+  "challenger_party": "D",
+  "rep": "Tafoya",
+  "region": "Midwest",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": 0,
+  "seat": null
+ },
+ "Mississippi": {
+  "challenger": "Colom",
+  "challenger_party": "D",
+  "rep": "Hyde-Smith",
+  "region": "South",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": -1,
+  "seat": null
+ },
+ "Montana": {
+  "challenger": "Bodnar",
+  "challenger_party": "I",
+  "rep": "Alme",
+  "region": "West",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": 0,
+  "seat": null
+ },
+ "Nebraska": {
+  "challenger": "Osborn",
+  "challenger_party": "I",
+  "rep": "Ricketts",
+  "region": "Midwest",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": 0,
+  "seat": null
+ },
+ "New Hampshire": {
+  "challenger": "Pappas",
+  "challenger_party": "D",
+  "rep": "Sununu",
+  "region": "Northeast",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": 0,
+  "seat": null
+ },
+ "New Jersey": {
+  "challenger": "Booker",
+  "challenger_party": "D",
+  "rep": "Murphy",
+  "region": "Northeast",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": 1,
+  "seat": null
+ },
+ "New Mexico": {
+  "challenger": "Lujan",
+  "challenger_party": "D",
+  "rep": "Marker",
+  "region": "West",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": 1,
+  "seat": null
+ },
+ "North Carolina": {
+  "challenger": "Cooper",
+  "challenger_party": "D",
+  "rep": "Whatley",
+  "region": "South",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": 0,
+  "seat": null
+ },
+ "Ohio": {
+  "challenger": "Brown",
+  "challenger_party": "D",
+  "rep": "Husted",
+  "region": "Midwest",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": -1,
+  "seat": "Special"
+ },
+ "Oklahoma": {
+  "challenger": "Thomas",
+  "challenger_party": "D",
+  "rep": "Hern",
+  "region": "South",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": 0,
+  "seat": null
+ },
+ "Oregon": {
+  "challenger": "Merkley",
+  "challenger_party": "D",
+  "rep": "Smith",
+  "region": "West",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": 1,
+  "seat": null
+ },
+ "Rhode Island": {
+  "challenger": "Reed",
+  "challenger_party": "D",
+  "rep": "McKay",
+  "region": "Northeast",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": 1,
+  "seat": null
+ },
+ "South Carolina": {
+  "challenger": "Andrews",
+  "challenger_party": "D",
+  "rep": "Graham",
+  "region": "South",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": 0,
+  "seat": null
+ },
+ "South Dakota": {
+  "challenger": "Bengs",
+  "challenger_party": "I",
+  "rep": "Rounds",
+  "region": "Midwest",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": 0,
+  "seat": null
+ },
+ "Tennessee": {
+  "challenger": "Bradshaw",
+  "challenger_party": "D",
+  "rep": "Hagerty",
+  "region": "South",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": -1,
+  "seat": null
+ },
+ "Texas": {
+  "challenger": "Talarico",
+  "challenger_party": "D",
+  "rep": "Paxton",
+  "region": "South",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": 0,
+  "seat": null
+ },
+ "Virginia": {
+  "challenger": "Warner",
+  "challenger_party": "D",
+  "rep": "Mizusawa",
+  "region": "South",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": 1,
+  "seat": null
+ },
+ "West Virginia": {
+  "challenger": "Anderson",
+  "challenger_party": "D",
+  "rep": "Capito",
+  "region": "South",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": -1,
+  "seat": null
+ },
+ "Wyoming": {
+  "challenger": "Byrd",
+  "challenger_party": "D",
+  "rep": "Hageman",
+  "region": "West",
+  "rcv": false,
+  "rcv_to_r": {},
+  "incumbency": 0,
+  "seat": null
+ }
+}

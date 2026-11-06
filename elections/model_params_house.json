@@ -1,0 +1,104 @@
+{
+ "as_of": "2026-11-03",
+ "poll_window_start": "2026-08-01",
+ "sims": 40000,
+ "scenario_sims": 20000,
+ "national_shift": 10.2,
+ "elasticity_k": 0.25,
+ "incumbency_bonus": 3.0,
+ "new_territory_factor": 0.5,
+ "overperformance_shrink": 0.5,
+ "weights": {
+  "half_life_days": 21,
+  "default_n": 400,
+  "n_cap": 1000,
+  "pop": {
+   "LV": 1.0,
+   "RV": 0.8,
+   "A": 0.6,
+   "null": 0.9
+  },
+  "partisan_sponsor": 0.5,
+  "partisan_shift": 4.5,
+  "lean_shift": 1.5,
+  "unverified": 0.85,
+  "superseded": 0.35,
+  "min_recent_polls": 2
+ },
+ "error": {
+  "national_sd": 3.0,
+  "regional_sd": 2.0,
+  "fundamentals_sd": 5.5,
+  "fundamentals_sd_open": 6.0,
+  "fundamentals_sd_new": 6.5,
+  "poll_state_sd": 4.5,
+  "single_poll_sd": 5.5,
+  "per_undecided": 0.15,
+  "t_df": 8,
+  "independent_extra_sd": 2.5
+ },
+ "tiers": [
+  [
+   "Safe",
+   0.99
+  ],
+  [
+   "Likely",
+   0.9
+  ],
+  [
+   "Lean",
+   0.75
+  ],
+  [
+   "Tilt",
+   0.6
+  ]
+ ],
+ "scenarios": [
+  {
+   "label": "Baseline (generic ballot shaded 1 pt toward R)",
+   "shift": 0
+  },
+  {
+   "label": "Generic ballot taken at face value (no shading)",
+   "shift": 1.0
+  },
+  {
+   "label": "Full historical generic-ballot bias (R+1.85)",
+   "shift": -0.85
+  },
+  {
+   "label": "Modest miss toward R (R+3 beyond baseline)",
+   "shift": -3
+  },
+  {
+   "label": "Large miss toward R (R+6, like 2014/2020-sized)",
+   "shift": -6
+  },
+  {
+   "label": "Modest miss toward D (D+3)",
+   "shift": 3
+  }
+ ],
+ "sources": {
+  "national_sd": "Final-2-week generic-ballot average vs national House vote, 2006-2024: RMSE 2.84, SD 2.27 (538 generic_topline_historical.csv)",
+  "generic_ballot_bias_adj": "That average overstated Democrats by 1.85 pts, in 7 of 10 cycles (standard error ~0.7). Half is applied; the full and zero versions are scenarios",
+  "regional_sd": "Census-region share of district error ~1.0-1.3; state-level clustering ~3.1 (538 election-results recompute); 2.0 used",
+  "fundamentals_sd": "Residual SD of partisan lean + national swing + incumbency in competitive seats 6.2, ~5.5 with past overperformance (2016-2024 panel recompute)",
+  "fundamentals_sd_open": "Measured 5.5 on only 86 open seats; set to 6.0 since open seats are less predictable (538)",
+  "fundamentals_sd_new": "2022 redistricting year had the highest incumbent residual SD, 6.5",
+  "poll_state_sd": "Nonpartisan district-poll error net of the national miss, 4.2-5.8 (538 raw_polls 2006-2022, final 21 days)",
+  "single_poll_sd": "Within-race spread of independent district polls 4.9-5.8",
+  "partisan_shift": "Released internals lean toward the sponsor by 4.4 (D) to 5.6 (R); 4.6-4.8 vs independent polls of the same race; 538 assumes 4",
+  "incumbency_bonus": "Regression estimates 4.0-6.1 are inflated by selection; Split Ticket ~3 (2024), Annotations 2.6; 3.0 used",
+  "overperformance_shrink": "0.38-0.71 of a member's overperformance persisted on the same lines; not applied on substantially new lines",
+  "elasticity_k": "Swing near-uniform to a lean of ~30, 0.5-0.9x in the most partisan seats; fitted k 0.17-0.77; 0.25 used",
+  "t_df": "Fundamentals residuals have excess kurtosis 1.23 (implies ~9 df); 8 used",
+  "national_shift": "Generic ballot D+8.7 (Oct 2026 average) minus 2024 national presidential margin R+1.5",
+  "overperf_cap": "Judgment: 2024 results of 60+ points (usually uncontested) are ignored, and carried-forward overperformance is capped at ±15 so one odd race can't dominate"
+ },
+ "generic_ballot_bias_adj": -1.0,
+ "overperf_max_margin": 60,
+ "overperf_cap": 15
+}

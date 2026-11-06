@@ -1,0 +1,5 @@
+# The repo root ignores *.png; the paper figure is part of the project.
+!paper_fig1.png
+__pycache__/
+*.pyc
+results.prev.json

@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex, nofollow">
+<title>2026 Midterm Forecasts</title>
+<style>
+:root { --bg:#fbfaf7; --fg:#1d1d1f; --muted:#6b6b70; --line:#e3e1db; --card:#fff;
+  --dem:#1f5fbf; --dem-bg:#e8f0fc; --rep:#c0392b; --rep-bg:#fcebe9; --ind:#7a5c00; --ind-bg:#f6efd9;
+  --dem-mark:#1f5fbf; --rep-mark:#c0392b; --ind-mark:#a07800;
+  --conf:#2e7d4f; --conf-bg:#e6f4ec; --deep:#a35a00; --deep-bg:#fdf1e1; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --bg:#141416; --fg:#ececef; --muted:#9a9aa2; --line:#2c2c31; --card:#1c1c20;
+  --dem:#7fb0ff; --dem-bg:#1a2740; --rep:#ff8a7d; --rep-bg:#3a1c1a; --ind:#e3c15a; --ind-bg:#332a12;
+  --dem-mark:#4f8be8; --rep-mark:#e0604f; --ind-mark:#c9a43a;
+  --conf:#6fd39a; --conf-bg:#173024; --deep:#f0b366; --deep-bg:#3a2a14; } }
+:root[data-theme="dark"] { --bg:#141416; --fg:#ececef; --muted:#9a9aa2; --line:#2c2c31; --card:#1c1c20;
+  --dem:#7fb0ff; --dem-bg:#1a2740; --rep:#ff8a7d; --rep-bg:#3a1c1a; --ind:#e3c15a; --ind-bg:#332a12;
+  --dem-mark:#4f8be8; --rep-mark:#e0604f; --ind-mark:#c9a43a;
+  --conf:#6fd39a; --conf-bg:#173024; --deep:#f0b366; --deep-bg:#3a2a14; }
+* { box-sizing:border-box }
+body { margin:0; background:var(--bg); color:var(--fg); font:14px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+main { max-width:1400px; margin:0 auto; padding:24px 16px 64px; }
+h1 { margin:0 0 4px; font-size:26px } h2 { font-size:17px; margin:28px 0 8px } .lede { color:var(--muted); margin:0 0 20px; max-width:900px }
+.summary { display:flex; flex-wrap:wrap; gap:12px; margin-bottom:16px }
+.card { background:var(--card); border:1px solid var(--line); border-radius:8px; padding:12px 16px; min-width:150px }
+.card b { display:block; font-size:24px; font-variant-numeric:tabular-nums } .card span { color:var(--muted); font-size:12px }
+.grid2 { display:grid; grid-template-columns:minmax(0,1.4fr) minmax(0,1fr); gap:16px }
+@media (max-width:900px) { .grid2 { grid-template-columns:minmax(0,1fr) } }
+.scroll { overflow-x:auto }
+.panel { background:var(--card); border:1px solid var(--line); border-radius:8px; padding:12px 16px }
+.panel h3 { margin:0 0 6px; font-size:14px }
+svg { width:100%; height:auto; display:block }
+svg text { fill:var(--muted); font-size:11px } svg text.lbl { fill:var(--fg); font-weight:600 }
+svg .axis { stroke:var(--line) } svg .grid { stroke:var(--line); stroke-dasharray:2 3 }
+svg .majority { stroke:var(--fg); stroke-dasharray:4 3 }
+svg .bar.dem { fill:var(--dem-mark) } svg .bar.rep { fill:var(--rep-mark) } svg .hit { fill:transparent; cursor:default }
+.legend { display:flex; gap:14px; font-size:12px; color:var(--muted); margin-top:4px }
+.legend i { display:inline-block; width:10px; height:10px; border-radius:2px; margin-right:4px; vertical-align:-1px }
+#tip { position:fixed; pointer-events:none; background:var(--fg); color:var(--bg); font-size:12px; padding:4px 8px; border-radius:4px; display:none; z-index:10 }
+table.small { width:100%; border-collapse:collapse; font-size:13px }
+table.small td, table.small th { padding:4px 6px; border-bottom:1px solid var(--line); text-align:left }
+table.small th { color:var(--muted); font-weight:600; font-size:11px; text-transform:uppercase }
+.method { background:var(--card); border:1px solid var(--line); border-radius:8px; padding:12px 16px; margin-bottom:16px; color:var(--muted) }
+.method b { color:var(--fg) } .method ul { margin:4px 0; padding-left:18px }
+.callout { border-left:4px solid var(--deep) }
+.wrap { overflow-x:auto; border:1px solid var(--line); border-radius:8px; background:var(--card) }
+table.main { border-collapse:collapse; width:100%; min-width:1150px }
+table.main > thead th, table.main > tbody > tr > td { text-align:left; padding:8px 10px; border-bottom:1px solid var(--line); vertical-align:top }
+table.main > thead th { position:sticky; top:0; background:var(--card); font-size:12px; text-transform:uppercase; letter-spacing:.04em; color:var(--muted) }
+td.dem { color:var(--dem) } td.rep { color:var(--rep) }
+td.num, .num { font-variant-numeric:tabular-nums; white-space:nowrap } table.main td.num { font-weight:600 }
+td.st { font-weight:600; min-width:150px; max-width:220px }
+.sub { display:block; font-size:11px; color:var(--muted); font-weight:400 }
+td.win { font-weight:700; white-space:nowrap } td.win.dem { background:var(--dem-bg); color:var(--dem) } td.win.rep { background:var(--rep-bg); color:var(--rep) } td.win.ind { background:var(--ind-bg); color:var(--ind) }
+.pbar { display:flex; width:120px; height:10px; border-radius:5px; overflow:hidden; gap:2px; background:var(--card) }
+.pbar i { display:block; height:100% } .pbar i.dem { background:var(--dem-mark) } .pbar i.rep { background:var(--rep-mark) } .pbar i.ind { background:var(--ind-mark) }
+.tag { font-size:11px; font-weight:600; padding:2px 8px; border-radius:10px; white-space:nowrap }
+.tag.confident { background:var(--conf-bg); color:var(--conf) } .tag.deep { background:var(--deep-bg); color:var(--deep) }
+.tag.dem { background:var(--dem-bg); color:var(--dem) } .tag.rep { background:var(--rep-bg); color:var(--rep) } .tag.soft { border:1px solid var(--line); color:var(--muted) }
+tr.detail td { padding:0 10px 8px; border-bottom:2px solid var(--line) }
+tr.race td { border-bottom:none }
+summary { cursor:pointer; color:var(--deep); font-size:12px; font-weight:600; padding:4px 0 }
+.dd { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:8px 20px; padding:8px 0 }
+.dd .wide { grid-column:1/-1 } .dd h4 { margin:6px 0 2px; font-size:12px; text-transform:uppercase; color:var(--muted) }
+.dd p, .dd ul { margin:2px 0 } .dd a { color:var(--dem) }
+.dd .ctx { border-top:1px dashed var(--line); padding-top:6px; color:var(--muted) }
+table.inner { border-collapse:collapse; width:100%; font-size:12px }
+.dd .wide { overflow-x:auto }
+table.inner td, table.inner th { padding:3px 6px; border-bottom:1px solid var(--line); text-align:left }
+table.inner th { color:var(--muted); font-weight:600 }
+.note { font-size:11px; color:var(--muted) } .muted { color:var(--muted) }
+ul.claims { padding-left:18px } .st-confirmed { color:var(--conf); font-weight:600 } .st-false { color:var(--rep); font-weight:700 } .st-unconfirmed { color:var(--deep); font-weight:600 }
+.filters { margin:0 0 10px; display:flex; gap:8px; flex-wrap:wrap }
+.filters button { background:var(--card); color:var(--fg); border:1px solid var(--line); border-radius:14px; padding:4px 12px; cursor:pointer }
+.filters button.on { background:var(--fg); color:var(--bg) }
+footer { color:var(--muted); font-size:12px; margin-top:16px }
+.sim { border:1px solid var(--line); border-radius:8px; background:var(--card); padding:14px 16px; margin-bottom:16px }
+.sim h2 { margin:0 0 4px }
+.levers { display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:12px 24px; margin:12px 0 }
+.lever label { display:flex; justify-content:space-between; font-weight:600; font-size:13px }
+.lever output { font-variant-numeric:tabular-nums }
+.lever input[type=range] { width:100%; accent-color:var(--fg) }
+.lever .ends { display:flex; justify-content:space-between; font-size:11px; color:var(--muted) }
+.presets { display:flex; flex-wrap:wrap; gap:4px; margin-top:4px }
+.presets button, .seg button, .sim .btn { background:var(--card); color:var(--fg); border:1px solid var(--line); border-radius:12px; padding:3px 10px; font-size:12px; cursor:pointer; font-family:inherit }
+.seg { display:inline-flex; flex-wrap:wrap; gap:4px }
+.seg button[aria-pressed="true"] { background:var(--fg); color:var(--bg); border-color:var(--fg) }
+.seg button.dem[aria-pressed="true"] { background:var(--dem-mark); border-color:var(--dem-mark); color:#fff }
+.seg button.rep[aria-pressed="true"] { background:var(--rep-mark); border-color:var(--rep-mark); color:#fff }
+.seg button.ind[aria-pressed="true"] { background:var(--ind-mark); border-color:var(--ind-mark); color:#fff }
+em.up, em.dn { font-style:normal; font-size:12px; font-weight:600; margin-left:6px } em.up { color:var(--conf) } em.dn { color:var(--rep) }
+#sim-status-row { font-size:12px; color:var(--muted); margin:0 0 8px; display:flex; flex-wrap:wrap; gap:8px; align-items:center }
+#sim-chart { max-width:820px }
+#sim-races { max-width:820px; margin-top:8px }
+.lrow { display:grid; grid-template-columns:minmax(0,1fr) 130px auto; gap:8px; align-items:center; padding:6px 0; border-bottom:1px solid var(--line) }
+.lrow.locked .lst { text-decoration:underline dotted }
+.lst { font-weight:600 } .lbar .pbar { width:120px }
+.pbar i.ch, .pbar i.rp { transition:width .15s }
+@media (max-width:560px) { .lrow { grid-template-columns:minmax(0,1fr) auto } .lrow .seg { grid-column:1/-1 } }
+
+.hubs { display:grid; grid-template-columns:repeat(auto-fit,minmax(min(100%,280px),1fr)); gap:16px; margin:16px 0 }
+a.hub { color:inherit; text-decoration:none; display:flex; flex-direction:column; gap:2px; padding:16px }
+a.hub:hover { border-color:var(--fg) } a.hub .k { font-weight:600; color:var(--fg); font-size:13px }
+a.hub .miss { color:var(--fg); margin-top:0 } a.hub strong { color:var(--fg) }
+a.hub b { font-size:36px } a.hub p { color:var(--muted); font-size:13px; margin:8px 0 } a.hub .go { color:var(--dem); font-weight:600; font-size:13px }
+</style></head><body><main>
+<nav style="font-size:13px;color:var(--muted);margin:0 0 12px">2026 midterms: <b>Overview</b> · <a href="senate.html" style="color:inherit">Senate</a> · <a href="house.html" style="color:inherit">House</a> · <a href="governors.html" style="color:inherit">Governors</a> · <a href="scorecard.html" style="color:inherit">Scorecard</a></nav>
+<h1>2026 Midterm Forecasts</h1>
+<p class="lede">Probabilistic forecasts for the Senate, House and governor races on Nov 3, 2026, built from individual polls and a
+documented fundamentals model with correlated polling error, and no race-by-race judgment calls. Each sheet has levers to try your own scenario:
+a polling miss, more or less uncertainty, and calling the too-close-to-call races yourself. Data as of 2026-11-03.</p>
+<p class="lede">The headline numbers assume the polls are right on average. Each card also shows the same simulation with every race
+shifted 2 or 3 points toward Republicans (R+2, R+3), the size of polling miss seen in several recent elections. For the House the
+shift comes on top of the 1-point shading toward Republicans already in the forecast.</p>
+<div class="hubs"><a class="card hub" href="senate.html"><span class="k">Senate · 35 seats</span><b style="color:var(--dem)">79%</b><span>Democrats win control (51+)</span><p>Median <strong>53</strong> Democratic and independent seats, <strong>47</strong> Republican seats. Republicans <strong>19%</strong>; unaligned independents decide <strong>2%</strong>.</p><p class="miss">If the polls overstate Democrats:<br>R+2: Democrats have a <strong>57%</strong> chance of winning control, with a median of <strong>51</strong> Democratic and independent seats and <strong>49</strong> Republican seats.<br>R+3: Republicans have a <strong>53%</strong> chance of keeping control, with a median of <strong>50</strong> Democratic and independent seats and <strong>50</strong> Republican seats. A 50–50 Senate goes to the party of the Vice President, a Republican.</p><span class="go">Open the senate sheet, with levers →</span></a><a class="card hub" href="house.html"><span class="k">House · 435 seats, state by state</span><b style="color:var(--dem)">87%</b><span>Democrats win the House (218+)</span><p>Median <strong>231</strong> Democratic seats, <strong>204</strong> Republican seats. Democratic seats 80% range <strong>216–252</strong>.</p><p class="miss">If the polls overstate Democrats:<br>R+2: Democrats have a <strong>69%</strong> chance of winning control, with a median of <strong>223</strong> Democratic seats and <strong>212</strong> Republican seats.<br>R+3: Democrats have a <strong>56%</strong> chance of winning control, with a median of <strong>219</strong> Democratic seats and <strong>216</strong> Republican seats.</p><span class="go">Open the house sheet, with levers →</span></a><a class="card hub" href="governors.html"><span class="k">Governors · 36 races</span><b style="color:var(--dem)">82%</b><span>Democrats hold 26+ governorships</span><p>Median <strong>28</strong> Democratic governors, <strong>22</strong> Republican governors. Democratic governors 80% range <strong>24–31</strong>.</p><p class="miss">If the polls overstate Democrats:<br>R+2: Democrats have a <strong>62%</strong> chance of winning a majority of governorships, with a median of <strong>26</strong> Democratic governors and <strong>24</strong> Republican governors.<br>R+3: Democrats have a <strong>49%</strong> chance of winning a majority of governorships, with a median of <strong>25</strong> Democratic governors and <strong>25</strong> Republican governors. Republicans have <strong>37%</strong>; in the rest, governorships split 25–25.</p><span class="go">Open the governors sheet, with levers →</span></a></div>
+<details class="history" open style="margin:24px 0 0;font-size:13px"><summary style="cursor:pointer;font-weight:600">Update history (7)</summary><ol style="list-style:none;padding:0;margin:10px 0 0"><li style="margin:0 0 10px"><b>Nov 3, 2026</b> · Final polls released Nov 1-3.<ul style="margin:4px 0 0;padding-left:18px"><li>Senate: Democratic control unchanged at 79%; median D + independent seats unchanged at 53. 0 new polls.</li><li>House: Democratic control unchanged at 87%; median Democratic seats unchanged at 231. 6 new polls.</li><li>Governors: Democrats 26+ unchanged at 82%; median Democratic governors unchanged at 28. 0 new polls.</li></ul></li><li style="margin:0 0 10px"><b>Nov 2, 2026</b> · New polls released Oct 29-Nov 2, including the final AtlasIntel, Trafalgar, Rasmussen, Emerson, UNH and Research Co. state polls.<ul style="margin:4px 0 0;padding-left:18px"><li>Senate: Democratic control 77% → 79%; median D + independent seats unchanged at 53. 48 new polls.</li><li>House: Democratic control unchanged at 87%; median Democratic seats 232 → 231. 5 new polls.</li><li>Governors: Democrats 26+ 74% → 82%; median Democratic governors 27 → 28. 44 new polls.</li><li>Same day: each card now also shows the forecast if every race shifts 2 or 3 points toward Republicans (R+2, R+3): the favored party&#x27;s chance and each party&#x27;s median seats.</li><li>Same day: seat counts are now the median of the simulations (half land at or below it) instead of the average rounded down.</li></ul></li><li style="margin:0 0 10px"><b>Nov 1, 2026</b> · New polls released Oct 29-Nov 1, including the final YouGov, Times/Siena and UNH state polls.<ul style="margin:4px 0 0;padding-left:18px"><li>Senate: Democratic control 74% → 77%; expected D + independent seats unchanged at 52. 42 new polls.</li><li>House: Democratic control 86% → 87%; expected Democratic seats unchanged at 232. 8 new polls.</li><li>Governors: Democrats 26+ 71% → 74%; expected Democratic governors 26 → 27. 42 new polls.</li></ul></li><li style="margin:0 0 10px"><b>Oct 30, 2026</b> · New polls released Oct 28-30 (Emerson, Washington Post/Schar School and Quantus; PPIC California).<ul style="margin:4px 0 0;padding-left:18px"><li>Senate: Democratic control 73% → 74%; expected D + independent seats unchanged at 52. 3 new polls.</li><li>House: Democratic control unchanged at 86%; expected Democratic seats unchanged at 233. 0 new polls.</li><li>Governors: Democrats 26+ 70% → 71%; expected Democratic governors unchanged at 26. 3 new polls.</li><li>Same day: expected House seats are shown as whole seats, rounded down.</li></ul></li><li style="margin:0 0 10px"><b>Oct 29, 2026</b> · New polls released Oct 26–29, including CNN/SSRS (Michigan, Maine, Texas, Kansas), NYT/Siena (Florida, Minnesota, South Carolina), Marquette (Wisconsin) and Suffolk (Ohio).<ul style="margin:4px 0 0;padding-left:18px"><li>Senate: Democratic control 69% → 73%; expected D + independent seats unchanged at 52. 23 new polls.</li><li>House: Democratic control unchanged at 86%; expected Democratic seats unchanged at 233. 5 new polls.</li><li>Governors: Democrats 26+ 65% → 70%; expected Democratic governors unchanged at 26. 25 new polls.</li></ul></li><li style="margin:0 0 10px"><b>Oct 27, 2026</b> · 55 new polls released Oct 22–27 (Senate 15, House 23, Governors 17), including Marist in Maine, Glengariff in Michigan and a six-state Echelon survey.<ul style="margin:4px 0 0;padding-left:18px"><li>Senate: Democratic control unchanged at 69%; expected D + independent seats unchanged at 52. 15 new polls.</li><li>House: Democratic control 88% → 86%; expected Democratic seats unchanged at 233. 23 new polls.</li><li>Governors: Democrats 26+ 67% → 65%; expected Democratic governors unchanged at 26. 17 new polls.</li></ul></li><li style="margin:0 0 10px"><b>Oct 26, 2026</b> · First published. Forecast as of Oct 25, using polls with fieldwork through Oct 23.<ul style="margin:4px 0 0;padding-left:18px"><li>Same day: the footer now says a 70% favorite loses 3 times in 10 &quot;in simulations&quot;.</li><li>Same day: expected Senate and governor seats are shown as whole seats, rounded down.</li></ul></li></ol></details>
+<footer>Forecasts, not predictions of certainty: a 70% favorite loses 3 times in 10 in simulations.</footer>
+</main></body></html>

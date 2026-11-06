@@ -1,0 +1,345 @@
+[
+ {
+  "date": "2026-10-26",
+  "why": "First published. Forecast as of Oct 25, using polls with fieldwork through Oct 23.",
+  "pages": {
+   "index.html": [
+    "Same day: the footer now says a 70% favorite loses 3 times in 10 \"in simulations\".",
+    "Same day: expected Senate and governor seats are shown as whole seats, rounded down."
+   ],
+   "senate.html": [
+    "Same day: expected seats are shown as whole seats, rounded down."
+   ],
+   "house.html": [],
+   "governors.html": [
+    "Same day: expected governors are shown as whole seats, rounded down."
+   ]
+  }
+ },
+ {
+  "date": "2026-10-27",
+  "why": "55 new polls released Oct 22–27 (Senate 15, House 23, Governors 17), including Marist in Maine, Glengariff in Michigan and a six-state Echelon survey.",
+  "pages": {
+   "index.html": [
+    "Senate: Democratic control unchanged at 69%; expected D + independent seats unchanged at 52. 15 new polls.",
+    "House: Democratic control 88% → 86%; expected Democratic seats unchanged at 233. 23 new polls.",
+    "Governors: Democrats 26+ 67% → 65%; expected Democratic governors unchanged at 26. 17 new polls."
+   ],
+   "senate.html": [
+    "Senate: Democratic control unchanged at 69%; expected D + independent seats unchanged at 52.",
+    "Florida: Nixon 11% → 9%. New: RedBox Research (ended Oct 23); Echelon Insights (ended Oct 23).",
+    "Georgia: Ossoff 96% → 98%. New: Echelon Insights (ended Oct 23).",
+    "Iowa: Turek 51% → 53%. New: Echelon Insights (ended Oct 23).",
+    "Kansas: Hamilton 52% → 44% (leader changed). New: RedBox Research (ended Oct 23).",
+    "Maine: Jackson 75% → 78%. New: Marist University (ended Oct 25); Echelon Insights (ended Oct 23).",
+    "Michigan: El-Sayed 77% → 78%. New: Glengariff Group (ended Oct 22); Michigan State University/YouGov (ended Oct 19).",
+    "Nebraska: Osborn 41% → 43%. New: Echelon Insights (ended Oct 23).",
+    "New Hampshire: Pappas unchanged at 94%. New: Rasmussen Reports (ended Oct 23).",
+    "North Carolina: Cooper unchanged at 98%. New: Quantus Insights (ended Oct 25).",
+    "Ohio: Brown 75% → 72%. New: RedBox Research (ended Oct 23); Echelon Insights (ended Oct 23).",
+    "South Carolina: Andrews 32% → 37%. New: Targoz Market Research (ended Oct 25)."
+   ],
+   "house.html": [
+    "House: Democratic control 88% → 86%; expected Democratic seats unchanged at 233.",
+    "CA-48: von Wilpert 96% → 94%. New: RedBox Research (ended Oct 23).",
+    "FL-13: Gray 21% → 16%. New: RedBox Research (ended Oct 23).",
+    "FL-14: Castor 64% → 50%. New: RedBox Research (ended Oct 23).",
+    "FL-22: Dandiya 36% → 32%. New: RedBox Research (ended Oct 23).",
+    "FL-25: Moskowitz 46% → 49%. New: RedBox Research (ended Oct 23).",
+    "FL-27: Rodriguez 6% → 5%. New: RedBox Research (ended Oct 23).",
+    "NY-17: Conley 74% → 68%. New: RedBox Research (ended Oct 23).",
+    "PA-1: Harvie 53% → 48% (leader changed). New: RedBox Research (ended Oct 23).",
+    "PA-7: Brooks 84% → 80%. New: RedBox Research (ended Oct 23).",
+    "PA-8: Cognetti 73% → 69%. New: RedBox Research (ended Oct 23).",
+    "PA-10: Stelson 73% → 68%. New: RedBox Research (ended Oct 23).",
+    "OH-1: Landsman unchanged at 87%. New: RedBox Research (ended Oct 23).",
+    "OH-7: Poindexter 55% → 30% (leader changed). New: RedBox Research (ended Oct 23).",
+    "OH-9: Kaptur 34% → 49%. New: RedBox Research (ended Oct 23).",
+    "NC-1: Davis 72% → 57%. New: RedBox Research (ended Oct 23).",
+    "NC-11: Ager 80% → 70%. New: RedBox Research (ended Oct 23).",
+    "AZ-1: Shah 78% → 76%. New: RedBox Research (ended Oct 23).",
+    "AZ-6: Mendoza 70% → 76%. New: RedBox Research (ended Oct 23).",
+    "NV-3: Lee 96% → 94%. New: RedBox Research (ended Oct 23).",
+    "MT-1: Forstag 42% → 33%. New: RedBox Research (ended Oct 23)."
+   ],
+   "governors.html": [
+    "Governors: Democrats 26+ 67% → 65%; expected Democratic governors unchanged at 26.",
+    "Alaska: Kreiss-Tomkins 92% → 89%. New: Alaska Survey Research (ended Oct 25).",
+    "Arizona: Hobbs 96% → 93%. New: RedBox Research (ended Oct 23).",
+    "Florida: Jolly 14% → 13%. New: RedBox Research (ended Oct 23); Echelon Insights (ended Oct 23).",
+    "Georgia: Bottoms 46% → 51% (leader changed). New: Echelon Insights (ended Oct 23).",
+    "Iowa: Sand 88% → 87%. New: Echelon Insights (ended Oct 23).",
+    "Kansas: Holscher 19% → 16%. New: RedBox Research (ended Oct 23).",
+    "Maine: Pingree 98% → 97%. New: Marist (ended Oct 25); Echelon Insights (ended Oct 23).",
+    "Michigan: Benson 91% → 90%. New: RedBox Research (ended Oct 23); Glengariff Group (ended Oct 22).",
+    "Nebraska: Walz 14% → 12%. New: Echelon Insights (ended Oct 23).",
+    "Nevada: Ford 26% → 32%. New: RedBox Research (ended Oct 23).",
+    "Ohio: Acton 67% → 63%. New: RedBox Research (ended Oct 23); Echelon Insights (ended Oct 23).",
+    "South Carolina: Johnson 2% → 3%. New: Targoz Market Research (ended Oct 25).",
+    "Vermont: Janoo unchanged at 44%. New: State Navigate (ended Oct 25)."
+   ]
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "why": "Page change only; no new polls and no change to the forecast.",
+  "pages": {
+   "senate.html": [
+    "Too-close-to-call races now means every race where the model gives either side 20% to 80% (was 25% to 75% in “Try your own scenarios” and Toss-up or Tilt in “Where it’s decided”). Both sections now list the same 9 races, closest first, adding Maine (Jackson 78%) and Michigan (El-Sayed 78%).",
+    "Race chances are now quoted for the candidate the model favors, not always the Democrat (e.g. South Carolina reads Graham 63%, not Andrews 37%)."
+   ],
+   "governors.html": [
+    "Race chances are now quoted for the candidate the model favors, not always the Democrat (e.g. Texas reads Abbott 79%, not Hinojosa 21%).",
+    "Too-close-to-call races now means every race where the model gives either side 20% to 80%, as on the Senate page (was Lean or closer in “Where it’s decided” and 25% to 75% in “Try your own scenario”). Both sections now list the same races, closest first."
+   ],
+   "house.html": [
+    "Race chances are now quoted for the party the model favors, not always the Democrat (e.g. AZ-2 reads R 70%, not D 30%). The scenario list's note now says “either side between 25% and 75%”."
+   ]
+  }
+ },
+ {
+  "date": "2026-10-29",
+  "why": "New polls released Oct 26–29, including CNN/SSRS (Michigan, Maine, Texas, Kansas), NYT/Siena (Florida, Minnesota, South Carolina), Marquette (Wisconsin) and Suffolk (Ohio).",
+  "pages": {
+   "index.html": [
+    "Senate: Democratic control 69% → 73%; expected D + independent seats unchanged at 52. 23 new polls.",
+    "House: Democratic control unchanged at 86%; expected Democratic seats unchanged at 233. 5 new polls.",
+    "Governors: Democrats 26+ 65% → 70%; expected Democratic governors unchanged at 26. 25 new polls."
+   ],
+   "senate.html": [
+    "Senate: Democratic control 69% → 73%; expected D + independent seats unchanged at 52.",
+    "Alabama: Wess <1% → 1%. New: Chism Strategies (ended Oct 24).",
+    "Florida: Nixon 9% → 10%. New: Siena University (ended Oct 25); St. Pete Polls (ended Oct 27); ActiVote (ended Oct 27).",
+    "Iowa: Turek unchanged at 53%. New: co/efficient (ended Oct 28).",
+    "Kansas: Hamilton 44% → 52% (leader changed). New: SSRS (ended Oct 26).",
+    "Maine: Jackson 78% → 79%. New: SSRS (ended Oct 26).",
+    "Massachusetts: Markey unchanged at >99%. New: YouGov (ended Oct 18).",
+    "Michigan: El-Sayed 78% → 82%. New: SSRS (ended Oct 27); Mitchell Research & Communications (ended Oct 27).",
+    "Minnesota: Flanagan 85% → 92%. New: Siena University (ended Oct 26); Victory Insights (ended Oct 22).",
+    "Montana: Bodnar 2% → 3%. New: Concord Public Opinion Partners (ended Oct 23).",
+    "New Hampshire: Pappas unchanged at 94%. New: YouGov (ended Oct 19).",
+    "North Carolina: Cooper unchanged at 98%. New: High Point University/YouGov (ended Oct 20).",
+    "Ohio: Brown unchanged at 72%. New: Suffolk University (ended Oct 26).",
+    "South Carolina: Andrews 37% → 31%. New: Siena University (ended Oct 26); The Citadel (ended Oct 25); East Carolina University (ended Oct 24).",
+    "Texas: Talarico 66% → 71%. New: SSRS (ended Oct 27); YouGov (ended Oct 21); Texas Southern University (ended Oct 25); YouGov Blue (ended Oct 26).",
+    "Deep-dive flag narrowed: a race is now flagged for a deep dive when the swing is 6 points or less (was 10). 16 → 9 races flagged. The forecast is unchanged; the flag only marks which races get a closer look."
+   ],
+   "house.html": [
+    "House: Democratic control unchanged at 86%; expected Democratic seats unchanged at 233.",
+    "PA-7: Brooks 80% → 83%. New: Muhlenberg College (ended Oct 15).",
+    "IN-5: Ford 6% → 9%. New: Quantus Insights (ended Oct 22).",
+    "VA-1: Taylor 41% → 39%. New: DCCC Targeting Team (ended Oct 25).",
+    "AL-2: Figures 20% → 29%. New: Remington Research Group (ended Oct 25).",
+    "Deep-dive flag narrowed: a race is now flagged for a deep dive when the swing is 6 points or less (was 10). 118 → 80 races flagged. The forecast is unchanged; the flag only marks which races get a closer look."
+   ],
+   "governors.html": [
+    "Governors: Democrats 26+ 65% → 70%; expected Democratic governors unchanged at 26.",
+    "Arizona: Hobbs 93% → 94%. New: HighGround Inc. (ended Oct 25).",
+    "Florida: Jolly 13% → 14%. New: New York Times/Siena (ended Oct 25); St. Pete Polls (ended Oct 27).",
+    "Georgia: Bottoms 51% → 56%. New: State Navigate (ended Oct 27).",
+    "Kansas: Holscher unchanged at 16%. New: SSRS (ended Oct 26).",
+    "Maine: Pingree 97% → 98%. New: SSRS (ended Oct 26).",
+    "Michigan: Benson 90% → 94%. New: CNN/SSRS (ended Oct 27); Michigan State University/YouGov (ended Oct 19).",
+    "Minnesota: Klobuchar 94% → 98%. New: New York Times/Siena (ended Oct 26); Victory Insights (ended Oct 22); State Navigate (ended Oct 28).",
+    "Nevada: Ford 32% → 36%. New: Hart Research Associates (ended Oct 25).",
+    "New Hampshire: Warmington 5% → 6%. New: UMass Lowell/YouGov (ended Oct 19); Rasmussen Reports (ended Oct 23).",
+    "New York: Hochul unchanged at >99%. New: Siena College Research Institute (ended Oct 22); Marist University (ended Oct 25).",
+    "Ohio: Acton 63% → 64%. New: Suffolk University (ended Oct 26).",
+    "South Carolina: Johnson unchanged at 3%. New: New York Times/Siena (ended Oct 26); The Citadel (ended Oct 25).",
+    "Texas: Hinojosa 21% → 23%. New: SSRS (ended Oct 27); Texas Southern University (ended Oct 25); YouGov (ended Oct 21); YouGov Blue (ended Oct 26).",
+    "Wisconsin: Crowley 79% → 88%. New: Marquette Law School (ended Oct 22); Wick (ended Oct 23).",
+    "Deep-dive flag narrowed: a race is now flagged for a deep dive when the swing is 6 points or less (was 10). 17 → 11 races flagged. The forecast is unchanged; the flag only marks which races get a closer look."
+   ]
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "why": "New polls released Oct 28-30 (Emerson, Washington Post/Schar School and Quantus; PPIC California).",
+  "pages": {
+   "index.html": [
+    "Senate: Democratic control 73% → 74%; expected D + independent seats unchanged at 52. 3 new polls.",
+    "House: Democratic control unchanged at 86%; expected Democratic seats unchanged at 233. 0 new polls.",
+    "Governors: Democrats 26+ 70% → 71%; expected Democratic governors unchanged at 26. 3 new polls.",
+    "Same day: expected House seats are shown as whole seats, rounded down."
+   ],
+   "senate.html": [
+    "Senate: Democratic control 73% → 74%; expected D + independent seats unchanged at 52.",
+    "Kansas: Hamilton 52% → 65%. New: Emerson College (ended Oct 28); Washington Post/Schar School (ended Oct 26).",
+    "Texas: Talarico 71% → 69%. New: Quantus Insights (ended Oct 28).",
+    "Same day: the race table's \"10-pt rule\" column is renamed \"6-pt rule\" to match the deep-dive cutoff."
+   ],
+   "house.html": [
+    "House: Democratic control unchanged at 86%; expected Democratic seats unchanged at 233.",
+    "Same day: the too-close-to-call band widened from 25–75% to 20–80%, matching the Senate and governors (32 → 40 districts).",
+    "Same day: expected seats are shown as whole seats, rounded down.",
+    "Same day: the methods explain why the generic ballot is shaded toward Republicans while Senate and governor polls are not.",
+    "Same day: the race table's \"10-pt rule\" column is renamed \"6-pt rule\" to match the deep-dive cutoff."
+   ],
+   "governors.html": [
+    "Governors: Democrats 26+ 70% → 71%; expected Democratic governors unchanged at 26.",
+    "California: Becerra unchanged at >99%. New: PPIC (ended Oct 22).",
+    "Kansas: Holscher 16% → 27%. New: Emerson College (ended Oct 28); Washington Post/Schar School (ended Oct 26).",
+    "Same day: the race table's \"10-pt rule\" column is renamed \"6-pt rule\" to match the deep-dive cutoff."
+   ]
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "why": "New polls released Oct 29-Nov 1, including the final YouGov, Times/Siena and UNH state polls.",
+  "pages": {
+   "index.html": [
+    "Senate: Democratic control 74% → 77%; expected D + independent seats unchanged at 52. 42 new polls.",
+    "House: Democratic control 86% → 87%; expected Democratic seats unchanged at 232. 8 new polls.",
+    "Governors: Democrats 26+ 71% → 74%; expected Democratic governors 26 → 27. 42 new polls."
+   ],
+   "senate.html": [
+    "Senate: Democratic control 74% → 77%; expected D + independent seats unchanged at 52.",
+    "Alaska: Peltola 57% → 53%. New: Alaska Survey Research (ended Oct 29); New York Times/Siena (ended Oct 30).",
+    "Florida: Nixon 10% → 12%. New: Big Data Poll (ended Oct 30); Stetson University (ended Oct 30); InsiderAdvantage (ended Oct 29); Political Matrix/The Listener Group (ended Oct 28); Workbench Strategy (ended Oct 22).",
+    "Illinois: Stratton unchanged at 99%. New: ActiVote (ended Oct 30).",
+    "Iowa: Turek 53% → 54%. New: YouGov (ended Oct 29); New York Times/Siena (ended Nov 1).",
+    "Kansas: Hamilton unchanged at 65%. New: YouGov (ended Oct 29); New York Times/Siena (ended Nov 1).",
+    "Louisiana: Davis 8% → 18%. New: Hart Research Associates (ended Oct 29).",
+    "Maine: Jackson 79% → 86%. New: YouGov (ended Oct 29); Data for Progress (ended Oct 27); New York Times/Siena (ended Nov 1); University of New Hampshire (ended Oct 31).",
+    "Michigan: El-Sayed 82% → 84%. New: YouGov (ended Oct 29); Data for Progress (ended Oct 25); Rasmussen Reports (ended Oct 29); Michigan State University/Verasight (ended Oct 23); Upswing Research (ended Oct 28); New York Times/Siena (ended Nov 1).",
+    "Minnesota: Flanagan 92% → 93%. New: SurveyUSA (ended Oct 28).",
+    "Nebraska: Osborn 43% → 36%. New: YouGov (ended Oct 29); Siena University (ended Oct 29).",
+    "New Hampshire: Pappas 94% → 96%. New: University of New Hampshire (ended Oct 31).",
+    "North Carolina: Cooper unchanged at 98%. New: YouGov (ended Oct 29); RedBox Research (ended Oct 23).",
+    "Ohio: Brown 72% → 71%. New: YouGov (ended Oct 29); InsiderAdvantage (ended Oct 30); ActiVote (ended Oct 31); Concord Public Opinion Partners (ended Oct 24); New York Times/Siena (ended Nov 1).",
+    "South Carolina: Andrews 31% → 33%. New: Patinkin Research Strategies (ended Oct 29).",
+    "South Dakota: Bengs 2% → 3%. New: Concord Public Opinion Partners (ended Oct 26).",
+    "Texas: Talarico 69% → 72%. New: YouGov (ended Oct 29); Data for Progress (ended Oct 26); Kreate Strategies (ended Oct 30); ActiVote (ended Oct 28); A2 Insights (ended Oct 27); New York Times/Siena (ended Nov 1).",
+    "Same day: the scenario panel now notes that the polling-miss lever shifts every race, not only the too-close races listed."
+   ],
+   "house.html": [
+    "House: Democratic control 86% → 87%; expected Democratic seats unchanged at 232.",
+    "CA-1: McGuire 99% → >99%. New: USC Democracy and Fair Elections Lab (CEPP) (ended Oct 28).",
+    "CA-22: Villegas 68% → 89%. New: USC Democracy and Fair Elections Lab (CEPP) (ended Oct 28).",
+    "CA-48: von Wilpert 94% → 95%. New: USC Democracy and Fair Elections Lab (CEPP) (ended Oct 28).",
+    "TX-15: Pulido 37% → 29%. New: Washington Post-Schar School (ended Oct 19).",
+    "FL-25: Moskowitz 49% → 51% (leader changed). New: Public Policy Polling (ended Oct 27).",
+    "AZ-1: Shah 76% → 77%. New: Keating Research (ended Oct 28).",
+    "MT-1: Forstag 33% → 49%. New: Montana State University Billings (Mountain State Poll) (ended Oct 21).",
+    "MN-8: Swanson 8% → 5%. New: Public Policy Polling (ended Oct 26).",
+    "Same day: the scenario panel now notes that the polling-miss lever shifts every race, not only the too-close races listed."
+   ],
+   "governors.html": [
+    "Governors: Democrats 26+ 71% → 74%; expected Democratic governors 26 → 27.",
+    "Alabama: Jones 1% → 3%. New: Chism Strategies (Blueprint Polling) (ended Oct 24).",
+    "Alaska: Kreiss-Tomkins 89% → 95%. New: New York Times/Siena (ended Oct 30).",
+    "Arizona: Hobbs 94% → 93%. New: Noble Predictive Insights (ended Oct 28); GrayHouse (ended Oct 29).",
+    "California: Becerra unchanged at >99%. New: Berkeley IGS (ended Oct 25); ActiVote (ended Oct 31); SurveyUSA (ended Oct 24); M3 Strategies (ended Oct 23).",
+    "Florida: Jolly 14% → 18%. New: InsiderAdvantage (ended Oct 29); Stetson University (ended Oct 30); Big Data Poll (ended Oct 30); Political Matrix/The Listener Group (ended Oct 28); ActiVote (ended Oct 31); Workbench Strategy (ended Oct 22).",
+    "Illinois: Pritzker unchanged at >99%. New: ActiVote (ended Oct 31).",
+    "Iowa: Sand unchanged at 88%. New: YouGov (ended Oct 29); co/efficient (ended Oct 28); New York Times/Siena (ended Nov 1).",
+    "Kansas: Holscher 27% → 34%. New: YouGov (ended Oct 29); New York Times/Siena (ended Nov 1).",
+    "Maine: Pingree unchanged at 98%. New: YouGov (ended Oct 29); Data for Progress (ended Oct 27); New York Times/Siena (ended Nov 1).",
+    "Michigan: Benson 94% → 95%. New: YouGov (ended Oct 29); Data for Progress (ended Oct 25); Mitchell Research & Communications (ended Oct 27); Michigan State University/Verasight (ended Oct 23); New York Times/Siena (ended Nov 1).",
+    "Minnesota: Klobuchar unchanged at 98%. New: SurveyUSA (ended Oct 28).",
+    "Nebraska: Walz 12% → 7%. New: YouGov (ended Oct 29); New York Times/Siena (ended Oct 29).",
+    "Nevada: Ford 36% → 39%. New: Noble Predictive Insights (ended Oct 28).",
+    "New Hampshire: Warmington 6% → 12%. New: University of New Hampshire (ended Oct 31).",
+    "Ohio: Acton 64% → 71%. New: InsiderAdvantage (ended Oct 30); YouGov (ended Oct 29); ActiVote (ended Oct 31); New York Times/Siena (ended Nov 1).",
+    "Texas: Hinojosa 23% → 25%. New: Quantus Insights (ended Oct 28); Kreate Strategies (ended Oct 30); YouGov (ended Oct 29); Data for Progress (ended Oct 26); New York Times/Siena (ended Nov 1).",
+    "Same day: the scenario panel now notes that the polling-miss lever shifts every race, not only the too-close races listed."
+   ]
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "why": "New polls released Oct 29-Nov 2, including the final AtlasIntel, Trafalgar, Rasmussen, Emerson, UNH and Research Co. state polls.",
+  "pages": {
+   "index.html": [
+    "Senate: Democratic control 77% → 79%; median D + independent seats unchanged at 53. 48 new polls.",
+    "House: Democratic control unchanged at 87%; median Democratic seats 232 → 231. 5 new polls.",
+    "Governors: Democrats 26+ 74% → 82%; median Democratic governors 27 → 28. 44 new polls.",
+    "Same day: each card now also shows the forecast if every race shifts 2 or 3 points toward Republicans (R+2, R+3): the favored party's chance and each party's median seats.",
+    "Same day: seat counts are now the median of the simulations (half land at or below it) instead of the average rounded down."
+   ],
+   "senate.html": [
+    "Senate: Democratic control 77% → 79%; median D + independent seats unchanged at 53.",
+    "Alaska: Peltola 53% → 56%. New: InsiderAdvantage (ended Nov 1); AtlasIntel (ended Nov 1).",
+    "Colorado: Hickenlooper 97% → >99%. New: Research Co. (ended Nov 2).",
+    "Florida: Nixon 12% → 11%. New: Research Co. (ended Nov 2); Targoz Market Research (ended Oct 29).",
+    "Georgia: Ossoff 98% → 97%. New: InsiderAdvantage (ended Nov 2); Research Co. (ended Nov 2).",
+    "Illinois: Stratton unchanged at 99%. New: Research Co. (ended Nov 2).",
+    "Iowa: Turek 54% → 55%. New: AtlasIntel (ended Nov 1); GrayHouse (ended Oct 31); Rasmussen Reports (ended Oct 31).",
+    "Kansas: Hamilton 65% → 74%. New: AtlasIntel (ended Nov 1); Survey 160 (ended Nov 1).",
+    "Maine: Jackson unchanged at 86%. New: AtlasIntel (ended Nov 1); Survey 160 (ended Nov 1); Rasmussen Reports (ended Nov 2); Emerson College (ended Nov 1).",
+    "Massachusetts: Markey unchanged at >99%. New: University of New Hampshire (ended Oct 31).",
+    "Michigan: El-Sayed unchanged at 84%. New: Research Co. (ended Nov 1); Trafalgar Group (ended Nov 1); AtlasIntel (ended Nov 1); Emerson College (ended Nov 1); John Zogby Strategies (ended Nov 2); Concord Public Opinion Partners (ended Nov 1).",
+    "Minnesota: Flanagan 93% → 92%. New: Research Co. (ended Nov 1); InsiderAdvantage (ended Oct 30); AtlasIntel (ended Nov 1); Survey 160 (ended Nov 1).",
+    "Nebraska: Osborn unchanged at 36%. New: National Public Affairs (ended Oct 29); GrayHouse (ended Nov 1).",
+    "New Hampshire: Pappas unchanged at 96%. New: AtlasIntel (ended Nov 1).",
+    "New Mexico: Lujan unchanged at >99%. New: Research Co. (ended Nov 2).",
+    "North Carolina: Cooper unchanged at 98%. New: AtlasIntel (ended Nov 1); East Carolina University (ended Oct 29).",
+    "Ohio: Brown unchanged at 71%. New: Research Co. (ended Nov 1); Trafalgar Group (ended Nov 1); AtlasIntel (ended Nov 1); Survey 160 (ended Nov 1); Rasmussen Reports (ended Oct 31); Emerson College (ended Nov 1).",
+    "Rhode Island: Reed unchanged at >99%. New: University of New Hampshire (ended Oct 31).",
+    "South Carolina: Andrews 33% → 38%. New: Trafalgar Group (ended Nov 1); Rasmussen Reports (ended Oct 31); Resonance Media Services (ended Oct 30).",
+    "Texas: Talarico unchanged at 72%. New: Trafalgar Group (ended Nov 1); AtlasIntel (ended Nov 1); Research Co. (ended Nov 2); Emerson College (ended Nov 1).",
+    "Same day: seat counts are now the median of the simulations (half land at or below it) instead of the average rounded down."
+   ],
+   "house.html": [
+    "House: Democratic control unchanged at 87%; median Democratic seats 232 → 231.",
+    "MT-1: Forstag 49% → 46%. New: Emerson College (ended Nov 1).",
+    "AK-AL: Hill 24% → 39%. New: AtlasIntel (ended Nov 1).",
+    "ME-2: Dunlap 55% → 38% (leader changed). New: University of New Hampshire (ended Oct 31).",
+    "MO-2: Wellman 42% → 40%. New: Emerson College (ended Nov 1).",
+    "Same day: seat counts are now the median of the simulations (half land at or below it) instead of the average rounded down."
+   ],
+   "governors.html": [
+    "Governors: Democrats 26+ 74% → 82%; median Democratic governors 27 → 28.",
+    "Alaska: Kreiss-Tomkins 95% → 97%. New: AtlasIntel (ended Nov 1).",
+    "Colorado: Weiser 88% → 99%. New: Research Co. (ended Nov 2).",
+    "Connecticut: Lamont unchanged at >99%. New: University of New Hampshire (ended Oct 31).",
+    "Florida: Jolly 18% → 17%. New: Research Co. (ended Nov 2); Targoz Market Research (ended Oct 29).",
+    "Georgia: Bottoms 56% → 59%. New: InsiderAdvantage (ended Nov 2); Research Co. (ended Nov 2).",
+    "Illinois: Pritzker unchanged at >99%. New: Research Co. (ended Nov 2).",
+    "Iowa: Sand 88% → 89%. New: AtlasIntel (ended Nov 1); Rasmussen Reports (ended Oct 31).",
+    "Kansas: Holscher 34% → 46%. New: AtlasIntel (ended Nov 1); Survey 160 (ended Nov 1).",
+    "Maine: Pingree unchanged at 98%. New: University of New Hampshire (ended Oct 31); AtlasIntel (ended Nov 1); Survey 160 (ended Nov 1); Rasmussen Reports (ended Nov 2); Emerson College (ended Nov 1).",
+    "Massachusetts: Healey unchanged at >99%. New: University of New Hampshire (ended Oct 31).",
+    "Michigan: Benson unchanged at 95%. New: Research Co. (ended Nov 1); Rasmussen Reports (ended Oct 29); AtlasIntel (ended Nov 1); Concord Public Opinion Partners (ended Nov 1); Emerson College (ended Nov 1).",
+    "Minnesota: Klobuchar unchanged at 98%. New: Research Co. (ended Nov 1); Survey 160 (ended Nov 1).",
+    "New Hampshire: Warmington unchanged at 12%. New: AtlasIntel (ended Nov 1).",
+    "New Mexico: Haaland 91% → 92%. New: Research Co. (ended Nov 2).",
+    "New York: Hochul >99% → 99%. New: Research Co. (ended Nov 1).",
+    "Ohio: Acton 71% → 75%. New: Research Co. (ended Nov 1); AtlasIntel (ended Nov 1); Survey 160 (ended Nov 1); Rasmussen Reports (ended Oct 31); Emerson College (ended Nov 1).",
+    "Pennsylvania: Shapiro unchanged at >99%. New: Research Co. (ended Nov 1).",
+    "Rhode Island: Foulkes 97% → 99%. New: University of New Hampshire (ended Oct 31).",
+    "South Carolina: Johnson unchanged at 3%. New: Trafalgar Group (ended Nov 1); Rasmussen Reports (ended Oct 31); Resonance Media Services (ended Oct 30).",
+    "Texas: Hinojosa 25% → 26%. New: AtlasIntel (ended Nov 1); ActiVote (ended Oct 29); Research Co. (ended Nov 2); Emerson College (ended Nov 1).",
+    "Vermont: Janoo 43% → 73% (leader changed). New: University of New Hampshire (ended Oct 31).",
+    "Wisconsin: Crowley 88% → 87%. New: Research Co. (ended Nov 1).",
+    "Same day: seat counts are now the median of the simulations (half land at or below it) instead of the average rounded down."
+   ]
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "why": "Final polls released Nov 1-3.",
+  "pages": {
+   "index.html": [
+    "Senate: Democratic control unchanged at 79%; median D + independent seats unchanged at 53. 0 new polls.",
+    "House: Democratic control unchanged at 87%; median Democratic seats unchanged at 231. 6 new polls.",
+    "Governors: Democrats 26+ unchanged at 82%; median Democratic governors unchanged at 28. 0 new polls."
+   ],
+   "senate.html": [
+    "Senate: Democratic control unchanged at 79%; median D + independent seats unchanged at 53."
+   ],
+   "house.html": [
+    "House: Democratic control unchanged at 87%; median Democratic seats unchanged at 231.",
+    "MI-13: McKinney unchanged at >99%. New: Center for Strategic Politics (ended Oct 30).",
+    "AK-AL: Hill unchanged at 39%. New: Siena College (ended Oct 30).",
+    "ME-1: Pingree unchanged at >99%. New: University of New Hampshire Survey Center (Pine Tree State Poll) (ended Oct 31).",
+    "NH-1: Shaheen 92% → 96%. New: University of New Hampshire Survey Center (Granite State Poll) (ended Oct 31).",
+    "NH-2: Goodlander unchanged at >99%. New: University of New Hampshire Survey Center (Granite State Poll) (ended Oct 31).",
+    "VT-AL: Balint unchanged at >99%. New: University of New Hampshire Survey Center (Green Mountain State Poll) (ended Oct 31)."
+   ],
+   "governors.html": [
+    "Governors: Democrats 26+ unchanged at 82%; median Democratic governors unchanged at 28."
+   ]
+  }
+ }
+]

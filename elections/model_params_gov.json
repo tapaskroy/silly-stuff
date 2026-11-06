@@ -1,0 +1,110 @@
+{
+ "as_of": "2026-11-03",
+ "election": "2026-11-03",
+ "poll_window_start": "2026-08-01",
+ "not_up": {
+  "D": 6,
+  "R": 8,
+  "I": 0
+ },
+ "sims": 40000,
+ "scenario_sims": 20000,
+ "national_shift": 10.2,
+ "national_shift_factor": 0.55,
+ "pres_lean_coef": 0.75,
+ "incumbency_bonus": 8.0,
+ "last_gov_weight": 0.2,
+ "generic_ballot": 8.7,
+ "house_vote_by_year": {
+  "2022": -2.8,
+  "2024": -2.6
+ },
+ "weights": {
+  "half_life_days": 14,
+  "default_n": 600,
+  "n_cap": 1500,
+  "pop": {
+   "LV": 1.0,
+   "RV": 0.8,
+   "A": 0.6,
+   "null": 0.9
+  },
+  "partisan_sponsor": 0.5,
+  "partisan_shift": 4.0,
+  "lean_shift": 1.5,
+  "unverified": 0.85,
+  "superseded": 0.35,
+  "min_recent_polls": 3
+ },
+ "error": {
+  "national_sd": 3.0,
+  "regional_sd": 1.25,
+  "state_sd": 3.75,
+  "per_day": 0.01,
+  "single_poll_sd": 4.5,
+  "per_undecided": 0.12,
+  "fundamentals_sd": 11.0,
+  "fundamentals_sd_nopoll": 14.0,
+  "independent_extra_sd": 2.5,
+  "t_df": 6
+ },
+ "tiers": [
+  [
+   "Safe",
+   0.99
+  ],
+  [
+   "Likely",
+   0.9
+  ],
+  [
+   "Lean",
+   0.75
+  ],
+  [
+   "Tilt",
+   0.6
+  ]
+ ],
+ "scenarios": [
+  {
+   "label": "Polls exactly right (baseline)",
+   "shift": 0
+  },
+  {
+   "label": "Modest miss toward R (R+1)",
+   "shift": -1
+  },
+  {
+   "label": "Miss toward R (R+3, like 2014/2016)",
+   "shift": -3
+  },
+  {
+   "label": "Large miss toward R (R+6; 2020 was R+8)",
+   "shift": -6
+  },
+  {
+   "label": "Miss toward D (D+3)",
+   "shift": 3
+  }
+ ],
+ "sources": {
+  "national_sd": "SD of cycle-level governor poll bias 3.1 (3.4 since 2010); governor and Senate cycle biases correlate 0.88 (538 raw_polls recompute 1998-2024)",
+  "regional_sd": "Census-region clustering near zero (implied ~0.5); 1.25 kept to cover demographic misses like 2020",
+  "state_sd": "Residual race error after removing cycle bias: 4.05 for competitive races with 4+ polls, 3.7 with 11+",
+  "single_poll_sd": "Individual governor polls scatter 4.43 around their race mean",
+  "per_undecided": "Absolute error rises ~0.09 per undecided point (r = 0.20)",
+  "fundamentals_sd": "Fitted presidential-lean + swing residual in competitive races since 2012: 9.2-10.3; 11 used",
+  "fundamentals_sd_nopoll": "All races: 13.2-14.0, slightly fat-tailed",
+  "pres_lean_coef": "Presidential-margin coefficient for governor margins 0.73-0.83 in competitive races since 2012 (vs ~0.8-1 for Senate)",
+  "national_shift_factor": "Fitted national-swing coefficient for governors 0.37-0.62, vs 0.66-0.80 for Senate",
+  "incumbency_bonus": "Regression estimates 10-12 (8 in competitive races), shaded for selection bias (weak incumbents retire)",
+  "last_gov_weight": "Adding the previous governor margin barely improves the fit (SD 14.0 -> 13.8), so it gets 20%",
+  "partisan_shift": "Sponsored governor polls lean 3.9-4.3 toward the sponsor (n = 137-244)",
+  "lean_shift": "Judgment: unsponsored one-party pollsters, roughly half the sponsored effect",
+  "prior_bias": "Zero: governor poll bias has leaned D on average (+1.1 to +2.1) but its sign does not persist (lag-1 r ~ 0); tested as scenarios",
+  "t_df": "State errors mildly fat-tailed (implied df ~13); 6 used because of 2020's +8.3 national miss",
+  "independent_extra_sd": "Judgment: thin record for independent-vs-R races"
+ },
+ "national_pres_2024": -1.5
+}
