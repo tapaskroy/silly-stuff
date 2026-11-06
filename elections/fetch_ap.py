@@ -8,7 +8,7 @@ For each scored race it finds the AP race (same state and office, both our candi
   margin     AP's count, first-listed minus second-listed share of the total vote, only once AP estimates at least
              MARGIN_EEVP percent of the expected vote is in; otherwise null (an early count says little about the final margin).
              Ranked-choice races are left null: AP's first-round shares aren't the final-round margin.
-  status     "called" once AP calls it; note carries AP's tabulation state and expected vote counted
+  status     "called" once AP calls it, back to "pending" if AP withdraws the call; note carries AP's tabulation state and expected vote counted
 Entries marked "final" or "certified", or filled from a source other than AP, are left alone.
 Margins from AP are provisional: they are replaced by state election office figures at the one-week recheck and at certification.
 Run build_scorecard.py afterwards.
@@ -113,8 +113,10 @@ for ch, races in results.items():
                 new["winner_name"] = won["last"]
             if x.get("winner") != w[0]:
                 called.append(f"{ch} {key}: {won['last']} ({won['party']})")
-        elif x.get("winner"):
-            problems.append(f"{ch} {key}: we have {x['winner']} but AP shows no winner now ({m.get('raceCallStatus')})")
+        elif x.get("winner"):  # AP withdrew its call: stop scoring the race until AP calls it again
+            problems.append(f"{ch} {key}: AP withdrew its call for {x['winner']} ({m.get('raceCallStatus')}); race set back to pending")
+            new.update(winner=None, status="pending", called_by=None, called_at=None)
+            new.pop("winner_name", None)
         total = {o: sum(share.get(c["candidateID"], 0) for c in side[o]) for o in (a, b)}
         new["margin"] = (round(total[a] - total[b], 1)
                          if winners and eevp >= MARGIN_EEVP and not m.get("rankedChoice") else None)
