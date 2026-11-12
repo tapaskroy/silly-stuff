@@ -1,0 +1,282 @@
+[
+ {
+  "state": "OK",
+  "name": "Alan Armstrong",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "why_leaving": "other: interim appointee (Mar 2026, replacing Markwayne Mullin, who became DHS Secretary); barred from running",
+  "votes": {
+   "israel": "supports (Nay on S.J.Res. 32 discharge, 2026 vote #80)",
+   "ukraine": "n/a (not in Senate in 2024)",
+   "ukraine_ban_2025": "n/a (House only)"
+  },
+  "signals": {},
+  "evidence": "No H.R. 815 vote; Williams energy executive appointed after consultation with Trump and Senate GOP leadership, focused on permitting reform, a business-establishment profile.",
+  "actually_returning": false
+ },
+ {
+  "state": "LA",
+  "name": "Bill Cassidy",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "lost primary",
+  "votes": {
+   "israel": "supports (Nay on S.J.Res. 32 discharge)",
+   "ukraine": "Yea on H.R. 815 (Apr 23 2024)",
+   "ukraine_ban_2025": "n/a (House only)"
+  },
+  "signals": {},
+  "evidence": "Voted Yea on the April 2024 Ukraine/Israel/Taiwan supplemental; lost the primary to Julia Letlow.",
+  "actually_returning": false
+ },
+ {
+  "state": "ME",
+  "name": "Susan M. Collins",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "lost general",
+  "votes": {
+   "israel": "supports (Nay on S.J.Res. 32 discharge)",
+   "ukraine": "Yea on H.R. 815 (Apr 23 2024)",
+   "ukraine_ban_2025": "n/a (House only)"
+  },
+  "signals": {},
+  "evidence": "Voted Yea on the April 2024 supplemental; lost to Troy Jackson.",
+  "actually_returning": false
+ },
+ {
+  "state": "TX",
+  "name": "John Cornyn",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "lost primary",
+  "votes": {
+   "israel": "supports (Nay on S.J.Res. 32 discharge)",
+   "ukraine": "Yea on H.R. 815 (Apr 23 2024)",
+   "ukraine_ban_2025": "n/a (House only)"
+  },
+  "signals": {},
+  "evidence": "Voted Yea on the April 2024 supplemental; lost the GOP runoff.",
+  "actually_returning": false
+ },
+ {
+  "state": "MT",
+  "name": "Steve Daines",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "retired",
+  "votes": {
+   "israel": "supports (Nay on S.J.Res. 32 discharge)",
+   "ukraine": "Yea on H.R. 815 (Apr 23 2024)",
+   "ukraine_ban_2025": "n/a (House only)"
+  },
+  "signals": {},
+  "evidence": "Voted Yea on the April 2024 supplemental.",
+  "actually_returning": false
+ },
+ {
+  "state": "IL",
+  "name": "Richard J. Durbin",
+  "party": "D",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "retired",
+  "votes": {
+   "israel": "critical (Yea on S.J.Res. 32 discharge)",
+   "ukraine": "Yea on H.R. 815 (Apr 23 2024)",
+   "ukraine_ban_2025": "n/a (House only)"
+  },
+  "signals": {
+   "economic": "center"
+  },
+  "evidence": "Voted to block the Israel arms sale, but as Democratic Whip has a party-leadership liberal record, not a distinct left economic program (no Medicare for All cosponsorship).",
+  "actually_returning": false
+ },
+ {
+  "state": "IA",
+  "name": "Joni Ernst",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "retired",
+  "votes": {
+   "israel": "supports (Nay on S.J.Res. 32 discharge)",
+   "ukraine": "Yea on H.R. 815 (Apr 23 2024)",
+   "ukraine_ban_2025": "n/a (House only)"
+  },
+  "signals": {},
+  "evidence": "Voted Yea on the April 2024 supplemental.",
+  "actually_returning": false
+ },
+ {
+  "state": "SC",
+  "name": "Darline Graham",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "why_leaving": "lost general",
+  "votes": {
+   "israel": "n/a (not yet seated for 2026 vote #80; seated Jul 14 2026)",
+   "ukraine": "n/a (not in Senate in 2024)",
+   "ukraine_ban_2025": "n/a (House only)"
+  },
+  "signals": {},
+  "evidence": "No test votes (appointed Jul 2026 after Lindsey Graham died); campaigned as a Trump-endorsed conservative but continued her brother's hawkish Russia-sanctions line; lost to Annie Andrews.",
+  "actually_returning": false
+ },
+ {
+  "state": "OH",
+  "name": "Jon Husted",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "why_leaving": "lost general",
+  "votes": {
+   "israel": "supports (Nay on S.J.Res. 32 discharge)",
+   "ukraine": "n/a (not in Senate in 2024)",
+   "ukraine_ban_2025": "n/a (House only)"
+  },
+  "signals": {},
+  "evidence": "No H.R. 815 vote; former Ohio lieutenant governor with an establishment, business-friendly profile; lost the special to Sherrod Brown.",
+  "actually_returning": false
+ },
+ {
+  "state": "WY",
+  "name": "Cynthia M. Lummis",
+  "party": "R",
+  "wing": "Nationalist",
+  "confidence": "high",
+  "why_leaving": "retired",
+  "votes": {
+   "israel": "unknown (did not vote on S.J.Res. 32 discharge)",
+   "ukraine": "Nay on H.R. 815 (Apr 23 2024)",
+   "ukraine_ban_2025": "n/a (House only)"
+  },
+  "signals": {},
+  "evidence": "Voted Nay on the April 2024 supplemental.",
+  "actually_returning": false
+ },
+ {
+  "state": "KS",
+  "name": "Roger Marshall",
+  "party": "R",
+  "wing": "Nationalist",
+  "confidence": "high",
+  "why_leaving": "lost general",
+  "votes": {
+   "israel": "supports (Nay on S.J.Res. 32 discharge)",
+   "ukraine": "Nay on H.R. 815 (Apr 23 2024)",
+   "ukraine_ban_2025": "n/a (House only)"
+  },
+  "signals": {},
+  "evidence": "Voted Nay on the April 2024 supplemental; lost to Adam Hamilton.",
+  "actually_returning": false
+ },
+ {
+  "state": "KY",
+  "name": "Mitch McConnell",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "retired",
+  "votes": {
+   "israel": "supports (Nay on S.J.Res. 32 discharge)",
+   "ukraine": "Yea on H.R. 815 (Apr 23 2024)",
+   "ukraine_ban_2025": "n/a (House only)"
+  },
+  "signals": {},
+  "evidence": "Voted Yea on, and was the main GOP champion of, the April 2024 supplemental.",
+  "actually_returning": false
+ },
+ {
+  "state": "MI",
+  "name": "Gary C. Peters",
+  "party": "D",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "retired",
+  "votes": {
+   "israel": "critical (Yea on S.J.Res. 32 discharge)",
+   "ukraine": "Yea on H.R. 815 (Apr 23 2024)",
+   "ukraine_ban_2025": "n/a (House only)"
+  },
+  "signals": {
+   "economic": "center"
+  },
+  "evidence": "Voted to block the Israel arms sale, but has a pragmatic center-left, non-progressive economic record.",
+  "actually_returning": false
+ },
+ {
+  "state": "NH",
+  "name": "Jeanne Shaheen",
+  "party": "D",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "retired",
+  "votes": {
+   "israel": "critical (Yea on S.J.Res. 32 discharge)",
+   "ukraine": "Yea on H.R. 815 (Apr 23 2024)",
+   "ukraine_ban_2025": "n/a (House only)"
+  },
+  "signals": {
+   "economic": "center"
+  },
+  "evidence": "Voted to block the Israel arms sale, but has a moderate, bipartisan-dealmaker record with no left economic program.",
+  "actually_returning": false
+ },
+ {
+  "state": "MN",
+  "name": "Tina Smith",
+  "party": "D",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "why_leaving": "retired",
+  "votes": {
+   "israel": "critical (Yea on S.J.Res. 32 discharge)",
+   "ukraine": "Yea on H.R. 815 (Apr 23 2024)",
+   "ukraine_ban_2025": "n/a (House only)"
+  },
+  "signals": {
+   "economic": "center"
+  },
+  "evidence": "Voted to block the Israel arms sale; reliably liberal but backs a public option rather than Medicare for All and has no Justice Democrats/DSA-style alignment.",
+  "actually_returning": false
+ },
+ {
+  "state": "NC",
+  "name": "Thom Tillis",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "retired",
+  "votes": {
+   "israel": "supports (Nay on S.J.Res. 32 discharge)",
+   "ukraine": "Yea on H.R. 815 (Apr 23 2024)",
+   "ukraine_ban_2025": "n/a (House only)"
+  },
+  "signals": {},
+  "evidence": "Voted Yea on the April 2024 supplemental.",
+  "actually_returning": false
+ },
+ {
+  "state": "AL",
+  "name": "Tommy Tuberville",
+  "party": "R",
+  "wing": "Nationalist",
+  "confidence": "high",
+  "why_leaving": "ran for governor",
+  "votes": {
+   "israel": "supports (Nay on S.J.Res. 32 discharge)",
+   "ukraine": "Not Voting on H.R. 815 (Apr 23 2024); Nay on Feb 13 2024 Senate supplemental passage",
+   "ukraine_ban_2025": "n/a (House only)"
+  },
+  "signals": {},
+  "evidence": "Missed the April 2024 vote but voted Nay on the February 2024 Senate supplemental, plus the culture-war military-holds blockade and Trump-first platform.",
+  "actually_returning": false
+ }
+]

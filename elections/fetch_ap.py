@@ -2,6 +2,10 @@
 """Fill results.json from AP's live election-results feed (the one behind AP's embeddable results widgets).
 
 Usage: python3 fetch_ap.py [--dry-run]
+       python3 fetch_ap.py --count-to review/ap_count.json
+  --count-to writes AP's current count for every race to that file instead (same shape as results.json, margins at any share
+  counted, ranked-choice races at their first-round shares, note = percent of expected vote in), plus AP's national House vote
+  to national_vote.json beside it. results.json is not touched. The wings head-to-head and the upset review read these files.
 For each scored race it finds the AP race (same state and office, both our candidates on AP's ballot) and records:
   winner     our surname for AP's declared winner (AP marks it in progress.json: winner "X", calledAt); for the Louisiana House races,
              where the model lists several names per side, the side of the winner's party, with winner_name for display
@@ -27,6 +31,9 @@ OFFICE = {"senate": "U.S. Senate", "house": "U.S. House", "governors": "Governor
 MARGIN_EEVP = 95
 SOURCE = "AP election results feed"
 DRY = "--dry-run" in sys.argv
+COUNT_TO = Path(sys.argv[sys.argv.index("--count-to") + 1]) if "--count-to" in sys.argv else None
+if COUNT_TO:
+    MARGIN_EEVP = 0
 
 
 def get(name):
@@ -100,7 +107,7 @@ for ch, races in results.items():
         winners = [dict(c, winnerDateTime=calls[i].get("calledAt")) for i, c in m["candidates"].items() if i in calls]
         eevp = p.get("eevp", 0) or 0
         new = dict(x)
-        new["note"] = f"AP: {m.get('raceCallStatus')}; {m.get('tabulationStatus')}; {eevp:.0f}% of expected vote in"
+        new["note"] = f"{eevp:.0f}" if COUNT_TO else f"AP: {m.get('raceCallStatus')}; {m.get('tabulationStatus')}; {eevp:.0f}% of expected vote in"
         if winners:
             won = winners[0]
             w = [o for o in (a, b) if any(c["candidateID"] == won["candidateID"] for c in side[o])]
@@ -119,7 +126,7 @@ for ch, races in results.items():
             new.pop("winner_name", None)
         total = {o: sum(share.get(c["candidateID"], 0) for c in side[o]) for o in (a, b)}
         new["margin"] = (round(total[a] - total[b], 1)
-                         if winners and eevp >= MARGIN_EEVP and not m.get("rankedChoice") else None)
+                         if winners and eevp >= MARGIN_EEVP and (COUNT_TO or not m.get("rankedChoice")) else None)
         if new != x:
             changed += 1
             races[key] = new
@@ -127,7 +134,16 @@ for ch, races in results.items():
 results["_updated"] = now
 results["_sources"] = (f"Winners: AP race calls. Margins: AP's count once {MARGIN_EEVP}%+ of the expected vote is in, "
                        "replaced by state election office figures at the one-week recheck and at certification.")
-if not DRY:
+if COUNT_TO:
+    COUNT_TO.write_text(json.dumps(results, indent=1, ensure_ascii=False))
+    # AP's national House vote: the U.S. House race with state "US"
+    nid = next(k for k, v in meta.items() if v.get("officeName") == OFFICE["house"] and v.get("statePostal") == "US")
+    pct = {meta[nid]["candidates"][c["candidateID"]]["party"]: c for c in prog[nid]["candidates"]}
+    (COUNT_TO.parent / "national_vote.json").write_text(json.dumps(
+        {"_source": "AP national U.S. House vote aggregate (the race with state 'US' in AP's results feed)", "as_of": now,
+         "eevp": prog[nid].get("eevp"), "dem_pct": pct["Dem"]["votePct"], "rep_pct": pct["GOP"]["votePct"],
+         "other_pct": pct.get("Oth", {}).get("votePct"), "dem_votes": pct["Dem"]["voteCount"], "rep_votes": pct["GOP"]["voteCount"]}, indent=1))
+elif not DRY:
     (HERE / "results.json").write_text(json.dumps(results, indent=1, ensure_ascii=False))
 print(f"{'(dry run) ' if DRY else ''}{changed} entries updated; {len(called)} new calls")
 for c in called:

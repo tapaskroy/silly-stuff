@@ -1,0 +1,1114 @@
+[
+ {
+  "district": "NJ-1",
+  "name": "Donald Norcross",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "supports",
+   "caucuses": [
+    "Congressional Progressive Caucus",
+    "New Democrat Coalition",
+    "Problem Solvers Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Member of CPC, NDC and Problem Solvers at once; DW-NOMINATE dim1 -0.421 (about the House Democratic median of -0.395). Voted yes on H.R. 8034 Israel aid; his campaign committee is listed as receiving AIPAC PAC contributions. Borderline: CPC membership, but caucus mix and Israel record point to Mainstream.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/Votes/2024152",
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://en.wikipedia.org/wiki/Problem_Solvers_Caucus",
+   "https://projects.propublica.org/itemizer/committee/C00797670/2024/pac-donations"
+  ]
+ },
+ {
+  "district": "NJ-2",
+  "name": "Zack Mullock",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Blue Dog PAC",
+    "Donald Norcross",
+    "Mikie Sherrill",
+    "Andy Kim",
+    "NJEA",
+    "UNITE HERE"
+   ]
+  },
+  "evidence": "Newcomer (Cape May mayor) who beat incumbent Jeff Van Drew (R), about 51-48. Backed by Blue Dog PAC and the South Jersey party organization; no progressive-group endorsements. Name confirmed.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+   "https://newjerseymonitor.com/2026/06/02/zack-mullock-democratic-primary-jeff-van-drew/",
+   "https://www.inquirer.com/politics/new-jersey/van-drew-mullock-race-nj-2nd-district-winner-results-20261103.html"
+  ]
+ },
+ {
+  "district": "NJ-3",
+  "name": "Herb Conaway",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "unknown",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "New Democrat Coalition member, not in CPC; DW-NOMINATE dim1 -0.299, right of about 74% of House Democrats.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition"
+  ]
+ },
+ {
+  "district": "NJ-4",
+  "name": "Chris Smith",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [
+    "Problem Solvers Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Voted yes on H.R. 8035 Ukraine aid and no on both Jan 2021 electoral objections; Problem Solvers member; DW-NOMINATE dim1 0.184, the least conservative Republican in the 119th House. Prominent anti-abortion legislator, but his platform centers on human rights and foreign policy, not national-populism.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/Votes/2024151",
+   "https://clerk.house.gov/Votes/202110",
+   "https://clerk.house.gov/Votes/202111",
+   "https://en.wikipedia.org/wiki/Problem_Solvers_Caucus"
+  ]
+ },
+ {
+  "district": "NJ-5",
+  "name": "Josh Gottheimer",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "Blue Dog Coalition",
+    "Problem Solvers Caucus",
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Blue Dog and Problem Solvers co-chair; DW-NOMINATE dim1 -0.165, right of 99% of House Democrats. Voted yes on H.R. 8034 Israel aid and advocates for Israel.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/Votes/2024152",
+   "https://en.wikipedia.org/wiki/Blue_Dog_Coalition",
+   "https://en.wikipedia.org/wiki/Problem_Solvers_Caucus"
+  ]
+ },
+ {
+  "district": "NJ-6",
+  "name": "Frank Pallone Jr.",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "supports",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member with DW-NOMINATE dim1 -0.403 (at the caucus median). Voted yes on H.R. 8034 Israel aid; his campaign committee is listed as receiving AIPAC PAC contributions. Borderline: CPC membership and left economic record, but pro-Israel record puts him in Mainstream under the user's rule.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/Votes/2024152",
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://projects.propublica.org/itemizer/committee/C00797670/2024/pac-donations"
+  ]
+ },
+ {
+  "district": "NJ-7",
+  "name": "Rebecca Bennett",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "NewDem Action Fund",
+    "DCCC",
+    "EMILYs List",
+    "Democrats for Education Reform",
+    "VoteVets",
+    "J Street PAC",
+    "Hakeem Jeffries"
+   ]
+  },
+  "evidence": "Newcomer (Navy veteran) who beat incumbent Thomas Kean Jr. (R) 60.3-38.3. Backed by NewDem Action Fund, DFER and party leadership; no progressive-group endorsements. Name confirmed.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+   "https://abc7ny.com/post/conley-wins-ny-17-bennett-defeats-kean-nj-7/20014683/"
+  ]
+ },
+ {
+  "district": "NJ-8",
+  "name": "Rob Menendez",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Not in CPC. DW-NOMINATE dim1 -0.508, left of about 88% of House Democrats; voted yes on H.R. 8034 Israel aid and had AIPAC-aligned backing in 2024. Borderline: left voting score, pro-Israel record.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/Votes/2024152",
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus"
+  ]
+ },
+ {
+  "district": "NJ-9",
+  "name": "Nellie Pou",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "Congressional Progressive Caucus",
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": [
+    "AIPAC (2024)"
+   ]
+  },
+  "evidence": "In both CPC and NDC; DW-NOMINATE dim1 -0.308, right of about 73% of House Democrats. AIPAC endorsed her in 2024, citing support for Israel aid and opposition to BDS. Borderline because of CPC membership.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://newjerseyglobe.com/congress/aipac-endorses-nellie-pou-in-paterson-based-9th-district/"
+  ]
+ },
+ {
+  "district": "NJ-10",
+  "name": "LaMonica McIver",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "unknown",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member; DW-NOMINATE dim1 -0.539, left of about 93% of House Democrats. Found no specific Israel record or AIPAC tie (searched); classification rests on CPC membership and voting score.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus"
+  ]
+ },
+ {
+  "district": "NJ-11",
+  "name": "Analilia Mejia",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "Bernie Sanders",
+    "Working Families Party",
+    "J Street"
+   ]
+  },
+  "evidence": "Incumbent since winning the April 2026 special election; former WFP co-director and Sanders 2020 political director; CPC member. Beat the AIPAC-targeted Tom Malinowski in the special primary; has said Israel committed genocide in Gaza.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://www.jta.org/2026/04/10/politics/after-aipac-backed-primary-loss-tom-malinowski-endorses-rival-who-says-israel-committed-genocide"
+  ]
+ },
+ {
+  "district": "NJ-12",
+  "name": "Adam Hamawy",
+  "party": "D",
+  "returning": false,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [],
+   "key_endorsements": [
+    "Justice Democrats",
+    "Sunrise Movement",
+    "Our Revolution",
+    "Working Families Party",
+    "Progressive Caucus PAC",
+    "Bernie Sanders",
+    "Alexandria Ocasio-Cortez",
+    "Track AIPAC"
+   ]
+  },
+  "evidence": "Newcomer (surgeon) succeeding retiring Bonnie Watson Coleman. Endorsed by Justice Democrats, Sunrise, Our Revolution, NJ WFP and CPC PAC, and by Jewish Voice for Peace Action and USCPR Action, which oppose Israel aid. Name confirmed.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey"
+  ]
+ },
+ {
+  "district": "NM-1",
+  "name": "Melanie Stansbury",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member; DW-NOMINATE dim1 -0.432, left of the Democratic median. Called for a Gaza ceasefire in Jan 2024 and voted no on the Feb 2024 standalone Israel supplemental. Voted yes on H.R. 8034 but asked that aid be limited to defensive systems.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://clerk.house.gov/Votes/2024152",
+   "https://stansbury.house.gov/media/press-releases/rep-stansbury-votes-no-israel-supplemental",
+   "https://sourcenm.com/2024/01/19/stansbury-joins-vasquez-as-second-n-m-congress-member-to-call-for-ceasefire-in-gaza/"
+  ]
+ },
+ {
+  "district": "NM-2",
+  "name": "Gabe Vasquez",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "mixed",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "New Democrat Coalition member; DW-NOMINATE dim1 -0.320, right of about 70% of House Democrats. Called for a Gaza ceasefire and conditions on weapons, so his Israel stance is mixed, but the overall record is centrist.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://nmreports.org/2024/stansbury-vasquez-join-88-democrats-calling-for-biden-to-halt-threaten-pause-of-weapons-sales-to-israel/"
+  ]
+ },
+ {
+  "district": "NM-3",
+  "name": "Teresa Leger Fernández",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member, but DW-NOMINATE dim1 -0.366 is slightly right of the Democratic median. Voted yes on H.R. 8034; backed a temporary ceasefire and humanitarian aid; did not sign the defensive-only weapons letter. Classified on CPC membership; evidence is thin.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://clerk.house.gov/Votes/2024152",
+   "https://fernandez.house.gov/media/press-releases/rep-leger-fernandez-statement-violence-israel-gaza"
+  ]
+ },
+ {
+  "district": "NV-1",
+  "name": "Dina Titus",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Not on the CPC roster; DW-NOMINATE dim1 -0.296, right of about 75% of House Democrats. Voted yes on H.R. 8034 Israel aid.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/Votes/2024152",
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus"
+  ]
+ },
+ {
+  "district": "NV-2",
+  "name": "Teresa Benitez-Thompson",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "NewDem Action Fund",
+    "DCCC Red to Blue",
+    "J Street",
+    "CHC BOLD PAC",
+    "LCV Action Fund",
+    "Culinary Workers Union Local 226"
+   ]
+  },
+  "evidence": "Newcomer (former Nevada Assembly majority leader) who won the open seat vacated by Mark Amodei (R), defeating David Flippo (R) about 50.4-44.5; first Democrat to hold the district. Backed by NewDem Action Fund; no progressive-group endorsements. Name confirmed.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nevada",
+   "https://www.fox5vegas.com/2026/11/05/benitez-thompson-makes-history-now-real-work-begins/"
+  ]
+ },
+ {
+  "district": "NV-3",
+  "name": "Susie Lee",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition",
+    "Problem Solvers Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "NDC and Problem Solvers member; DW-NOMINATE dim1 -0.225, right of about 92% of House Democrats. Voted yes on H.R. 8034.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://en.wikipedia.org/wiki/Problem_Solvers_Caucus",
+   "https://clerk.house.gov/Votes/2024152"
+  ]
+ },
+ {
+  "district": "NV-4",
+  "name": "Steven Horsford",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "Congressional Progressive Caucus",
+    "New Democrat Coalition",
+    "Problem Solvers Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "In CPC, NDC and Problem Solvers; DW-NOMINATE dim1 -0.311, right of about 71% of House Democrats. Voted yes on H.R. 8034; his July 2026 statement reaffirmed support for Israel and missile-defense funding. Borderline because of CPC membership.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://en.wikipedia.org/wiki/Problem_Solvers_Caucus",
+   "https://clerk.house.gov/Votes/2024152",
+   "https://horsford.house.gov/media/press-releases/rep-steven-horsford-statement-on-vote-regarding-us-military-assistance-to-israel"
+  ]
+ },
+ {
+  "district": "NY-1",
+  "name": "Nick LaLota",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [
+    "Problem Solvers Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Voted yes on H.R. 8035 Ukraine aid; Problem Solvers member; DW-NOMINATE dim1 0.253, among the least conservative House Republicans.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/Votes/2024151",
+   "https://en.wikipedia.org/wiki/Problem_Solvers_Caucus"
+  ]
+ },
+ {
+  "district": "NY-2",
+  "name": "Andrew Garbarino",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [
+    "Problem Solvers Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Voted yes on H.R. 8035 Ukraine aid and no on both Jan 2021 electoral objections; Problem Solvers member; DW-NOMINATE dim1 0.244.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/Votes/2024151",
+   "https://clerk.house.gov/Votes/202110",
+   "https://clerk.house.gov/Votes/202111",
+   "https://en.wikipedia.org/wiki/Problem_Solvers_Caucus"
+  ]
+ },
+ {
+  "district": "NY-3",
+  "name": "Tom Suozzi",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition",
+    "Problem Solvers Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "NDC and Problem Solvers member; DW-NOMINATE dim1 -0.213, right of about 94% of House Democrats. Voted yes on H.R. 8034 and advocates for Israel.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://en.wikipedia.org/wiki/Problem_Solvers_Caucus",
+   "https://clerk.house.gov/Votes/2024152"
+  ]
+ },
+ {
+  "district": "NY-4",
+  "name": "Laura Gillen",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "NDC member; DW-NOMINATE dim1 -0.166, right of about 98% of House Democrats. Took office in 2025, after the 2024 Israel vote.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition"
+  ]
+ },
+ {
+  "district": "NY-5",
+  "name": "Gregory Meeks",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "NDC member and ranking Democrat on Foreign Affairs; DW-NOMINATE dim1 -0.415 (near the median). Voted yes on H.R. 8034 and H.R. 8035.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://clerk.house.gov/Votes/2024152"
+  ]
+ },
+ {
+  "district": "NY-6",
+  "name": "Grace Meng",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "supports",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member with DW-NOMINATE dim1 -0.371 (near the median). Voted yes on H.R. 8034; as a State-Foreign Ops appropriator she has pushed for timely delivery of Israel aid. Borderline: CPC membership, pro-Israel record.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://clerk.house.gov/Votes/2024152",
+   "https://meng.house.gov/media-center/press-releases/meng-secures-provisions-critical-to-israel-and-jewish-community"
+  ]
+ },
+ {
+  "district": "NY-7",
+  "name": "Claire Valdez",
+  "party": "D",
+  "returning": false,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [],
+   "key_endorsements": [
+    "NYC-DSA",
+    "Justice Democrats",
+    "Sunrise Movement",
+    "Our Revolution",
+    "Working Families Party",
+    "Progressive Caucus PAC",
+    "Bernie Sanders",
+    "Zohran Mamdani",
+    "Track AIPAC",
+    "PAL PAC"
+   ]
+  },
+  "evidence": "Newcomer (state assemblymember, DSA) succeeding retiring Nydia Velázquez. Endorsed by NYC-DSA, Justice Democrats, Sunrise, Our Revolution, WFP and CPC PAC, plus Jewish Voice for Peace and PAL PAC. Name confirmed.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York"
+  ]
+ },
+ {
+  "district": "NY-8",
+  "name": "Hakeem Jeffries",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Democratic Leader; DW-NOMINATE dim1 -0.483, left of about 82% of House Democrats, which reflects party-line voting. Voted yes on H.R. 8034 and is a public Israel-aid advocate with AIPAC ties. Not in CPC.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/Votes/2024152",
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus"
+  ]
+ },
+ {
+  "district": "NY-9",
+  "name": "Yvette Clarke",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member; DW-NOMINATE dim1 -0.607, left of about 98% of House Democrats. Voted yes on H.R. 8034, and activists have pressed her on Israel. Found no AIPAC endorsement and no public role as an Israel-aid advocate. Borderline because of the Israel vote.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://clerk.house.gov/Votes/2024152",
+   "https://clarke.house.gov/clarke-issues-statement-on-the-hamas-and-israel-ceasefire-and-hostage-deal"
+  ]
+ },
+ {
+  "district": "NY-10",
+  "name": "Brad Lander",
+  "party": "D",
+  "returning": false,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [],
+   "key_endorsements": [
+    "Bernie Sanders",
+    "Elizabeth Warren",
+    "Zohran Mamdani",
+    "Working Families Party",
+    "Our Revolution",
+    "Progressive Caucus PAC",
+    "IfNotNow",
+    "J Street"
+   ]
+  },
+  "evidence": "Newcomer (former NYC Comptroller) who ousted incumbent Dan Goldman in the June primary. Endorsed by WFP, Our Revolution, Sanders and Warren; refused AIPAC money, has called Israel's actions in Gaza genocide, and pledged to co-sponsor a ban on settlement imports. Name confirmed.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "https://www.jta.org/2026/06/23/politics/lander-challenges-the-incumbent-goldman-in-nys-10th-district",
+   "https://www.jns.org/news/u-s-news/lander-says-he-will-co-sponsor-anti-settlement-bill-in-congress"
+  ]
+ },
+ {
+  "district": "NY-11",
+  "name": "Nicole Malliotakis",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "baseline",
+   "caucuses": [
+    "Problem Solvers Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Voted no on H.R. 8035 Ukraine aid and voted for both Jan 2021 objections to certifying the 2020 election. Problem Solvers member, and her DW-NOMINATE dim1 0.334 is less conservative than about 87% of Republicans. Signals conflict, hence borderline.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/Votes/2024151",
+   "https://clerk.house.gov/Votes/202110",
+   "https://clerk.house.gov/Votes/202111",
+   "https://en.wikipedia.org/wiki/Problem_Solvers_Caucus"
+  ]
+ },
+ {
+  "district": "NY-12",
+  "name": "Micah Lasher",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": [
+    "Jerry Nadler",
+    "Kathy Hochul",
+    "Michael Bloomberg",
+    "J Street",
+    "Progressive Caucus PAC (general only)"
+   ]
+  },
+  "evidence": "Newcomer (state assemblymember) succeeding retiring Jerry Nadler; described as the establishment candidate, backed by Nadler, Hochul and Bloomberg. Supports continued weapons sales to Israel; WFP did not endorse in the primary. Name confirmed.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York"
+  ]
+ },
+ {
+  "district": "NY-13",
+  "name": "Darializa Avila Chevalier",
+  "party": "D",
+  "returning": false,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [],
+   "key_endorsements": [
+    "Justice Democrats",
+    "NYC-DSA",
+    "Working Families Party",
+    "Bernie Sanders",
+    "Our Revolution",
+    "Progressive Caucus PAC"
+   ]
+  },
+  "evidence": "Newcomer who beat incumbent Adriano Espaillat in the June primary. Backed by Justice Democrats and NYC-DSA; supports Medicare for All and ending funding for the Israeli government. Name confirmed.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "https://prospect.org/2025/11/20/darializa-avila-chevalier-harlem-new-york-city-congress-justice-dems/",
+   "https://jewishcurrents.org/an-anti-aipac-insurgent-tests-her-message-in-a-working-class-stronghold"
+  ]
+ },
+ {
+  "district": "NY-14",
+  "name": "Alexandria Ocasio-Cortez",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "Justice Democrats",
+    "DSA"
+   ]
+  },
+  "evidence": "CPC member; voted no on H.R. 8034 Israel aid. Original Green New Deal and Medicare for All sponsor. Her DW-NOMINATE dim1 of -0.333 understates this because some of her no votes come from the left.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://clerk.house.gov/Votes/2024152"
+  ]
+ },
+ {
+  "district": "NY-15",
+  "name": "Ritchie Torres",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Left the CPC in Feb 2024 over disagreements on Israel; outspoken supporter of Israel; voted yes on H.R. 8034. DW-NOMINATE dim1 -0.311.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://clerk.house.gov/Votes/2024152",
+   "https://thehill.com/homenews/house/4479942-new-york-democrat-leaves-congressional-progressive-caucus-after-splitting-with-members-over-israel/"
+  ]
+ },
+ {
+  "district": "NY-16",
+  "name": "George Latimer",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": [
+    "AIPAC/United Democracy Project (2024)"
+   ]
+  },
+  "evidence": "NDC member; won in 2024 by beating Jamaal Bowman with heavy United Democracy Project spending; DW-NOMINATE dim1 -0.402.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition"
+  ]
+ },
+ {
+  "district": "NY-17",
+  "name": "Cait Conley",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": [
+    "Democratic Majority for Israel",
+    "NewDem Action Fund",
+    "DCCC Red to Blue",
+    "J Street",
+    "Jewish Democratic Council of America",
+    "VoteVets",
+    "Hakeem Jeffries",
+    "Working Families Party (ballot line)"
+   ]
+  },
+  "evidence": "Newcomer (Army veteran) who beat incumbent Mike Lawler (R); Lawler conceded. Endorsed by Democratic Majority for Israel and NewDem Action Fund; ran on the WFP line in the general, but no progressive-group primary endorsements. Name confirmed.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "https://news.ballotpedia.org/2026/11/06/cait-conley-d-working-families-party-defeated-incumbent-michael-lawler-r-conservative-party-in-the-general-election-for-new-yorks-17th-congressional-district/"
+  ]
+ },
+ {
+  "district": "NY-18",
+  "name": "Pat Ryan",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "NDC member; DW-NOMINATE dim1 -0.225, right of about 92% of House Democrats. Voted yes on H.R. 8034.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://clerk.house.gov/Votes/2024152"
+  ]
+ },
+ {
+  "district": "NY-19",
+  "name": "Josh Riley",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "unknown",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "NDC member; DW-NOMINATE dim1 -0.202, right of about 96% of House Democrats.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition"
+  ]
+ },
+ {
+  "district": "NY-20",
+  "name": "Paul Tonko",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member; DW-NOMINATE dim1 -0.416, slightly left of the median. Opposed the Nov 2023 Israel supplemental (H.R. 6126) and called the Gaza war a genocide in June 2025, although he voted yes on H.R. 8034.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://clerk.house.gov/Votes/2024152",
+   "https://www.wamc.org/news/2025-06-18/new-york-rep-tonko-labels-gaza-conflict-a-genocide-at-troy-town-hall"
+  ]
+ },
+ {
+  "district": "NY-21",
+  "name": "Anthony Constantino",
+  "party": "R",
+  "returning": false,
+  "wing": "Nationalist",
+  "confidence": "low",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Donald Trump",
+    "Jim Jordan",
+    "Rudy Giuliani",
+    "Roger Stone"
+   ]
+  },
+  "evidence": "Newcomer (Sticker Mule CEO) succeeding Elise Stefanik; beat Blake Gendebien (D). Primary backers include Roger Stone and Rudy Giuliani, both promoters of 2020 election-fraud claims, as well as Trump and Jim Jordan. Found no stated position on Ukraine and no detailed immigration platform, so confidence is low. Name confirmed.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "https://www.wamc.org/news/2026-11-04/election-2026-new-york-anthony-constantino-wins-21st-congressional-district",
+   "https://www.washingtonexaminer.com/?p=4702761"
+  ]
+ },
+ {
+  "district": "NY-22",
+  "name": "John Mannion",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "unknown",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "NDC member; DW-NOMINATE dim1 -0.238, right of about 87% of House Democrats.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition"
+  ]
+ },
+ {
+  "district": "NY-23",
+  "name": "Nick Langworthy",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted no on H.R. 8035 Ukraine aid (yes on Israel aid); former NY GOP chair and early Trump 2024 backer. DW-NOMINATE dim1 0.424 is less conservative than about 73% of Republicans, and he holds no Freedom Caucus or governing-wing caucus seat, so the call rests mainly on the Ukraine vote.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/Votes/2024151",
+   "https://clerk.house.gov/Votes/2024152"
+  ]
+ },
+ {
+  "district": "NY-24",
+  "name": "Claudia Tenney",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted no on H.R. 8035 Ukraine aid; founded and chairs the House Election Integrity Caucus, formed after the 2020 election. Was not seated on Jan 6, 2021 (her race was still undecided), so cast no certification vote. DW-NOMINATE dim1 0.466.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/Votes/2024151",
+   "https://en.wikipedia.org/wiki/Claudia_Tenney"
+  ]
+ },
+ {
+  "district": "NY-25",
+  "name": "Joseph Morelle",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "NDC member; DW-NOMINATE dim1 -0.331, right of about 67% of House Democrats. Voted yes on H.R. 8034. Beat a challenger from his left in the 2026 primary.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://clerk.house.gov/Votes/2024152",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York"
+  ]
+ },
+ {
+  "district": "NY-26",
+  "name": "Tim Kennedy",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "unknown",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "NDC member; DW-NOMINATE dim1 -0.385 (near the median).",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition"
+  ]
+ }
+]

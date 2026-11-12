@@ -1,0 +1,907 @@
+[
+ {
+  "district": "AL-1",
+  "name": "Barry Moore",
+  "party": "R",
+  "wing": "Nationalist",
+  "confidence": "high",
+  "why_leaving": "ran for Senate",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Nay",
+   "ukraine_ban_2025": "Aye"
+  },
+  "evidence": "Voted Aye on the 2025 Greene amendment barring Ukraine aid and No on 2024 Ukraine aid; Freedom Caucus member who objected to 2020 electors.",
+  "actually_returning": false
+ },
+ {
+  "district": "AZ-1",
+  "name": "David Schweikert",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "ran for governor",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "evidence": "Voted for 2024 Ukraine aid and against the 2025 Ukraine-aid ban; Ways and Means fiscal conservative running for AZ governor.",
+  "actually_returning": false
+ },
+ {
+  "district": "AZ-5",
+  "name": "Andy Biggs",
+  "party": "R",
+  "wing": "Nationalist",
+  "confidence": "high",
+  "why_leaving": "ran for governor",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Nay",
+   "ukraine_ban_2025": "Aye"
+  },
+  "evidence": "Voted Aye on the 2025 Ukraine-aid ban, against 2024 Ukraine and Israel aid; former Freedom Caucus chair who objected to 2020 electors.",
+  "actually_returning": false
+ },
+ {
+  "district": "AZ-6",
+  "name": "Juan Ciscomani",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "lost general",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "evidence": "Voted for 2024 Ukraine aid and against the 2025 ban; swing-seat Problem Solvers-style Republican who lost to JoAnna Mendoza.",
+  "actually_returning": false
+ },
+ {
+  "district": "CA-1",
+  "name": "James Gallagher",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "why_leaving": "lost general",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "n/a",
+   "ukraine_ban_2025": "n/a"
+  },
+  "evidence": "Former CA Assembly GOP leader who won the 2026 special for LaMalfa's seat (no Ukraine votes; voted No on Massie Israel amendment); establishment conservative who lost to Mike McGuire.",
+  "actually_returning": false
+ },
+ {
+  "district": "CA-3",
+  "name": "Kevin Kiley",
+  "party": "I",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "lost general",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "evidence": "Served as a Republican; voted for 2024 Ukraine aid and against the 2025 ban; left GOP after Prop 50 and lost as an independent to Richard Pan.",
+  "actually_returning": false
+ },
+ {
+  "district": "CA-4",
+  "name": "Mike Thompson",
+  "party": "D",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "lost general",
+  "votes": {
+   "israel_2026": "absent",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "signals": {
+   "economic": "center",
+   "cpc": false
+  },
+  "evidence": "Blue Dog/New Dem; voted Present on the 2026 Massie amendment but Yea on 2024 Israel aid; trailing fellow Dem Eric Jones ~51-49 in uncalled count as of Nov 8.",
+  "actually_returning": false
+ },
+ {
+  "district": "CA-11",
+  "name": "Nancy Pelosi",
+  "party": "D",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "retired",
+  "votes": {
+   "israel_2026": "Aye",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "signals": {
+   "economic": "center",
+   "cpc": false
+  },
+  "evidence": "Former Speaker and party establishment leader, not CPC; voted Aye on the 2026 Massie amendment but economic record is mainstream Democratic.",
+  "actually_returning": false
+ },
+ {
+  "district": "CA-22",
+  "name": "David G. Valadao",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "lost general",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "evidence": "Voted for 2024 Ukraine aid and against the 2025 ban; voted to impeach Trump in 2021; lost to Randy Villegas.",
+  "actually_returning": false
+ },
+ {
+  "district": "CA-26",
+  "name": "Julia Brownley",
+  "party": "D",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "why_leaving": "retired",
+  "votes": {
+   "israel_2026": "Aye",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "signals": {
+   "economic": "center",
+   "cpc": false
+  },
+  "evidence": "Not a CPC member; mainstream liberal record; voted Aye on the 2026 Massie amendment.",
+  "actually_returning": false
+ },
+ {
+  "district": "CA-34",
+  "name": "Jimmy Gomez",
+  "party": "D",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "why_leaving": "lost general",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "signals": {
+   "economic": "left",
+   "cpc": true
+  },
+  "evidence": "CPC member with a left economic record, but voted No on the 2026 Massie amendment (pro-Israel rule); lost to Justice Democrats-backed Angela Gonzales-Torres.",
+  "actually_returning": false
+ },
+ {
+  "district": "CA-40",
+  "name": "Young Kim",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "lost general",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "evidence": "Voted for 2024 Ukraine aid and against the 2025 ban; bipartisan-ranked hawk; trailing fellow GOP incumbent Ken Calvert ~54-46 in new CA-40 (Calvert claimed victory, AP not yet called as of Nov 8).",
+  "actually_returning": false
+ },
+ {
+  "district": "CA-48",
+  "name": "Darrell Issa",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "retired",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "evidence": "Voted for 2024 Ukraine aid and against the 2025 ban, though he objected to 2020 electors; senior business-aligned Republican retiring.",
+  "actually_returning": false
+ },
+ {
+  "district": "CO-1",
+  "name": "Diana DeGette",
+  "party": "D",
+  "wing": "Progressive",
+  "confidence": "low",
+  "why_leaving": "lost primary",
+  "votes": {
+   "israel_2026": "Aye",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "signals": {
+   "economic": "left",
+   "cpc": true
+  },
+  "evidence": "CPC member who voted Aye on the 2026 Massie amendment, though seen as an establishment liberal and lost her primary to a further-left challenger, Melat Kiros.",
+  "actually_returning": false
+ },
+ {
+  "district": "CO-5",
+  "name": "Jeff Crank",
+  "party": "R",
+  "wing": "Nationalist",
+  "confidence": "high",
+  "why_leaving": "lost general",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "n/a",
+   "ukraine_ban_2025": "Aye"
+  },
+  "evidence": "Voted Aye on the 2025 Greene Ukraine-aid ban in his first term; lost to Jessica Killin.",
+  "actually_returning": false
+ },
+ {
+  "district": "CO-8",
+  "name": "Gabe Evans",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "why_leaving": "lost general",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "n/a",
+   "ukraine_ban_2025": "No"
+  },
+  "evidence": "First-term swing-seat Republican; voted No on the 2025 Ukraine-aid ban and stayed out of Freedom Caucus; lost to Manny Rutinel.",
+  "actually_returning": false
+ },
+ {
+  "district": "CT-1",
+  "name": "John B. Larson",
+  "party": "D",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "lost primary",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "signals": {
+   "economic": "center",
+   "cpc": false
+  },
+  "evidence": "Not CPC; voted No on the 2026 Massie amendment; Social Security-focused senior Democrat who lost his primary to Luke Bronin.",
+  "actually_returning": false
+ },
+ {
+  "district": "FL-2",
+  "name": "Neal P. Dunn",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "retired",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "evidence": "Voted for 2024 Ukraine aid and against the 2025 ban despite objecting to 2020 electors.",
+  "actually_returning": false
+ },
+ {
+  "district": "FL-7",
+  "name": "Cory Mills",
+  "party": "R",
+  "wing": "Nationalist",
+  "confidence": "high",
+  "why_leaving": "lost primary",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Nay",
+   "ukraine_ban_2025": "Aye"
+  },
+  "evidence": "Voted Aye on the 2025 Ukraine-aid ban and against 2024 Ukraine and Israel aid; lost primary to Ryan Elijah.",
+  "actually_returning": false
+ },
+ {
+  "district": "FL-11",
+  "name": "Daniel Webster",
+  "party": "R",
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "why_leaving": "retired",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Nay",
+   "ukraine_ban_2025": "Aye"
+  },
+  "evidence": "Voted Aye on the 2025 Greene Ukraine-aid ban and Nay on 2024 aid; objected to 2020 electors.",
+  "actually_returning": false
+ },
+ {
+  "district": "FL-16",
+  "name": "Vern Buchanan",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "retired",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "evidence": "Voted for 2024 Ukraine aid and against the 2025 ban; Ways and Means vice chair with business-aligned record.",
+  "actually_returning": false
+ },
+ {
+  "district": "FL-19",
+  "name": "Byron Donalds",
+  "party": "R",
+  "wing": "Nationalist",
+  "confidence": "high",
+  "why_leaving": "ran for governor",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Nay",
+   "ukraine_ban_2025": "Aye"
+  },
+  "evidence": "Voted Aye on the 2025 Ukraine-aid ban, Nay on 2024 aid; Freedom Caucus member who objected to 2020 electors; Trump-endorsed for FL governor.",
+  "actually_returning": false
+ },
+ {
+  "district": "FL-24",
+  "name": "Frederica S. Wilson",
+  "party": "D",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "why_leaving": "retired",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "signals": {
+   "economic": "left",
+   "cpc": true
+  },
+  "evidence": "CPC member but voted No on the 2026 Massie amendment (pro-Israel rule); mainstream CBC Democrat.",
+  "actually_returning": false
+ },
+ {
+  "district": "GA-1",
+  "name": "Earl L. \"Buddy\" Carter",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "ran for Senate",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "evidence": "Voted for 2024 Ukraine aid and against the 2025 ban, despite objecting to 2020 electors.",
+  "actually_returning": false
+ },
+ {
+  "district": "GA-10",
+  "name": "Mike Collins",
+  "party": "R",
+  "wing": "Nationalist",
+  "confidence": "high",
+  "why_leaving": "ran for Senate",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Nay",
+   "ukraine_ban_2025": "Aye"
+  },
+  "evidence": "Voted Aye on the 2025 Ukraine-aid ban and Nay on 2024 aid; MAGA-aligned Senate candidate.",
+  "actually_returning": false
+ },
+ {
+  "district": "GA-11",
+  "name": "Barry Loudermilk",
+  "party": "R",
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "why_leaving": "retired",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Nay",
+   "ukraine_ban_2025": "No"
+  },
+  "evidence": "Voted Nay on 2024 Ukraine aid (No on 2025 ban); founding Freedom Caucus member who objected to 2020 electors and led the GOP Jan. 6 counter-investigation.",
+  "actually_returning": false
+ },
+ {
+  "district": "GA-13",
+  "name": "Everton Blair Jr.",
+  "party": "D",
+  "wing": "Progressive",
+  "confidence": "medium",
+  "why_leaving": "other: filled vacancy only (won Aug 2026 special for remainder of David Scott's term; did not seek full term)",
+  "votes": {
+   "israel_2026": "n/a",
+   "ukraine_2024": "n/a",
+   "ukraine_ban_2025": "n/a"
+  },
+  "signals": {
+   "economic": "left",
+   "cpc": true
+  },
+  "evidence": "Sworn in Sept 1, 2026 and joined the CPC; ran on Medicare for All and criticized U.S. aid to Israel; no votes on the test rolls.",
+  "actually_returning": false
+ },
+ {
+  "district": "IA-1",
+  "name": "Mariannette Miller-Meeks",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "lost general",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "evidence": "Voted for 2024 Ukraine aid and against the 2025 ban; Main Street-aligned; lost to Christina Bohannan.",
+  "actually_returning": false
+ },
+ {
+  "district": "IA-2",
+  "name": "Ashley Hinson",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "ran for Senate",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "evidence": "Voted for 2024 Ukraine aid and against the 2025 ban; did not object in 2021.",
+  "actually_returning": false
+ },
+ {
+  "district": "IA-3",
+  "name": "Zachary Nunn",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "lost general",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "evidence": "Voted for 2024 Ukraine aid and against the 2025 ban; lost to Sarah Trone Garriott.",
+  "actually_returning": false
+ },
+ {
+  "district": "IA-4",
+  "name": "Randy Feenstra",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "ran for governor",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "evidence": "Voted for 2024 Ukraine aid and against the 2025 ban; did not object in 2021.",
+  "actually_returning": false
+ },
+ {
+  "district": "IL-2",
+  "name": "Robin L. Kelly",
+  "party": "D",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "why_leaving": "ran for Senate",
+  "votes": {
+   "israel_2026": "Aye",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "signals": {
+   "economic": "center",
+   "cpc": false
+  },
+  "evidence": "Not a CPC member; mainstream CBC liberal; voted Aye on the 2026 Massie amendment.",
+  "actually_returning": false
+ },
+ {
+  "district": "IL-4",
+  "name": "Jesús G. \"Chuy\" García",
+  "party": "D",
+  "wing": "Progressive",
+  "confidence": "high",
+  "why_leaving": "retired",
+  "votes": {
+   "israel_2026": "Aye",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "signals": {
+   "economic": "left",
+   "cpc": true
+  },
+  "evidence": "CPC member, Medicare for All backer with a left voting record; voted Nay on 2024 Israel aid and Aye on the 2026 Massie amendment.",
+  "actually_returning": false
+ },
+ {
+  "district": "IL-7",
+  "name": "Danny K. Davis",
+  "party": "D",
+  "wing": "Progressive",
+  "confidence": "medium",
+  "why_leaving": "retired",
+  "votes": {
+   "israel_2026": "Aye",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "signals": {
+   "economic": "left",
+   "cpc": true
+  },
+  "evidence": "Longtime CPC member and Medicare for All cosponsor; voted Aye on the 2026 Massie amendment.",
+  "actually_returning": false
+ },
+ {
+  "district": "IL-8",
+  "name": "Raja Krishnamoorthi",
+  "party": "D",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "ran for Senate",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "signals": {
+   "economic": "center",
+   "cpc": false
+  },
+  "evidence": "Not CPC; voted No on the 2026 Massie amendment; centrist-leaning record.",
+  "actually_returning": false
+ },
+ {
+  "district": "IL-9",
+  "name": "Janice D. Schakowsky",
+  "party": "D",
+  "wing": "Progressive",
+  "confidence": "high",
+  "why_leaving": "retired",
+  "votes": {
+   "israel_2026": "Aye",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "signals": {
+   "economic": "left",
+   "cpc": true
+  },
+  "evidence": "CPC member and Medicare for All cosponsor with a left record; voted Aye on the 2026 Massie amendment.",
+  "actually_returning": false
+ },
+ {
+  "district": "IN-5",
+  "name": "Victoria Spartz",
+  "party": "R",
+  "wing": "Nationalist",
+  "confidence": "low",
+  "why_leaving": "lost general",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Nay",
+   "ukraine_ban_2025": "n/a"
+  },
+  "evidence": "Voted Nay on 2024 Ukraine aid (did not vote on 2025 ban), urged Ukraine to cede territory and Zelensky to resign; erratic anti-leadership fiscal hawk; lost to J.D. Ford.",
+  "actually_returning": false
+ },
+ {
+  "district": "KY-4",
+  "name": "Thomas Massie",
+  "party": "R",
+  "wing": "Nationalist",
+  "confidence": "high",
+  "why_leaving": "lost primary",
+  "votes": {
+   "israel_2026": "Aye",
+   "ukraine_2024": "Nay",
+   "ukraine_ban_2025": "Aye"
+  },
+  "evidence": "Voted Aye on the 2025 Ukraine-aid ban, Nay on 2024 Ukraine and Israel aid, and authored the 2026 Israel-aid amendment; libertarian-populist who lost his primary to Trump-backed Ed Gallrein.",
+  "actually_returning": false
+ },
+ {
+  "district": "KY-6",
+  "name": "Andy Barr",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "ran for Senate",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "evidence": "Voted for 2024 Ukraine aid and against the 2025 ban; Financial Services establishment conservative.",
+  "actually_returning": false
+ },
+ {
+  "district": "LA-5",
+  "name": "Julia Letlow",
+  "party": "R",
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "why_leaving": "ran for Senate",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Nay",
+   "ukraine_ban_2025": "Aye"
+  },
+  "evidence": "Voted Aye on the 2025 Greene Ukraine-aid ban and Nay on 2024 aid; Trump-backed primary challenge to Sen. Cassidy.",
+  "actually_returning": false
+ },
+ {
+  "district": "LA-6",
+  "name": "Cleo Fields",
+  "party": "D",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "other office",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "n/a",
+   "ukraine_ban_2025": "No"
+  },
+  "signals": {
+   "economic": "center",
+   "cpc": false
+  },
+  "evidence": "Not CPC; voted No on the 2026 Massie amendment; ran for Louisiana State Senate after his district was eliminated in redistricting.",
+  "actually_returning": false
+ },
+ {
+  "district": "MA-6",
+  "name": "Seth Moulton",
+  "party": "D",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "ran for Senate",
+  "votes": {
+   "israel_2026": "Aye",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "signals": {
+   "economic": "center",
+   "cpc": false
+  },
+  "evidence": "New Democrat-style centrist on economics, not CPC, though he voted Aye on the 2026 Massie amendment.",
+  "actually_returning": false
+ },
+ {
+  "district": "MD-5",
+  "name": "Steny H. Hoyer",
+  "party": "D",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "retired",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "signals": {
+   "economic": "center",
+   "cpc": false
+  },
+  "evidence": "Former Majority Leader, not CPC; voted No on the 2026 Massie amendment.",
+  "actually_returning": false
+ },
+ {
+  "district": "ME-2",
+  "name": "Jared F. Golden",
+  "party": "D",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "retired",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "signals": {
+   "economic": "center",
+   "cpc": false
+  },
+  "evidence": "Blue Dog centrist, not CPC; voted No on the 2026 Massie amendment.",
+  "actually_returning": false
+ },
+ {
+  "district": "MI-4",
+  "name": "Bill Huizenga",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "why_leaving": "lost general",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Nay",
+   "ukraine_ban_2025": "No"
+  },
+  "evidence": "Voted Nay on 2024 Ukraine aid but No on the 2025 ban; business-aligned Financial Services Republican who did not object in 2021; lost to Sean McCann.",
+  "actually_returning": false
+ },
+ {
+  "district": "MI-7",
+  "name": "Tom Barrett",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "why_leaving": "lost general",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "n/a",
+   "ukraine_ban_2025": "No"
+  },
+  "evidence": "First-term swing-seat Republican; voted No on the 2025 Ukraine-aid ban; lost to William Lawrence.",
+  "actually_returning": false
+ },
+ {
+  "district": "MI-10",
+  "name": "John James",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "ran for governor",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "evidence": "Voted for 2024 Ukraine aid and against the 2025 ban.",
+  "actually_returning": false
+ },
+ {
+  "district": "MI-11",
+  "name": "Haley M. Stevens",
+  "party": "D",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "ran for Senate",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "signals": {
+   "economic": "center",
+   "cpc": false
+  },
+  "evidence": "New Democrat, not CPC; voted No on the 2026 Massie amendment.",
+  "actually_returning": false
+ },
+ {
+  "district": "MI-13",
+  "name": "Shri Thanedar",
+  "party": "D",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "why_leaving": "lost primary",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "signals": {
+   "economic": "left",
+   "cpc": true
+  },
+  "evidence": "CPC member but voted No on the 2026 Massie amendment (pro-Israel rule); lost primary to Justice Democrats-backed Donavan McKinney.",
+  "actually_returning": false
+ },
+ {
+  "district": "MN-2",
+  "name": "Angie Craig",
+  "party": "D",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "ran for Senate",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "signals": {
+   "economic": "center",
+   "cpc": false
+  },
+  "evidence": "Blue Dog-leaning centrist, not CPC; voted No on the 2026 Massie amendment.",
+  "actually_returning": false
+ },
+ {
+  "district": "MO-2",
+  "name": "Ann Wagner",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "lost general",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "evidence": "Voted for 2024 Ukraine aid and against the 2025 ban; establishment conservative; lost to Fred Wellman.",
+  "actually_returning": false
+ },
+ {
+  "district": "MO-6",
+  "name": "Sam Graves",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "retired",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "evidence": "Voted for 2024 Ukraine aid and against the 2025 ban, though he objected to 2020 electors; Transportation Committee chair.",
+  "actually_returning": false
+ },
+ {
+  "district": "MT-1",
+  "name": "Ryan K. Zinke",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "why_leaving": "retired",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Nay",
+   "ukraine_ban_2025": "No"
+  },
+  "evidence": "Voted Nay on 2024 Ukraine and Israel aid (citing the border) but No on the 2025 ban; not Freedom Caucus; hawkish former Interior secretary.",
+  "actually_returning": false
+ },
+ {
+  "district": "NC-6",
+  "name": "Addison P. McDowell",
+  "party": "R",
+  "wing": "Nationalist",
+  "confidence": "high",
+  "why_leaving": "lost general",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "n/a",
+   "ukraine_ban_2025": "Aye"
+  },
+  "evidence": "Voted Aye on the 2025 Greene Ukraine-aid ban in his first term; lost to Cyril Jefferson.",
+  "actually_returning": false
+ },
+ {
+  "district": "NC-9",
+  "name": "Richard Hudson",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "lost general",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "evidence": "NRCC chair; voted for 2024 Ukraine aid and against the 2025 ban; party establishment despite 2021 objections; lost to Richard Ojeda.",
+  "actually_returning": false
+ }
+]

@@ -1,0 +1,1278 @@
+[
+ {
+  "district": "OH-1",
+  "name": "Greg Landsman",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition",
+    "Problem Solvers Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Not in CPC; New Dem and Problem Solvers member; DW-NOMINATE dim1 -0.226 (near the right edge of the House Democratic caucus, rank 204/222 from left). Voted yes on H.R. 8034 and did not cosponsor the Block the Bombs Act (H.R. 3565).",
+  "sources": [
+   "https://voteview.com/congress/house",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://www.congress.gov/bill/119th-congress/house-bill/3565/cosponsors",
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://en.wikipedia.org/wiki/Problem_Solvers_Caucus"
+  ]
+ },
+ {
+  "district": "OH-2",
+  "name": "David Taylor",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Elected 2024. Voted for Greene amendment barring Ukraine assistance in FY26 defense appropriations (2025 roll 209) and against the 2026 Ukraine Support Act (H.R. 2913); DW-NOMINATE 0.615 (right of the GOP median 0.53). Not on Main Street roster.",
+  "sources": [
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2026/roll207.xml",
+   "https://voteview.com/congress/house"
+  ]
+ },
+ {
+  "district": "OH-3",
+  "name": "Joyce Beatty",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Not on the current CPC roster; DW-NOMINATE -0.441 (left of caucus median -0.395). Voted yes on H.R. 8034 and is not a Block the Bombs cosponsor; the voting score leans left but no listed progressive-group/caucus signal was found.",
+  "sources": [
+   "https://voteview.com/congress/house",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://www.congress.gov/bill/119th-congress/house-bill/3565/cosponsors",
+   "https://progressives.house.gov/caucus-members"
+  ]
+ },
+ {
+  "district": "OH-4",
+  "name": "Jim Jordan",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "beyond-baseline",
+   "caucuses": [
+    "House Freedom Caucus (founding chair)"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Voted no on H.R. 8035 (2024), yes on Greene Ukraine-ban amendment (2025), and voted for both Jan. 6, 2021 objections (AZ, PA). DW-NOMINATE 0.711.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/Freedom_Caucus"
+  ]
+ },
+ {
+  "district": "OH-5",
+  "name": "Bob Latta",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted yes on H.R. 8035; voted against both Jan. 6, 2021 objections; voted no on Greene Ukraine-ban amendment (2025). DW-NOMINATE 0.508, near GOP median.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://voteview.com/congress/house"
+  ]
+ },
+ {
+  "district": "OH-6",
+  "name": "Michael Rulli",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [
+    "Republican Main Street Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Main Street Caucus member, DW-NOMINATE 0.43 (left of GOP median). However, voted yes on the Greene amendment barring Ukraine assistance (2025 roll 209) and no on the 2026 Ukraine Support Act; joined House June 2024, after H.R. 8035.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Main_Street_Caucus",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2026/roll207.xml",
+   "https://voteview.com/congress/house"
+  ]
+ },
+ {
+  "district": "OH-7",
+  "name": "Brian Poindexter",
+  "party": "D",
+  "returning": false,
+  "wing": "Progressive",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [],
+   "key_endorsements": [
+    "Our Revolution",
+    "Working Families Party",
+    "J Street PAC",
+    "JDCA"
+   ]
+  },
+  "evidence": "Defeated incumbent Max Miller (R), AP call. Union ironworker running on wages/health care/retirement; endorsed by Our Revolution and Ohio WFP; Jewish Insider reports he has not taken firm Israel positions while backed by J Street and JDCA. No voting record.",
+  "sources": [
+   "https://ourrevolution.com/?p=4405",
+   "https://bluevoterguide.org/district/OH/Ohio_District_7/46746/777",
+   "https://jewishinsider.com/2026/08/brian-poindexter-israel-stance-ohio-max-miller/",
+   "https://www.news5cleveland.com/politics/america-votes/poindexter-declared-winner-in-ohios-hotly-contested-7th-district-race"
+  ]
+ },
+ {
+  "district": "OH-8",
+  "name": "Warren Davidson",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [
+    "House Freedom Caucus (former; expelled 2024)"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Voted no on H.R. 8035 and no on H.R. 8034; voted for both Jan. 6, 2021 objections; yes on Greene Ukraine-ban amendment (2025). DW-NOMINATE 0.647.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/Freedom_Caucus"
+  ]
+ },
+ {
+  "district": "OH-9",
+  "name": "Marcy Kaptur",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Not in CPC; DW-NOMINATE -0.34 (right of caucus median). Voted yes on H.R. 8034 and H.R. 8035; not a Block the Bombs cosponsor.",
+  "sources": [
+   "https://voteview.com/congress/house",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://www.congress.gov/bill/119th-congress/house-bill/3565/cosponsors",
+   "https://progressives.house.gov/caucus-members"
+  ]
+ },
+ {
+  "district": "OH-10",
+  "name": "Kristina Knickerbocker",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": false,
+  "signals": {
+   "economic": "unknown",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "VoteVets",
+    "End Citizens United",
+    "DCCC"
+   ]
+  },
+  "evidence": "Defeated incumbent Mike Turner (R); AP called the race Nov. 5 (about 49.3%-47.7%). Former Air Force major and nurse practitioner; endorsements are VoteVets, End Citizens United, Democrats Work For America and DCCC support; no progressive-group endorsements or stated Israel position found. Thin evidence.",
+  "sources": [
+   "https://www.wosu.org/2026-11-05/knickerbocker-beats-turner-flipping-ohios-10th-district-for-democrats",
+   "https://votevets.org/press-releases/votevets-endorses-slate-of-democratic-house-candidates-ahead-of-midterms",
+   "https://www.endcitizensunited.org/ecu-congratulates-kristina-knickerbocker-on-primary-win-in-ohios-10th-congressional-district"
+  ]
+ },
+ {
+  "district": "OH-11",
+  "name": "Shontel Brown",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "supports",
+   "caucuses": [
+    "Congressional Progressive Caucus",
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": [
+    "AIPAC (2022)",
+    "DMFI (2021-22)"
+   ]
+  },
+  "evidence": "CPC member with DW-NOMINATE -0.476 (left of caucus median), but AIPAC and DMFI backed her 2021/2022 primaries against Nina Turner, AIPAC lists her as a pro-Israel success, she voted yes on H.R. 8034 and is not a Block the Bombs cosponsor; Mainstream under the Israel rule.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://voteview.com/congress/house",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://www.congress.gov/bill/119th-congress/house-bill/3565/cosponsors",
+   "https://aipac.org/memos/2022-political-success"
+  ]
+ },
+ {
+  "district": "OH-12",
+  "name": "Troy Balderson",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "baseline",
+   "caucuses": [
+    "Republican Main Street Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Main Street Caucus member, voted against both Jan. 6, 2021 objections, DW-NOMINATE 0.464 (left of GOP median). But voted no on H.R. 8035 (2024), yes on Greene Ukraine-ban amendment (2025) and no on 2026 Ukraine Support Act; Ukraine record points Nationalist.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Main_Street_Caucus",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2026/roll207.xml",
+   "https://voteview.com/congress/house"
+  ]
+ },
+ {
+  "district": "OH-13",
+  "name": "Emilia Sykes",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition",
+    "Problem Solvers Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Not in CPC; New Dem and Problem Solvers member; DW-NOMINATE -0.333. Voted yes on H.R. 8034; not a Block the Bombs cosponsor.",
+  "sources": [
+   "https://voteview.com/congress/house",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://www.congress.gov/bill/119th-congress/house-bill/3565/cosponsors",
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://en.wikipedia.org/wiki/Problem_Solvers_Caucus"
+  ]
+ },
+ {
+  "district": "OH-14",
+  "name": "David Joyce",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [
+    "Republican Main Street Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Main Street Caucus member; voted yes on H.R. 8035 and yes on 2026 Ukraine Support Act; voted against Jan. 6 AZ objection; DW-NOMINATE 0.25 (among most moderate Republicans).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Main_Street_Caucus",
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2026/roll207.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://voteview.com/congress/house"
+  ]
+ },
+ {
+  "district": "OH-15",
+  "name": "Don Leonard",
+  "party": "D",
+  "returning": false,
+  "wing": "Progressive",
+  "confidence": "low",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "End Citizens United",
+    "Ohio Citizen Action",
+    "CAIR Action Ohio"
+   ]
+  },
+  "evidence": "Defeated incumbent Mike Carey (R). Supports universal health care and safety-net expansion; donated to and praised the Working Families Party billionaire-tax call; 2025 paper called for a \"new social-democratic order\" (he says he is not a democratic socialist). No stated Israel position found; no voting record.",
+  "sources": [
+   "https://freebeacon.com/democrats/ohio-dem-running-in-swing-district-says-hes-not-a-socialist-but-would-lie-to-the-people-to-get-their-votes-if-he-was/",
+   "https://ballotpedia.org/Don_Leonard",
+   "https://www.endcitizensunited.org/news/end-citizens-united-endorses-don-leonard-for-ohios-15th-congressional-district",
+   "https://spectrumnews1.com/oh/columbus/news/2026/11/04/a-breakdown-of-ohio-district-races"
+  ]
+ },
+ {
+  "district": "OK-1",
+  "name": "Mark Tedford",
+  "party": "R",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": [
+    "Trump (after Lahmeyer withdrew)",
+    "OK House Speaker Kyle Hilbert"
+   ]
+  },
+  "evidence": "Open seat (Kevin Hern ran for Senate). State rep. who describes himself as a business-oriented conservative; said he disagrees with overturning birthright citizenship and has reservations about tariffs. Trump endorsement came only after his Trump-backed rival withdrew. General-election result assumed from safe-R seat; no specific call found in search.",
+  "sources": [
+   "https://tulsaflyer.org/2026/06/09/government/post/mark-tedford-us-house-race/",
+   "https://www.newsfromthestates.com/article/lahmeyer-ends-oklahoma-congressional-run-trump-instead-endorses-opponent",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oklahoma"
+  ]
+ },
+ {
+  "district": "OK-2",
+  "name": "Josh Brecheen",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "beyond-baseline",
+   "caucuses": [
+    "House Freedom Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Voted no on H.R. 8035; yes on Greene amendments barring Ukraine aid and striking Taiwan funding (2025); DW-NOMINATE 0.841 (among the most conservative). Freedom Caucus member.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2025/roll205.xml",
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/Freedom_Caucus"
+  ]
+ },
+ {
+  "district": "OK-3",
+  "name": "Frank Lucas",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted yes on H.R. 8035 and no on Greene Ukraine-ban amendment; DW-NOMINATE 0.361. Did vote for both Jan. 6, 2021 objections.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://voteview.com/congress/house"
+  ]
+ },
+ {
+  "district": "OK-4",
+  "name": "Tom Cole",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Appropriations chair; voted yes on H.R. 8035 and no on Greene Ukraine-ban amendment; DW-NOMINATE 0.323. Voted for both Jan. 6, 2021 objections.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://voteview.com/congress/house"
+  ]
+ },
+ {
+  "district": "OK-5",
+  "name": "Stephanie Bice",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [
+    "Republican Main Street Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Main Street Caucus member; voted yes on H.R. 8035, no on Greene Ukraine-ban amendment; DW-NOMINATE 0.411. Voted for both Jan. 6, 2021 objections.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Main_Street_Caucus",
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://voteview.com/congress/house"
+  ]
+ },
+ {
+  "district": "OR-1",
+  "name": "Suzanne Bonamici",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member; DW-NOMINATE -0.401 (at caucus median). Voted yes on H.R. 8034 in 2024 but cosponsored the Block the Bombs Act (H.R. 3565) restricting offensive arms to Israel in Sept. 2025.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://voteview.com/congress/house",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://www.congress.gov/bill/119th-congress/house-bill/3565/cosponsors"
+  ]
+ },
+ {
+  "district": "OR-2",
+  "name": "Cliff Bentz",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [
+    "Republican Main Street Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Main Street Caucus member; voted yes on H.R. 8035 and no on Greene Ukraine-ban amendment; DW-NOMINATE 0.476. Voted for the PA objection on Jan. 6, 2021 (not AZ).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Main_Street_Caucus",
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://voteview.com/congress/house"
+  ]
+ },
+ {
+  "district": "OR-3",
+  "name": "Maxine Dexter",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "United Democracy Project spending (2024 primary)"
+   ]
+  },
+  "evidence": "CPC member, DW-NOMINATE -0.459 (left of caucus median). AIPAC's United Democracy Project spent for her in the 2024 primary, but she cosponsored the Block the Bombs Act (H.R. 3565) in Sept. 2025, so not classed as an Israel-aid advocate; borderline.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://voteview.com/congress/house",
+   "https://www.congress.gov/bill/119th-congress/house-bill/3565/cosponsors",
+   "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Oregon"
+  ]
+ },
+ {
+  "district": "OR-4",
+  "name": "Val Hoyle",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus",
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member and Block the Bombs Act cosponsor (Aug. 2025); but also New Dem member and DW-NOMINATE -0.233 (among the most moderate Democrats), hence borderline.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://www.congress.gov/bill/119th-congress/house-bill/3565/cosponsors",
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition"
+  ]
+ },
+ {
+  "district": "OR-5",
+  "name": "Janelle Bynum",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Not in CPC; New Dem member; DW-NOMINATE -0.288 (right of caucus median). Not a Block the Bombs cosponsor.",
+  "sources": [
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://www.congress.gov/bill/119th-congress/house-bill/3565/cosponsors",
+   "https://progressives.house.gov/caucus-members"
+  ]
+ },
+ {
+  "district": "OR-6",
+  "name": "Andrea Salinas",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [
+    "Congressional Progressive Caucus",
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member and Block the Bombs Act cosponsor (Dec. 2025); voted yes on H.R. 8034. Also New Dem member with DW-NOMINATE -0.227 (among most moderate Democrats), hence borderline.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://www.congress.gov/bill/119th-congress/house-bill/3565/cosponsors",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition"
+  ]
+ },
+ {
+  "district": "PA-1",
+  "name": "Bob Harvie",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Gov. Josh Shapiro",
+    "DCCC Red to Blue",
+    "Bucks/Montgomery Democratic committees",
+    "Indivisible Bucks County"
+   ]
+  },
+  "evidence": "Defeated incumbent Brian Fitzpatrick (R), about 52.7%-47.3% (unofficial). Bucks County commissioner, campaign centered on affordability; endorsers are party establishment (Shapiro, DCCC); no progressive-group endorsements or Israel position found. Thin evidence.",
+  "sources": [
+   "https://northeasttimes.com/?p=166132",
+   "https://whyy.org/articles/election-2026-pennsylvania-bucks-county-1st-congressional-district-harvie-simonelli",
+   "https://levittownnow.com/2026/05/05/national-democratic-group-puts-support-behind-bob-harvie/"
+  ]
+ },
+ {
+  "district": "PA-2",
+  "name": "Brendan Boyle",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "supports",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member, DW-NOMINATE -0.379 (near caucus median); voted yes on H.R. 8034 and is not a Block the Bombs cosponsor (unlike most PA/OR CPC colleagues), consistent with his pro-Israel record; Mainstream under the Israel rule.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://voteview.com/congress/house",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://www.congress.gov/bill/119th-congress/house-bill/3565/cosponsors"
+  ]
+ },
+ {
+  "district": "PA-3",
+  "name": "Chris Rabb",
+  "party": "D",
+  "returning": false,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [],
+   "key_endorsements": [
+    "Justice Democrats",
+    "Working Families Party",
+    "Philadelphia DSA",
+    "Sunrise Movement",
+    "Congressional Progressive Caucus PAC",
+    "Alexandria Ocasio-Cortez"
+   ]
+  },
+  "evidence": "Open seat (Dwight Evans retired); won May 19 primary, no Republican on ballot. Endorsed by Justice Democrats, WFP, Philadelphia DSA, Sunrise and CPC PAC; Jewish Insider describes him as an Israel critic.",
+  "sources": [
+   "https://workingfamilies.org/2026/03/pawfp-progressive-groups-elected-officials-endorse-rep-chris-rabb-in-pa-03/",
+   "https://weareprogressives.org/congressional-progressive-caucus-pac-endorses-chris-rabb-for-pa-03/",
+   "https://jewishinsider.com/2026/04/chris-rabb-pennsylvania-congressional-primary-endorsements/"
+  ]
+ },
+ {
+  "district": "PA-4",
+  "name": "Madeleine Dean",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member; DW-NOMINATE -0.436 (left of caucus median). Voted yes on H.R. 8034 but cosponsored the Block the Bombs Act (Sept. 2025).",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://voteview.com/congress/house",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://www.congress.gov/bill/119th-congress/house-bill/3565/cosponsors"
+  ]
+ },
+ {
+  "district": "PA-5",
+  "name": "Mary Gay Scanlon",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [
+    "Congressional Progressive Caucus",
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member; DW-NOMINATE -0.46 (left of caucus median). Voted yes on H.R. 8034 but cosponsored the Block the Bombs Act (Sept. 2025). Also a New Dem member.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://voteview.com/congress/house",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://www.congress.gov/bill/119th-congress/house-bill/3565/cosponsors",
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition"
+  ]
+ },
+ {
+  "district": "PA-6",
+  "name": "Chrissy Houlahan",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition",
+    "Problem Solvers Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Not in CPC; New Dem and Problem Solvers member; DW-NOMINATE -0.258. Voted yes on H.R. 8034; not a Block the Bombs cosponsor.",
+  "sources": [
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://en.wikipedia.org/wiki/Problem_Solvers_Caucus",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://www.congress.gov/bill/119th-congress/house-bill/3565/cosponsors"
+  ]
+ },
+ {
+  "district": "PA-7",
+  "name": "Bob Brooks",
+  "party": "D",
+  "returning": false,
+  "wing": "Progressive",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [],
+   "key_endorsements": [
+    "Bernie Sanders",
+    "Our Revolution",
+    "Working Families Party",
+    "National Nurses United",
+    "Blue Dog PAC",
+    "J Street PAC",
+    "Gov. Josh Shapiro",
+    "DCCC"
+   ]
+  },
+  "evidence": "Defeated incumbent Ryan Mackenzie (R). Firefighter union leader endorsed by Sanders, Our Revolution, WFP and National Nurses United, but also by Blue Dog PAC and J Street; mixed coalition, so borderline. No voting record.",
+  "sources": [
+   "https://www.lehighvalleynews.com/elections/endorsements-money-and-messaging-propelled-brooks-to-a-dominant-win-in-pa-7",
+   "https://www.cityandstatepa.com/politics/2026/03/bob-brooks-receives-working-families-party-endorsement-pa-7-race/411813/",
+   "https://bluedogdems.com/blue-dog-pac-endorses-bob-brooks-for-pennsylvanias-7th-congressional-district/",
+   "https://ballotpedia.org/Bob_Brooks_(Pennsylvania)"
+  ]
+ },
+ {
+  "district": "PA-8",
+  "name": "Paige Cognetti",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Gov. Josh Shapiro",
+    "Matt Cartwright",
+    "New Politics",
+    "LCV Action Fund"
+   ]
+  },
+  "evidence": "Defeated incumbent Rob Bresnahan (R), AP call. Scranton mayor (elected as an independent in 2019) running on costs, rights and anti-corruption; establishment endorsements, no progressive-group endorsements or Israel position found.",
+  "sources": [
+   "https://www.spotlightpa.org/news/2026/11/pennsylvania-election-results-tenth-congressional-district-paige-cognetti-rob-bresnahan-elections/",
+   "https://penncapital-star.com/campaigns-elections/scranton-mayor-paige-cognetti-launches-bid-for-us-house/",
+   "https://ballotpedia.org/Paige_Cognetti"
+  ]
+ },
+ {
+  "district": "PA-9",
+  "name": "Dan Meuser",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "baseline",
+   "caucuses": [
+    "Republican Main Street Caucus",
+    "Problem Solvers Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Main Street and Problem Solvers member; voted Present on H.R. 8035 and no on Greene Ukraine-ban amendment; DW-NOMINATE 0.491. Voted for the PA objection on Jan. 6, 2021 (not AZ).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Main_Street_Caucus",
+   "https://en.wikipedia.org/wiki/Problem_Solvers_Caucus",
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://voteview.com/congress/house"
+  ]
+ },
+ {
+  "district": "PA-10",
+  "name": "Janelle Stelson",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Defeated incumbent Scott Perry (R), AP call. Former TV anchor; campaign centered on affordability and cost of living; no progressive-group endorsements or Israel position found. Thin evidence.",
+  "sources": [
+   "https://www.cityandstatepa.com/politics/2026/11/stelson-beats-perry-flipping-pa-10-seat-blue/417025/",
+   "https://penncapital-star.com/election-2026/janelle-stelson-will-face-rep-scott-perry-again-after-victory-in-pa-10-democratic-primary/"
+  ]
+ },
+ {
+  "district": "PA-11",
+  "name": "Lloyd Smucker",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [
+    "Problem Solvers Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Problem Solvers member; voted yes on H.R. 8035, no on Greene Ukraine-ban amendment; DW-NOMINATE 0.455. Voted for the PA objection on Jan. 6, 2021 (not AZ).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Problem_Solvers_Caucus",
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://voteview.com/congress/house"
+  ]
+ },
+ {
+  "district": "PA-12",
+  "name": "Summer Lee",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "Justice Democrats"
+   ]
+  },
+  "evidence": "CPC member; Justice Democrats-backed; voted no on H.R. 8034; Block the Bombs cosponsor (May 2025); DW-NOMINATE -0.45.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://www.congress.gov/bill/119th-congress/house-bill/3565/cosponsors",
+   "https://voteview.com/congress/house"
+  ]
+ },
+ {
+  "district": "PA-13",
+  "name": "John Joyce",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted no on H.R. 8035, yes on Greene Ukraine-ban amendment (2025), and voted for both Jan. 6, 2021 objections; DW-NOMINATE 0.583.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://voteview.com/congress/house"
+  ]
+ },
+ {
+  "district": "PA-14",
+  "name": "Guy Reschenthaler",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [
+    "Republican Main Street Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Main Street Caucus member; voted yes on H.R. 8035, no on Greene Ukraine-ban amendment; DW-NOMINATE 0.447. Voted for both Jan. 6, 2021 objections.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Main_Street_Caucus",
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://voteview.com/congress/house"
+  ]
+ },
+ {
+  "district": "PA-15",
+  "name": "Glenn Thompson",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [
+    "Problem Solvers Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Agriculture chair; Problem Solvers member; voted yes on H.R. 8035 and yes on 2026 Ukraine Support Act; DW-NOMINATE 0.335. Voted for the PA objection on Jan. 6, 2021.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Problem_Solvers_Caucus",
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2026/roll207.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://voteview.com/congress/house"
+  ]
+ },
+ {
+  "district": "PA-16",
+  "name": "Mike Kelly",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted yes on H.R. 8035, no on Greene Ukraine-ban amendment; DW-NOMINATE 0.379 (left of GOP median). But voted for both Jan. 6, 2021 objections and was lead plaintiff in the Nov. 2020 lawsuit seeking to block certification of Pennsylvania results (Kelly v. Pennsylvania), an election-fraud signal; borderline.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/Kelly_v._Pennsylvania"
+  ]
+ },
+ {
+  "district": "PA-17",
+  "name": "Chris Deluzio",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member; voted yes on H.R. 8034 in 2024 but cosponsored the Block the Bombs Act (Mar. 2026). DW-NOMINATE -0.263 (moderate-leaning score).",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://www.congress.gov/bill/119th-congress/house-bill/3565/cosponsors",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://voteview.com/congress/house"
+  ]
+ },
+ {
+  "district": "RI-1",
+  "name": "Gabe Amo",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Not in CPC; DW-NOMINATE -0.426 (left of caucus median). Voted yes on H.R. 8034 and is not a Block the Bombs cosponsor; no progressive-group signal found.",
+  "sources": [
+   "https://voteview.com/congress/house",
+   "https://progressives.house.gov/caucus-members",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://www.congress.gov/bill/119th-congress/house-bill/3565/cosponsors"
+  ]
+ },
+ {
+  "district": "RI-2",
+  "name": "Seth Magaziner",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "mixed",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Not in CPC; New Dem member; DW-NOMINATE -0.303. Voted yes on H.R. 8034 but cosponsored the Block the Bombs Act (Sept. 2025).",
+  "sources": [
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://www.congress.gov/bill/119th-congress/house-bill/3565/cosponsors"
+  ]
+ },
+ {
+  "district": "SC-1",
+  "name": "Nancy Lacore",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": false,
+  "signals": {
+   "economic": "unknown",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "EMILYs List",
+    "New Politics"
+   ]
+  },
+  "evidence": "Open seat (Nancy Mace ran for governor). Retired Navy vice admiral; led by about 1 point and declared victory Nov. 4 after reported concession by Jenny Costa Honeycutt (R); early reports said AP had not yet called it. Endorsed by New Politics and EMILYs List; no progressive-group endorsements or Israel position found.",
+  "sources": [
+   "https://scdailygazette.com/2026/11/04/nancy-lacore-declares-victory-in-scs-1st-congressional-district/",
+   "https://abcnews4.com/news/local/razor-thin-sc-01-race-leaves-lacore-to-claim-win-after-honeycutt-concession-race-uncalled-politics-south-carolinas-1st-congressional-district-midterm-election",
+   "https://www.newpolitics.org/news/new-politics-endorsed-candidate-nancy-lacore-wins-runoff-secures-democratic-nomination-in-south-carolinas-1st-congressional-district"
+  ]
+ },
+ {
+  "district": "SC-3",
+  "name": "Sheri Biggs",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Elected 2024. Voted yes on Greene Ukraine-ban amendment (2025) and no on 2026 Ukraine Support Act; DW-NOMINATE 0.814 (among most conservative).",
+  "sources": [
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2026/roll207.xml",
+   "https://voteview.com/congress/house"
+  ]
+ },
+ {
+  "district": "SC-4",
+  "name": "William Timmons",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted no on H.R. 8035, yes on Greene Ukraine-ban amendment (2025), and voted for both Jan. 6, 2021 objections; DW-NOMINATE 0.599.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://voteview.com/congress/house"
+  ]
+ },
+ {
+  "district": "SC-5",
+  "name": "Wes Climer",
+  "party": "R",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "U.S. Chamber of Commerce",
+    "Rep. Ralph Norman",
+    "Mick Mulvaney"
+   ]
+  },
+  "evidence": "Open seat (Ralph Norman ran for governor); unopposed in GOP primary. State senator whose campaign centered on debt/deficits, ethics, congressional stock-trading ban; endorsed by the U.S. Chamber of Commerce and by Norman; earlier Haley/Club for Growth backed. No stated Ukraine or immigration positions found; thin evidence.",
+  "sources": [
+   "https://pubt.io/view/70DE150E59DEF28B5E0D80237EB3D9219577FDFD",
+   "https://www.wistv.com/2025/08/21/us-rep-ralph-norman-endorses-sc-state-sen-wes-climer-succeed-him-congress",
+   "https://www.fitsnews.com/2025/10/08/wes-climer-raises-big-bucks-enjoys-cross-spectrum-gop-support/",
+   "https://en.wikipedia.org/wiki/Wes_Climer"
+  ]
+ },
+ {
+  "district": "SC-6",
+  "name": "Jim Clyburn",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Not in CPC; former Democratic whip; voted yes on H.R. 8034; not a Block the Bombs cosponsor. DW-NOMINATE -0.466.",
+  "sources": [
+   "https://voteview.com/congress/house",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://www.congress.gov/bill/119th-congress/house-bill/3565/cosponsors",
+   "https://progressives.house.gov/caucus-members"
+  ]
+ },
+ {
+  "district": "SC-7",
+  "name": "Russell Fry",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted no on H.R. 8035 and yes on Greene amendments barring Ukraine aid and striking Jordan military funding (2025); DW-NOMINATE 0.553.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2025/roll208.xml",
+   "https://voteview.com/congress/house"
+  ]
+ },
+ {
+  "district": "SD-AL",
+  "name": "Marty Jackley",
+  "party": "R",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": [
+    "Trump",
+    "NRCC"
+   ]
+  },
+  "evidence": "Open seat (Dusty Johnson ran for governor). State attorney general; platform on debt/deficit, farm bill, border security; says tariffs should be used sparingly and that farmers want a free market. Trump-endorsed; no Ukraine position found.",
+  "sources": [
+   "https://www.kotatv.com/2026/07/27/special-interview-jackley-talks-congress-run-farm-bill-save-act-border-security/",
+   "https://www.dakotanewsnow.com/2026/09/29/inside-race-gronli-jackley-share-top-priorities-congress/",
+   "https://nrcc.org/?p=88398"
+  ]
+ }
+]

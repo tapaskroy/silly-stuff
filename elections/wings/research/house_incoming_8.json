@@ -1,0 +1,1204 @@
+[
+ {
+  "district": "TN-1",
+  "name": "Diana Harshbarger",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted to sustain both Jan 2021 objections to the 2020 electoral count (AZ, PA) and voted no on H.R. 8035 Ukraine aid (Apr 2024); 119th DW-NOMINATE dim1 0.682 (83rd pctile of GOP).",
+  "sources": [
+   "https://clerk.house.gov/Votes/2024151",
+   "https://clerk.house.gov/Votes/202111",
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee"
+  ]
+ },
+ {
+  "district": "TN-2",
+  "name": "Tim Burchett",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted for both 2021 electoral objections; voted no on Ukraine (H.R. 8035) and also no on Israel aid (H.R. 8034) in Apr 2024, citing spending/foreign-aid opposition; DW-NOMINATE 0.664.",
+  "sources": [
+   "https://clerk.house.gov/Votes/2024151",
+   "https://clerk.house.gov/Votes/202111",
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee"
+  ]
+ },
+ {
+  "district": "TN-3",
+  "name": "Chuck Fleischmann",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Appropriations member who voted yes on H.R. 8035 Ukraine aid; DW-NOMINATE 0.431 (29th pctile, left side of GOP). Counter-signal: voted for both Jan 2021 electoral objections.",
+  "sources": [
+   "https://clerk.house.gov/Votes/2024151",
+   "https://clerk.house.gov/Votes/202111",
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee"
+  ]
+ },
+ {
+  "district": "TN-5",
+  "name": "Charlie Hatcher",
+  "party": "R",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Gov. Bill Lee",
+    "Bill Haslam",
+    "Sonny Perdue",
+    "Zach Wamp",
+    "Donald Trump (post-primary)"
+   ]
+  },
+  "evidence": "Newcomer; former TN agriculture commissioner who defeated incumbent Andy Ogles (Freedom Caucus-backed, Trump-endorsed) in the Aug 2026 primary, running against him as a \"show horse,\" with backing from Gov. Lee, ex-Gov. Haslam and Sonny Perdue. No stated Ukraine/immigration positions found.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+   "https://www.axios.com/local/nashville/2026/08/07/ogles-loses-republican-primary-to-charlie-hatcher",
+   "https://tennesseelookout.com/2026/08/07/after-ogles-primary-defeat-trump-flips-endorsement-to-hatcher-for-tennessees-5th-district/"
+  ]
+ },
+ {
+  "district": "TN-6",
+  "name": "Johnny Garrett",
+  "party": "R",
+  "returning": false,
+  "wing": "Nationalist",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "beyond-baseline",
+   "caucuses": [],
+   "key_endorsements": [
+    "CPAC",
+    "Steve Scalise",
+    "Tom Emmer",
+    "Riley Gaines",
+    "Glenn Jacobs"
+   ]
+  },
+  "evidence": "Newcomer (state rep.); campaign centered on deportation of undocumented immigrants, transgender athletes in women's sports and election integrity, and he sponsored a state bill limiting federal office to natural-born citizens. Backed by House GOP leadership too, so wing call is low confidence.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+   "https://tennesseelookout.com/2026/08/06/state-rep-garrett-prevails-in-republican-primary-for-tennessees-6th-district/",
+   "https://tennesseelookout.com/2026/06/24/former-congressman-squares-off-with-state-house-member-in-6th-district-gop-primary/"
+  ]
+ },
+ {
+  "district": "TN-7",
+  "name": "Matt Van Epps",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "baseline",
+   "caucuses": [
+    "Republican Study Committee"
+   ],
+   "key_endorsements": [
+    "Donald Trump"
+   ]
+  },
+  "evidence": "Won Dec 2025 special; short record. Runs on \"peace through strength\" defense policy, border wall, joined RSC; partial-session DW-NOMINATE 0.611 (69th pctile). No Ukraine vote on record.",
+  "sources": [
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/Matt_Van_Epps",
+   "https://rsc-pfluger.house.gov/media/press-releases/tennessees-van-epps-officially-joins-houses-largest-conservative-caucus"
+  ]
+ },
+ {
+  "district": "TN-8",
+  "name": "David Kustoff",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted yes on H.R. 8035 Ukraine aid; voted against the AZ objection but for the PA objection in Jan 2021; DW-NOMINATE 0.541 (near GOP median).",
+  "sources": [
+   "https://clerk.house.gov/Votes/2024151",
+   "https://clerk.house.gov/Votes/202111",
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee"
+  ]
+ },
+ {
+  "district": "TN-9",
+  "name": "Brent Taylor",
+  "party": "R",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": [
+    "U.S. Chamber of Commerce",
+    "Donald Trump",
+    "Sens. Blackburn & Hagerty",
+    "Steve Scalise",
+    "Lt. Gov. Randy McNally"
+   ]
+  },
+  "evidence": "Newcomer (state senator) who won the redrawn 9th (flipped from D; Steve Cohen retired). Endorsed by the U.S. Chamber and House leadership; platform emphasizes crime/public safety (Memphis Safe Task Force), immigration enforcement and state takeover of Memphis schools. Thin foreign-policy record.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+   "https://www.uschamber.com/improving-government/u-s-chamber-endorses-sen-brent-taylor-for-tennessees-ninth-district",
+   "https://wpln.org/post/trump-backed-state-sen-taylor-to-face-tennessee-three-pearson-for-redrawn-memphis-district/"
+  ]
+ },
+ {
+  "district": "TX-1",
+  "name": "Nathaniel Moran",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [
+    "Republican Main Street Caucus (exec. board)"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Voted yes on H.R. 8035 Ukraine aid; on Main Street Caucus executive board for the 119th Congress; DW-NOMINATE 0.585.",
+  "sources": [
+   "https://clerk.house.gov/Votes/2024151",
+   "https://voteview.com/congress/house",
+   "https://mainstreetcaucus.house.gov/media/press-releases/main-street-caucus-announces-leadership-119th-congress"
+  ]
+ },
+ {
+  "district": "TX-2",
+  "name": "Steve Toth",
+  "party": "R",
+  "returning": false,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "beyond-baseline",
+   "caucuses": [],
+   "key_endorsements": [
+    "Ted Cruz",
+    "Freedom Caucus Fund",
+    "Turning Point Action",
+    "Gun Owners of America Texas"
+   ]
+  },
+  "evidence": "Newcomer (state rep.) who unseated Dan Crenshaw in the March 2026 primary by attacking his Ukraine support and calling him too moderate on immigration; pledged to push the \"America First\" agenda; backed by Freedom Caucus Fund and Turning Point Action.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "https://www.nbcnews.com/politics/2026-election/sen-ted-cruz-endorses-gop-primary-challenger-rep-dan-crenshaw-rcna260533",
+   "https://m.washingtontimes.com/news/2026/mar/4/republican-challenger-steve-toth-ousts-rep-dan-crenshaw-texas-primary/"
+  ]
+ },
+ {
+  "district": "TX-3",
+  "name": "Keith Self",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "beyond-baseline",
+   "caucuses": [
+    "House Freedom Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Freedom Caucus member; voted no on H.R. 8035 Ukraine aid; DW-NOMINATE 0.825 (97th pctile of GOP).",
+  "sources": [
+   "https://clerk.house.gov/Votes/2024151",
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+  ]
+ },
+ {
+  "district": "TX-4",
+  "name": "Pat Fallon",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted for both Jan 2021 electoral objections and no on H.R. 8035 Ukraine aid; DW-NOMINATE 0.712 (89th pctile).",
+  "sources": [
+   "https://clerk.house.gov/Votes/2024151",
+   "https://clerk.house.gov/Votes/202111",
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+  ]
+ },
+ {
+  "district": "TX-5",
+  "name": "Lance Gooden",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "beyond-baseline",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted for both Jan 2021 electoral objections and no on H.R. 8035 Ukraine aid; DW-NOMINATE 0.716 (90th pctile); endorsed Freedom Caucus-aligned candidates (e.g., Briscoe Cain).",
+  "sources": [
+   "https://clerk.house.gov/Votes/2024151",
+   "https://clerk.house.gov/Votes/202111",
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+  ]
+ },
+ {
+  "district": "TX-6",
+  "name": "Jake Ellzey",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted yes on H.R. 8035 Ukraine aid; DW-NOMINATE 0.510 (45th pctile, near GOP center).",
+  "sources": [
+   "https://clerk.house.gov/Votes/2024151",
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+  ]
+ },
+ {
+  "district": "TX-7",
+  "name": "Lizzie Fletcher",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Not on the Congressional Progressive Caucus roster; New Democrat Coalition member; voted yes on both H.R. 8034 (Israel) and H.R. 8035 (Ukraine). (Her 119th DW-NOMINATE of -0.546 places her left of the caucus median, an artifact of minority-party voting; noted but outweighed.)",
+  "sources": [
+   "https://clerk.house.gov/Votes/2024151",
+   "https://clerk.house.gov/Votes/2024152",
+   "https://progressives.house.gov/caucus-members",
+   "https://voteview.com/congress/house"
+  ]
+ },
+ {
+  "district": "TX-8",
+  "name": "Jessica Steinmann",
+  "party": "R",
+  "returning": false,
+  "wing": "Nationalist",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Donald Trump",
+    "Ted Cruz",
+    "Mike Johnson",
+    "Jim Jordan",
+    "Brandon Gill",
+    "U.S. Chamber of Commerce",
+    "Fairshake"
+   ]
+  },
+  "evidence": "Newcomer; ex-Trump DOJ official and RNC platform committee member running on \"America First\" and election integrity, with a sovereignty-first foreign-policy questionnaire answer. Counter-signal: U.S. Chamber endorsement; detailed platform thin.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "https://ballotpedia.org/Jessica_Steinmann",
+   "https://thetexan.news/elections/former-doj-official-jessica-steinmann-wins-gop-primary-for-open-congressional-seat-near-houston/article_1afd63a7-bfa8-4fc0-a33f-c237f7b55ab7.html"
+  ]
+ },
+ {
+  "district": "TX-9",
+  "name": "Leticia Gutierrez",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": false,
+  "signals": {
+   "economic": "unknown",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Newcomer; environmental-justice advocate who won the redrawn, Trump+19 9th in an upset over Alex Mealer. Platform focuses on petrochemical pollution, infrastructure and immigrant communities; no Medicare for All/CPC/progressive-group endorsement found. Evidence thin; defaulted to Mainstream.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "https://www.fox26houston.com/news/alex-mealer-concedes-leticia-gutierrez-texas-9th-congressional-district-race",
+   "https://insideclimatenews.org/?p=115492"
+  ]
+ },
+ {
+  "district": "TX-10",
+  "name": "Chris Gober",
+  "party": "R",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "beyond-baseline",
+   "caucuses": [],
+   "key_endorsements": [
+    "Donald Trump",
+    "Club for Growth",
+    "Leading the Future",
+    "Turning Point Action",
+    "Michael McCaul",
+    "Steve Scalise",
+    "Greg Abbott"
+   ]
+  },
+  "evidence": "Newcomer; election lawyer and ex-chief counsel of Musk's America PAC. Platform: free markets/limited government, border security and reducing immigration; backed by Club for Growth (free-trade) and departing Rep. McCaul. Mixed signals.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "https://www.clubforgrowth.org/candidates/chris-gober/",
+   "https://www.texastribune.org/2026/02/12/texas-10th-congressional-district-gop-primary-chris-gober-trump/"
+  ]
+ },
+ {
+  "district": "TX-11",
+  "name": "August Pfluger",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [
+    "Republican Study Committee (chair)"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Voted for both Jan 2021 electoral objections and no on H.R. 8035 Ukraine aid; DW-NOMINATE 0.633. Counter-signal: chairs the RSC and has leadership-aligned endorsement record (e.g., endorsed Brent Taylor, Mark Teixeira).",
+  "sources": [
+   "https://clerk.house.gov/Votes/2024151",
+   "https://clerk.house.gov/Votes/202111",
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+  ]
+ },
+ {
+  "district": "TX-12",
+  "name": "Craig Goldman",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Freshman (2025); in the 2024 runoff he advocated continued Ukraine aid against a \"hard no\" opponent; former Texas House GOP leader. DW-NOMINATE 0.778 (93rd pctile) is a counter-signal.",
+  "sources": [
+   "https://voteview.com/congress/house",
+   "https://www.keranews.org/2024-04-22/republican-north-texas-congressional-candidates-debate-ken-paxtons-impeachment-ukraine-funding"
+  ]
+ },
+ {
+  "district": "TX-13",
+  "name": "Ronny Jackson",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "beyond-baseline",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted for both Jan 2021 electoral objections and no on H.R. 8035 Ukraine aid; DW-NOMINATE 0.784 (94th pctile).",
+  "sources": [
+   "https://clerk.house.gov/Votes/2024151",
+   "https://clerk.house.gov/Votes/202111",
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+  ]
+ },
+ {
+  "district": "TX-14",
+  "name": "Randy Weber",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted for both Jan 2021 electoral objections and no on H.R. 8035 Ukraine aid; DW-NOMINATE 0.721 (91st pctile).",
+  "sources": [
+   "https://clerk.house.gov/Votes/2024151",
+   "https://clerk.house.gov/Votes/202111",
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+  ]
+ },
+ {
+  "district": "TX-15",
+  "name": "Bobby Pulido",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": [
+    "Blue Dog PAC",
+    "Democratic Majority for Israel PAC",
+    "WelcomePAC",
+    "Bold PAC",
+    "DCCC Red to Blue"
+   ]
+  },
+  "evidence": "Newcomer (Tejano musician) who flipped the seat from Monica De La Cruz; backed by Blue Dog PAC, WelcomePAC and DMFI PAC.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+  ]
+ },
+ {
+  "district": "TX-16",
+  "name": "Veronica Escobar",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "On the current CPC roster; DW-NOMINATE -0.466 (23rd pctile from left). Voted yes on H.R. 8034 Israel aid but is not an Israel-aid advocate, so the pro-Israel override was not applied.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://voteview.com/congress/house",
+   "https://clerk.house.gov/Votes/2024152"
+  ]
+ },
+ {
+  "district": "TX-17",
+  "name": "Pete Sessions",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted yes on H.R. 8035 Ukraine aid; DW-NOMINATE 0.583 (near GOP median). Counter-signal: voted for both Jan 2021 electoral objections.",
+  "sources": [
+   "https://clerk.house.gov/Votes/2024151",
+   "https://clerk.house.gov/Votes/202111",
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+  ]
+ },
+ {
+  "district": "TX-18",
+  "name": "Christian Menefee",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "unknown",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "Progressive Change Campaign Committee",
+    "Jasmine Crockett"
+   ]
+  },
+  "evidence": "Incumbent since the Jan 2026 special election; listed on the CPC roster; endorsed by PCCC; partial-session DW-NOMINATE -0.567 (5th pctile from left). No clear Israel record found. Beat Rep. Al Green in the redrawn 18th.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+  ]
+ },
+ {
+  "district": "TX-19",
+  "name": "Tom Sell",
+  "party": "R",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "U.S. Chamber of Commerce",
+    "Steve Scalise",
+    "Tom Emmer",
+    "Larry Combest"
+   ]
+  },
+  "evidence": "Newcomer; ag-policy lobbyist and former Combest staffer who beat a self-described America First populist (Abraham Enriquez) 64-36 in the runoff; U.S. Chamber and leadership endorsements.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "https://www.foxnews.com/politics/gop-veteran-defeats-populist-candidate-one-americas-most-conservative-districts",
+   "https://kcbd.com/2026/05/27/sell-wins-district-19-republican-primary-runoff/"
+  ]
+ },
+ {
+  "district": "TX-20",
+  "name": "Joaquin Castro",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member; voted no on H.R. 8034 Israel aid and yes on Ukraine; DW-NOMINATE -0.403.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://clerk.house.gov/Votes/2024152",
+   "https://voteview.com/congress/house"
+  ]
+ },
+ {
+  "district": "TX-21",
+  "name": "Mark Teixeira",
+  "party": "R",
+  "returning": false,
+  "wing": "Nationalist",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "beyond-baseline",
+   "caucuses": [],
+   "key_endorsements": [
+    "Donald Trump",
+    "Club for Growth PAC",
+    "Turning Point Action",
+    "U.S. Chamber of Commerce",
+    "Riley Gaines",
+    "Greg Abbott"
+   ]
+  },
+  "evidence": "Newcomer (ex-MLB player) succeeding Chip Roy; launched to \"defend Trump's America First agenda,\" platform stresses deportation, DOGE cuts and culture-war items (girls' sports). Counter-signals: Chamber and Club for Growth endorsements; no Ukraine position found.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "https://ballotpedia.org/Mark_Teixeira",
+   "https://www.kut.org/text/politics/2026-11-03/austin-texas-congressional-district-21-election-results-us-house-tx"
+  ]
+ },
+ {
+  "district": "TX-22",
+  "name": "Trever Nehls",
+  "party": "R",
+  "returning": false,
+  "wing": "Nationalist",
+  "confidence": "low",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "beyond-baseline",
+   "caucuses": [],
+   "key_endorsements": [
+    "Donald Trump",
+    "Ted Cruz",
+    "Dan Patrick",
+    "Troy Nehls",
+    "Jim Jordan",
+    "Ronny Jackson"
+   ]
+  },
+  "evidence": "Newcomer; input spelling \"Trever Nehls\" is correct (twin brother of retiring Rep. Troy Nehls, not an incumbent). Former Fort Bend constable; pledged to codify Trump executive orders, border/cartel focus. Brother Troy opposed Ukraine aid and objected in 2021. Thin personal record.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "https://www.foxnews.com/politics/trump-endorses-close-allys-twin-brother-race-texas-congressional-seat",
+   "https://www.ballotready.org/people/trever-j-nehls"
+  ]
+ },
+ {
+  "district": "TX-23",
+  "name": "Katy Padilla Stout",
+  "party": "D",
+  "returning": false,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Congressional Progressive Caucus PAC",
+    "Our Revolution",
+    "MoveOn",
+    "Greg Casar",
+    "Pramila Jayapal",
+    "J Street",
+    "EMILYs List"
+   ]
+  },
+  "evidence": "Newcomer (attorney) who flipped the seat vacated by Tony Gonzales (resigned Apr 2026); endorsed by CPC PAC, Our Revolution and CPC leaders Casar and Jayapal. J Street (not AIPAC/DMFI) endorsement.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+  ]
+ },
+ {
+  "district": "TX-24",
+  "name": "Beth Van Duyne",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted no on H.R. 8035 Ukraine aid and for the PA electoral objection (against AZ) in Jan 2021; DW-NOMINATE 0.604.",
+  "sources": [
+   "https://clerk.house.gov/Votes/2024151",
+   "https://clerk.house.gov/Votes/202111",
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+  ]
+ },
+ {
+  "district": "TX-25",
+  "name": "Roger Williams",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted for both Jan 2021 electoral objections and no on H.R. 8035 Ukraine aid; DW-NOMINATE 0.592. Counter-signal: Small Business Committee chair with business-aligned profile.",
+  "sources": [
+   "https://clerk.house.gov/Votes/2024151",
+   "https://clerk.house.gov/Votes/202111",
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+  ]
+ },
+ {
+  "district": "TX-26",
+  "name": "Brandon Gill",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "beyond-baseline",
+   "caucuses": [],
+   "key_endorsements": [
+    "Donald Trump"
+   ]
+  },
+  "evidence": "Freshman (2025, no Ukraine vote); DW-NOMINATE 0.771 (93rd pctile); endorsed Freedom Caucus/America First candidates in 2026 (Steinmann, Yarbrough, Teixeira); known for hardline immigration rhetoric.",
+  "sources": [
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+  ]
+ },
+ {
+  "district": "TX-27",
+  "name": "Michael Cloud",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "beyond-baseline",
+   "caucuses": [
+    "House Freedom Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Freedom Caucus member; voted for both Jan 2021 objections and no on H.R. 8035 Ukraine aid; DW-NOMINATE 0.691.",
+  "sources": [
+   "https://clerk.house.gov/Votes/2024151",
+   "https://clerk.house.gov/Votes/202111",
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+  ]
+ },
+ {
+  "district": "TX-28",
+  "name": "Henry Cuellar",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "Blue Dog Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Blue Dog; most conservative House Democrat by 119th DW-NOMINATE (-0.225, 92nd pctile from left); voted yes on Israel and Ukraine aid.",
+  "sources": [
+   "https://voteview.com/congress/house",
+   "https://clerk.house.gov/Votes/2024152"
+  ]
+ },
+ {
+  "district": "TX-29",
+  "name": "Sylvia Garcia",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "J Street"
+   ]
+  },
+  "evidence": "Lists CPC membership on her House site (not on the progressives.house.gov page we pulled); 119th DW-NOMINATE -0.764, the most left in the caucus. Voted yes on H.R. 8034 but is J Street-aligned, not AIPAC/DMFI.",
+  "sources": [
+   "https://sylviagarcia.house.gov/about/committees-and-caucuses",
+   "https://voteview.com/congress/house",
+   "https://jstreetpac.org/candidate/sylvia-garcia/"
+  ]
+ },
+ {
+  "district": "TX-30",
+  "name": "Frederick Haynes III",
+  "party": "D",
+  "returning": false,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [],
+   "key_endorsements": [
+    "Justice Democrats",
+    "Congressional Progressive Caucus PAC",
+    "Our Revolution",
+    "Track AIPAC",
+    "Jasmine Crockett",
+    "Pramila Jayapal"
+   ]
+  },
+  "evidence": "Newcomer (pastor, ex-Rainbow/PUSH CEO); endorsed by Justice Democrats, CPC PAC, Our Revolution and Track AIPAC.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+  ]
+ },
+ {
+  "district": "TX-31",
+  "name": "John Carter",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Appropriations member who voted yes on H.R. 8035 Ukraine aid; DW-NOMINATE 0.487 (42nd pctile). Counter-signal: voted for both Jan 2021 objections.",
+  "sources": [
+   "https://clerk.house.gov/Votes/2024151",
+   "https://clerk.house.gov/Votes/202111",
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+  ]
+ },
+ {
+  "district": "TX-32",
+  "name": "Jace Yarbrough",
+  "party": "R",
+  "returning": false,
+  "wing": "Nationalist",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Donald Trump",
+    "Turning Point Action",
+    "MAHA Action",
+    "Keith Self",
+    "Ralph Norman",
+    "Brandon Gill",
+    "U.S. Chamber of Commerce"
+   ]
+  },
+  "evidence": "Newcomer (attorney, flipped D-held seat after redistricting) running as \"America First\"; backed by TPUSA Action, MAHA groups and Freedom Caucus members (Norman, Self); drew coverage for saying critics would call his platform \"Nazi-ish.\" Counter-signal: U.S. Chamber endorsement.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "https://www.axios.com/local/dallas/2026/02/12/texas-congress-district-32-primary",
+   "https://www.uschamber.com/improving-government/u-s-chamber-endorses-jace-yarbrough-for-texas-32nd-congressional-district-on-national-free-enterprise-express-opportunity-tour"
+  ]
+ },
+ {
+  "district": "TX-33",
+  "name": "Colin Allred",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": [
+    "J Street",
+    "Dallas Morning News",
+    "Jasmine Crockett"
+   ]
+  },
+  "evidence": "Former member (TX-32, 2019-2025), not a current incumbent; beat Rep. Julie Johnson in the primary. Prior record: not CPC, voted yes on H.R. 8034 Israel aid and against both 2021 objections, ran a centrist 2024 Senate campaign.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "https://clerk.house.gov/Votes/2024152"
+  ]
+ },
+ {
+  "district": "TX-34",
+  "name": "Vicente Gonzalez",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "Blue Dog Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Blue Dog; not on CPC roster; voted yes on Israel and Ukraine aid; DW-NOMINATE -0.385 (near caucus median).",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://voteview.com/congress/house",
+   "https://clerk.house.gov/Votes/2024152"
+  ]
+ },
+ {
+  "district": "TX-35",
+  "name": "Johnny C. Garcia",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": [
+    "Blue Dog PAC",
+    "Democratic Majority for Israel",
+    "DCCC Red to Blue",
+    "Greg Casar",
+    "AOC"
+   ]
+  },
+  "evidence": "Newcomer (Bexar sheriff's deputy) backed by Blue Dog PAC and DMFI; won runoff over Maureen Galindo after her antisemitic remarks drew broad Democratic condemnation.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+  ]
+ },
+ {
+  "district": "TX-36",
+  "name": "Brian Babin",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "beyond-baseline",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted for both Jan 2021 electoral objections and no on H.R. 8035 Ukraine aid; DW-NOMINATE 0.709 (88th pctile).",
+  "sources": [
+   "https://clerk.house.gov/Votes/2024151",
+   "https://clerk.house.gov/Votes/202111",
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+  ]
+ },
+ {
+  "district": "TX-37",
+  "name": "Greg Casar",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus (chair)"
+   ],
+   "key_endorsements": [
+    "Justice Democrats (2022)"
+   ]
+  },
+  "evidence": "Incumbent (moved from TX-35 after redistricting; input returning=false is wrong). Chairs the CPC; voted no on H.R. 8034 Israel aid.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://clerk.house.gov/Votes/2024152",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+  ]
+ },
+ {
+  "district": "TX-38",
+  "name": "Jon Bonck",
+  "party": "R",
+  "returning": false,
+  "wing": "Nationalist",
+  "confidence": "low",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Donald Trump",
+    "Ted Cruz",
+    "Mike Johnson",
+    "Club for Growth PAC",
+    "Turning Point Action",
+    "Mary Miller"
+   ]
+  },
+  "evidence": "Newcomer (mortgage banker); campaign site states prioritizing American interests over foreign engagements; lists immigration as a top issue; backed by TPUSA Action and Rep. Mary Miller, also Club for Growth. Thin record.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "https://www.foxnews.com/politics/trump-backed-mortgage-banker-defeats-pilot-gop-primary-runoff-replace-wesley-hunt",
+   "https://branch.vote/races/2026-texas-general-election-tx-state-us-representative-tx-congressional-38/candidates/jon-bonck"
+  ]
+ },
+ {
+  "district": "UT-1",
+  "name": "Ben McAdams",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "Blue Dog Coalition (former)"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Former member (UT-4, 2019-2021), new court-drawn Salt Lake district; Blue Dog record and among the most conservative Democrats in the 116th Congress.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Utah",
+   "https://en.wikipedia.org/wiki/Ben_McAdams"
+  ]
+ },
+ {
+  "district": "UT-2",
+  "name": "Blake Moore",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted yes on H.R. 8035 Ukraine aid and against both 2021 objections; DW-NOMINATE 0.370 (19th pctile, left side of GOP). Now House GOP conference vice chair.",
+  "sources": [
+   "https://clerk.house.gov/Votes/2024151",
+   "https://clerk.house.gov/Votes/202111",
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Utah"
+  ]
+ },
+ {
+  "district": "UT-3",
+  "name": "Celeste Maloy",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": [
+    "John Curtis",
+    "Blake Moore"
+   ]
+  },
+  "evidence": "DW-NOMINATE 0.417 (26th pctile) and establishment-backed against a Mike Lee-endorsed 2024 primary challenger. Counter-signal: voted no on H.R. 8035 Ukraine aid.",
+  "sources": [
+   "https://clerk.house.gov/Votes/2024151",
+   "https://voteview.com/congress/house",
+   "https://www.deseret.com/utah/2024/06/13/utah-rep-celeste-maloy-gets-endorsement-of-john-curtis-blake-moore-burgess-owens"
+  ]
+ },
+ {
+  "district": "UT-4",
+  "name": "Mike Kennedy",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Sen. Mike Lee"
+   ]
+  },
+  "evidence": "Freshman (2025). In the 2024 primary he argued continued Ukraine funding was not in U.S. interest; Mike Lee endorsed him to fight the \"Uniparty\"; DW-NOMINATE 0.662 (78th pctile).",
+  "sources": [
+   "https://voteview.com/congress/house",
+   "https://www.sltrib.com/news/politics/2024/06/12/utah-candidates-divided-over",
+   "https://www.ksl.com/article/51045358/sen-lee-endorses-mike-kennedy-in-3rd-congressional-district-race"
+  ]
+ }
+]

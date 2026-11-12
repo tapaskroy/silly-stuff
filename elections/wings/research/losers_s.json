@@ -1,0 +1,429 @@
+[
+ {
+  "chamber": "senate",
+  "district": "Arkansas",
+  "surname": "Shoffner",
+  "party": "D",
+  "winner": "Cotton",
+  "full_name": "Hallie Shoffner",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "economic": "center",
+   "israel": "supports"
+  },
+  "evidence": "Farmer running as a both-parties-ignored-us moderate; tracked as backing Israel's self-defense and Ukraine's sovereignty, no progressive-group endorsements.",
+  "sources": [
+   "https://ontheissues.org/Senate/Hallie_Shoffner.htm",
+   "https://arkansasadvocate.com/2025/07/15/arkansas-farmer-challenges-cotton-for-u-s-senate-seat/"
+  ]
+ },
+ {
+  "chamber": "senate",
+  "district": "Delaware",
+  "surname": "Katz",
+  "party": "R",
+  "winner": "Coons",
+  "full_name": "Michael \"Dr. Mike\" Katz",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown"
+  },
+  "evidence": "Anesthesiologist and former one-term Democratic state senator who ran in 2024 as an Independent Party of Delaware candidate; campaigned on healthcare, fiscal accountability and veterans rather than MAGA themes (did receive an 'America First Insight' endorsement).",
+  "sources": [
+   "https://whyy.org/articles/election-2026-delaware-us-senate-republican-primary-voter-guide/",
+   "https://whyy.org/articles/election-2026-delaware-primary-senate-republican-winner/",
+   "https://drmikekatz.com/news/america-first-insight-endorsement"
+  ]
+ },
+ {
+  "chamber": "senate",
+  "district": "Florida",
+  "surname": "Nixon",
+  "party": "D",
+  "winner": "Moody",
+  "full_name": "Angie Nixon",
+  "wing": "Progressive",
+  "confidence": "high",
+  "signals": {
+   "economic": "left",
+   "israel": "critical"
+  },
+  "evidence": "DSA-member state rep who backs universal health care, refused AIPAC/corporate PAC money, calls Gaza a genocide and would end U.S. aid to Israel; beat Alex Vindman in the primary.",
+  "sources": [
+   "https://www.jta.org/2026/08/20/politics/why-an-anti-israel-dsa-member-bested-alex-vindman-in-a-florida-senate-primary",
+   "https://www.wlrn.org/government-politics/2026-08-20/angie-nixon-talks-about-affordability-universal-health-care-immigration-and-israel-on-ms-now-show"
+  ]
+ },
+ {
+  "chamber": "senate",
+  "district": "Georgia",
+  "surname": "Collins",
+  "party": "R",
+  "winner": "Ossoff",
+  "full_name": "Mike Collins",
+  "wing": "Nationalist",
+  "confidence": "high",
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "restrictionist"
+  },
+  "evidence": "U.S. Rep. (GA-10) voted Nay on H.R. 8035 Ukraine aid (Apr 20 2024, roll 151); hardline MAGA-aligned record, Laken Riley Act sponsor on immigration.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151"
+  ]
+ },
+ {
+  "chamber": "senate",
+  "district": "Idaho",
+  "surname": "Achilles",
+  "party": "I",
+  "winner": "Risch",
+  "full_name": "Todd Achilles",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "economic": "center",
+   "israel": "neutral"
+  },
+  "evidence": "Former Democratic state legislator and telecom executive running as an independent centrist against Risch; no progressive-group alignment.",
+  "sources": [
+   "https://ballotpedia.org/Todd_Achilles"
+  ]
+ },
+ {
+  "chamber": "senate",
+  "district": "Illinois",
+  "surname": "Tracy",
+  "party": "R",
+  "winner": "Stratton",
+  "full_name": "Don Tracy",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "moderate"
+  },
+  "evidence": "Former Illinois GOP chairman who ran as a 'pragmatic conservative'; favors border security and enforcement of existing law, establishment profile.",
+  "sources": [
+   "https://abc7chicago.com/post/republican-senate-candidate-don-tracy-believes-he-can-earn-support-swing-voters-tough-race-juliana-stratton/18737243/",
+   "https://news.wttw.com/node/55276"
+  ]
+ },
+ {
+  "chamber": "senate",
+  "district": "Iowa",
+  "surname": "Hinson",
+  "party": "R",
+  "winner": "Turek",
+  "full_name": "Ashley Hinson",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "ukraine_aid": "supports",
+   "immigration": "restrictionist"
+  },
+  "evidence": "U.S. Rep. (IA-2) voted Yea on H.R. 8035 Ukraine aid (Apr 20 2024, roll 151); Trump-endorsed but a governing conservative/appropriator rather than Freedom Caucus.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151"
+  ]
+ },
+ {
+  "chamber": "senate",
+  "district": "Kansas",
+  "surname": "Marshall",
+  "party": "R",
+  "winner": "Hamilton",
+  "full_name": "Roger Marshall",
+  "wing": "Nationalist",
+  "confidence": "high",
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "restrictionist"
+  },
+  "evidence": "Sitting senator voted Nay on H.R. 815 Ukraine/Israel aid (Apr 23 2024) and objected to 2020 electors; border-restrictionist MAGA ally.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.htm"
+  ]
+ },
+ {
+  "chamber": "senate",
+  "district": "Kentucky",
+  "surname": "Booker",
+  "party": "D",
+  "winner": "Barr",
+  "full_name": "Charles Booker",
+  "wing": "Progressive",
+  "confidence": "medium",
+  "signals": {
+   "economic": "left",
+   "israel": "critical"
+  },
+  "evidence": "Former state rep running on Medicare for All, abolishing ICE and a Working People's Bill of Rights; Sanders/AOC-endorsed in 2020; described as taking a strong (critical) stance on Gaza.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Charles_Booker_(American_politician)",
+   "https://www.currentaffairs.org/news/charles-booker-has-a-plan-to-win-kentucky",
+   "https://www.foxnews.com/politics/pro-reparations-progressive-democrat-who-wants-ice-abolished-mounts-longshot-senate-bid-succeed-mcconnell"
+  ]
+ },
+ {
+  "chamber": "senate",
+  "district": "Louisiana",
+  "surname": "Davis",
+  "party": "D",
+  "winner": "Letlow",
+  "full_name": "Jamie Davis",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Third-generation Tensas Parish row-crop farmer and former police juror; pro-Second Amendment, bipartisan-pitch moderate.",
+  "sources": [
+   "https://ballotpedia.org/Jamie_Davis_(Louisiana)",
+   "https://www.knoe.com/2026/06/10/jamie-davis-seeks-flip-louisiana-senate-seat/"
+  ]
+ },
+ {
+  "chamber": "senate",
+  "district": "Maine",
+  "surname": "Collins",
+  "party": "R",
+  "winner": "Jackson",
+  "full_name": "Susan Collins",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "signals": {
+   "ukraine_aid": "supports",
+   "immigration": "moderate"
+  },
+  "evidence": "Sitting senator voted Yea on H.R. 815 Ukraine/Israel aid (Apr 23 2024); longtime moderate, Appropriations chair.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.htm"
+  ]
+ },
+ {
+  "chamber": "senate",
+  "district": "Michigan",
+  "surname": "Rogers",
+  "party": "R",
+  "winner": "El-Sayed",
+  "full_name": "Mike Rogers",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "signals": {
+   "ukraine_aid": "supports",
+   "immigration": "restrictionist"
+  },
+  "evidence": "Former House Intelligence chair and defense hawk who has backed aid to Ukraine; Trump-endorsed but establishment national-security profile.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mike_Rogers_(Michigan_politician)"
+  ]
+ },
+ {
+  "chamber": "senate",
+  "district": "Minnesota",
+  "surname": "Tafoya",
+  "party": "R",
+  "winner": "Flanagan",
+  "full_name": "Michele Tafoya",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "restrictionist"
+  },
+  "evidence": "Former NFL sideline reporter and conservative commentator; campaigned on fraud, crime and backing ICE (but called the Good/Pretti deaths 'devastating'); Trump-endorsed late, no clear America First foreign-policy stance.",
+  "sources": [
+   "https://ontheissues.org/International/Michele_Tafoya_Immigration.htm",
+   "https://www.kttc.com/2026/10/16/only-scheduled-debate-flanagan-tafoya-spar-over-track-records-policy-positions/"
+  ]
+ },
+ {
+  "chamber": "senate",
+  "district": "Montana",
+  "surname": "Bodnar",
+  "party": "I",
+  "winner": "Alme",
+  "full_name": "Seth Bodnar",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "economic": "center",
+   "israel": "neutral"
+  },
+  "evidence": "Former University of Montana president and Army veteran running as a nonpartisan independent; centrist, no progressive-group alignment.",
+  "sources": [
+   "https://ballotpedia.org/Seth_Bodnar"
+  ]
+ },
+ {
+  "chamber": "senate",
+  "district": "Nebraska",
+  "surname": "Osborn",
+  "party": "I",
+  "winner": "Ricketts",
+  "full_name": "Dan Osborn",
+  "wing": "Progressive",
+  "confidence": "medium",
+  "signals": {
+   "economic": "left",
+   "israel": "critical"
+  },
+  "evidence": "Union leader running an anti-corporate labor-populist campaign (PRO Act, anti-monopoly, UAW-backed); touted an endorsement from New Policy PAC (critical of U.S. arms to Israel) and reportedly backs defensive-only aid to Israel.",
+  "sources": [
+   "https://jewishinsider.com/2026/03/dan-osborn-senate-nebraska-anti-israel-endorsement/",
+   "https://ontheissues.org/International/Dan_Osborn_Foreign_Policy.htm"
+  ]
+ },
+ {
+  "chamber": "senate",
+  "district": "New Hampshire",
+  "surname": "Sununu",
+  "party": "R",
+  "winner": "Pappas",
+  "full_name": "John E. Sununu",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "signals": {
+   "ukraine_aid": "supports",
+   "immigration": "moderate"
+  },
+  "evidence": "Former senator and establishment Republican, a past Trump critic; supported Ukraine aid and business-conservative governance.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/John_E._Sununu"
+  ]
+ },
+ {
+  "chamber": "senate",
+  "district": "New Jersey",
+  "surname": "Murphy",
+  "party": "R",
+  "winner": "Booker",
+  "full_name": "Justin Murphy",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown"
+  },
+  "evidence": "Navy veteran and Burlington County attorney running on tax cuts, spending cuts and parental rights; hawkish (urged Trump to 'finish' the Iran war); little on Ukraine or immigration.",
+  "sources": [
+   "https://whyy.org/articles/new-jersey-election-2026-primary-senate-republican-nomination/",
+   "https://www.foxnews.com/politics/booker-rival-shoots-hip-hopes-viral-debate-moment-break-gops-senate-drought"
+  ]
+ },
+ {
+  "chamber": "senate",
+  "district": "North Carolina",
+  "surname": "Whatley",
+  "party": "R",
+  "winner": "Cooper",
+  "full_name": "Michael Whatley",
+  "wing": "Nationalist",
+  "confidence": "high",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "restrictionist"
+  },
+  "evidence": "Former RNC chair hand-picked by Trump; built the RNC 'election integrity' operation and echoed 2020 fraud claims; campaigned as a MAGA loyalist.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Michael_Whatley"
+  ]
+ },
+ {
+  "chamber": "senate",
+  "district": "Ohio",
+  "surname": "Husted",
+  "party": "R",
+  "winner": "Brown",
+  "full_name": "Jon Husted",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "ukraine_aid": "supports",
+   "immigration": "restrictionist"
+  },
+  "evidence": "Appointed senator (Jan 2025, not in Senate for H.R. 815); co-sponsored Graham's Russia sanctions bill; establishment former lieutenant governor.",
+  "sources": [
+   "https://www.husted.senate.gov/press-releases/husted-supports-aggressive-sanctions-against-russia/embed/",
+   "https://en.wikipedia.org/wiki/Jon_Husted"
+  ]
+ },
+ {
+  "chamber": "senate",
+  "district": "Oregon",
+  "surname": "Smith",
+  "party": "R",
+  "winner": "Merkley",
+  "full_name": "David Brock Smith",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "moderate"
+  },
+  "evidence": "State senator from the south coast pitching bipartisanship; opposes Oregon sanctuary status but stresses immigration reform for agriculture; beat QAnon-linked Jo Rae Perkins in the primary.",
+  "sources": [
+   "https://www.opb.org/article/2026/03/04/oregon-senator-david-brock-smith-runs-for-us-senate",
+   "https://ontheissues.org/international/David_Brock_Smith_Immigration.htm"
+  ]
+ },
+ {
+  "chamber": "senate",
+  "district": "South Carolina",
+  "surname": "Graham",
+  "party": "R",
+  "winner": "Andrews",
+  "full_name": "Lindsey Graham",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "signals": {
+   "ukraine_aid": "supports",
+   "immigration": "restrictionist"
+  },
+  "evidence": "Sitting senator voted Yea on H.R. 815 Ukraine/Israel aid (Apr 23 2024); leading defense hawk and Russia-sanctions author.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.htm"
+  ]
+ },
+ {
+  "chamber": "senate",
+  "district": "South Dakota",
+  "surname": "Bengs",
+  "party": "I",
+  "winner": "Rounds",
+  "full_name": "Brian Bengs",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "economic": "center",
+   "israel": "neutral"
+  },
+  "evidence": "Air Force veteran and professor, 2022 Democratic Senate nominee, running as a centrist independent.",
+  "sources": [
+   "https://ballotpedia.org/Brian_Bengs"
+  ]
+ },
+ {
+  "chamber": "senate",
+  "district": "Texas",
+  "surname": "Paxton",
+  "party": "R",
+  "winner": "Talarico",
+  "full_name": "Ken Paxton",
+  "wing": "Nationalist",
+  "confidence": "high",
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "restrictionist"
+  },
+  "evidence": "Texas AG who sued to overturn the 2020 election, hardline border/deportation crusader, ousted Cornyn as an America First insurgent.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ken_Paxton"
+  ]
+ }
+]

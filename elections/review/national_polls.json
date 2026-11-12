@@ -1,0 +1,144 @@
+{
+ "_note": "Final national generic-ballot polls (D margin), as gathered Nov 4, 2026 for the scorecard notes; uniform swing from the 2024 presidential margins (national 2024 = R+1.5).",
+ "nat_pres_2024": -1.5,
+ "average": 8.7,
+ "model_input": 7.7,
+ "polls": [
+  {
+   "pollster": "Verasight/The Argument",
+   "d_margin": 11
+  },
+  {
+   "pollster": "NYT/Siena",
+   "d_margin": 11
+  },
+  {
+   "pollster": "RMG/Napolitan",
+   "d_margin": 11
+  },
+  {
+   "pollster": "Tufts/YouGov",
+   "d_margin": 12
+  },
+  {
+   "pollster": "Verasight/SIN",
+   "d_margin": 12
+  },
+  {
+   "pollster": "Prolific",
+   "d_margin": 10.7
+  },
+  {
+   "pollster": "Big Data Poll",
+   "d_margin": 12.3
+  },
+  {
+   "pollster": "TIPP",
+   "d_margin": 10
+  },
+  {
+   "pollster": "Emerson",
+   "d_margin": 10
+  },
+  {
+   "pollster": "CNN/SSRS",
+   "d_margin": 10
+  },
+  {
+   "pollster": "Honest Poll",
+   "d_margin": 13
+  },
+  {
+   "pollster": "YouGov pre-election",
+   "d_margin": 9
+  },
+  {
+   "pollster": "AtlasIntel",
+   "d_margin": 14.1
+  },
+  {
+   "pollster": "Reuters/Ipsos",
+   "d_margin": 8
+  },
+  {
+   "pollster": "Cygnal",
+   "d_margin": 8
+  },
+  {
+   "pollster": "CBS/YouGov",
+   "d_margin": 8
+  },
+  {
+   "pollster": "Clarity",
+   "d_margin": 8
+  },
+  {
+   "pollster": "Bedrock",
+   "d_margin": 8
+  },
+  {
+   "pollster": "Marist",
+   "d_margin": 8
+  },
+  {
+   "pollster": "ABC/WaPo/Ipsos",
+   "d_margin": 8
+  },
+  {
+   "pollster": "Morning Consult",
+   "d_margin": 7.9
+  },
+  {
+   "pollster": "Focaldata/FT",
+   "d_margin": 7.4
+  },
+  {
+   "pollster": "NBC (Hart/POS)",
+   "d_margin": 7
+  },
+  {
+   "pollster": "ActiVote",
+   "d_margin": 7
+  },
+  {
+   "pollster": "CNBC (Hart/POS)",
+   "d_margin": 7
+  },
+  {
+   "pollster": "Zogby",
+   "d_margin": 6
+  },
+  {
+   "pollster": "Ipsos mail study",
+   "d_margin": 6
+  },
+  {
+   "pollster": "Rasmussen",
+   "d_margin": 6
+  },
+  {
+   "pollster": "Leger",
+   "d_margin": 6
+  },
+  {
+   "pollster": "Echelon/NetChoice",
+   "d_margin": 5
+  },
+  {
+   "pollster": "Echelon omnibus",
+   "d_margin": 5
+  },
+  {
+   "pollster": "Harvard-Harris",
+   "d_margin": 4
+  },
+  {
+   "pollster": "Penn State/YouGov",
+   "d_margin": 4
+  },
+  {
+   "pollster": "Targoz",
+   "d_margin": 3
+  }
+ ]
+}

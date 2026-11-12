@@ -1,0 +1,604 @@
+[
+ {
+  "chamber": "house",
+  "district": "CA-5",
+  "name": "Michael Masuda",
+  "party": "D",
+  "winner": "Tom McClintock (R)",
+  "incumbent_before": "Tom McClintock (R)",
+  "full_name": "Michael Masuda",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "State Department foreign affairs officer who ran as a cross-aisle 'problem solver' on affordability and wildfire protection; backed by CA Democratic Party and labor, no progressive-group endorsements found.",
+  "sources": [
+   "https://www.turlockjournal.com/news/government/democrat-masuda-seeking-to-unseat-mcclintock-for-ca-5/",
+   "https://www.votemasuda.com"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "CA-13",
+  "name": "Kevin Lincoln",
+  "party": "R",
+  "winner": "Adam Gray (D)",
+  "incumbent_before": "Adam Gray",
+  "full_name": "Kevin Lincoln II",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "restrictionist"
+  },
+  "evidence": "Former Stockton mayor and Marine running on farmers, water and family themes; Trump-endorsed but no Ukraine or Freedom Caucus-style positions found, immigration listed only as 'limit'.",
+  "sources": [
+   "https://stocktonia.org/news/politics/2025/11/07/former-stockton-mayor-kevin-lincoln-vs-adam-gray-congress-2026/",
+   "https://guides.vote/guide/2026-california-ca-13-us-house-voters-guide/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "CA-21",
+  "name": "Kyle Kirkland",
+  "party": "R",
+  "winner": "Jim Costa (D)",
+  "incumbent_before": "Jim Costa",
+  "full_name": "Kyle Kirkland",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "restrictionist"
+  },
+  "evidence": "Club One Casino owner and former Steinway chairman running as a business-outsider 'problem solver'; Fresno Bee calls him a conventional conservative who avoids extreme rhetoric, border security one of several issues.",
+  "sources": [
+   "https://gvwire.com/2025/11/19/kirkland-announces-bid-for-costas-congressional-seat/",
+   "https://www.ourvalleyvoice.com/2025/11/20/business-owner-political-outsider-and-problem-solver-kyle-kirkland-announces-candidacy-for-congress-in-ca-21/",
+   "https://aol.com/owns-fresno-casino-rescues-cats-133000260.html"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "CA-45",
+  "name": "Chuong Vo",
+  "party": "R",
+  "winner": "Derek Tran (D)",
+  "incumbent_before": "Derek Tran",
+  "full_name": "Chuong Vo",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown"
+  },
+  "evidence": "Retired police officer and former Cerritos mayor backed by GOP establishment figures (e.g., state Sen. Tony Strickland); little issue material found and no nationalist themes.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chuong_Vo",
+   "https://news.ballotpedia.org/2026/08/03/tran-d-and-vo-r-running-in-californias-redrawn-45th-congressional-district-on-november-3/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "TX-3",
+  "name": "Evan Hunt",
+  "party": "D",
+  "winner": "Keith Self (R)",
+  "incumbent_before": "Keith Self (R)",
+  "full_name": "Evan Hunt",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Retired Air Force lieutenant colonel (B-1 pilot) running a town-hall, accountability campaign against Keith Self; no progressive-group endorsements or left-economic platform found.",
+  "sources": [
+   "https://ballotpedia.org/Evan_Hunt_(Texas)",
+   "https://tx3dnews.com/evan-hunt-energizes-congressional-bid-tx03"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "TX-5",
+  "name": "Chelsey Hockett",
+  "party": "D",
+  "winner": "Lance Gooden (R)",
+  "incumbent_before": "Lance Gooden (R)",
+  "full_name": "Chelsey Hockett",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "economic": "unknown",
+   "israel": "unknown"
+  },
+  "evidence": "First-time candidate (stay-at-home parent, business degree); no platform details or ideological endorsements found.",
+  "sources": [
+   "https://ballotpedia.org/Chelsey_Hockett",
+   "https://branch.vote/races/2026-texas-primary-runoff-tx-state-us-representative-tx-congressional-5-d/candidates/chelsey-hockett"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "TX-6",
+  "name": "Danny Minton",
+  "party": "D",
+  "winner": "Jake Ellzey (R)",
+  "incumbent_before": "Jake Ellzey (R)",
+  "full_name": "Danny Minton",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "economic": "unknown",
+   "israel": "unknown"
+  },
+  "evidence": "Sales/women's-healthcare professional with minimal fundraising; no platform or ideological endorsements found.",
+  "sources": [
+   "https://ballotpedia.org/Danny_Minton",
+   "https://www.lonestarleft.com/p/meet-the-candidates-danny-minton"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "TX-9",
+  "name": "Alex Mealer",
+  "party": "R",
+  "winner": "Leticia Gutierrez (D)",
+  "incumbent_before": "None (old TX-9 Rep. Al Green (D) ran in TX-18)",
+  "full_name": "Alex Mealer",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "restrictionist"
+  },
+  "evidence": "Army veteran and energy executive, Trump- and Club for Growth-backed; supports Trump's border agenda but her stated priorities were fiscal oversight and deficit reduction, and she beat the more hardline immigration-first Briscoe Cain.",
+  "sources": [
+   "https://www.texastribune.org/2026/05/26/texas-alex-mealer-briscoe-cain-congress-district-9-republican-primary-runoff/",
+   "https://www.texastribune.org/2026/05/05/texas-9th-congressional-district-gop-runoff-alex-mealer-briscoe-cain/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "TX-10",
+  "name": "Caitlin Rourk",
+  "party": "D",
+  "winner": "Chris Gober (R)",
+  "incumbent_before": "Michael McCaul",
+  "full_name": "Caitlin Rourk",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Army military-intelligence veteran and Dell marketing executive running on affordability, schools and veterans; endorsed by Texas AFL-CIO and the Austin American-Statesman, no progressive-group backing.",
+  "sources": [
+   "https://www.kbtx.com/2026/02/20/democrat-caitlin-rourk-seeks-us-house-district-10-seat",
+   "https://bluevoterguide.org/TX/candidate_Caitlin_Rourk/676280"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "TX-12",
+  "name": "Angela Rodriguez Prilliman",
+  "party": "D",
+  "winner": "Craig Goldman (R)",
+  "incumbent_before": "Craig Goldman (R)",
+  "full_name": "Angela \"Heli\" Rodriguez Prilliman",
+  "wing": "Progressive",
+  "confidence": "low",
+  "signals": {
+   "economic": "left",
+   "israel": "unknown"
+  },
+  "evidence": "Platform calls for a universalized healthcare system not tied to employers and a $10/day child-care cap; profiled as a progressive. No Israel position found.",
+  "sources": [
+   "https://branch.vote/races/2026-texas-general-election-tx-state-us-representative-tx-congressional-12/candidates/angela-heli-rodriguez-prilliman",
+   "https://www.predictionedge.com/elections/profile/angela-rodriguez-prilliman/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "TX-14",
+  "name": "Thurman Bartie",
+  "party": "D",
+  "winner": "Randy Weber (R)",
+  "incumbent_before": "Randy Weber (R)",
+  "full_name": "Thurman \"Bill\" Bartie",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "economic": "unknown",
+   "israel": "unknown"
+  },
+  "evidence": "Former Port Arthur mayor, educator and pastor; no platform details or progressive endorsements found.",
+  "sources": [
+   "https://wtop.com/news/2026/06/thurman-bartie-wins-democratic-nomination-for-u-s-house-in-texas-14th-congressional-district/",
+   "https://panews.com/?p=168554"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "TX-17",
+  "name": "Casey Shepard",
+  "party": "D",
+  "winner": "Pete Sessions (R)",
+  "incumbent_before": "Pete Sessions (R)",
+  "full_name": "Casey Shepard",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "economic": "unknown",
+   "israel": "unknown"
+  },
+  "evidence": "Attorney with minimal fundraising; no platform or ideological endorsements found.",
+  "sources": [
+   "https://ballotpedia.org/Texas'_17th_Congressional_District_election,_2026",
+   "https://www.predictionedge.com/elections/profile/casey-shepard/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "TX-21",
+  "name": "Kristin Hook",
+  "party": "D",
+  "winner": "Mark Teixeira (R)",
+  "incumbent_before": "Chip Roy (R)",
+  "full_name": "Kristin Hook",
+  "wing": "Progressive",
+  "confidence": "medium",
+  "signals": {
+   "economic": "left",
+   "israel": "unknown"
+  },
+  "evidence": "Former NIH scientist and ex-Elizabeth Warren staffer running on Medicare for All and against corporate influence; publicly backs Bernie Sanders and Zohran Mamdani. No pro-Israel signals found.",
+  "sources": [
+   "https://www.sacurrent.com/news/san-antonio-news/a-pro-mamdani-medicare-for-all-scientist-is-running-to-replace-chip-roy-in-congress",
+   "https://sanantonioreport.org/congressional-district-21-midterm-election-kristin-hook-profile/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "TX-22",
+  "name": "Marquette Greene-Scott",
+  "party": "D",
+  "winner": "Trever Nehls (R)",
+  "incumbent_before": "Troy Nehls (R)",
+  "full_name": "Marquette Greene-Scott",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Iowa Colony mayor pro tem and attorney backed by Higher Heights; supports universal healthcare and voting rights but no progressive-movement endorsements or CPC-style platform found.",
+  "sources": [
+   "https://branch.vote/races/2026-texas-primary-election-tx-state-us-representative-tx-congressional-22-d/candidates/marquette-greene-scott",
+   "https://higherheightsforamericapac.org/candidate/marquette-greene-scott/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "TX-23",
+  "name": "Brandon Herrera",
+  "party": "R",
+  "winner": "Katy Padilla Stout (D)",
+  "incumbent_before": "Vacant (Tony Gonzales (R) resigned Apr 13, 2026)",
+  "full_name": "Brandon Herrera",
+  "wing": "Nationalist",
+  "confidence": "high",
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "restrictionist"
+  },
+  "evidence": "Gun-rights YouTuber backed by the Freedom Caucus Fund and called an 'America First patriot' by ex-HFC chair Bob Good; ran against Tony Gonzales from the right (including over the 2024 foreign-aid votes) and was called too far right by House leadership-aligned Republicans.",
+  "sources": [
+   "https://ballotpedia.org/Brandon_Herrera",
+   "https://www.fox26houston.com/news/president-trump-endorses-brandon-herrera-texas-23rd-district-following-tony-gonzales-withdrawal",
+   "https://www.texastribune.org/2024/04/22/tony-gonzales-republicans-matt-gaetz-scumbags/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "TX-24",
+  "name": "Kevin Burge",
+  "party": "D",
+  "winner": "Beth Van Duyne (R)",
+  "incumbent_before": "Beth Van Duyne (R)",
+  "full_name": "Kevin Burge",
+  "wing": "Progressive",
+  "confidence": "low",
+  "signals": {
+   "economic": "left",
+   "israel": "unknown"
+  },
+  "evidence": "Marine veteran and IT security specialist who supports Medicare for All; endorsed by Progress Texas and profiled as a progressive Democrat. No Israel position found.",
+  "sources": [
+   "https://branch.vote/races/2026-texas-primary-election-tx-state-us-representative-tx-congressional-24-d/candidates/kevin-burge",
+   "https://progresstexas.org/podcast/happy-hour-257-dfw-congressional-candidate-and-pt-endorsee-kevin-burge"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "TX-25",
+  "name": "Dione Sims",
+  "party": "D",
+  "winner": "Roger Williams (R)",
+  "incumbent_before": "Roger Williams (R)",
+  "full_name": "Dione Sims",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "economic": "unknown",
+   "israel": "unknown"
+  },
+  "evidence": "Nonprofit founder (Unity Unlimited) and granddaughter of Opal Lee in her first run; no platform or ideological endorsements found.",
+  "sources": [
+   "https://ballotpedia.org/Dione_Sims",
+   "https://www.fox4news.com/news/opal-lee-granddaughter-congress-dione-sims"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "TX-26",
+  "name": "Steven Shook",
+  "party": "D",
+  "winner": "Brandon Gill (R)",
+  "incumbent_before": "Brandon Gill (R)",
+  "full_name": "Steven Shook",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "economic": "unknown",
+   "israel": "unknown"
+  },
+  "evidence": "Low-budget nominee; no platform or ideological endorsements found.",
+  "sources": [
+   "https://ballotpedia.org/Steven_Shook",
+   "https://dentonrc.com/news/election_2020/rep-brandon-gill-easily-secures-gop-nom-for-district-26-will-face-steven-shook-in/article_a9a1823e-4ec9-4f9d-ac0a-7d9ecde6d9e0.html"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "TX-27",
+  "name": "Tanya Lloyd",
+  "party": "D",
+  "winner": "Michael Cloud (R)",
+  "incumbent_before": "Michael Cloud (R)",
+  "full_name": "Tanya Lloyd",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "economic": "unknown",
+   "israel": "unknown"
+  },
+  "evidence": "Public school teacher in a 2024 rematch with Michael Cloud; no platform or ideological endorsements found.",
+  "sources": [
+   "https://ballotpedia.org/Tanya_Lloyd",
+   "https://www.lonestarleft.com/p/meet-the-candidates-tanya-lloyd-for"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "TX-28",
+  "name": "Tano E. Tijerina",
+  "party": "R",
+  "winner": "Henry Cuellar (D)",
+  "incumbent_before": "Henry Cuellar",
+  "full_name": "Tano Tijerina",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "moderate"
+  },
+  "evidence": "Webb County judge who switched from Democrat to Republican in 2024; Trump-endorsed and runs on border security and tax cuts, but voiced hesitation about Trump's immigration enforcement tactics.",
+  "sources": [
+   "https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/06/18/our-district-is-very-conservative---republican-tano-tijerina-wants-to-oust-longtime-democrat-henry-cuellar-",
+   "https://www.texastribune.org/2025/12/02/webb-county-judge-tano-tijerina-congressional-run"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "TX-31",
+  "name": "Justin Early",
+  "party": "D",
+  "winner": "John Carter (R)",
+  "incumbent_before": "John Carter (R)",
+  "full_name": "Justin Early",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "economic": "unknown",
+   "israel": "unknown"
+  },
+  "evidence": "Army veteran and Dell cybersecurity architect; no left-economic platform or progressive endorsements found.",
+  "sources": [
+   "https://ballotpedia.org/Justin_Early",
+   "https://www.kut.org/politics/2026-11-02/rep-john-carter-has-been-absent-on-the-campaign-trail-he-says-hes-fit-to-hold-office"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "TX-34",
+  "name": "Eric Flores",
+  "party": "R",
+  "winner": "Vicente Gonzalez (D)",
+  "incumbent_before": "Vicente Gonzalez",
+  "full_name": "Eric Flores",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "moderate"
+  },
+  "evidence": "Army/National Guard veteran and ex-federal prosecutor backed by Speaker Johnson, Scalise and Abbott as well as Trump; runs on border security but pushes a work-visa program as a break from GOP orthodoxy.",
+  "sources": [
+   "https://www.texastribune.org/2026/10/26/texas-vicente-gonzalez-eric-flores-district-34-2026-election/",
+   "https://www.dailysignal.com/2026/09/22/texas-34th-district-gonzalez-flores-race/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "TX-35",
+  "name": "Carlos De La Cruz",
+  "party": "R",
+  "winner": "Johnny C. Garcia (D)",
+  "incumbent_before": "None (Greg Casar (D) moved to TX-37)",
+  "full_name": "Carlos De La Cruz",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "restrictionist"
+  },
+  "evidence": "20-year Air Force veteran and brother of Rep. Monica De La Cruz; Trump-endorsed and campaigns on border security, but called Trump's tariffs 'way too broad' and focuses on AI and energy deregulation.",
+  "sources": [
+   "https://www.tpr.org/government-politics/2026-10-09/in-hotly-contested-tx35-candidates-debate-affordability-immigration-and-tariffs-impact-on-business-owners",
+   "https://www.ksat.com/news/local/2026/10/21/political-newcomers-de-la-cruz-and-garcia-battle-for-redrawn-texas-35th-congressional-district/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "TX-38",
+  "name": "Melissa McDonough",
+  "party": "D",
+  "winner": "Jon Bonck (R)",
+  "incumbent_before": "Wesley Hunt (R)",
+  "full_name": "Melissa McDonough",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "economic": "unknown",
+   "israel": "unknown"
+  },
+  "evidence": "Realtor, veteran and election judge running on a 'we have more in common' message; no progressive endorsements found.",
+  "sources": [
+   "https://ballotpedia.org/Melissa_McDonough",
+   "https://www.melissaforcongress.com/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "OK-1",
+  "name": "John Croisant",
+  "party": "D",
+  "winner": "Mark Tedford (R)",
+  "incumbent_before": "Kevin Hern (R)",
+  "full_name": "John Croisant",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "economic": "unknown",
+   "israel": "unknown"
+  },
+  "evidence": "Tulsa school board member, former teacher and insurance-agency owner running on families, schools and the economy; no left-movement endorsements found.",
+  "sources": [
+   "https://www.news9.com/oklahoma-elections/oklahoma-us-house-election-guide",
+   "https://ballotpedia.org/John_T._Croisant"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "OK-5",
+  "name": "Jena Nelson",
+  "party": "D",
+  "winner": "Stephanie Bice (R)",
+  "incumbent_before": "Stephanie Bice",
+  "full_name": "Jena Nelson",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "2022 Oklahoma Teacher of the Year running with populist anti-billionaire language and a stock-trading ban; her primary rival held the Sanders endorsement and Medicare for All position while she focused on protecting Social Security/Medicare and drug prices.",
+  "sources": [
+   "https://nondoc.com/2026/06/04/cd-5-democratic-primary-trey-martin-jena-nelson-fight-for-right-to-face-bice/",
+   "https://oklahomavoice.com/voter-guides/contests/u-s-representative-district-5-democrat/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "FL-2",
+  "name": "Amanda Green",
+  "party": "D",
+  "winner": "Austin Rogers (R)",
+  "incumbent_before": "Neal Dunn (R)",
+  "full_name": "Amanda Marie Green",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Operations manager running on 'common sense and practical expertise' for North Florida; no progressive endorsements found.",
+  "sources": [
+   "https://news.wfsu.org/state-news/2026-08-18/amanda-marie-green-wins-the-democrat-nod-and-advances-to-november-for-cd2",
+   "https://www.amgforcongress.com/about"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "FL-4",
+  "name": "LaShonda Holloway",
+  "party": "D",
+  "winner": "Aaron Bean (R)",
+  "incumbent_before": "Aaron Bean (R)",
+  "full_name": "LaShonda \"L.J.\" Holloway",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "economic": "unknown",
+   "israel": "unknown"
+  },
+  "evidence": "Three-time nominee against Aaron Bean with little fundraising; no left-movement endorsements or platform found.",
+  "sources": [
+   "https://floridatrib.org/2026/08/18/lashonda-holloway-wins-democratic-primary-for-floridas-4th-district/",
+   "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-floridas-4th-congressional-district/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "FL-8",
+  "name": "Jennifer Jenkins",
+  "party": "D",
+  "winner": "Mike Haridopolos (R)",
+  "incumbent_before": "Mike Haridopolos",
+  "full_name": "Jennifer Jenkins",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Former Brevard school board member who first ran for US Senate then switched to FL-8 after redistricting; campaigned on cost of living and the Space Coast, no progressive-movement endorsements found.",
+  "sources": [
+   "https://floridaphoenix.com/2026/05/05/democrat-jennifer-jenkins-now-says-shell-run-for-cd-8-seat-in-brevard-county/",
+   "https://greekreporter.com/2026/11/04/mike-haridopolos-wins-reelection-florida-house-congress-2026/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "FL-11",
+  "name": "James Pericola",
+  "party": "D",
+  "winner": "Joe Strada (R)",
+  "incumbent_before": "Daniel Webster (R)",
+  "full_name": "James Pericola",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Attorney and government-policy consulting founder running on protecting Social Security and Medicare, affordable healthcare and middle-class tax cuts.",
+  "sources": [
+   "https://www.orangeobserver.com/news/2026/aug/05/meet-11th-congressional-district-democratic-candidate-james-pericola/",
+   "https://theapopkachief.com/qa-democratic-candidates-for-u-s-house-district-11-discuss-affordability-education/"
+  ]
+ }
+]

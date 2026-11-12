@@ -1,0 +1,469 @@
+[
+ {
+  "district": "AL-1",
+  "name": "Jerry Carl",
+  "party": "R",
+  "returning": false,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Donald Trump"
+   ]
+  },
+  "evidence": "Former member (2021-25), returning after a gap; succeeds Barry Moore, who ran for Senate. Voted no on H.R. 8035 (April 2024 Ukraine aid) and yes on both Jan. 2021 objections to certifying AZ and PA electors; ran in 2026 on advancing Trump's 'America First' agenda. Won the Aug. 2026 special primary and the Nov. 3 general against Clyde Jones (D).",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://alabamareflector.com/2026/08/11/former-u-s-rep-jerry-carl-wins-gop-nomination-in-al-01-special-primary/",
+   "https://1819news.com/news/item/jerry-carl-announces-congressional-run-to-advance-president-trumps-america-first-agenda"
+  ]
+ },
+ {
+  "district": "AL-2",
+  "name": "Shomari Figures",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "Congressional Black Caucus"
+   ],
+   "key_endorsements": [
+    "AIPAC PAC ($5,000 contribution, Oct. 2024)"
+   ]
+  },
+  "evidence": "Not on the CPC roster; DW-NOMINATE (119th) -0.411, near the House Democratic median of -0.395. Called Israel an ally in 2024 and received a contribution from AIPAC PAC.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://progressives.house.gov/caucus-members",
+   "https://jewishinsider.com/2024/02/shomari-figures-alabama-2nd-congressional-district-democratic-primary/",
+   "https://projects.propublica.org/itemizer/committee/C00856237/pac-donations/C00797670"
+  ]
+ },
+ {
+  "district": "AL-3",
+  "name": "Mike Rogers",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [
+    "House Armed Services Committee chair"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Voted yes on H.R. 8035 (2024 Ukraine aid) and no on the July 2025 Greene amendment to bar Ukraine funds; DW-NOMINATE 0.379 (46th most moderate of 227 Republicans). He did vote yes on both Jan. 2021 certification objections. Voted no on the June 2026 Ukraine Support Act (H.R. 2913), a discharge-petition bill opposed by 194 of 212 voting Republicans, so that vote is treated as weak evidence.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2026/roll207.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv"
+  ]
+ },
+ {
+  "district": "AL-4",
+  "name": "Robert Aderholt",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [
+    "House Appropriations Committee"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Voted yes on H.R. 8035 (2024 Ukraine aid) and no on the 2025 Greene amendment to bar Ukraine funds; DW-NOMINATE 0.405 (54th of 227 Republicans). Voted yes on both Jan. 2021 certification objections. Voted no on the June 2026 Ukraine Support Act (H.R. 2913), a discharge-petition bill opposed by 194 of 212 voting Republicans, so that vote is treated as weak evidence.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2026/roll207.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv"
+  ]
+ },
+ {
+  "district": "AL-5",
+  "name": "Dale Strong",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Mixed record. Voted no on H.R. 8035 (2024 Ukraine aid; office release 'Strong Opposes Ukraine Aid, Supports Israel'), but voted no on the 2025 Greene amendment to bar Ukraine funds. DW-NOMINATE 0.61 (156th of 227). Not in office for the 2021 certification votes. Voted no on the June 2026 Ukraine Support Act (H.R. 2913), a discharge-petition bill opposed by 194 of 212 voting Republicans, so that vote is treated as weak evidence.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://strong.house.gov/media/press-releases/strong-opposes-ukraine-aid-supports-israel",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2026/roll207.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv"
+  ]
+ },
+ {
+  "district": "AL-6",
+  "name": "Gary Palmer",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [
+    "Republican Study Committee (former chair)"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Voted no on H.R. 8035 (2024 Ukraine aid), yes on the 2025 Greene amendment to bar all Ukraine funds, and yes on both Jan. 2021 certification objections; DW-NOMINATE 0.67 (181st of 227).",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv"
+  ]
+ },
+ {
+  "district": "AL-7",
+  "name": "Terri Sewell",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "Congressional Black Caucus",
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Not on the CPC roster; DW-NOMINATE -0.402, at the caucus median. Voted yes on H.R. 8034 (2024 Israel supplemental) and on H.R. 8035.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://progressives.house.gov/caucus-members",
+   "https://clerk.house.gov/evs/2024/roll152.xml"
+  ]
+ },
+ {
+  "district": "AR-1",
+  "name": "Rick Crawford",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [
+    "House Intelligence Committee chair"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Mixed record. Voted no on H.R. 8035 (2024 Ukraine aid) and yes on both Jan. 2021 certification objections, but no on the 2025 Greene amendment to bar Ukraine funds; DW-NOMINATE 0.462 (84th of 227, center-right within the conference). Could fairly be read as Mainstream.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv"
+  ]
+ },
+ {
+  "district": "AR-2",
+  "name": "French Hill",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [
+    "House Financial Services Committee chair"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Voted yes on H.R. 8035 (2024 Ukraine aid), no on the 2025 Greene amendment to bar Ukraine funds, and no on both Jan. 2021 certification objections; DW-NOMINATE 0.435 (69th of 227). Voted no on the June 2026 Ukraine Support Act (H.R. 2913), a discharge-petition bill opposed by 194 of 212 voting Republicans, so that vote is treated as weak evidence.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv"
+  ]
+ },
+ {
+  "district": "AR-3",
+  "name": "Steve Womack",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [
+    "House Appropriations Committee",
+    "Republican Main Street Caucus (reported; roster not verified)"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Voted yes on H.R. 8035 (2024 Ukraine aid), no on the 2025 Greene amendment, and no on both Jan. 2021 certification objections; DW-NOMINATE 0.347 (37th of 227). Voted no on the June 2026 Ukraine Support Act (H.R. 2913), a discharge-petition bill opposed by 194 of 212 voting Republicans, so that vote is treated as weak evidence.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv"
+  ]
+ },
+ {
+  "district": "AR-4",
+  "name": "Bruce Westerman",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [
+    "House Natural Resources Committee chair"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Voted yes on H.R. 8035 (2024 Ukraine aid), no on the 2025 Greene amendment, and no on both Jan. 2021 certification objections; DW-NOMINATE 0.543 (120th of 227, near the conference median). Voted no on the June 2026 Ukraine Support Act (H.R. 2913), a discharge-petition bill opposed by 194 of 212 voting Republicans, so that vote is treated as weak evidence.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv"
+  ]
+ },
+ {
+  "district": "AZ-1",
+  "name": "Amish Shah",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": [
+    "J Street PAC (per voter-guide listing)",
+    "Indian American Impact Fund"
+   ]
+  },
+  "evidence": "Newcomer; flipped the seat Schweikert left to run for governor, defeating Jay Feely (R). His 2024 position paper backed continued U.S. aid to Israel with no 'additional restrictions'; he is described as a moderate. In the 2026 primary, PACs funded by AIPAC's United Democracy Project spent against him. No left economic program found.",
+  "sources": [
+   "https://www.axios.com/local/scottsdale/2026/11/05/congressional-district-1-scottsdale-election-result-shah-vs-feely",
+   "https://jewishinsider.com/2024/10/amish-shah-david-schweikert-arizona-swing-district-jewish-community/",
+   "https://theintercept.com/2026/07/15/arizona-democrats-republicans-aipac-house-race/"
+  ]
+ },
+ {
+  "district": "AZ-3",
+  "name": "Yassamin Ansari",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "Congressional Progressive Caucus PAC",
+    "DMFI PAC (2024; she rejected its support in 2026)"
+   ]
+  },
+  "evidence": "Listed on the CPC roster and endorsed by CPC PAC; DW-NOMINATE -0.428 (85th most liberal of 222, moderately left of the median). Borderline on the Israel rule: DMFI backed her in 2024 as a 'pro-Israel progressive', but by 2026 she was rejecting DMFI support and had declined an AIPAC-linked Israel trip, citing Gaza.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://yassaminforcongress.com/press/congressional-progressive-caucus-pac-endorses-yassamin-ansari-for-congress/",
+   "https://jewishinsider.com/2026/07/arizona-jewish-leaders-regret-supporting-yassamin-ansari/",
+   "https://dmfipac.org/news-updates/press-release/dmfi-pac-congratulates-yassamin-ansari-on-her-primary-victory-in-az-03/"
+  ]
+ },
+ {
+  "district": "AZ-4",
+  "name": "Greg Stanton",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Not on the CPC roster; DW-NOMINATE -0.281 (178th of 222, among the most moderate Democrats). Voted yes on H.R. 8034 (2024 Israel supplemental).",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://progressives.house.gov/caucus-members",
+   "https://clerk.house.gov/evs/2024/roll152.xml"
+  ]
+ },
+ {
+  "district": "AZ-5",
+  "name": "Mark Lamb",
+  "party": "R",
+  "returning": false,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "beyond-baseline",
+   "caucuses": [],
+   "key_endorsements": [
+    "Donald Trump"
+   ]
+  },
+  "evidence": "Newcomer (former Pinal County sheriff); succeeds Andy Biggs, who ran for governor, after defeating Elizabeth Lee (D). Ran on border enforcement and backing Trump's immigration crackdown; reported to have endorsed 'Great Replacement' framing on a QAnon-linked show (unverified allegation). No record on Ukraine.",
+  "sources": [
+   "https://www.kjzz.org/elections/2026-11-06/lamb-survives-the-blue-wave-with-a-victory-in-arizonas-cd5-elex",
+   "https://www.fox10phoenix.com/election/2026-election-arizona-cd-5-matchup-key-candidates-top-platform-issues",
+   "https://ktar.com/arizona-politics-news/trump-lamb-congress"
+  ]
+ },
+ {
+  "district": "AZ-6",
+  "name": "JoAnna Mendoza",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": [
+    "Blue Dog PAC",
+    "NewDem Action Fund",
+    "VoteVets",
+    "J Street PAC",
+    "EMILY's List"
+   ]
+  },
+  "evidence": "Newcomer; defeated incumbent Juan Ciscomani (R). Backed by Blue Dog PAC and NewDem Action Fund; affirmed support for Israel's security and a two-state solution (J Street, JDCA). Platform centers on cost of living.",
+  "sources": [
+   "https://www.kold.com/2026/11/05/update-joanna-mendoza-defeats-republican-incumbent-juan-ciscomani-cd6-race/",
+   "https://bluedogdems.com/blue-dog-pac-endorses-six-new-candidates-built-to-win-in-competitive-districts/",
+   "https://jstreetpac.org/candidate/joanna-mendoza/"
+  ]
+ },
+ {
+  "district": "AZ-7",
+  "name": "Adelita Grijalva",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Listed on the CPC roster; DW-NOMINATE -0.497 (32nd most liberal of 222). Cosponsored the Block the Bombs Act (H.R. 3565, which limits offensive arms to Israel) in her first week; sworn in Nov. 2025 after winning the special election.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://grijalva.house.gov/media/press-releases/rep-adelita-s-grijalva-takes-record-legislative-action-on-week-one"
+  ]
+ },
+ {
+  "district": "AZ-8",
+  "name": "Abraham Hamadeh",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Donald Trump"
+   ]
+  },
+  "evidence": "First term began 2025. Voted yes on the July 2025 Greene amendment to bar all Ukraine funds (76-341 overall); DW-NOMINATE 0.677 (186th of 227). Contested his 2022 Arizona attorney general loss in court. Voted no on the June 2026 Ukraine Support Act (H.R. 2913), a discharge-petition bill opposed by 194 of 212 voting Republicans, so that vote is treated as weak evidence.",
+  "sources": [
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2026/roll207.xml"
+  ]
+ },
+ {
+  "district": "AZ-9",
+  "name": "Paul Gosar",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "beyond-baseline",
+   "caucuses": [
+    "House Freedom Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Voted no on H.R. 8035 (2024 Ukraine aid), no on H.R. 8034, yes on the 2025 Greene amendment to bar Ukraine funds, and yes on both Jan. 2021 certification objections; DW-NOMINATE 0.701 (196th of 227).",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv"
+  ]
+ }
+]

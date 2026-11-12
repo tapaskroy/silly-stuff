@@ -1,0 +1,1328 @@
+[
+ {
+  "district": "IL-1",
+  "name": "Jonathan Jackson",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member; voted no on H.R. 8034 (Israel supplemental) and no on H.R. 8038. DW-NOMINATE (119th) -0.349, near caucus median.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "IL-2",
+  "name": "Donna Miller",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": [
+    "Affordable Chicago Now (AIPAC-tied super PAC, ~$4.4M)",
+    "Elect Democratic Women"
+   ]
+  },
+  "evidence": "Cook County commissioner; won open-seat primary over CPC PAC/WFP/Sunrise-backed Robert Peters with ~$4.4M from AIPAC-linked Affordable Chicago Now; Jan Schakowsky withdrew her endorsement over the AIPAC money. Newcomer, no voting record.",
+  "sources": [
+   "https://news.wttw.com/2026/03/18/aipac-claims-credit-miller-bean-victories-and-abughazaleh-amiwala-defeats",
+   "https://wbez.org/politics/2026/02/27/aipac-pro-israel-groups-chicago-area-democratic-congressional-primaries-miller-conyears-ervin-bean-fine",
+   "https://workingfamilies.org/2026/02/wfp-endorses-robert-peters-for-congress-in-il-02/"
+  ]
+ },
+ {
+  "district": "IL-3",
+  "name": "Delia Ramirez",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member; voted no on H.R. 8034 and H.R. 8038. DW-NOMINATE -0.496 (left ~15% of caucus).",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "IL-4",
+  "name": "Patty Garcia",
+  "party": "D",
+  "returning": false,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Congressional Progressive Caucus PAC",
+    "Illinois AFL-CIO",
+    "Chicago Federation of Labor"
+   ]
+  },
+  "evidence": "Not returning: input listed as incumbent, but she is the former chief of staff to retiring Rep. Jesus 'Chuy' Garcia (no relation), unopposed in primary after his late withdrawal. Endorsed by CPC PAC; runs on progressive positions. No voting record; Israel stance not found.",
+  "sources": [
+   "https://kdhnews.com/news/politics/patty-garc-a-gets-congressional-progressive-caucus-endorsement-in-race-to-replace-us-rep-jes/article_d0157052-a068-5749-9cdf-ade586f00d46.html",
+   "https://chicago.suntimes.com/elections/2026/10/01/what-to-know-4th-congressional-district-patty-garcia-chris-getty-lupe-castillo-ed-hershey-us-rep-jesus-chuy-garcia"
+  ]
+ },
+ {
+  "district": "IL-5",
+  "name": "Mike Quigley",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Not in CPC; voted yes on H.R. 8034. DW-NOMINATE -0.324 (right-of-median in caucus).",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "IL-6",
+  "name": "Sean Casten",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "mixed",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Not a CPC member; New Democrat; voted yes on H.R. 8034. His 119th DW-NOMINATE (-0.625) is the most left in the caucus, driven by opposition votes, but his program is climate/market-oriented rather than M4A-type.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "IL-7",
+  "name": "La Shawn Ford",
+  "party": "D",
+  "returning": false,
+  "wing": "Progressive",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [],
+   "key_endorsements": [
+    "Rep. Danny Davis",
+    "Jesse White",
+    "J Street PAC"
+   ]
+  },
+  "evidence": "State rep; won primary over AIPAC-backed Melissa Conyears-Ervin; crypto PAC Fairshake spent ~$2.5M against him. Said party should deliver 'Medicare for all'; campaign materials more cautious. J Street-endorsed; no CPC PAC endorsement found. Thin evidence.",
+  "sources": [
+   "https://news.wttw.com/2026/03/19/congressional-candidates-donna-miller-la-shawn-ford-primary-wins-and-what-comes-next",
+   "https://jstreetpac.org/candidate/la-shawn-ford/",
+   "https://www.theblaze.com/news/aipac-suffers-loss-in-congressional-race-millions-of-dollars-squandered-helping-chicago-mayors-ally"
+  ]
+ },
+ {
+  "district": "IL-8",
+  "name": "Melissa Bean",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": [
+    "Elect Chicago Women (AIPAC-tied, ~$3.9M)",
+    "DMFI",
+    "Sen. Tammy Duckworth",
+    "Reps. Foster, Schneider"
+   ]
+  },
+  "evidence": "Former Blue Dog/New Dem member (2005-2011), returning after a 15-year gap (not an incumbent). Won primary over progressive-backed Junaid Ahmed with AIPAC-linked and crypto/AI PAC spending; described as the moderate candidate.",
+  "sources": [
+   "https://rollcall.com/2026/03/18/illinois-house-election-democrats-melissa-bean/",
+   "https://readsludge.com/2026/03/18/aipac-splits-in-illinois-races-after-20m-in-spending/",
+   "https://news.wttw.com/2026/03/17/melissa-bean-declared-winner-democratic-primary-race-krishnamoorthi-s-open-8th"
+  ]
+ },
+ {
+  "district": "IL-9",
+  "name": "Daniel Biss",
+  "party": "D",
+  "returning": false,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [],
+   "key_endorsements": [
+    "Congressional Progressive Caucus PAC ($550K)",
+    "Medicare for All PAC",
+    "Sen. Elizabeth Warren",
+    "Rep. Jan Schakowsky",
+    "J Street PAC"
+   ]
+  },
+  "evidence": "Evanston mayor; endorsed by CPC PAC and Medicare for All PAC; AIPAC-tied Elect Chicago Women spent ~$5.8M against him; called critical of the Israeli government and said 'AIPAC found out the hard way' in victory speech, while backed by J Street.",
+  "sources": [
+   "https://weareprogressives.org/congressional-progressive-caucus-pac-congratulates-il-09-democratic-nominee-daniel-biss/",
+   "https://jweekly.com/2026/03/18/jewish-progressive-prevails-in-closely-watched-illinois-primary-blasting-aipac-in-victory-speech/",
+   "https://news.wttw.com/2026/03/18/aipac-claims-credit-miller-bean-victories-and-abughazaleh-amiwala-defeats"
+  ]
+ },
+ {
+  "district": "IL-10",
+  "name": "Brad Schneider",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": [
+    "AIPAC",
+    "DMFI"
+   ]
+  },
+  "evidence": "Not CPC; voted yes on H.R. 8034; long-time Israel-aid advocate. DW-NOMINATE -0.199 (right ~4% of caucus).",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "IL-11",
+  "name": "Bill Foster",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Not CPC; voted yes on H.R. 8034. DW-NOMINATE -0.238 (right ~13% of caucus).",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "IL-12",
+  "name": "Mike Bost",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted no on H.R. 8035 (Ukraine) and voted for both Jan. 2021 objections to certification; otherwise governing-wing profile (Veterans' Affairs chair, DW-NOMINATE 0.402, left ~23% of GOP).",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "IL-13",
+  "name": "Nikki Budzinski",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Not CPC; voted yes on H.R. 8034. DW-NOMINATE -0.317 (right of caucus median).",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "IL-14",
+  "name": "Lauren Underwood",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Not on CPC roster; voted yes on H.R. 8034. 119th DW-NOMINATE -0.597 (left of caucus) reflects opposition votes; program centered on ACA/health costs, not M4A.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "IL-15",
+  "name": "Mary Miller",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "beyond-baseline",
+   "caucuses": [
+    "House Freedom Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Voted no on H.R. 8035 and voted for both 2021 objections; Christian-right/culture-war platform. DW-NOMINATE 0.792 (right ~6% of GOP).",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "IL-16",
+  "name": "Darin LaHood",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [
+    "Republican Main Street Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Voted yes on H.R. 8035; voted against both 2021 objections. DW-NOMINATE 0.460.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "IL-17",
+  "name": "Eric Sorensen",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Not CPC; voted yes on H.R. 8034. DW-NOMINATE -0.240 (right ~13% of caucus).",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "IN-1",
+  "name": "Frank Mrvan",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Not CPC; voted yes on H.R. 8034. DW-NOMINATE -0.299 (right ~26% of caucus).",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "IN-2",
+  "name": "Rudy Yakym",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [
+    "Republican Main Street Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Voted yes on H.R. 8035; DW-NOMINATE 0.521, near GOP median.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "IN-3",
+  "name": "Marlin Stutzman",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "beyond-baseline",
+   "caucuses": [
+    "House Freedom Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Returned to House in 2025; Freedom Caucus co-founder (2015) who campaigned against further Ukraine aid. DW-NOMINATE 0.714 (right ~10% of GOP). No 2024 Ukraine vote (not in office).",
+  "sources": [
+   "https://voteview.com/data",
+   "https://ballotpedia.org/Marlin_Stutzman"
+  ]
+ },
+ {
+  "district": "IN-4",
+  "name": "Jim Baird",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted no on H.R. 8035 and H.R. 8036 (Taiwan); voted for both 2021 objections. DW-NOMINATE 0.446 is left of GOP median, so procedural profile is not hardline.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "IN-5",
+  "name": "J.D. Ford",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "DCCC target race"
+   ]
+  },
+  "evidence": "State senator who defeated Rep. Victoria Spartz (R); a flip, not returning. Campaign centered on affordability and health care, describing himself as 'staying right in the middle.' No Israel stance found.",
+  "sources": [
+   "https://indianacapitalchronicle.com/?p=27876",
+   "https://www.axios.com/local/indianapolis/2026/11/04/jd-ford-flips-5th-district-defeats-incumbent-republican-victoria-spartz",
+   "https://indypolitics.org/ford-presses-affordability-health-care-in-bid-to-unseat-spartz-in-indianas-5th-district/"
+  ]
+ },
+ {
+  "district": "IN-6",
+  "name": "Jefferson Shreve",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "First elected 2024 (no H.R. 8035 vote); businessman/former Indianapolis councilor; DW-NOMINATE 0.511, near GOP median. No documented nationalist signals found; thin evidence.",
+  "sources": [
+   "https://voteview.com/data",
+   "https://ballotpedia.org/Jefferson_Shreve"
+  ]
+ },
+ {
+  "district": "IN-7",
+  "name": "Andre Carson",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member; voted no on H.R. 8034. DW-NOMINATE -0.434.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "IN-8",
+  "name": "Mark Messmer",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "First elected 2024 (no H.R. 8035 vote); former Indiana Senate majority floor leader; DW-NOMINATE 0.544, at GOP median. Thin evidence.",
+  "sources": [
+   "https://voteview.com/data",
+   "https://ballotpedia.org/Mark_Messmer"
+  ]
+ },
+ {
+  "district": "IN-9",
+  "name": "Erin Houchin",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [
+    "Republican Main Street Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Voted yes on H.R. 8035 and H.R. 8036. DW-NOMINATE 0.624.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "KS-1",
+  "name": "Tracey Mann",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted no on H.R. 8035; voted for both 2021 objections. DW-NOMINATE 0.608; agriculture-focused legislator.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "KS-2",
+  "name": "Derek Schmidt",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "First elected 2024 (no H.R. 8035 vote). As Kansas AG, joined the Dec. 2020 multistate brief backing Texas v. Pennsylvania. DW-NOMINATE 0.694 (right ~15% of GOP). Nationalist policy signals otherwise not documented.",
+  "sources": [
+   "https://voteview.com/data",
+   "https://ballotpedia.org/Derek_Schmidt"
+  ]
+ },
+ {
+  "district": "KS-3",
+  "name": "Sharice Davids",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Not on current CPC roster; voted yes on H.R. 8034. DW-NOMINATE -0.265 (right ~17% of caucus).",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "KS-4",
+  "name": "Ron Estes",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted no on H.R. 8035; voted for both 2021 objections. DW-NOMINATE 0.647.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "KY-1",
+  "name": "James Comer",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted no on H.R. 8035 and H.R. 8036 (Taiwan); did not object to 2020 certification. Oversight chair; DW-NOMINATE 0.593.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "KY-2",
+  "name": "Brett Guthrie",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted yes on H.R. 8035; voted against both 2021 objections. Energy & Commerce chair; DW-NOMINATE 0.426.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "KY-3",
+  "name": "Morgan McGarvey",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "supports",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "DMFI PAC (2022)"
+   ]
+  },
+  "evidence": "CPC member (left economic program), but DMFI-endorsed as a 'proud pro-Israel Democrat,' AIPAC was his top 2024 contributor, and he voted yes on H.R. 8034; Mainstream under the Israel rule. He later said his campaign no longer takes AIPAC money.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://dmfipac.org/news-updates/press-release/dmfi-pac-congratulates-endorsed-candidate-state-sen-morgan-mcgarvey-ky-03-on-his-democratic-primary-victory/",
+   "https://forwardky.com/mcgarvey-campaign-will-no-longer-accept-pro-israel-aipac-money-rep-says-tag-news/"
+  ]
+ },
+ {
+  "district": "KY-4",
+  "name": "Ed Gallrein",
+  "party": "R",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": [
+    "Donald Trump",
+    "AIPAC-aligned/pro-Israel super PACs",
+    "Pete Hegseth"
+   ]
+  },
+  "evidence": "Retired Navy SEAL who defeated Rep. Thomas Massie in the May 2026 primary; campaign was Trump-loyalty and border-funding focused, with heavy pro-Israel spending against Massie's non-interventionism. On Ukraine he said the goal is to 'diminish Russia'. Thin policy record.",
+  "sources": [
+   "https://www.newsweek.com/donald-trump-solidifies-grip-on-gop-with-thomas-massie-kentucky-oust-11970097",
+   "https://www.foxnews.com/politics/trump-backed-navy-seal-vet-delivers-major-blow-massie-fiery-gop-primary",
+   "https://www.pbs.org/video/candidate-conversations-4th-congressional-ezJBTT/"
+  ]
+ },
+ {
+  "district": "KY-5",
+  "name": "Hal Rogers",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted yes on H.R. 8035 and Israel/Taiwan bills; appropriations senior member; DW-NOMINATE 0.334 (left ~13% of GOP). Did vote for both 2021 objections.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "KY-6",
+  "name": "Zach Dembo",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Gov. Andy Beshear",
+    "Blue Dog Coalition PAC"
+   ]
+  },
+  "evidence": "Former federal prosecutor and Navy veteran; flipped open R seat (Andy Barr ran for Senate) over Ralph Alvarado. Only Democratic primary candidate not backing Medicare for All; listed by Blue Dog Democrats. No Israel stance found.",
+  "sources": [
+   "https://spectrumnews1.com/ky/louisville/news/2026/11/04/kentucky-democrat-flip",
+   "https://www.pbs.org/video/candidate-conversations-6th-congressional-ZCJ8dg/",
+   "https://bluedogdems.com/?p=1300"
+  ]
+ },
+ {
+  "district": "LA-1",
+  "name": "Steve Scalise",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Input listed surname only; verified Steve Scalise (Majority Leader). Voted yes on H.R. 8035; did vote for both 2021 objections. DW-NOMINATE 0.558.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "LA-2",
+  "name": "Troy Carter",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "J Street PAC"
+   ]
+  },
+  "evidence": "Input listed surname only; verified Troy A. Carter Sr. CPC member, DW-NOMINATE -0.521 (left ~9% of caucus); voted yes on H.R. 8034 but backed by J Street, not AIPAC/DMFI, so not clearly in the pro-Israel bucket.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://voteview.com/data",
+   "https://jstreetpac.org/candidate/troy-carter/"
+  ]
+ },
+ {
+  "district": "LA-3",
+  "name": "Clay Higgins",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "beyond-baseline",
+   "caucuses": [
+    "House Freedom Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Input listed surname only; verified Clay Higgins. Voted no on H.R. 8035 and H.R. 8036; voted for both 2021 objections.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "LA-4",
+  "name": "Mike Johnson",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Input listed surname only; verified Speaker Mike Johnson. Organized the Dec. 2020 House amicus brief for Texas v. Pennsylvania and voted for both 2021 objections; Christian-right platform. But as Speaker brought up and voted for H.R. 8035 (Ukraine).",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "MA-1",
+  "name": "Richard Neal",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Not CPC; voted yes on H.R. 8034. Ways & Means ranking member.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "MA-2",
+  "name": "Jim McGovern",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member; voted no on H.R. 8034 and H.R. 8038. DW-NOMINATE -0.538.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "MA-3",
+  "name": "Lori Trahan",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "J Street PAC"
+   ]
+  },
+  "evidence": "CPC member; voted yes on H.R. 8034 but called for a lasting Gaza ceasefire (Mar. 2024) and is J Street-backed, not AIPAC/DMFI. DW-NOMINATE -0.416, near median.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://wgbh.org/news/politics/2024-03-01/mass-rep-lori-trahan-calls-for-lasting-ceasefire-in-israel-hamas-war"
+  ]
+ },
+ {
+  "district": "MA-4",
+  "name": "Jake Auchincloss",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Not CPC; voted yes on H.R. 8034; vocal Israel supporter. DW-NOMINATE -0.272 (right ~18% of caucus).",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "MA-5",
+  "name": "Katherine Clark",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Minority Whip; not on CPC roster; voted yes on H.R. 8034.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://clerk.house.gov/evs/2024/roll152.xml"
+  ]
+ },
+ {
+  "district": "MA-6",
+  "name": "Dan Koh",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Joe Biden",
+    "Kamala Harris",
+    "Pete Buttigieg",
+    "Marty Walsh",
+    "Mass. AFL-CIO"
+   ]
+  },
+  "evidence": "Former Biden White House aide; won open-seat primary (Seth Moulton ran for Senate) with establishment endorsements; Israel position not found.",
+  "sources": [
+   "https://bostonglobe.com/2026/09/01/metro/mass-sixth-congress-district-democrat-primary",
+   "https://www.washingtonexaminer.com/?p=4709310",
+   "https://ballotpedia.org/Dan_Koh"
+  ]
+ },
+ {
+  "district": "MA-7",
+  "name": "Ayanna Pressley",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member ('Squad'); voted no on H.R. 8034 and H.R. 8038.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://clerk.house.gov/evs/2024/roll152.xml"
+  ]
+ },
+ {
+  "district": "MA-8",
+  "name": "Stephen Lynch",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Not CPC; voted yes on H.R. 8034. DW-NOMINATE -0.342.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "MA-9",
+  "name": "Bill Keating",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Not CPC; voted yes on H.R. 8034. DW-NOMINATE -0.329.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "MD-1",
+  "name": "Andy Harris",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "beyond-baseline",
+   "caucuses": [
+    "House Freedom Caucus (chair)"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Freedom Caucus chair; voted no on H.R. 8035, H.R. 8034 and H.R. 8036; voted for both 2021 objections.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml"
+  ]
+ },
+ {
+  "district": "MD-2",
+  "name": "Johnny Olszewski",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "First elected 2024; not CPC; DW-NOMINATE -0.378, at caucus median.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "MD-3",
+  "name": "Sarah Elfreth",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": [
+    "United Democracy Project (2024 primary)"
+   ]
+  },
+  "evidence": "First elected 2024 with ~$4M+ UDP (AIPAC) support in primary; not CPC; DW-NOMINATE -0.373.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://voteview.com/data",
+   "https://ballotpedia.org/Sarah_Elfreth"
+  ]
+ },
+ {
+  "district": "MD-4",
+  "name": "Glenn Ivey",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": [
+    "AIPAC/UDP (2022)"
+   ]
+  },
+  "evidence": "Not CPC; voted yes on H.R. 8034; UDP spent heavily for him in 2022 primary.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "MD-5",
+  "name": "Adrian Boafo",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": [
+    "Rep. Steny Hoyer",
+    "United Democracy Project (~$5.7M)",
+    "Protect Progress (crypto)"
+   ]
+  },
+  "evidence": "State delegate and former Hoyer campaign manager; won open-seat primary with Hoyer endorsement and UDP (AIPAC) as top outside spender; described as pro-Israel.",
+  "sources": [
+   "https://jewishinsider.com/2026/06/adrian-boafo-wins-maryland-primary-steny-hoyer-aipac/",
+   "https://www.jta.org/2026/06/24/united-states/pro-israel-adrian-boafo-beats-crowded-field-to-replace-marylands-steny-hoyer"
+  ]
+ },
+ {
+  "district": "MD-6",
+  "name": "April McClain Delaney",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "First elected 2024; not CPC; DW-NOMINATE -0.290 (right ~23% of caucus).",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "MD-7",
+  "name": "Kweisi Mfume",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "supports",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "DMFI PAC (2020)",
+    "J Street PAC"
+   ]
+  },
+  "evidence": "CPC member, but DMFI-endorsed with 'steadfast' Israel support and voted yes on H.R. 8034; Mainstream under the Israel rule. Also J Street-listed; no AIPAC endorsement found.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://dmfipac.org/news-updates/press-release/dmfi-pac-beatty-mfume-victories/"
+  ]
+ },
+ {
+  "district": "MD-8",
+  "name": "Jamie Raskin",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member; voted no on H.R. 8034. DW-NOMINATE -0.494.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://voteview.com/data"
+  ]
+ },
+ {
+  "district": "ME-1",
+  "name": "Chellie Pingree",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member; voted no on H.R. 8034.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://voteview.com/data"
+  ]
+ }
+]

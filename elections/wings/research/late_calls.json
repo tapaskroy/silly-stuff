@@ -1,0 +1,222 @@
+[
+ {
+  "chamber": "house",
+  "district": "WA-5",
+  "name": "Michael Baumgartner",
+  "party": "R",
+  "role": "winner, returning member (first term 2025). No 2024 Ukraine vote; voted No on the 2025 Greene amendment, so the vote rule doesn't settle it: place on policies",
+  "full_name": "Michael Baumgartner",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "ukraine_aid": "supports",
+   "immigration": "moderate"
+  },
+  "evidence": "Voted No on the 2025 Greene amendment barring Ukraine aid, led a bipartisan letter urging Trump to keep TPS for Ukrainian refugees, and backs tougher Russia sanctions (he opposed the 2026 Ukraine Support Act H.R. 2913 only 'in its current form', saying it underfunded USAI). On immigration he does sanctuary-policy oversight but stresses humane treatment and due process, not mass deportation.",
+  "sources": [
+   "https://baumgartner.house.gov/?p=632",
+   "https://baumgartner.house.gov/2025/03/07/baumgartner-encourages-trump-administration-maintain-temporary-protected",
+   "https://www.spokesman.com/stories/2026/may/05/michael-baumgartner-holds-town-hall-in-republic-as/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "FL-7",
+  "name": "Ryan Elijah",
+  "party": "R",
+  "role": "winner, newcomer (open seat, was Cory Mills)",
+  "full_name": "Ryan Elijah",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown"
+  },
+  "evidence": "Ex-Orlando TV anchor who beat scandal-hit Cory Mills in the primary and got Trump's endorsement only afterward. His platform is affordability, low taxes, deregulation, energy and a stock-trading ban, and he has said tariffs don't help affordability. I found no Ukraine, mass-deportation or Freedom Caucus positions, so this is a thin-evidence call.",
+  "sources": [
+   "https://www.clickorlando.com/news/local/2026/09/08/in-their-own-words-elijah-and-dalton-on-the-issues-facing-floridas-7th-district/",
+   "https://www.fox35orlando.com/news/trump-endorses-ryan-elijah-after-florida-congressional-primary-win",
+   "https://floridianpress.com/2026/06/ryan-elijah-affirms-his-efforts-to-tackle-affordability-and-healthcare-priorities/"
+  ]
+ },
+ {
+  "chamber": "senate",
+  "district": "Mississippi",
+  "name": "Scott Colom",
+  "party": "D",
+  "role": "winner, newcomer senator; beat Cindy Hyde-Smith",
+  "full_name": "Scott Colom",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "economic": "center",
+   "israel": "neutral"
+  },
+  "evidence": "A DA who ran a 'Mississippi first' campaign on affordability, Medicaid expansion and a public option or Medicare/Medicaid buy-in, not Medicare for All. He takes no corporate PAC or AIPAC money but declined to take a hard stance on Israel aid.",
+  "sources": [
+   "https://www.mississippifreepress.org/scott-colom-wants-to-make-a-difference-for-mississippi-in-the-us-senate/",
+   "https://www.wlox.com/2026/10/19/democratic-senate-candidate-scott-colom-talks-tariffs-affordability-healthcare/",
+   "https://cdispatch.com/news/colom-prioritizing-lower-costs-good-jobs-affordable-health-care-in-state/"
+  ]
+ },
+ {
+  "chamber": "senate",
+  "district": "Mississippi",
+  "name": "Cindy Hyde-Smith",
+  "party": "R",
+  "role": "loser, sitting senator. Look up her Apr 23 2024 H.R. 815 (Ukraine supplemental) vote on Voteview: Senate 118th Congress rollcall 154 (https://voteview.com/static/data/out/votes/S118_votes.csv with members in S118_members.csv; cast_code 1-3 yea, 4-6 nay). Nay = Nationalist, Yea = Mainstream",
+  "full_name": "Cindy Hyde-Smith",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "signals": {
+   "ukraine_aid": "supports",
+   "immigration": "unknown"
+  },
+  "evidence": "Voteview S118 shows Hyde-Smith (icpsr 41707) voted Yea (cast_code 1) on final passage of H.R. 815 on Apr 23 2024, which passed 79-18. That is Voteview rollnumber 506; the Senate clerk number is 154, session 2. Voteview's own rollnumber 154 is a different vote, the Jun 13 2023 Elizabeth Allen nomination, where she voted Nay. She also voted Yea on cloture (rollnumber 504, 80-19).",
+  "sources": [
+   "https://voteview.com/static/data/out/votes/S118_votes.csv",
+   "https://voteview.com/static/data/out/rollcalls/S118_rollcalls.csv",
+   "https://voteview.com/static/data/out/members/S118_members.csv"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "FL-26",
+  "name": "Nicole Locklin",
+  "party": "D",
+  "role": "loser, challenger to Mario Diaz-Balart",
+  "full_name": "Nicole Locklin",
+  "wing": "Progressive",
+  "confidence": "low",
+  "signals": {
+   "economic": "left",
+   "israel": "unknown"
+  },
+  "evidence": "Her endorsers include the Democratic Progressive Caucus of Florida (its slate backs Medicare for All and the Green New Deal), Florida for Bernie, Florida Rising and Emgage Action. She ran an anti-corruption campaign with no corporate PAC money. I found no pro-Israel backing or statements.",
+  "sources": [
+   "https://www.wlrn.org/light/government-politics/2026-07-23/democratic-progressive-caucus-of-florida-releases-congressional-slate-for-aug-18-primaries",
+   "https://bluevoterguide.org/FL/candidate_Nicole_Locklin/737898",
+   "https://secure.actblue.com/donate/nicolelocklin"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "AZ-2",
+  "name": "Jonathan Nez",
+  "party": "D",
+  "role": "loser, challenger to Eli Crane",
+  "full_name": "Jonathan Nez",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Former Navajo Nation president, in the DCCC Red to Blue program and endorsed by Kelly and Gallego. His campaign focused on rural health care costs and courted moderate Republicans. I found no progressive-group endorsements or Medicare for All positions.",
+  "sources": [
+   "https://www.jonathannezforaz.com/news/jonathan-nez-named-to-red-to-blue-program",
+   "https://www.jonathannezforaz.com/2025/07/22/launch/",
+   "https://www.newsfromthestates.com/article/jonathan-nez-bets-buyers-remorse-rematch-against-eli-crane-rural-arizona"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "WA-5",
+  "name": "Carmela Conroy",
+  "party": "D",
+  "role": "loser, challenger to Michael Baumgartner",
+  "full_name": "Carmela Conroy",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "economic": "center",
+   "israel": "supports"
+  },
+  "evidence": "Former diplomat and prosecutor described as the moderate in the field. She opposed cutting military aid to Israel, citing the regional 'security umbrella', even while criticizing conduct in Gaza. Her platform is veterans, farmers, lowering costs and the trades.",
+  "sources": [
+   "https://spokesman.com/stories/2024/jul/14/on-foreign-policy-congressional-candidates-dont-al",
+   "https://www.spokesman.com/stories/2026/jul/05/congressional-candidates-debate-immigration-electa/",
+   "https://conroy4congress.com/issues"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "FL-7",
+  "name": "Bale Dalton",
+  "party": "D",
+  "role": "loser, open seat",
+  "full_name": "Bale Dalton",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "signals": {
+   "economic": "center",
+   "israel": "supports"
+  },
+  "evidence": "Endorsed by Blue Dog PAC and New Politics (a group that backs service-member candidates). He opposes blanket restrictions on arms to Israel and wants Iron Dome-type defensive aid protected, though he took no AIPAC money. Retired Navy captain who ran on ACA subsidies and border security.",
+  "sources": [
+   "https://bluedogdems.com/?p=1285",
+   "https://www.newpolitics.org/candidates/bale-dalton",
+   "https://www.clickorlando.com/news/local/2026/09/08/in-their-own-words-elijah-and-dalton-on-the-issues-facing-floridas-7th-district/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "FL-9",
+  "name": "Dan Green",
+  "party": "R",
+  "role": "loser, challenger to Darren Soto",
+  "full_name": "Dan Green",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "moderate"
+  },
+  "evidence": "Navy Reserve captain and Pentagon official in Trump's first term. He backed DeSantis over Trump in 2024 and DeSantis rallied for him. He ran as a China-focused defense hawk calling for 'constructive coalitions'. He used some 'America First' framing but showed no Ukraine opposition, mass-deportation or Freedom Caucus signals.",
+  "sources": [
+   "https://www.aroundosceola.com/index.php/election-2026/voting-central-florida-meet-us-congressional-district-9-republican-candidates",
+   "https://floridianpress.com/2026/08/dan-green-backed-desantis-over-trump-during-2024-presidential-election/",
+   "https://political.org/2026/09/30/gov-ron-desantis-rallies-for-navy-veteran-dan-green-in-bid-to-flip-darren-sotos-florida-seat/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "FL-27",
+  "name": "Eliott Rodriguez",
+  "party": "D",
+  "role": "loser, challenger to Maria Elvira Salazar",
+  "full_name": "Eliott Rodriguez",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Ex-TV anchor backed by Hakeem Jeffries, the DCCC, Mayor Levine Cava, UnidosUS and the Miami Herald. He ran on affordability and restoring health-care subsidies. He wants to restructure ICE rather than abolish it. No progressive-group backing found.",
+  "sources": [
+   "https://www.wlrn.org/government-politics/2026-10-05/eliott-rodriguez-maria-elvira-salazar-florida-27-congress",
+   "https://www.nbcmiami.com/elections/hakeem-jeffries-backs-eliott-rodriguez-27th-congressional-district-race/3874143/",
+   "https://www.unidosusaf.org/news/unidosus-action-pac-endorses-angie-nixon-darren-soto-and-eliott-rodriguez-in-florida-congressional-races"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "SC-2",
+  "name": "Zyon Khalifa",
+  "party": "D",
+  "role": "loser, challenger to Joe Wilson",
+  "full_name": "Zyon Khalifa",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "A 25-year-old Air Force veteran and law graduate. He called for 'a hand up, not a handout', more insurer competition and Medicaid expansion rather than Medicare for All, and more immigration judges. He opposed spending on an unwanted war, but I found no progressive endorsements or Israel stance.",
+  "sources": [
+   "https://www.wrdw.com/2026/10/20/local-sc-congressional-candidates-clash-over-costs-immigration-foreign-policy/",
+   "https://www.wrdw.com/2026/06/24/zyon-khalifa-wins-democratic-nomination-us-house-sc-2nd-congressional-district/",
+   "https://kutv.com/news/nation-world/2026-11-06-sc-congressional-race-2-state-house-races-headed-to-recounts-after-close-election-results-us-rep-joe-wilson-democrat-zyon-khalifa-politics-voting"
+  ]
+ }
+]

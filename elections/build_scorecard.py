@@ -41,6 +41,21 @@ sen_polls, gov_polls = load("senate_polls.json"), load("gov_polls.json")
 house_ratings = {d["district"]: d.get("ratings") or {} for d in load("house_data.json")}
 
 
+PARTICLES = {"van", "von", "de", "del", "della", "der", "la", "le", "da", "di", "du"}
+
+
+def display(full, short):
+    """The surname as the page shows it. The House model's short names keep only the last word ("Van Drew" -> "Drew"),
+    so put back the particles that precede it in the full name. Scoring still uses the model's short name."""
+    words = re.sub(r"\s*\(.*$", "", full or "").split()
+    if short not in words:
+        return short
+    i = j = words.index(short)
+    while j > 1 and words[j - 1].lower() in PARTICLES:
+        j -= 1
+    return " ".join(words[j:i + 1])
+
+
 def races():
     """Every scored race as a dict: chamber, key, a/b candidate surnames and parties, p = P(a wins), mean = a minus b."""
     out = []
@@ -56,7 +71,8 @@ def races():
         out.append({"ch": "house", "key": r["district"], "a": r["dn"], "ap": r["ch_party"], "b": r["rn"], "bp": "R",
                     "p": r["p_dem"], "mean": r["mean"], "poll": r.get("poll_avg"),
                     "ratings": house_ratings.get(r["district"], {}),
-                    "labels": {r["dn"]: "Democrat", r["rn"]: "Republican"} if by_party else {},
+                    "labels": ({r["dn"]: "Democrat", r["rn"]: "Republican"} if by_party else
+                               {r["dn"]: display(r["dem"], r["dn"]), r["rn"]: display(r["rep"], r["rn"])}),
                     "fields": (r.get("dem"), r.get("rep")) if by_party else None})
     for r in gov["races"]:
         out.append({"ch": "governors", "key": r["state"], "a": r["challenger"], "ap": r["challenger_party"],
@@ -80,7 +96,8 @@ for r in RACES:
     x = RES[r["ch"]].get(r["key"]) or {}
     assert x.get("winner") in (None, r["a"], r["b"]), f"{r['ch']} {r['key']}: winner {x.get('winner')!r} is not {r['a']} or {r['b']}"
     r["winner"], r["margin"], r["status"] = x.get("winner"), x.get("margin"), x.get("status") or "pending"
-    r["winner_name"] = x.get("winner_name") or r["winner"]  # differs only where the model scored a side, not a person
+    # differs where the model scored a side, not a person, or where its short name dropped a particle
+    r["winner_name"] = x.get("winner_name") or r.get("labels", {}).get(r["winner"]) or r["winner"]
 
 
 def pct(p):

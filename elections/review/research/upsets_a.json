@@ -1,0 +1,1309 @@
+{
+ "Mississippi": {
+  "chamber": "senate",
+  "result": "Scott Colom (D) 473,336 (49.19%) vs Cindy Hyde-Smith (R, inc.) 468,667 (48.71%), Ty Pinkins (I) 20,234 (2.10%). Colom ahead by about 4,700 votes (+0.48 pts) in unofficial returns. Projected by AP/CNN on Nov 11 after more than a week of counting. Hyde-Smith conceded by video on Nov 11. Counties certify by Nov 13; state certification is due Dec 3. Mississippi has no recount mechanism. Sources: https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi ; https://apnews.com/article/scott-colom-mississippi-senate-midterms-56c18f292a734443992f9466c3b0f346 ; https://www.cnn.com/2026/11/11/politics/scott-colom-mississippi-campaign-democrats ; https://www.wlox.com/2026/11/06/what-mississippi-law-says-about-recounts-close-elections/",
+  "pres_2024": "Trump +about 23 statewide (Newsweek: 'about 23 points'; Strength In Numbers: '22 points'). https://www.newsweek.com/how-a-viral-ad-took-democrats-in-mississippi-from-long-shot-to-contenders-12669578",
+  "explanations": [
+   {
+    "claim": "The Black share of Mississippi's electorate was about 33% in 2026, up from 30% in 2024 (NYT estimates). Strength In Numbers calculates that with the 2024 electorate and this year's vote choices, Hyde-Smith would have won by about 4 points.",
+    "kind": "fact",
+    "source": "https://portside.org/node/40934/printable/print"
+   },
+   {
+    "claim": "White Mississippians, who backed Trump by 67 points in 2024, voted far less Republican in 2026.",
+    "kind": "fact",
+    "source": "https://portside.org/node/40934/printable/print"
+   },
+   {
+    "claim": "G. Elliott Morris attributes the Deep South Black turnout surge partly to backlash against Louisiana v. Callais and the redistricting it allowed, while saying the size of that effect can't be known.",
+    "kind": "interpretation",
+    "source": "https://portside.org/node/40934/printable/print"
+   },
+   {
+    "claim": "Colom's lead grew after election night because he won a higher share of affidavit (provisional) ballots than of Election Day ballots, with large late gains from Hinds County (Jackson), where he took about 80%.",
+    "kind": "fact",
+    "source": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html"
+   },
+   {
+    "claim": "Before the election, the Secretary of State purged voter rolls using unverified Experian data. Inactivations doubled in some counties, which produced a large number of affidavit ballots.",
+    "kind": "fact",
+    "source": "https://mississippitoday.org/2026/11/02/red-flag-voter-inactivations-surge-in-midterms-since-secretary-of-state-adopted-unverified-experian-data-to-clean-voter-rolls/"
+   },
+   {
+    "claim": "Colom's 'pick another senator' ad, built on Hyde-Smith's 'so many proteins to choose from' remark about beef prices, went viral (15M+ views on X). After it, Senate Majority PAC invested $1.2M and later another $1M.",
+    "kind": "fact",
+    "source": "https://www.newsweek.com/how-a-viral-ad-took-democrats-in-mississippi-from-long-shot-to-contenders-12669578"
+   },
+   {
+    "claim": "Political scientists quoted by Newsweek said the ad and the cost-of-living message helped at the margin. Brian Shoup (Mississippi State) said the midterm's turnout structure was 'the inverse' of past Mississippi races, with cost of living driving Democratic turnout and possibly depressing GOP turnout. Travis Ridout cautioned against crediting any single ad.",
+    "kind": "interpretation",
+    "source": "https://www.newsweek.com/how-a-viral-ad-took-democrats-in-mississippi-from-long-shot-to-contenders-12669578"
+   },
+   {
+    "claim": "Colom's pollsters' formula was high Black turnout plus at least a quarter of the white vote. CNN describes Hyde-Smith as rarely seen during the campaign. Colom attacked Medicaid cuts in the 'One Big Beautiful Bill' that threaten rural hospitals, along with tariffs, gas prices and the Epstein files.",
+    "kind": "interpretation",
+    "source": "https://www.cnn.com/2026/11/11/politics/scott-colom-mississippi-campaign-democrats"
+   },
+   {
+    "claim": "Candidate background: Hyde-Smith had blocked Colom's 2022 federal judicial nomination by withholding her blue slip. On election night she said 'I blocked Scott Colom from being a federal judge, and you blocked him from being a US senator.'",
+    "kind": "fact",
+    "source": "https://www.cnn.com/2026/11/11/politics/scott-colom-mississippi-campaign-democrats"
+   },
+   {
+    "claim": "National Democrats engaged late: SMP began moving donors only after Labor Day. Warnock raised about $750K, Booker and other Black Democratic senators campaigned in October, Obama cut an ad, and Harris rallied for Colom on Oct 22. Trump held a rally for Hyde-Smith in Corinth in the final week.",
+    "kind": "fact",
+    "source": "https://www.cnn.com/2026/11/11/politics/scott-colom-mississippi-campaign-democrats"
+   },
+   {
+    "claim": "Third party: independent Ty Pinkins (a former Democratic nominee) took 2.1%, which exceeds the final margin.",
+    "kind": "fact",
+    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi"
+   },
+   {
+    "claim": "In the Voter Poll (exit poll), democracy ranked as Mississippi voters' second most important issue. Voters who named it the top issue went 66-34 for Colom.",
+    "kind": "fact",
+    "source": "https://portside.org/node/40934/printable/print"
+   }
+  ],
+  "late_polls_winner_ahead": [],
+  "late_polls_note": "I found no public poll from Oct 13 to Nov 3 showing Colom ahead or tied. Change Research (D) for the 365 Project, Oct 21-22, 842 LV: Hyde-Smith 43, Colom 40, Pinkins 6 (https://www.politico.com/f/?id=000001a1-6905-d95c-abe7-ffe73ad80000). Wedgewood, Oct 12-14, 511 LV: Hyde-Smith 52-48 (https://www.newsweek.com/democrat-threatens-historic-senate-upset-in-deep-red-mississippi-12571424). The Silver Bulletin average was Hyde-Smith +6.5 (https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi). Both polls were within about 3-4 pts of a tie, but neither had Colom ahead.",
+  "picked_winner": [],
+  "picked_winner_note": "I found no forecaster or rater who picked Colom. Cook, Sabato, Inside Elections, DDHQ, the Economist, NBC, RCP and Split Ticket all had Likely R; Silver Bulletin had Solid R; FiftyPlusOne had Safe R (https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi). The only public pre-election claim that Colom could win came from a partisan source: Sen. Raphael Warnock said 'Colom can flip Senate seat blue' (https://www.mississippifreepress.org/cory-booker-joins-scott-colom-to-mobilize-voters-as-democrats-eye-mississippis-senate-race/).",
+  "summary": "Colom won by about 0.5 pts (roughly 4,700 votes) and was called only on Nov 11, after affidavit ballots broke heavily his way. The main reported drivers are a surge in Black turnout (33% of the electorate vs 30% in 2024), white voters moving away from the GOP compared with 2024, a viral cost-of-living ad, and late national Democratic money. Every late public poll and every rater had Hyde-Smith ahead, so this was a polling miss of roughly 3-7 points, not a case of signals the model ignored."
+ },
+ "South Carolina": {
+  "chamber": "senate",
+  "result": "Annie Andrews (D) 1,044,001 (51.14%) vs Darline Graham (R, appointed incumbent) 952,191 (46.64%), Libertarian Kasie Whitener 1.16%, Constitution Party Mark Hackett 0.82%. Andrews won by +4.5 pts. NOTE: the Republican was Darline Graham, Lindsey Graham's sister. Lindsey Graham died in July 2026, Gov. McMaster appointed her, and she won a special GOP primary and runoff. https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina ; https://www.opb.org/article/2026/11/03/democrat-annie-andrews-wins-us-senate-election-in-south-carolina-over-republican-darline-graham/",
+  "pres_2024": "Trump +18 statewide. https://dailyyonder.com/rural-voters-helped-democrats-win-south-carolinas-us-senate-seat/2026/11/04/",
+  "explanations": [
+   {
+    "claim": "The Republican nominee was a late-appointed political novice. Darline Graham replaced her late brother after his July death and won the nomination with Trump's personal backing, including a rally and MAGA Inc. spending.",
+    "kind": "fact",
+    "source": "https://www.cnn.com/2026/11/03/politics/trump-darline-graham-loss"
+   },
+   {
+    "claim": "Graham said 'national security is not my thing' in a runoff debate, and doubts about her experience persisted. In the NYT/Siena poll, 51% of voters, including 18% of Republicans, said she lacked the experience to be an effective senator.",
+    "kind": "fact",
+    "source": "https://www.cnn.com/2026/11/03/politics/trump-darline-graham-loss"
+   },
+   {
+    "claim": "Money: as of Oct 14, Andrews had raised $24.2M against Graham's $1.9M (FEC).",
+    "kind": "fact",
+    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina"
+   },
+   {
+    "claim": "AP attributes the win to a national wave of discontent with Republicans and Trump, Graham's status as a novice, and Andrews' fundraising, which forced GOP groups to spend in the state.",
+    "kind": "interpretation",
+    "source": "https://www.opb.org/article/2026/11/03/democrat-annie-andrews-wins-us-senate-election-in-south-carolina-over-republican-darline-graham/"
+   },
+   {
+    "claim": "Black turnout neared presidential-year levels. Strength In Numbers estimates that without the surge Andrews would have won by under a point.",
+    "kind": "interpretation",
+    "source": "https://portside.org/node/40934/printable/print"
+   },
+   {
+    "claim": "Republican crossover and ticket-splitting: Andrews was the only Democrat to win statewide. She carried 25 counties, including seven that Republican Alan Wilson won in the concurrent governor's race, and flipped Trump-won counties such as Greenville, York, Berkeley, Dorchester and Florence.",
+    "kind": "fact",
+    "source": "https://scdailygazette.com/2026/11/06/a-look-at-how-sc-voters-support-shifted-to-flip-the-us-senate-seat/"
+   },
+   {
+    "claim": "Rural voters contributed. Andrews won 51% in nonmetropolitan counties, with big gains in Black Belt counties. Clarendon County went from Trump +12 to Andrews +6.",
+    "kind": "fact",
+    "source": "https://dailyyonder.com/rural-voters-helped-democrats-win-south-carolinas-us-senate-seat/2026/11/04/"
+   },
+   {
+    "claim": "Andrews ran as an independent-minded moderate focused on affordability and corruption, calling Graham 'unserious and unqualified'. CNN says Trump's personal push for Graham backfired.",
+    "kind": "interpretation",
+    "source": "https://www.cnn.com/2026/11/03/politics/trump-darline-graham-loss"
+   }
+  ],
+  "late_polls_winner_ahead": [
+   {
+    "pollster": "New York Times/Siena",
+    "dates": "Oct 19-26, 2026 (707 LV)",
+    "result": "Graham 48, Andrews 48 (tie)",
+    "url": "https://www.nytimes.com/interactive/2026/10/28/polls/times-siena-sc-poll-toplines.html"
+   },
+   {
+    "pollster": "Resonance Media Services (R)",
+    "dates": "Oct 30, 2026 (600 LV)",
+    "result": "Andrews 46, Graham 45",
+    "url": "https://www.fitsnews.com/wp-content/uploads/securepdfs/2026/11/Resonance-final-SC-Poll-Memo-11-02-2026.pdf"
+   },
+   {
+    "pollster": "Patinkin Research Strategies (D), for Project V.O.T.E.",
+    "dates": "Oct 27-29, 2026 (500 LV)",
+    "result": "Andrews 48, Graham 43",
+    "url": "https://static1.squarespace.com/static/54512d3ce4b07de69d8320c7/t/6ae4f0f24aec54388059c463/1793388786248/PRS%2BProjectVOTE.SCSW+Poll+Release.103026.pdf"
+   },
+   {
+    "pollster": "Impact Research (D), for Fresh Start SC (pro-Andrews super PAC)",
+    "dates": "Oct 15-21, 2026 (800 LV)",
+    "result": "Andrews 45, Graham 44",
+    "url": "https://freshstartpac.org/wp-content/uploads/2026/10/SC-Senate-Track-Public-Memo.pdf"
+   },
+   {
+    "pollster": "The Citadel (RV screen only; its LV screen had Graham 43-39)",
+    "dates": "Oct 14-25, 2026 (1,009 RV)",
+    "result": "Andrews 40, Graham 35 among RV",
+    "url": "https://poll.citadel.edu/wp-content/uploads/2026/10/The-Citadel-Poll-Oct2026.pdf"
+   }
+  ],
+  "late_polls_note": "Polls with Graham ahead in the same window: Trafalgar (R) Oct 31-Nov 1, 48-46; Rasmussen (R) Oct 27-31, 50-47; Targoz/SC Policy Council Oct 16-25, 47-46; ECU Oct 19-24, 51-47; Trafalgar Oct 16-18, 49-46. Final averages: DDHQ Andrews +0.1, FiftyPlusOne tie, Silver Bulletin Graham +1.1, RCP Graham +2.6, 270toWin Graham +2.2. Republican-leaning pollsters were heavily represented, and the final result beat every poll. https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
+  "picked_winner": [],
+  "picked_winner_note": "I found no major rater with the race at Lean or Tilt D. DDHQ, Fox News and RCP had Toss-up. Inside Elections had Tilt R. Cook, Sabato, the Economist, NBC, CBS, MS NOW, Silver Bulletin, Split Ticket and FiftyPlusOne had Lean R (https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina). Kalshi had Andrews at 39% when polls closed (https://news.kalshi.com/p/kalshi-projects-annie-andrews-wins-south-carolina-senate-race).",
+  "summary": "Andrews beat appointed Sen. Darline Graham by 4.5 pts in a Trump +18 state. Coverage cites Graham's inexperience and gaffes, a 12-to-1 fundraising edge for Andrews, presidential-level Black turnout, and GOP crossover voting (she ran ahead of the Democratic governor nominee in many counties). Several late public polls had the race tied or Andrews ahead, including NYT/Siena tied and Resonance (R) Andrews +1, and polling averages were within about 1 pt. Those signals were stronger than our 38% implied."
+ },
+ "SC-1": {
+  "chamber": "house",
+  "result": "Nancy Lacore (D) 162,103 (49.66%) vs Jenny Costa Honeycutt (R) 158,751 (48.63%), a margin of about 3,350 votes (+1.0 pt), just above SC's 1-point automatic recount threshold. AP called it Nov 6, three days after the election, and Honeycutt conceded. Open seat; Nancy Mace ran for governor. https://abcnews4.com/news/local/associated-press-declares-nancy-lacore-winner-of-1st-congressional-district-race ; https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_South_Carolina ; https://www.ibtimes.co.uk/nancy-lacore-claims-south-carolina-congressional-victory-1830301",
+  "pres_2024": "Trump +13. https://abcnews4.com/news/local/associated-press-declares-nancy-lacore-winner-of-1st-congressional-district-race",
+  "explanations": [
+   {
+    "claim": "Candidate profile: Lacore is a retired Navy vice admiral and former Chief of Navy Reserve who was fired by Defense Secretary Hegseth in August 2025 without public explanation, and she centered her campaign on that biography.",
+    "kind": "fact",
+    "source": "https://abcnews4.com/news/local/associated-press-declares-nancy-lacore-winner-of-1st-congressional-district-race"
+   },
+   {
+    "claim": "Money: as of Oct 14, Lacore had raised $4.87M against Honeycutt's $1.29M (FEC).",
+    "kind": "fact",
+    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_South_Carolina"
+   },
+   {
+    "claim": "Local TV reporting (WCIV) says Lacore 'clearly benefited' from the statewide Democratic tailwind and Andrews' Senate win, and from the president's 'dramatic unpopularity'.",
+    "kind": "interpretation",
+    "source": "https://abcnews4.com/news/state/democrat-nancy-lacore-holds-slim-lead-in-1st-congressional-district"
+   },
+   {
+    "claim": "Lacore ran on cost of living ('restoring financial freedom'), health care costs and housing, and she claimed support from Republicans, Democrats and independents.",
+    "kind": "fact",
+    "source": "https://live5news.com/2026/11/04/lacore-claims-sc-01-victory-says-costa-honeycutt-conceded-race/"
+   },
+   {
+    "claim": "Endorsements: Trump endorsed Honeycutt. The Post and Courier editorial board endorsed Lacore (Oct 22), as did the DCCC Red to Blue program, Blue Dog PAC and NewDem Action Fund.",
+    "kind": "fact",
+    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_South_Carolina"
+   },
+   {
+    "claim": "The count was delayed when about 5,500 Dorchester County ballots had to be rescanned after a memory-stick fault.",
+    "kind": "fact",
+    "source": "https://www.ibtimes.co.uk/nancy-lacore-claims-south-carolina-congressional-victory-1830301"
+   }
+  ],
+  "late_polls_winner_ahead": [
+   {
+    "pollster": "Public Policy Polling (D), for House Majority PAC",
+    "dates": "Oct 21-22, 2026 (770 LV; 2024 recall Trump +13)",
+    "result": "Lacore 47, Honeycutt 45",
+    "url": "https://x.com/cjwarnke/status/2113636550357528714"
+   }
+  ],
+  "late_polls_note": "Just before the window, a GQR (D) poll circulated around Oct 9: Lacore 48-45 (https://x.com/AndrewSolender/status/2108617190245306670). A co/efficient (R) poll released about Oct 1 had Honeycutt 46-40 (https://coefficient.org/our-work/south-carolina-1st-congressional-district-oct-2026/). I found no nonpartisan public polls. All the Lacore-ahead polls were Democratic internals released on social media and may not appear in typical aggregators (a tracker updated Oct 3 listed only a July GQR poll: https://uspollingdata.com/races/house/sc-01/).",
+  "picked_winner": [],
+  "picked_winner_note": "I found no rater that picked Lacore. Cook moved the race to Toss-up on Oct 30. Inside Elections had Tilt R, Sabato Lean R (Oct 20) and DDHQ Lean R. https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_South_Carolina",
+  "summary": "Lacore flipped the open Trump +13 seat by 1 pt, helped by a strong biography (the admiral Hegseth fired), a nearly 4-to-1 fundraising edge, and the statewide Democratic surge that also carried Andrews. The only late public polls (Democratic internals, PPP for HMP and GQR) showed her narrowly ahead, and Cook had moved the race to Toss-up, so a 30% win probability was a plausible but somewhat low call."
+ },
+ "AL-2": {
+  "chamber": "house",
+  "result": "Shomari Figures (D, inc.) 124,422 (53.75%) vs Rhett Marques (R) 107,049 (46.25%), +7.5 pts (about 17,400 votes). AP called it at 11 p.m. on election night, and Marques conceded. https://www.washingtonexaminer.com/?p=4773183 ; https://www.wwno.org/2026-11-04/democrat-shomari-figures-reelected-to-alabamas-district-2-seat ; https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama",
+  "pres_2024": "Trump +14.3 on the new 2026 lines (56.6-42.3). 2020: Trump 53.7-45.1. https://www.washingtonexaminer.com/?p=4773183",
+  "explanations": [
+   {
+    "claim": "Redistricting: after Louisiana v. Callais, Alabama reinstated its legislature-drawn 2023 map, which cut the district's Black voting-age population from about 48% to about 40% and turned a Harris-won seat into a Trump +14 seat. The race was rated Lean R (flip).",
+    "kind": "fact",
+    "source": "https://www.news4jax.com/news/politics/2026/10/31/alabama-republicans-thought-they-had-drawn-a-safe-us-house-seat-a-black-congressman-had-other-ideas/"
+   },
+   {
+    "claim": "Turnout: Montgomery County cast nearly 80,000 ballots in the governor's race, up 38% from under 58,000 in 2022. In the 14 counties fully inside the district, Democratic straight-ticket ballots nearly doubled (about 50K to 90K) while GOP straight-ticket ballots rose 8% (per Yellowhammer News). Marques: 'Montgomery County came out in a large number, and we couldn't overcome it.'",
+    "kind": "fact",
+    "source": "https://portside.org/node/40934/printable/print"
+   },
+   {
+    "claim": "Despite a 9-pt cut in Black VAP, Figures' vote share fell by less than 1 pt (54.6% in 2024 to 53.8%). Morris attributes this to a Black turnout 'Blacklash' against the redistricting.",
+    "kind": "interpretation",
+    "source": "https://portside.org/node/40934/printable/print"
+   },
+   {
+    "claim": "Money and ads: Figures out-raised Marques (about $2.7M vs $1.7M as of Oct 14). TV spending went from almost nothing to nearly $10M in seven weeks (AdImpact), with Democratic groups outspending Republicans. A Trump-aligned super PAC spent over $2M for Marques.",
+    "kind": "fact",
+    "source": "https://www.news4jax.com/news/politics/2026/10/31/alabama-republicans-thought-they-had-drawn-a-safe-us-house-seat-a-black-congressman-had-other-ideas/"
+   },
+   {
+    "claim": "Figures campaigned in conservative Wiregrass areas on affordability (food, fuel, fertilizer prices) while mobilizing Black voters in Montgomery, Selma and Tuskegee. Republicans had voiced concern about lackluster GOP turnout.",
+    "kind": "fact",
+    "source": "https://www.news4jax.com/news/politics/2026/10/31/alabama-republicans-thought-they-had-drawn-a-safe-us-house-seat-a-black-congressman-had-other-ideas/"
+   },
+   {
+    "claim": "Incumbency: Figures was a sitting member running against a former state representative. Marques declined Figures' debate invitation.",
+    "kind": "fact",
+    "source": "https://www.alreporter.com/2026/11/02/race-rater-shifts-cd2-race-to-leans-democrat-in-final-2026-projection"
+   }
+  ],
+  "late_polls_winner_ahead": [],
+  "late_polls_note": "I found no public poll from Oct 13 to Nov 3 with Figures ahead or tied. The only one in the window was Remington Research Group (R-aligned), Oct 23-25, 642 LV: Marques 48, Figures 46 (https://1819news.com/news/item/al-2-poll-marques-48-figures-46). Earlier, a DCCC internal (late July/Aug) and an August poll both had the race tied 46-46 or 47-47 (https://www.alreporter.com/2026/08/17/first-poll-released-after-special-primary-suggests-cd-2-is-a-tied-race/).",
+  "picked_winner": [
+   {
+    "who": "Sabato's Crystal Ball",
+    "what": "Moved AL-2 from Toss-up to Leans Democratic in its final forecast on Nov 2, 2026. It was the third shift toward Figures since September (Likely R to Lean R to Toss-up to Lean D). Our stored Sabato rating, 'Lean R (flip), Sep 10', is stale.",
+    "url": "https://www.alreporter.com/2026/11/02/race-rater-shifts-cd2-race-to-leans-democrat-in-final-2026-projection"
+   }
+  ],
+  "picked_winner_note": "Other final ratings: Cook Lean R (flip), DDHQ Lean R (flip), Inside Elections Tilt R (flip), the Economist and Silver Bulletin (as of August) Likely R (flip). https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama",
+  "summary": "Figures held a seat redrawn to Trump +14 by 7.5 pts. Reporting credits a surge in Black turnout (Montgomery turnout up 38% vs 2022, Democratic straight-ticket ballots nearly doubled) widely tied to backlash over the post-Callais redraw, plus incumbency and a money and ad advantage. The only late public poll (Remington) had Marques +2, but Sabato's final call was Lean D, and our stored Sabato rating was out of date."
+ },
+ "Nevada": {
+  "chamber": "governors",
+  "result": "Aaron Ford (D) defeated incumbent Joe Lombardo (R); AP call early Nov 4, Lombardo conceded Nov 4 (https://news3lv.com/news/local/nevada-democrat-aaron-ford-defeats-republican-joe-lombardo-to-become-states-first-black-governor). Nevada Independent: largest Democratic gubernatorial margin since 1994 (https://thenevadaindependent.com/article/inside-the-blue-tsunami-that-led-to-nevada-democrats-best-election-ever). Final vote shares NOT verified: the Wikipedia results box was still blank when fetched Nov 11; a search snippet of an earlier Wikipedia snapshot (~90% reporting) gave Ford 51.5%, Lombardo 44.2% (~+7.3), treat as provisional.",
+  "pres_2024": "Trump 50.59%, Harris 47.49% (Trump +3.1) (https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Nevada)",
+  "explanations": [
+   {
+    "claim": "Ford ran on affordability (student debt, crackdown on AI data centers incl. pausing tax abatements), attacked Lombardo's vetoes (corporate home-buying limits, free school meals) and painted him as a Trump loyalist; Democrats tied Lombardo to Trump tariffs blamed for a 17% drop in Canadian visitors in 2025.",
+    "kind": "fact",
+    "source": "https://www.fox5vegas.com/2026/11/04/democrat-aaron-ford-defeats-republican-incumbent-become-nevadas-first-black-governor/"
+   },
+   {
+    "claim": "Lombardo had the money edge: for every $1 Democrats spent on the governor's race, the GOP spent nearly $2.50 (Republicans +$32.6M in ads overall); Lombardo also outperformed other statewide Republicans in raw votes.",
+    "kind": "fact",
+    "source": "https://thenevadaindependent.com/article/one-night-different-vibes-election-day-brings-elation-for-ford-gloom-for-lombardo/"
+   },
+   {
+    "claim": "First midterm since at least 2014 in which Nevada Republicans turned out at a lower rate than Democrats; lower-propensity voters who voted were much more likely to be Democrats (Nevada Independent voter-file analysis).",
+    "kind": "fact",
+    "source": "https://thenevadaindependent.com/article/inside-the-blue-tsunami-that-led-to-nevada-democrats-best-election-ever"
+   },
+   {
+    "claim": "NYT analysis cited by the Nevada Independent: vs 2024, Black voters in Nevada moved ~5 pts left and Democrats gained ~25 pts of margin with Latino voters; early-vote turnout was higher than usual among Latino and AAPI voters.",
+    "kind": "fact",
+    "source": "https://thenevadaindependent.com/article/one-night-different-vibes-election-day-brings-elation-for-ford-gloom-for-lombardo/"
+   },
+   {
+    "claim": "Strategists of both parties called it an anti-Trump, anti-incumbent referendum ('It didn't matter if we were running against Aaron Ford or Aaron Burr'); Rep. Amodei: 'wrong place, wrong time'. They cite Trump approval, gas prices, the Iran war and the economy.",
+    "kind": "interpretation",
+    "source": "https://thenevadaindependent.com/article/inside-the-blue-tsunami-that-led-to-nevada-democrats-best-election-ever"
+   },
+   {
+    "claim": "Nonpartisans, the largest bloc of Nevada voters, 'overwhelmingly broke Democratic'; tepid GOP enthusiasm, especially among younger and male Republicans, was a key factor.",
+    "kind": "interpretation",
+    "source": "https://thenevadaindependent.com/article/inside-the-blue-tsunami-that-led-to-nevada-democrats-best-election-ever"
+   },
+   {
+    "claim": "Lombardo was endorsed by the Democratic Clark County DA and attacked Ford as soft on crime (clemency case); Ford got late visits from Newsom and Harris.",
+    "kind": "fact",
+    "source": "https://news3lv.com/news/local/nevada-democrat-aaron-ford-defeats-republican-joe-lombardo-to-become-states-first-black-governor"
+   }
+  ],
+  "late_polls_winner_ahead": [
+   {
+    "pollster": "Noble Predictive Insights (nonpartisan; 'poll of record')",
+    "dates": "Oct 26-28, 2026",
+    "result": "Tie, Ford 47, Lombardo 47 (487 LV)",
+    "url": "https://www.noblepredictiveinsights.com/post/nevada-poll-of-record-lombardo-ford-deadlocked-at-47"
+   },
+   {
+    "pollster": "Hart Research (D)",
+    "dates": "Oct 20-25, 2026",
+    "result": "Ford 49, Lombardo 45 (950 LV)",
+    "url": "https://hub.nationaljournal.com/wednesday-morning-quarterbacking"
+   },
+   {
+    "pollster": "RedBox Research (D)",
+    "dates": "Oct 20-23, 2026",
+    "result": "Ford 46, Lombardo 43 (1,407 LV)",
+    "url": "https://afightworthhaving.com/polling/2026/nevada"
+   },
+   {
+    "pollster": "Note: aggregates as of ~Oct 25-27",
+    "dates": "",
+    "result": "FiftyPlusOne Ford +0.7; DDHQ Lombardo +1.3; Silver Bulletin Lombardo +0.5 (per Wikipedia polling table)",
+    "url": "https://en.wikipedia.org/wiki/2026_Nevada_gubernatorial_election"
+   }
+  ],
+  "picked_winner": [
+   {
+    "who": "Sabato's Crystal Ball",
+    "what": "Lean D (flip), final rating Nov 2, 2026 (per Wikipedia predictions table; Crystal Ball page could not be fetched directly)",
+    "url": "https://en.wikipedia.org/wiki/2026_Nevada_gubernatorial_election"
+   },
+   {
+    "who": "Cook, Inside Elections, DDHQ, Fox News, NBC, RCP, Silver Bulletin",
+    "what": "All Toss-up as of Oct 29-Nov 2 (did not pick)",
+    "url": "https://en.wikipedia.org/wiki/2026_Nevada_gubernatorial_election"
+   }
+  ],
+  "summary": "Ford won the Nevada governorship comfortably (provisionally ~7 pts) even though polls showed a dead heat and Lombardo outspent him about 2.5 to 1 on ads. Post-election reporting credits a national anti-Trump wave, depressed Republican turnout (the first midterm since at least 2014 with lower GOP than Dem turnout), a ~25-pt swing back to Democrats among Latino voters, and nonpartisans breaking Democratic. Late polls were tied or showed Ford slightly ahead, mostly in Democratic internals, and Sabato called it Lean D."
+ },
+ "Texas": {
+  "chamber": "governors",
+  "result": "Gina Hinojosa (D) 5,232,679 (52.82%) def. Greg Abbott (R, inc.) 4,525,947 (45.68%), Pat Dixon (L) 1.50%; margin D +7.1. Abbott conceded election night. First Democratic Texas governor since 1995.",
+  "pres_2024": "Trump 56.14%, Harris 42.46% (Trump +13.7) (https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Texas)",
+  "explanations": [
+   {
+    "claim": "Final result Hinojosa 52.82, Abbott 45.68 (Wikipedia results box, unofficial).",
+    "kind": "fact",
+    "source": "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election"
+   },
+   {
+    "claim": "The polling miss was huge: the final average had Abbott up ~3.5 and Hinojosa won by ~7, a miss of nearly 11 pts. ABC13 calls it the largest Texas statewide poll miss it could find, and the first since 2018 to run against the Republican. Turnout was nearly 10M, ~18% above the 2018 midterm record and 22% above 2022.",
+    "kind": "fact",
+    "source": "https://abc13.com/post/polls-missed-texas-time-other/20017735/"
+   },
+   {
+    "claim": "ABC News Texas Voter Poll (via ABC13): the GOP party-ID edge among actual voters fell to ~4 pts from 17-19 in the last two elections. Trump-2024 voters were 48% of the electorate vs 41% Harris voters, so persuasion as well as turnout; about 1 in 9 Trump voters backed Talarico. Latino voters (1/4 of electorate) went 66-32 for Talarico after splitting evenly in 2024 (Senate-race figures; governor similar).",
+    "kind": "fact",
+    "source": "https://abc13.com/post/polls-missed-texas-time-other/20017735/"
+   },
+   {
+    "claim": "CNN exit poll for the governor race: Latinos 24% of voters, Hinojosa 65-33; independents 59-38; moderates 67-31; 18-29 77-21; Trump approval 40/59; 10% of Trump-2024 voters backed Hinojosa.",
+    "kind": "fact",
+    "source": "https://www.cnn.com/elections/2026/voter-polls/texas/general/governor/0"
+   },
+   {
+    "claim": "Commentator (Texas A&M's Flora Charner): a surge in young and first-time Latino turnout drove flips; Rio Grande Valley swung back to Democrats; economy/costs top issue, ICE enforcement (incl. fatal shootings in Houston and Austin) a secondary driver.",
+    "kind": "interpretation",
+    "source": "https://www.kbtx.com/2026/11/05/latino-voter-turnout-plays-pivotal-role-texas-midterm-election-flips/"
+   },
+   {
+    "claim": "Money favored Abbott heavily: Abbott raised $122.3M and spent $317.7M; Hinojosa raised $39.2M (Texas Ethics Commission via Wikipedia, as of Oct 24).",
+    "kind": "fact",
+    "source": "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election"
+   },
+   {
+    "claim": "Campaign issues: Hinojosa ran on public education (ending vouchers and STAAR, firing TEA Commissioner Morath over district takeovers) and affordability ($1,500 household rebate); Abbott ran on property-tax elimination and border, and declined four debate invitations, the first no-debate governor race since 2010.",
+    "kind": "fact",
+    "source": "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election"
+   },
+   {
+    "claim": "Late event: on the first day of early voting (Oct 19) Hinojosa sued to obtain Abbott-Elon Musk emails redacted as 'intimate and embarrassing'; a judge ruled for her Oct 26 and Abbott appealed. Musk had given $5M to Abbott.",
+    "kind": "fact",
+    "source": "https://www.kvue.com/article/news/politics/vote-texas/abbott-hinojosa-early-voting-elon-musk-texas-governors-race/269-a04db0e9-9897-41e5-b37d-85e77bbd4819"
+   },
+   {
+    "claim": "Trump blamed Abbott: 'If Greg Abbott... hadn't become a RINO in the last six months of his Political Life, he wouldn't have lost.'",
+    "kind": "interpretation",
+    "source": "https://www.fox4news.com/news/texas-governors-race-2026-hinojosa-defeats-abbott-become-states-first-democratic-governor-decades.amp"
+   },
+   {
+    "claim": "Dallas Morning News declined to endorse either candidate; Houston Chronicle, Express-News and Statesman endorsed Hinojosa.",
+    "kind": "fact",
+    "source": "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election"
+   }
+  ],
+  "late_polls_winner_ahead": [
+   {
+    "pollster": "AtlasIntel",
+    "dates": "Oct 28-Nov 1, 2026",
+    "result": "Hinojosa 49, Abbott 48 (1,678 LV)",
+    "url": "https://cdn1.atlasintel.org/2026_midterms__texas_110126_73e0a3a507f76a2e.pdf"
+   },
+   {
+    "pollster": "New York Times/Siena",
+    "dates": "Oct 27-Nov 1, 2026",
+    "result": "Hinojosa 48, Abbott 47 (1,215 LV)",
+    "url": "https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-tx-poll-toplines.html"
+   },
+   {
+    "pollster": "YouGov Blue (D) for 254 Labs",
+    "dates": "Oct 21-26, 2026",
+    "result": "Hinojosa 49, Abbott 46 (1,000 RV), a partisan RV poll that may be excluded from LV-based aggregates",
+    "url": "https://254labs.io/news/2026-10-tx"
+   },
+   {
+    "pollster": "Context: all other ~20 polls Oct 13-Nov 2 had Abbott +1 to +5; aggregates Abbott +1.5 to +2.5 (270toWin, DDHQ, 50+1, RCP, Silver Bulletin)",
+    "dates": "",
+    "result": "",
+    "url": "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election"
+   }
+  ],
+  "picked_winner": [
+   {
+    "who": "None found",
+    "what": "Every listed rater had Abbott favored or toss-up: Cook Lean R, Inside Tilt R, Sabato Lean R, DDHQ/Fox/NBC/Silver Bulletin Lean R, RCP Toss-up (as of Oct 29-Nov 2). Prediction markets had Abbott ~75% in the fall. No public pundit pick of Hinojosa found.",
+    "url": "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election"
+   },
+   {
+    "who": "Prediction markets (context)",
+    "what": "Polymarket ~75% / Kalshi ~76% Abbott",
+    "url": "https://www.covers.com/politics/texas-governor-odds-september-2026"
+   }
+  ],
+  "summary": "Hinojosa beat Abbott by ~7 pts in a Trump +14 state, against final polling averages of Abbott +2 to +3.5. ABC13 calls it the largest Texas poll miss on record, and Abbott outspent her several times over. The ABC/CNN voter surveys point to a record midterm turnout that was far less Republican than 2022, and to a large Latino swing back to Democrats (about 65-33) plus real persuasion of Trump-2024 voters, set against Trump's 59% disapproval. Only NYT/Siena and AtlasIntel (both +1) and a Democratic RV poll showed her ahead late, and no rater picked her."
+ },
+ "Vermont": {
+  "chamber": "governors",
+  "result": "Phil Scott (R, inc.) 52.6% (~163,153) def. Amanda Janoo (D/P) 45.6% (~141,572); margin R +7.0; record sixth term; narrowest margin of Scott's career.",
+  "pres_2024": "Harris 63.83%, Trump 32.32% (Harris +31.5) (https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Vermont)",
+  "explanations": [
+   {
+    "claim": "Scott 52.6%, Janoo 45.6% (AP), his narrowest win ever, while Democrats regained legislative supermajorities and ousted his LG pick Rodgers by ~25 pts.",
+    "kind": "fact",
+    "source": "https://vnews.com/2026/11/05/in-a-blue-tsunami-how-did-republican-gov-phil-scott-win-another-term/"
+   },
+   {
+    "claim": "Ticket-splitting: Janoo got ~141k votes, ~50k fewer than Democratic LG-elect Molly Gray and ~57k fewer than Rep. Becca Balint.",
+    "kind": "fact",
+    "source": "https://vnews.com/2026/11/05/in-a-blue-tsunami-how-did-republican-gov-phil-scott-win-another-term/"
+   },
+   {
+    "claim": "Vermonters see Scott as a 'category of one' rather than a Trump Republican (Sen. Pres. Baruth); his anti-Trump, moderate brand and long affordability messaging insulated him.",
+    "kind": "interpretation",
+    "source": "https://vnews.com/2026/11/05/in-a-blue-tsunami-how-did-republican-gov-phil-scott-win-another-term/"
+   },
+   {
+    "claim": "Janoo was a first-time candidate with no early name recognition; her unfunded proposals let Scott frame her platform as 'free this, free that' in the final WCAX debate (Middlebury's Dickinson thinks this may have clinched it).",
+    "kind": "interpretation",
+    "source": "https://vnews.com/2026/11/05/in-a-blue-tsunami-how-did-republican-gov-phil-scott-win-another-term/"
+   },
+   {
+    "claim": "Money: the RGA put $950k into a pro-Scott super PAC in the final weeks that ran negative ads on Janoo's readiness. Janoo outraised Scott ($1.07M vs $720k).",
+    "kind": "fact",
+    "source": "https://vnews.com/2026/11/05/in-a-blue-tsunami-how-did-republican-gov-phil-scott-win-another-term/"
+   },
+   {
+    "claim": "Why the model underrated Scott: the UNH Survey Center polls (Sep: Janoo +6; final Oct 27-31: Janoo 51-43) were outliers. It was the third straight election in which UNH underestimated Scott; UNH defends its other New England results.",
+    "kind": "fact",
+    "source": "https://wcax.com/2026/11/06/questions-linger-over-unh-polling-after-scotts-vermont-election-win/"
+   },
+   {
+    "claim": "Middlebury's Matt Dickinson: UNH's opt-in panel overestimated younger-voter turnout and underestimated 65+ turnout ('the assumptions they made about who would turn out to vote were incorrect').",
+    "kind": "interpretation",
+    "source": "https://wcax.com/2026/11/06/questions-linger-over-unh-polling-after-scotts-vermont-election-win/"
+   },
+   {
+    "claim": "Pre-election VTDigger review: since 2016, polls have put Scott's support ~14 pts below his final vote share on average, while opponents finished close to their poll numbers. Undecideds in fall polls have historically broken to Scott.",
+    "kind": "fact",
+    "source": "https://vtdigger.org/2026/10/11/political-polls-historically-underestimate-phil-scott-will-2026-be-different/"
+   }
+  ],
+  "late_polls_winner_ahead": [
+   {
+    "pollster": "State Navigate",
+    "dates": "Oct 23-25, 2026",
+    "result": "Scott 49, Janoo 46 with leaners (48-46 without), 1,752 LV",
+    "url": "https://articles.statenavigate.com/vt/final-vermont-governor-poll-has-phil-scott-holding-a-3-point-lead/"
+   },
+   {
+    "pollster": "Context: contrary poll",
+    "dates": "Oct 27-31, 2026",
+    "result": "UNH: Janoo 51, Scott 43 (1,172 LV), the final and most heavily weighted-looking poll, which was wrong",
+    "url": "https://scholars.unh.edu/survey_center_polls/1012/"
+   }
+  ],
+  "picked_winner": [
+   {
+    "who": "Cook, Inside Elections, DDHQ, Fox News, NBC News",
+    "what": "Likely R (Oct 29-Nov 2)",
+    "url": "https://en.wikipedia.org/wiki/2026_Vermont_gubernatorial_election"
+   },
+   {
+    "who": "Sabato's Crystal Ball",
+    "what": "Lean R (Nov 2)",
+    "url": "https://en.wikipedia.org/wiki/2026_Vermont_gubernatorial_election"
+   },
+   {
+    "who": "RCP, Silver Bulletin",
+    "what": "Toss-up (did not pick)",
+    "url": "https://en.wikipedia.org/wiki/2026_Vermont_gubernatorial_election"
+   }
+  ],
+  "summary": "Scott won by 7 in a Harris +31 state on massive ticket-splitting: Janoo ran ~50k votes behind the Democratic LG nominee. Reporting credits his personal non-Trump brand, Janoo's inexperience and unfunded agenda, and late RGA-funded attack ads. Our 27% likely came from leaning on UNH polls (Janoo +6 and +8). Those were outliers, and UNH has now underestimated Scott three cycles running, while every major rater had him Likely or Lean R."
+ },
+ "VA-1": {
+  "chamber": "house",
+  "result": "Shannon Taylor (D) 209,482 (51.16%) def. Rep. Rob Wittman (R, inc. since 2007) 199,014 (48.60%); margin D +2.6. AP called it Thursday Nov 5.",
+  "pres_2024": "Trump 51.8%, Harris 46.9% (Trump +4.9) per Cardinal News (https://cardinalnews.org/?p=150160, via search summary, not independently fetched); Wikipedia says Trump 'narrowly carried' it. Wittman won 2024 by ~13 pts (56.3%).",
+  "explanations": [
+   {
+    "claim": "Final count Taylor 51.16%, Wittman 48.60% (Wikipedia, unofficial).",
+    "kind": "fact",
+    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia"
+   },
+   {
+    "claim": "Spanberger carried VA-1 in the 2025 governor race (~51%), which drew a serious Democratic challenger; Taylor is a 14-year Henrico Commonwealth's Attorney with a suburban Richmond base.",
+    "kind": "fact",
+    "source": "https://richmondmagazine.com/news/field-notes/midterm-election-results-2026/"
+   },
+   {
+    "claim": "Spanberger won the district in 2025, carrying Chesterfield by 17 and Henrico by 38, outperforming Harris 2024 (Taylor campaign release, a partisan source).",
+    "kind": "interpretation",
+    "source": "https://shannontaylorva.com/abigail-spanberger-carries-va-01-underscoring-path-to-victory-for-prosecutor-shannon-taylor-to-unseat-congressman-rob-wittman/"
+   },
+   {
+    "claim": "Redistricting context: the April 2026 Democratic mid-decade map was voided by the Virginia Supreme Court on May 8, so the race ran on the 2021 map; Taylor won anyway.",
+    "kind": "fact",
+    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia"
+   },
+   {
+    "claim": "Money roughly even: Wittman $5.43M raised vs Taylor $4.60M (FEC as of Oct 14).",
+    "kind": "fact",
+    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia"
+   },
+   {
+    "claim": "National wave: NYT estimated a ~13-pt national Democratic margin, the largest since the post-Watergate 1970s.",
+    "kind": "fact",
+    "source": "https://richmondmagazine.com/news/field-notes/midterm-election-results-2026/"
+   },
+   {
+    "claim": "Taylor says cost of living and Washington corruption were voters' top complaints; she ran on repealing tariffs and ending the Iran war.",
+    "kind": "interpretation",
+    "source": "https://www.wtvr.com/news/local-news/shannon-taylor-whats-next-nov-4-2026"
+   }
+  ],
+  "late_polls_winner_ahead": [
+   {
+    "pollster": "DCCC Targeting Team (D)",
+    "dates": "Oct 24-25, 2026",
+    "result": "Taylor 48, Wittman 47 (478 LV), a partisan internal",
+    "url": "https://dccc.org/dccc-polling-memo-va-01-is-a-pure-toss-up-in-final-stretch/"
+   },
+   {
+    "pollster": "Public Policy Polling (D)",
+    "dates": "Oct 21-22, 2026",
+    "result": "Taylor 47, Wittman 46 (570 LV), a partisan poll released only via a reporter's X post, unlikely to be in aggregators",
+    "url": "https://x.com/cjwarnke/status/2113633843999605102"
+   },
+   {
+    "pollster": "Context: Washington Post/Schar (nonpartisan)",
+    "dates": "Sep 23-28, 2026 (outside window)",
+    "result": "Taylor 50, Wittman 46 (609 LV)",
+    "url": "https://www.washingtonpost.com/documents/c5cba6fd-7edb-4550-93c3-0580e8084bfb.pdf?itid=lk_inline_manual_2"
+   }
+  ],
+  "picked_winner": [
+   {
+    "who": "Sabato's Crystal Ball",
+    "what": "Lean D (flip), Nov 2, 2026 (per Wikipedia predictions table; not verified on Crystal Ball site, which blocked fetch)",
+    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia"
+   },
+   {
+    "who": "Cook (Toss-up, Oct 23), Inside (Tilt R, Oct 29), DDHQ (Lean R, Oct 1)",
+    "what": "Did not pick Taylor",
+    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia"
+   }
+  ],
+  "summary": "Taylor beat 10-term incumbent Wittman by ~2.6 pts in a Trump ~+5 district that Spanberger carried in 2025, on the old 2021 map, with the national wave (~D+13) doing most of the work. Every public poll in the final weeks (DCCC, PPP) was a Democratic internal showing Taylor up 1, and the only nonpartisan poll (WaPo/Schar, late Sept) had her +4. Sabato moved it to Lean D on Nov 2."
+ },
+ "KY-6": {
+  "chamber": "house",
+  "result": "Zach Dembo (D) 138,777 (52.65%) def. Ralph Alvarado (R) 114,030 (43.27%); Jay Bowman (I) 2.55%, Pete Lynch 1.46%. Margin D +9.4. Open seat (Andy Barr ran for Senate); first Democratic win since 2010.",
+  "pres_2024": "Trump +15 (https://spectrumnews1.com/ky/louisville/news/2026/11/04/kentucky-democrat-flip)",
+  "explanations": [
+   {
+    "claim": "Final unofficial count Dembo 52.65, Alvarado 43.27, with ~4% to independent/third-party candidates.",
+    "kind": "fact",
+    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky"
+   },
+   {
+    "claim": "Dembo flipped a district Trump carried by 15 in 2024; Kentucky midterm turnout was 42.6% vs 41.8% in 2022 (Ballotpedia via Spectrum).",
+    "kind": "fact",
+    "source": "https://spectrumnews1.com/ky/louisville/news/2026/11/04/kentucky-democrat-flip"
+   },
+   {
+    "claim": "Candidate quality: Dembo is a veteran, ex-Beshear administration official and prosecutor, endorsed by and campaigned with Gov. Beshear. Dembo's campaign tied Alvarado to his 2019 role as Matt Bevin's running mate; Trump endorsed Alvarado in the primary.",
+    "kind": "fact",
+    "source": "https://www.newsfromthestates.com/article/ky-dems-capitalize-trumps-bad-image-flip-us-house-seat-make-legislative-inroads"
+   },
+   {
+    "claim": "Democrats (Rep. Adam Moore, KDP chair Elridge) call Alvarado a candidate with 'way too much baggage' and 'uniquely bad'. Ex-GOP SoS Trey Grayson says Alvarado ran a good campaign and credits the national environment plus DCCC Red to Blue support.",
+    "kind": "interpretation",
+    "source": "https://www.newsfromthestates.com/article/ky-dems-capitalize-trumps-bad-image-flip-us-house-seat-make-legislative-inroads"
+   },
+   {
+    "claim": "Ex-RPK spokesman Tres Watson: Republicans lost center-right non-Trump voters in suburban districts, who were angry at the 'R' label; Lexington-area suburban/urban voters sent a 'clear message' about Trump while rural Kentucky stayed Republican.",
+    "kind": "interpretation",
+    "source": "https://www.newsfromthestates.com/article/ky-dems-capitalize-trumps-bad-image-flip-us-house-seat-make-legislative-inroads"
+   },
+   {
+    "claim": "Money: Dembo out-raised Alvarado $3.21M to $2.31M and had $620k vs $181k cash on hand (FEC as of Oct 14). Out-of-town PACs flooded the race with ads (Herald-Leader).",
+    "kind": "fact",
+    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky"
+   }
+  ],
+  "late_polls_winner_ahead": [
+   {
+    "pollster": "Public Policy Polling (D)",
+    "dates": "Oct 19-20, 2026",
+    "result": "Dembo 47, Alvarado 41 (572 LV), a partisan poll released only via a reporter's X post",
+    "url": "https://x.com/cjwarnke/status/2112877284684341727"
+   },
+   {
+    "pollster": "Context: earlier October Democratic polls, all showing Dembo +6 to +9",
+    "dates": "Sep 29-Oct 5, 2026",
+    "result": "DCCC Oct 2-5 Dembo 46-40; Change Research (pro-Dembo PAC) 47-38; Lake (HMP) 47-40",
+    "url": "https://dccc.org/dccc-polling-memo-zach-dembo-continues-to-lead-in-ky-06/"
+   },
+   {
+    "pollster": "Note",
+    "dates": "",
+    "result": "No nonpartisan or Republican general-election poll found; every public poll was a Democratic internal and all showed Dembo ahead",
+    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky"
+   }
+  ],
+  "picked_winner": [
+   {
+    "who": "None found",
+    "what": "Cook Toss-up (Oct 23), Inside Toss-up (Oct 29), DDHQ Toss-up (Nov 3), Sabato Lean R (Nov 2), so no rater picked Dembo",
+    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky"
+   }
+  ],
+  "summary": "Dembo won the open Trump +15 Lexington seat by ~9 pts, out-raising Alvarado. Reporting cites the national anti-Trump wave among suburban center-right voters, Dembo's profile and Beshear's backing, and Alvarado's Bevin and Trump ties. Every public poll (all Democratic internals, the last Oct 19-20) had Dembo up 6-9, while raters stayed at Toss-up or Lean R; our model probably discounted the partisan-only polling."
+ },
+ "TX-9": {
+  "chamber": "house",
+  "result": "Leticia Gutierrez (D) won; Alex Mealer (R) conceded on election night (Fox 26). Reported tally 98,079 (57.6%) to 72,340 (42.4%), about D+15.2, per the Wikipedia results box, which cites the NYT results page (https://www.nytimes.com/interactive/2026/11/03/us/elections/results-texas-us-house-9.html); NYT page not directly retrievable, so the tally is unverified.",
+  "pres_2024": "Trump +~20 under the new 2025 lines (TPR/UH Hobby: 'President Trump won by 20 points'; Wikipedia's DCCC poll citation also calls it 'Trump +20').",
+  "explanations": [
+   {
+    "claim": "New TX-9 was one of five Democratic-held districts redrawn in the 2025 mid-decade map; it kept only 3% of the old district's constituents and took in eastern Harris County plus all of Liberty County.",
+    "kind": "fact",
+    "source": "https://www.tpr.org/government-politics/2026-10-14/republican-alex-mealer-leads-leticia-gutierrez-as-her-campaign-scrubs-trump-from-website"
+   },
+   {
+    "claim": "Seat previously held by Democrat Al Green under the old lines; Green ran in TX-18 instead. Gutierrez was a first-time candidate and environmental-justice/community advocate.",
+    "kind": "fact",
+    "source": "https://www.fox26houston.com/news/alex-mealer-concedes-leticia-gutierrez-texas-9th-congressional-district-race"
+   },
+   {
+    "claim": "Rice/UH pollster Mark Jones called TX-9 the seat Republicans were 'second most sure' they would win of the five redrawn districts.",
+    "kind": "interpretation",
+    "source": "https://www.tpr.org/government-politics/2026-10-14/republican-alex-mealer-leads-leticia-gutierrez-as-her-campaign-scrubs-trump-from-website"
+   },
+   {
+    "claim": "UH Hobby poll (Oct 3-7) put Trump's favorability in the district at 46%, with Jones saying Trump was 'underwater by seven points' in a district he won by almost 20. Mealer's site had dropped mention of Trump's endorsement by September.",
+    "kind": "fact",
+    "source": "https://www.tpr.org/government-politics/2026-10-14/republican-alex-mealer-leads-leticia-gutierrez-as-her-campaign-scrubs-trump-from-website"
+   },
+   {
+    "claim": "In that UH poll, Gutierrez led among Latino, Black and 18-34 voters, and Harris County was roughly even; Liberty County (just under a fifth of turnout) went 65-28 for Mealer.",
+    "kind": "fact",
+    "source": "https://www.tpr.org/government-politics/2026-10-14/republican-alex-mealer-leads-leticia-gutierrez-as-her-campaign-scrubs-trump-from-website"
+   },
+   {
+    "claim": "Money: as of Sept 30 FEC reports, Mealer had raised $2.68M to Gutierrez's $152K. Gutierrez won despite being outraised about 17:1.",
+    "kind": "fact",
+    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   },
+   {
+    "claim": "AP: Latino voters swung sharply to Democrats in 2026. About one-third of Hispanic voters backed the House Republican, versus roughly 4 in 10 for Trump in 2024. Gutierrez is quoted on Latino voters wanting someone 'understanding of their issues.'",
+    "kind": "fact",
+    "source": "https://www.wftv.com/news/politics/latino-voters-swing/4QU6JFOTBU47TJZBFTOVHWY2QU/"
+   },
+   {
+    "claim": "Republicans conceded 3 of the 5 seats the new Texas map targeted by late election night (Texas Tribune). SAN, citing AP, says Democrats won 4 of 5 with the fifth uncalled.",
+    "kind": "fact",
+    "source": "https://www.texastribune.org/2026/11/04/texas-brandon-herrera-katy-padilla-stout-congress-district-23-elections-2026/"
+   },
+   {
+    "claim": "Political scientists Sam Wang and Thomas Brunell argue the maps assumed Trump's 2024 Latino gains would last, and that the Texas map 'appear[s] to have cost' Republicans seats (a 'dummymander').",
+    "kind": "interpretation",
+    "source": "https://san.com/cc/how-trumps-redistricting-push-backfired-on-republicans/"
+   },
+   {
+    "claim": "Found no TX-9-specific post-election reporting with precinct or turnout breakdowns.",
+    "kind": "fact",
+    "source": "https://www.fox26houston.com/news/alex-mealer-concedes-leticia-gutierrez-texas-9th-congressional-district-race"
+   }
+  ],
+  "late_polls_winner_ahead": [],
+  "late_polls_note": "No public late poll had Gutierrez ahead. The closest was a DCCC internal (Oct 20-22, 490 LV), Mealer 48, Gutierrez 47, reported via a Nicholas Wu tweet (https://x.com/nicholaswu12/status/2114105108955099603, cited on Wikipedia). UH Hobby (Oct 3-7, 677 LV) had Mealer 48-42: https://www.uh.edu/hobby/congress2026/",
+  "picked_winner": [],
+  "picked_winner_note": "No rater picked Gutierrez. Final ratings: Cook Likely R (Sep 25), Inside Elections Lean R (Oct 29), Sabato Likely R (Sep 22), Silver Bulletin Likely R (Oct 22), DDHQ Likely R, per https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+  "summary": "A Trump +20 seat drawn for Republicans fell to a first-time Democrat who was outraised roughly 17:1. Reporting points to the statewide Democratic wave, a sharp Latino swing (AP VoteCast), and Trump's sagging popularity in the district. That last factor already showed up in October polls: Mealer led by only 6, then by 1 in a DCCC internal. No district-specific post-mortem was found."
+ },
+ "TX-15": {
+  "chamber": "house",
+  "result": "Bobby Pulido (D) beat incumbent Monica De La Cruz (R). AP unofficial with ~89% counted: 116,945 (61.6%) to 72,761 (38.4%), D+23.2. AP called it at 11:37 p.m. ET. No final certified total found.",
+  "pres_2024": "Trump +18 under the redrawn (2025) lines.",
+  "explanations": [
+   {
+    "claim": "District was substantially redrawn for 2026; it now runs from a smaller part of the Rio Grande Valley north through the Coastal Bend into conservative rural counties east of San Antonio.",
+    "kind": "fact",
+    "source": "https://www.tpr.org/government-politics/2026-11-03/bobby-pulido-declares-victory-over-monica-de-la-cruz-in-south-texas-congressional-race"
+   },
+   {
+    "claim": "Pulido is a Grammy-winning Tejano star and first-time candidate who called himself a conservative Democrat. He stressed border security plus immigration reform, and campaigned by performing at quincea\u00f1eras after De La Cruz called him a 'quincea\u00f1era act.'",
+    "kind": "fact",
+    "source": "https://www.tpr.org/government-politics/2026-11-03/bobby-pulido-declares-victory-over-monica-de-la-cruz-in-south-texas-congressional-race"
+   },
+   {
+    "claim": "Express-News/El Pa\u00eds/Puente analysis: Pulido ran on personal popularity and against Trump rather than as a Democrat. With border crossings down, voters' focus moved from the border to gas and grocery prices. Mark Jones: 'If the economy was booming then Republicans would be doing much better in South Texas.'",
+    "kind": "interpretation",
+    "source": "https://web.archive.org/web/20261022054847/https://www.expressnews.com/politics/article/bobby-pulido-monica-de-la-cruz-poll-donald-trump-22483930.php"
+   },
+   {
+    "claim": "TSU/Express-News poll (Oct 13-16): Pulido led 57-40 among Latino likely voters, who were about 65% of the district's likely voters.",
+    "kind": "fact",
+    "source": "https://web.archive.org/web/20261022054847/https://www.expressnews.com/politics/article/bobby-pulido-monica-de-la-cruz-poll-donald-trump-22483930.php"
+   },
+   {
+    "claim": "AP VoteCast: about 7 in 10 Hispanic Texas voters backed Talarico for Senate, after the group split roughly evenly in 2024. Every Texas county voted more Democratic than in 2024, with bigger shifts in more Hispanic counties. Democrats won every House district touching the US-Mexico border for the first time since 2008.",
+    "kind": "fact",
+    "source": "https://www.wftv.com/news/politics/latino-voters-swing/4QU6JFOTBU47TJZBFTOVHWY2QU/"
+   },
+   {
+    "claim": "Border-county swings (LULAC figures): Hidalgo went from Trump 51% to a strong Democratic win; Cameron from Trump 52% to Hinojosa about 70%. LULAC estimates about 1.6M Latino ballots in Texas, roughly double the last midterm. These are advocacy-group numbers.",
+    "kind": "fact",
+    "source": "https://www.fox4news.com/news/2026-election-massive-latino-turnout-border-county-reversal-fuel-democratic-wins"
+   },
+   {
+    "claim": "Money roughly at parity: as of Sep 30, De La Cruz had raised $6.55M and Pulido $6.21M.",
+    "kind": "fact",
+    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   },
+   {
+    "claim": "Sam Wang (Princeton Gerrymandering Project): every majority-Hispanic Texas district Trump carried in 2024 elected a Democrat. He says the maps assumed Trump's 2024 Latino gains were lasting when they were not, possibly because of ICE actions.",
+    "kind": "interpretation",
+    "source": "https://san.com/cc/how-trumps-redistricting-push-backfired-on-republicans/"
+   }
+  ],
+  "late_polls_winner_ahead": [
+   {
+    "pollster": "Texas Southern University (Barbara Jordan Center) for San Antonio Express-News / El Pa\u00eds / Puente News Collaborative",
+    "dates": "Oct 13-16, 2026",
+    "result": "Pulido 51, De La Cruz 44 (LV, MoE \u00b13.8)",
+    "url": "https://web.archive.org/web/20261022054847/https://www.expressnews.com/politics/article/bobby-pulido-monica-de-la-cruz-poll-donald-trump-22483930.php"
+   }
+  ],
+  "late_polls_note": "Earlier polls also had Pulido ahead: Normington Petts for HMP (D), Sep 24-28, 54-41; TSU, Aug 18-22, 50-45 (https://www.fox7austin.com/news/south-texas-congressional-poll-gives-democrats-edge-three-key-districts).",
+  "picked_winner": [
+   {
+    "who": "Inside Elections",
+    "what": "Tilt D (flip), as of Oct 29, 2026",
+    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   },
+   {
+    "who": "Sabato's Crystal Ball",
+    "what": "Lean D (flip), as of Oct 27, 2026",
+    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   },
+   {
+    "who": "Silver Bulletin",
+    "what": "Lean D (flip), as of Oct 22, 2026",
+    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   }
+  ],
+  "picked_winner_note": "Cook and DDHQ stayed at Toss-up. Ratings are as listed on Wikipedia; we could not fetch the raters' own pages (Cloudflare blocks).",
+  "summary": "Every public poll from August onward, including an independent TSU poll fielded Oct 13-16, had Pulido ahead, and Inside, Sabato and Silver Bulletin all moved the seat toward Democrats in late October. Our 29% looks too low against that evidence. The 23-point margin fits the AP-documented Latino swing back to Democrats in South Texas, along with a celebrity candidate with cross-party appeal and fundraising parity."
+ },
+ "TX-23": {
+  "chamber": "house",
+  "result": "Katy Padilla Stout (D) beat Brandon Herrera (R): 52.13% to 43.97%, a 22,237-vote margin (AP via SA Current). AP called it at 12:05 a.m. Wednesday. The remaining ~3.9% went to others, including independent Ben Mendoza (derived; per-candidate figure not found).",
+  "pres_2024": "Trump +15. The district was largely untouched by the 2025 redistricting.",
+  "explanations": [
+   {
+    "claim": "Open seat after incumbent Republican Tony Gonzales left the race and resigned amid a sex scandal over an affair with a staffer who later died by suicide. Gonzales had been forced into a GOP runoff by Herrera. Sources disagree on timing: the Tribune says he resigned in March, TPR says April.",
+    "kind": "fact",
+    "source": "https://www.texastribune.org/2026/11/04/texas-brandon-herrera-katy-padilla-stout-congress-district-23-elections-2026/"
+   },
+   {
+    "claim": "Herrera is a YouTube gun personality ('AK Guy') with past derogatory remarks about women and Holocaust jokes. The SA Current also cites him filming himself firing at child-shaped targets near Robb Elementary in Uvalde, which is in the district.",
+    "kind": "fact",
+    "source": "https://www.sacurrent.com/news/texas-news/katy-padilla-stout-beats-youtube-edgelord-brandon-herrera-for-san-antonio-area-congressional-seat/"
+   },
+   {
+    "claim": "Herrera outraised Padilla Stout about four to one. No poll ever showed her ahead; one showed a tie.",
+    "kind": "fact",
+    "source": "https://www.texastribune.org/2026/11/04/texas-brandon-herrera-katy-padilla-stout-congress-district-23-elections-2026/"
+   },
+   {
+    "claim": "Sep 30 FEC: Herrera raised $3.11M, Padilla Stout $977K.",
+    "kind": "fact",
+    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   },
+   {
+    "claim": "An HMP poll (Normington Petts, Oct 5-7) found the race tied 46-46 in a district Trump won by 15.",
+    "kind": "fact",
+    "source": "https://www.thehousemajoritypac.com/news/hmp-memo-house-battleground-extends-deep-into-trump-territory"
+   },
+   {
+    "claim": "Padilla Stout credited moderate Republicans who crossed over because Herrera 'represented a political direction they could no longer support'.",
+    "kind": "interpretation",
+    "source": "https://www.tpr.org/government-politics/2026-11-04/democrat-katy-padilla-stout-claims-victory-over-brandon-herrera-in-texas-23rd-congressional-district"
+   },
+   {
+    "claim": "SMU's Cal Jillson: she was initially not a first-tier candidate, facing an opponent with name recognition.",
+    "kind": "interpretation",
+    "source": "https://www.sacurrent.com/news/texas-news/katy-padilla-stout-beats-youtube-edgelord-brandon-herrera-for-san-antonio-area-congressional-seat/"
+   },
+   {
+    "claim": "The Hart Research/TelevisaUnivision Latino battleground survey (Aug 6-17) found Latino voters in TX-23, TX-28 and TX-35 at 56-36 Democratic on the 2026 House ballot, after a self-reported 44-44 Trump/Harris split in 2024.",
+    "kind": "fact",
+    "source": "https://www.newsweek.com/texas-latinos-turn-against-republican-party-12418943"
+   },
+   {
+    "claim": "AP: Democrats won every House district touching the US-Mexico border for the first time since 2008.",
+    "kind": "fact",
+    "source": "https://www.wftv.com/news/politics/latino-voters-swing/4QU6JFOTBU47TJZBFTOVHWY2QU/"
+   }
+  ],
+  "late_polls_winner_ahead": [
+   {
+    "pollster": "Normington Petts for House Majority PAC (D)",
+    "dates": "Oct 5-7, 2026 (released Oct 21 HMP memo)",
+    "result": "Herrera 46, Padilla Stout 46 (tie; 400 LV)",
+    "url": "https://www.thehousemajoritypac.com/news/hmp-memo-house-battleground-extends-deep-into-trump-territory"
+   }
+  ],
+  "late_polls_note": "Fielded before Oct 13 but published Oct 21, inside the final three weeks. It is a partisan-sponsored poll that a typical aggregator may down-weight or omit. No independent late poll found.",
+  "picked_winner": [],
+  "picked_winner_note": "Nobody picked Padilla Stout outright. Silver Bulletin rated it Toss-up (Oct 22); Cook, Sabato and DDHQ had Lean R; Inside Elections Likely R (stale, Mar 12), per https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+  "summary": "A Trump +15 seat flipped mainly on candidate quality: Republicans nominated a polarizing YouTuber after the incumbent's scandal-driven exit, and the Democrat credits moderate Republicans who crossed over. The national wave and the Latino swing along the border added to it. The only late signal was a Democratic-sponsored tie poll released Oct 21; she won by 8 despite being outraised 4:1."
+ },
+ "TX-35": {
+  "chamber": "house",
+  "result": "Johnny Garcia (D) beat Carlos De La Cruz (R), 57.2% to 42.8% (AP via News 4 San Antonio), about D+14.4. De La Cruz called Garcia to concede.",
+  "pres_2024": "Trump +10 under the new 2025 lines (AP: 'Trump won by 10 percentage points'; HMP memo: Trump +10.6).",
+  "explanations": [
+   {
+    "claim": "New TX-35 was redrawn in 2025 to favor Republicans. It no longer includes Austin and covers south, east and northeast Bexar County plus Guadalupe, Karnes and Wilson counties. Incumbent Greg Casar moved to TX-37, so the seat was open.",
+    "kind": "fact",
+    "source": "https://www.ksat.com/news/local/2026/10/21/political-newcomers-de-la-cruz-and-garcia-battle-for-redrawn-texas-35th-congressional-district/"
+   },
+   {
+    "claim": "Both candidates were political newcomers: Garcia, a 20-plus-year Bexar County sheriff's deputy, and De La Cruz, an Air Force veteran and businessman and brother of Rep. Monica De La Cruz. Trump endorsed De La Cruz and rallied for him in San Antonio in October.",
+    "kind": "fact",
+    "source": "https://www.ksat.com/news/local/2026/11/04/what-happened-in-the-nov-3-2026-historic-midterm-election-in-texas/"
+   },
+   {
+    "claim": "Money at parity: as of Sep 30, Garcia had raised $1.92M and De La Cruz $1.89M.",
+    "kind": "fact",
+    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   },
+   {
+    "claim": "Garcia: 'The only way we did that is by going after the issues that were meaning the most to people.' AP places the race within a broad Latino swing to Democrats.",
+    "kind": "fact",
+    "source": "https://www.wftv.com/news/politics/latino-voters-swing/4QU6JFOTBU47TJZBFTOVHWY2QU/"
+   },
+   {
+    "claim": "Sam Wang: every majority-Hispanic Texas district Trump carried elected a Democrat; the maps assumed lasting 2024 Latino gains. Brunell: the Texas map appears to have cost Republicans seats.",
+    "kind": "interpretation",
+    "source": "https://san.com/cc/how-trumps-redistricting-push-backfired-on-republicans/"
+   },
+   {
+    "claim": "The Hart/TelevisaUnivision Aug survey of Latino voters in TX-23/28/35 found 56-36 Democratic on the House ballot vs a 44-44 Trump/Harris split in 2024.",
+    "kind": "fact",
+    "source": "https://www.newsweek.com/texas-latinos-turn-against-republican-party-12418943"
+   }
+  ],
+  "late_polls_winner_ahead": [
+   {
+    "pollster": "Normington Petts for House Majority PAC (D)",
+    "dates": "Oct 12-14, 2026 (released Oct 21)",
+    "result": "Garcia 47, De La Cruz 45 (400 LV)",
+    "url": "https://www.thehousemajoritypac.com/news/hmp-memo-house-battleground-extends-deep-into-trump-territory"
+   },
+   {
+    "pollster": "Emerson College for Poll Vault",
+    "dates": "Oct 12-14, 2026",
+    "result": "Garcia 51, De La Cruz 49 (417 LV)",
+    "url": "https://pollvault.substack.com/p/levee-math"
+   }
+  ],
+  "late_polls_note": "The Emerson/Poll Vault numbers come from Wikipedia's polling table. The Poll Vault post is paywalled and we could not confirm the figures from it. The Washington Post/Schar poll (Oct 14-19, 606 LV, MoE \u00b16.2) had De La Cruz 48-47 (https://www.washingtonpost.com/politics/2026/10/23/two-texas-districts-gop-had-counted-now-feature-tight-house-races/, via Wikipedia; not fetched).",
+  "picked_winner": [
+   {
+    "who": "Sabato's Crystal Ball",
+    "what": "Lean D, final ratings Nov 2, 2026",
+    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   }
+  ],
+  "picked_winner_note": "Cook, Inside Elections, DDHQ and Silver Bulletin had Toss-up.",
+  "summary": "This was a genuine toss-up: three late polls had it within 2 points, two of them with Garcia narrowly ahead, and Sabato moved it to Lean D on Nov 2. Garcia's 14-point win in a Trump +10 seat fits the broader collapse of Republicans' 2024 Latino gains, the seat being open, and Trump's weak standing on cost of living."
+ },
+ "FL-9": {
+  "chamber": "house",
+  "result": "Incumbent Darren Soto (D) led Dan Green (R) by 1,506 votes (0.53%) in the unofficial returns submitted Nov 7. That is just outside Florida's 0.5% automatic-recount threshold, so no automatic recount. As of WUSF's Nov 8 report, AP had not called the race; Soto declared victory on election night. Election-night returns showed 50.26-49.74. SAN (Nov 4) counts it as a Democratic hold. We found no AP call as of Nov 11.",
+  "pres_2024": "Trump +17.8 under the new 2026 Florida lines (AP calculation via WUSF). Florida Politics: more than 58% of voters backed Trump. Cook PVI moved from D+4 (old) to R+8 (new).",
+  "explanations": [
+   {
+    "claim": "Florida's spring 2026 mid-decade map roughly tripled the district's area, adding coastal, rural and Republican areas (Glades, Okeechobee, Highlands, Indian River). It cut the Hispanic share from 55% to 40%.",
+    "kind": "fact",
+    "source": "https://www.wusf.org/politics-issues/2026-11-08/rep-soto-elijah-all-but-guaranteed-as-winners-with-final-ballots-tallied"
+   },
+   {
+    "claim": "Florida GOP map shifted 4 Democratic seats rightward. Democrats held all four targeted seats (CD 9 still uncalled at the time).",
+    "kind": "fact",
+    "source": "https://www.wgcu.org/elections/2026-11-04/democrats-hold-ground-in-redrawn-u-s-house-seats-but-gop-avoids-washout"
+   },
+   {
+    "claim": "Turnout was very high: Osceola had its highest midterm turnout since 1994, Orange about 58% (second-highest since 1994), statewide just under 61%.",
+    "kind": "fact",
+    "source": "https://www.wusf.org/politics-issues/2026-11-08/rep-soto-elijah-all-but-guaranteed-as-winners-with-final-ballots-tallied"
+   },
+   {
+    "claim": "Soto credited aggressive campaigning in the new territory and voter backlash against the redistricting: 'these districts aren't decided in Tallahassee.'",
+    "kind": "interpretation",
+    "source": "https://www.wusf.org/politics-issues/2026-11-08/rep-soto-elijah-all-but-guaranteed-as-winners-with-final-ballots-tallied"
+   },
+   {
+    "claim": "Soto's internal SEA poll (Oct 10-15) showed him running ahead of the Democratic statewide ticket. Donalds led Jolly 51-39 and Moody led Nixon 53-38 in the district while Soto tied Green 44-44. 38% had not heard of Green.",
+    "kind": "fact",
+    "source": "https://floridapolitics.com/archives/825682-darren-sotos-internal-polls-show-him-tied-with-dan-green-in-critical-cd-9-contest/"
+   },
+   {
+    "claim": "Soto outraised Green: $3.65M vs $2.69M as of Oct 14 FEC reports.",
+    "kind": "fact",
+    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+   },
+   {
+    "claim": "Cook moved CD 9 from Likely R to Lean R four days before the election.",
+    "kind": "fact",
+    "source": "https://www.wusf.org/politics-issues/2026-11-08/rep-soto-elijah-all-but-guaranteed-as-winners-with-final-ballots-tallied"
+   },
+   {
+    "claim": "Hart/TelevisaUnivision found Latino voters in two Florida swing districts moved from a 1-point Trump edge (2024 self-report) to a 13-point Democratic lead on the 2026 House ballot. The districts are not named.",
+    "kind": "fact",
+    "source": "https://www.newsweek.com/texas-latinos-turn-against-republican-party-12418943"
+   }
+  ],
+  "late_polls_winner_ahead": [
+   {
+    "pollster": "SEA Polling (D, Soto campaign internal)",
+    "dates": "Oct 10-15, 2026 (released Oct 19)",
+    "result": "Soto 44, Green 44 (tie; LV, MoE \u00b14.9)",
+    "url": "https://floridapolitics.com/archives/825682-darren-sotos-internal-polls-show-him-tied-with-dan-green-in-critical-cd-9-contest/"
+   }
+  ],
+  "late_polls_note": "A campaign internal that a typical aggregator would likely omit or down-weight. No independent public poll found.",
+  "picked_winner": [],
+  "picked_winner_note": "No rater picked Soto. Final: Cook Lean R (Nov 2), Sabato Lean R, Inside Likely R, The Economist Lean R, DDHQ Toss-up (Nov 2), per https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+  "summary": "A near coin-flip (about 0.5%) in a Trump +17.8 seat redrawn against the incumbent. Soto ran well ahead of a losing statewide Democratic ticket, apparently on incumbency, outspending Green, and a high-turnout backlash year. His tied internal poll was the only late signal. As of the latest report found, AP had not called the race."
+ },
+ "FL-22": {
+  "chamber": "house",
+  "result": "Pia Dandiya (D) beat Casey Askar (R) in an open seat. AP called it at 9:11 p.m. ET. CBS12 reported Dandiya at 56.5% with 96% of precincts reporting, citing the Palm Beach County SOE site. That figure may reflect only the Palm Beach portion; no district-wide final tally found.",
+  "pres_2024": "Trump 55-44 (+11) under the new 2026 lines; Biden carried it 51-48 in 2020 (CBS12).",
+  "explanations": [
+   {
+    "claim": "Redrawn under Florida's 2026 map from a Palm Beach-centered Democratic seat (Lois Frankel, who moved to FL-23) into a cross-state district: inland Palm Beach, part of Broward, all of Hendry, and southern Collier including Marco Island.",
+    "kind": "fact",
+    "source": "https://cbs12.com/news/local/pia-dandiya-defeats-casey-askar-dandiya-open-us-house-seat-in-floridas-redrawn-district-22-palm-beach-broward-hendry-collier-counties-us-house"
+   },
+   {
+    "claim": "It was one of four Democratic-held Florida districts redrawn to help Republicans flip seats; Democrats held all four.",
+    "kind": "fact",
+    "source": "https://www.wgcu.org/elections/2026-11-04/democrats-hold-ground-in-redrawn-u-s-house-seats-but-gop-avoids-washout"
+   },
+   {
+    "claim": "Both nominees were first-time general-election candidates. Dandiya is a Palm Beach native, former teacher and principal, White House Fellow and Apple employee. She ran on affordability, restoring ACA subsidies, ending tariffs and ethics. Askar, a Naples businessman and Marine veteran, ran on repealing and replacing the ACA.",
+    "kind": "fact",
+    "source": "https://cbs12.com/news/local/pia-dandiya-defeats-casey-askar-dandiya-open-us-house-seat-in-floridas-redrawn-district-22-palm-beach-broward-hendry-collier-counties-us-house"
+   },
+   {
+    "claim": "Askar outraised Dandiya: $7.42M vs $4.62M as of Oct 14 FEC reports.",
+    "kind": "fact",
+    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+   },
+   {
+    "claim": "WGCU: Democrats in targeted Florida seats 'were able to seize on voter disenchantment with Trump amid high gas and grocery prices.'",
+    "kind": "interpretation",
+    "source": "https://www.wgcu.org/elections/2026-11-04/democrats-hold-ground-in-redrawn-u-s-house-seats-but-gop-avoids-washout"
+   },
+   {
+    "claim": "DCCC chair DelBene (partisan): 'Pia focused on... the affordability crisis... after Republicans changed the rules in the middle of the game, Pia only fought harder.'",
+    "kind": "interpretation",
+    "source": "https://www.wlrn.org/government-politics/2026-11-03/elections-congressional-dandiya-frankel-gimenez-mast-south-florida"
+   },
+   {
+    "claim": "High Florida turnout: statewide just shy of 61%, the highest since 1994 apart from 2018.",
+    "kind": "fact",
+    "source": "https://www.wusf.org/politics-issues/2026-11-08/rep-soto-elijah-all-but-guaranteed-as-winners-with-final-ballots-tallied"
+   }
+  ],
+  "late_polls_winner_ahead": [],
+  "late_polls_note": "No verifiable poll fielded Oct 13-Nov 3 was found. Search snippets mention a poll by the progressive PAC 'A Fight Worth Having' (550 LV, \u00b15.1) showing a dead heat with Dandiya up about 0.8 (Floridian Press, https://floridianpress.com/?p=100244). We could not fetch the page to confirm the dates or numbers. Earlier polls: Tulchin for HMP (D), Aug 24-31, Dandiya 46-44 (https://www.thehousemajoritypac.com/news/hmp-poll-pia-dandiya-leads-casey-askar-in-fl-22); Tavern Research, Aug 10-12, 50-50.",
+  "picked_winner": [
+   {
+    "who": "Sabato's Crystal Ball",
+    "what": "Lean D, final ratings Nov 2, 2026",
+    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+   }
+  ],
+  "picked_winner_note": "Cook, Inside Elections, DDHQ and The Economist had Toss-up (late Oct). Kalshi markets reportedly favored Dandiya at about 55-65% (https://kalshi.com/markets/kxhouserace/e/kxhouserace-fl22-26), but the snapshot dates are unclear and unverified.",
+  "summary": "An open Trump +11 seat redrawn for Republicans, but one Biden carried in 2020, went to the Democratic newcomer despite her being outraised. Reporting cites affordability and disenchantment with Trump in a high-turnout year. Sabato's final Lean D call was right. We found no confirmed late poll."
+ },
+ "NC-6": {
+  "chamber": "house",
+  "result": "Cyril Jefferson (D) defeated Rep. Addison McDowell (R) by about 2.3 points (more than 6,000 votes), roughly 51-49. The AP called it by Nov 5. Unofficial until the state canvass on Nov 13.",
+  "pres_2024": "Trump +19.6 (59.0-39.4) on the 2026 lines (PollCheck precinct calculation). Cook PVI R+9.",
+  "explanations": [
+   {
+    "claim": "McDowell won the seat by 39 points in 2024 (69.2% against a Constitution Party candidate, with no Democrat on the ballot). It was the least competitive of the flipped seats in 2024.",
+    "kind": "fact",
+    "source": "https://www.wunc.org/politics/2026-11-04/in-nc-democrats-flip-several-u-s-house-seats-once-considered-safely-republican"
+   },
+   {
+    "claim": "Fundraising through Oct 14 (FEC): McDowell raised $1.5m, Jefferson $232k. Jefferson had $8k cash on hand.",
+    "kind": "fact",
+    "source": "https://www.pollcheck.co.uk/us/house/nc-6/"
+   },
+   {
+    "claim": "Jefferson was the sitting mayor of High Point, a former music teacher and band director.",
+    "kind": "fact",
+    "source": "https://www.whqr.org/2025-08-06/high-point-mayor-cyril-jefferson-announces-bid-for-congress"
+   },
+   {
+    "claim": "District demographics: 18.8% Black (US 11.9%), 30.2% with a bachelor's degree (ACS).",
+    "kind": "fact",
+    "source": "https://www.pollcheck.co.uk/us/house/nc-6/"
+   },
+   {
+    "claim": "Statewide context: Roy Cooper (D) won the open NC Senate seat by nearly 20 points; Democrats went from 4 of 14 NC House seats to 9 AP-called seats by Nov 5, with NC-3 and NC-5 still uncalled.",
+    "kind": "fact",
+    "source": "https://www.wunc.org/2026-11-05/how-north-carolina-democrats-flipped-several-house-seats-in-historically-gop-districts"
+   },
+   {
+    "claim": "Statewide context: early-vote turnout was a record 2.82M (35.7% of registered voters, vs 29.0% in 2022). Registered Republicans fell from 31% to 26% of early ballots; Black early ballots rose about 1.5x, to nearly 600,000; ballots from voters aged 18 to 25 nearly doubled.",
+    "kind": "fact",
+    "source": "https://www.wbtv.com/2026/11/01/record-28m-early-ballots-cast-north-carolina-driven-by-unaffiliated-voters-steady-democrats/"
+   },
+   {
+    "claim": "Statewide context: a Southern Coalition for Social Justice analysis put Black early turnout at about 584,000, up 52% from 2022 (fetch blocked by Cloudflare; figure taken from the search snippet of the States Newsroom report).",
+    "kind": "fact",
+    "source": "https://www.newsfromthestates.com/node/436239"
+   },
+   {
+    "claim": "Statewide context: the Senate Leadership Fund paused its NC Senate ad spending and cancelled its reservations in early October 2026.",
+    "kind": "fact",
+    "source": "https://keyt.com/politics/cnn-us-politics/2026/10/02/top-senate-gop-group-puts-pause-on-spending-in-north-carolina/"
+   },
+   {
+    "claim": "Rep. Brian Jack (R-GA), running to succeed Hudson as NRCC chair, wrote that Senate Republicans' withdrawal from NC 'created a cascade that likely swept away many of our colleagues from that state'.",
+    "kind": "interpretation",
+    "source": "https://www.wunc.org/2026-11-05/how-north-carolina-democrats-flipped-several-house-seats-in-historically-gop-districts"
+   },
+   {
+    "claim": "Redistricting: the October 2025 mid-decade redraw changed only NC-1 and NC-3. These four districts are essentially the 2023 lines (PollCheck: under 2% of area differs).",
+    "kind": "fact",
+    "source": "https://abc13.com/post/north-carolina-house-new-congressional-map-republlcians-gain-additional-seat/18055836/"
+   },
+   {
+    "claim": "No race-specific post-election analysis of NC-6 was found. Searches of WFDD, the High Point Enterprise and the Rhino Times returned nothing.",
+    "kind": "fact",
+    "source": "https://www.wunc.org/politics/2026-11-04/in-nc-democrats-flip-several-u-s-house-seats-once-considered-safely-republican"
+   },
+   {
+    "claim": "Final pre-election ratings (Wikipedia ratings table, Nov 2 snapshot) show no forecaster rating this seat Tilt D or Toss-up. See per-race summary.",
+    "kind": "fact",
+    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_ratings"
+   }
+  ],
+  "late_polls_winner_ahead": [],
+  "picked_winner": [],
+  "summary": "A massive overperformance in a seat Trump carried by about 20 points, by an underfunded mayor (about $232k raised) against a freshman incumbent who had no Democratic opponent in 2024. No race-specific post-mortem was found. The available explanation is the statewide wave: Cooper won by nearly 20, record early turnout skewed to Democrats and unaffiliated voters, and Black early turnout was up sharply. No district poll found; every forecaster in the Wikipedia table had it Likely R to Safe R (Split Ticket and DDHQ Likely R)."
+ },
+ "NC-9": {
+  "chamber": "house",
+  "result": "Richard Ojeda (D) defeated Rep. Richard Hudson (R, NRCC chair), 138,707 to 132,692 (about 51.1-48.9, a margin of 6,015) with all 169 precincts counted. Hudson conceded Nov 4, and the AP had called it by Nov 5. Unofficial until the canvass on Nov 13.",
+  "pres_2024": "Sources disagree: Trump +15 (Washington Examiner), about +16 (ABC11 summary), and +11.3 (55.0-43.7) by PollCheck's precinct calculation on the 2026 lines. Hudson won by 18.6 in 2024.",
+  "explanations": [
+   {
+    "claim": "Hudson chaired the NRCC and was the first NRCC chair reported to lose his own seat.",
+    "kind": "fact",
+    "source": "https://broadbandbreakfast.com/gop-loses-house-communications-panel-chairman-richard-hudson-in-shocking-defeat/"
+   },
+   {
+    "claim": "Hudson started TV advertising only in the final days, putting $200k into his first TV ad the week before the election.",
+    "kind": "fact",
+    "source": "https://www.washingtonexaminer.com/?p=4790896"
+   },
+   {
+    "claim": "Democrats added NC-9 to the DCCC's 'Districts in Play' list in August 2026. An Ojeda internal poll (Lake Research, early September) had him trailing by 4. Democratic spending surged for Ojeda in the final days.",
+    "kind": "fact",
+    "source": "https://www.washingtonexaminer.com/?p=4790896"
+   },
+   {
+    "claim": "Fundraising through Oct 14 (FEC): Hudson raised $4.2m, Ojeda $2.9m.",
+    "kind": "fact",
+    "source": "https://www.pollcheck.co.uk/us/house/nc-9/"
+   },
+   {
+    "claim": "Ojeda's ads attacked Hudson as the 'biggest recipient of big pharmaceutical dollars'. Ojeda said voters 'looked at the guy running the entire Republican money machine, and they fired him.'",
+    "kind": "interpretation",
+    "source": "https://www.washingtonexaminer.com/?p=4790896"
+   },
+   {
+    "claim": "Military-heavy district (Fort Bragg): voters interviewed cited pocketbook issues, the war in Iran, and high gas and diesel prices. A retired veteran said Hudson campaigned less than usual because he was helping other Republicans.",
+    "kind": "interpretation",
+    "source": "https://abc11.com/post/richard-ojeda-leads-hudson-north-carolinas-9th-congressional-district-race/20016121/"
+   },
+   {
+    "claim": "The Washington Examiner wrote that Ojeda and other Democrats 'appeared to benefit from the strong showing' of Roy Cooper at the top of the ticket.",
+    "kind": "interpretation",
+    "source": "https://www.washingtonexaminer.com/?p=4790896"
+   },
+   {
+    "claim": "Statewide context: Roy Cooper (D) won the open NC Senate seat by nearly 20 points; Democrats went from 4 of 14 NC House seats to 9 AP-called seats by Nov 5, with NC-3 and NC-5 still uncalled.",
+    "kind": "fact",
+    "source": "https://www.wunc.org/2026-11-05/how-north-carolina-democrats-flipped-several-house-seats-in-historically-gop-districts"
+   },
+   {
+    "claim": "Statewide context: early-vote turnout was a record 2.82M (35.7% of registered voters, vs 29.0% in 2022). Registered Republicans fell from 31% to 26% of early ballots; Black early ballots rose about 1.5x, to nearly 600,000; ballots from voters aged 18 to 25 nearly doubled.",
+    "kind": "fact",
+    "source": "https://www.wbtv.com/2026/11/01/record-28m-early-ballots-cast-north-carolina-driven-by-unaffiliated-voters-steady-democrats/"
+   },
+   {
+    "claim": "Statewide context: a Southern Coalition for Social Justice analysis put Black early turnout at about 584,000, up 52% from 2022 (fetch blocked by Cloudflare; figure taken from the search snippet of the States Newsroom report).",
+    "kind": "fact",
+    "source": "https://www.newsfromthestates.com/node/436239"
+   },
+   {
+    "claim": "Statewide context: the Senate Leadership Fund paused its NC Senate ad spending and cancelled its reservations in early October 2026.",
+    "kind": "fact",
+    "source": "https://keyt.com/politics/cnn-us-politics/2026/10/02/top-senate-gop-group-puts-pause-on-spending-in-north-carolina/"
+   },
+   {
+    "claim": "Rep. Brian Jack (R-GA), running to succeed Hudson as NRCC chair, wrote that Senate Republicans' withdrawal from NC 'created a cascade that likely swept away many of our colleagues from that state'.",
+    "kind": "interpretation",
+    "source": "https://www.wunc.org/2026-11-05/how-north-carolina-democrats-flipped-several-house-seats-in-historically-gop-districts"
+   },
+   {
+    "claim": "Redistricting: the October 2025 mid-decade redraw changed only NC-1 and NC-3. These four districts are essentially the 2023 lines (PollCheck: under 2% of area differs).",
+    "kind": "fact",
+    "source": "https://abc13.com/post/north-carolina-house-new-congressional-map-republlcians-gain-additional-seat/18055836/"
+   },
+   {
+    "claim": "The only late public poll found was Public Policy Polling (Oct 20, 2026): Hudson 46, Ojeda 42 (via the uspollingdata.com search snippet; the page itself did not load). This poll shows the loser ahead, so it is not a winner-ahead poll.",
+    "kind": "fact",
+    "source": "https://uspollingdata.com/races/house/nc-09/"
+   },
+   {
+    "claim": "Final pre-election ratings (Wikipedia ratings table, Nov 2 snapshot) show no forecaster rating this seat Tilt D or Toss-up. See per-race summary.",
+    "kind": "fact",
+    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_ratings"
+   }
+  ],
+  "late_polls_winner_ahead": [],
+  "picked_winner": [],
+  "summary": "The NRCC chair lost a seat Trump carried by roughly 11 to 16 points (estimates vary). Hudson started TV ads late and spent the cycle running the national committee. Ojeda was a well-funded challenger ($2.9m), Democratic money surged late, and the statewide Cooper wave and turnout surge did the rest. The only late public poll found (PPP, Oct 20) had Hudson +4. The Washington Examiner says Ojeda trailed in every poll. No forecaster picked him; the most aggressive rating was RCP Lean R."
+ },
+ "NC-13": {
+  "chamber": "house",
+  "result": "Paul Barringer (D) defeated Rep. Brad Knott (R), about 51-48, leading by more than 7,600 votes with 99% counted. The AP called it Thursday, Nov 5 (DDHQ projected it earlier). Unofficial until the canvass on Nov 13.",
+  "pres_2024": "Trump +14.3 (56.4-42.1) on the 2026 lines (PollCheck). Knott won by 17.3 in 2024.",
+  "explanations": [
+   {
+    "claim": "Fundraising through Oct 14 (FEC): Knott raised $1.7m ($619k cash), Barringer $1.2m ($410k cash). This was the most financially competitive of the four NC flips.",
+    "kind": "fact",
+    "source": "https://www.pollcheck.co.uk/us/house/nc-13/"
+   },
+   {
+    "claim": "NC Newsline (Oct 28) reported Democrats saw an opening. Barringer pitched himself as a moderate who could win a gerrymandered seat, and early voters interviewed said they knew little about Knott but planned to vote Republican down-ballot (Cloudflare blocked the fetch; taken from the search snippet).",
+    "kind": "interpretation",
+    "source": "https://ncnewsline.com/?p=195692"
+   },
+   {
+    "claim": "Axios Raleigh ran a post-mortem titled 'How Paul Barringer won an upset election in the Triangle suburbs'. Its body could not be fetched, so its explanation is not captured here.",
+    "kind": "fact",
+    "source": "https://www.axios.com/local/raleigh/2026/11/05/nc-congress-election-barringer-brad-knott"
+   },
+   {
+    "claim": "Statewide context: Roy Cooper (D) won the open NC Senate seat by nearly 20 points; Democrats went from 4 of 14 NC House seats to 9 AP-called seats by Nov 5, with NC-3 and NC-5 still uncalled.",
+    "kind": "fact",
+    "source": "https://www.wunc.org/2026-11-05/how-north-carolina-democrats-flipped-several-house-seats-in-historically-gop-districts"
+   },
+   {
+    "claim": "Statewide context: early-vote turnout was a record 2.82M (35.7% of registered voters, vs 29.0% in 2022). Registered Republicans fell from 31% to 26% of early ballots; Black early ballots rose about 1.5x, to nearly 600,000; ballots from voters aged 18 to 25 nearly doubled.",
+    "kind": "fact",
+    "source": "https://www.wbtv.com/2026/11/01/record-28m-early-ballots-cast-north-carolina-driven-by-unaffiliated-voters-steady-democrats/"
+   },
+   {
+    "claim": "Statewide context: a Southern Coalition for Social Justice analysis put Black early turnout at about 584,000, up 52% from 2022 (fetch blocked by Cloudflare; figure taken from the search snippet of the States Newsroom report).",
+    "kind": "fact",
+    "source": "https://www.newsfromthestates.com/node/436239"
+   },
+   {
+    "claim": "Statewide context: the Senate Leadership Fund paused its NC Senate ad spending and cancelled its reservations in early October 2026.",
+    "kind": "fact",
+    "source": "https://keyt.com/politics/cnn-us-politics/2026/10/02/top-senate-gop-group-puts-pause-on-spending-in-north-carolina/"
+   },
+   {
+    "claim": "Rep. Brian Jack (R-GA), running to succeed Hudson as NRCC chair, wrote that Senate Republicans' withdrawal from NC 'created a cascade that likely swept away many of our colleagues from that state'.",
+    "kind": "interpretation",
+    "source": "https://www.wunc.org/2026-11-05/how-north-carolina-democrats-flipped-several-house-seats-in-historically-gop-districts"
+   },
+   {
+    "claim": "Redistricting: the October 2025 mid-decade redraw changed only NC-1 and NC-3. These four districts are essentially the 2023 lines (PollCheck: under 2% of area differs).",
+    "kind": "fact",
+    "source": "https://abc13.com/post/north-carolina-house-new-congressional-map-republlcians-gain-additional-seat/18055836/"
+   },
+   {
+    "claim": "Final pre-election ratings (Wikipedia ratings table, Nov 2 snapshot) show no forecaster rating this seat Tilt D or Toss-up. See per-race summary.",
+    "kind": "fact",
+    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_ratings"
+   }
+  ],
+  "late_polls_winner_ahead": [],
+  "picked_winner": [],
+  "summary": "A suburban and exurban Triangle seat (Trump +14) flipped by a credible, reasonably funded challenger against a low-profile freshman. It fits the suburban swing plus the statewide Cooper and turnout wave. No public district poll was found. All final ratings in the Wikipedia table were Likely R, except RCP at Lean R."
+ },
+ "NC-14": {
+  "chamber": "house",
+  "result": "LaKesha Womack (D) defeated Rep. Tim Moore (R, former NC House Speaker), 147,388 to 140,973 (51.1-48.9, a margin of 6,415) with all precincts counted. Moore told WSOC he had talked to Womack about the transition. Unofficial until the canvass on Nov 13.",
+  "pres_2024": "Trump +14.8 (56.7-41.9) on the 2026 lines (PollCheck). Moore won by 16.1 in 2024.",
+  "explanations": [
+   {
+    "claim": "Womack, a first-time candidate who lives outside the district, raised about $56,000 and got no money from national Democratic groups. Moore raised nearly $2 million.",
+    "kind": "fact",
+    "source": "https://www.wfae.org/politics/2026-11-04/how-lakesha-womacks-56-000-campaign-and-president-trump-sunk-powerful-republican-tim-moore"
+   },
+   {
+    "claim": "Womack ran up huge margins in suburban west and north Mecklenburg, about two-to-one across the district's 28 Mecklenburg precincts. She cut into Moore's leads in Gaston, Cleveland, Rutherford and Burke, while Moore won the five western counties.",
+    "kind": "fact",
+    "source": "https://www.wunc.org/politics/2026-11-03/congressman-tim-moore-defeated-2026-midterm"
+   },
+   {
+    "claim": "Late negative event: Womack was served a criminal summons on Oct 11 over an alleged failure to return a rental car (2019 or 2020, accounts differ). She won anyway.",
+    "kind": "fact",
+    "source": "https://www.wbtv.com/2026/11/04/us-congressman-charlotte-area-loses-election-day-surprise/"
+   },
+   {
+    "claim": "WFAE's Steve Harrison credits 'President Trump's record-low approval ratings'. Womack said watching Democratic overperformance in the 2025 special elections convinced her she could win.",
+    "kind": "interpretation",
+    "source": "https://www.wfae.org/politics/2026-11-04/how-lakesha-womacks-56-000-campaign-and-president-trump-sunk-powerful-republican-tim-moore"
+   },
+   {
+    "claim": "Moore: 'I didn't expect it to be this way. No one expected it to be this way.' Womack attributes the win to showing up in the community, rural areas included.",
+    "kind": "interpretation",
+    "source": "https://www.wsoctv.com/news/local/didnt-expect-it-gaston-county-gets-its-first-black-congresswoman-after-surprising-nc-14-election/WM6EZTWA5VGYFOKULSKHIMHBTQ/?outputType=amp"
+   },
+   {
+    "claim": "Statewide context: Roy Cooper (D) won the open NC Senate seat by nearly 20 points; Democrats went from 4 of 14 NC House seats to 9 AP-called seats by Nov 5, with NC-3 and NC-5 still uncalled.",
+    "kind": "fact",
+    "source": "https://www.wunc.org/2026-11-05/how-north-carolina-democrats-flipped-several-house-seats-in-historically-gop-districts"
+   },
+   {
+    "claim": "Statewide context: early-vote turnout was a record 2.82M (35.7% of registered voters, vs 29.0% in 2022). Registered Republicans fell from 31% to 26% of early ballots; Black early ballots rose about 1.5x, to nearly 600,000; ballots from voters aged 18 to 25 nearly doubled.",
+    "kind": "fact",
+    "source": "https://www.wbtv.com/2026/11/01/record-28m-early-ballots-cast-north-carolina-driven-by-unaffiliated-voters-steady-democrats/"
+   },
+   {
+    "claim": "Statewide context: a Southern Coalition for Social Justice analysis put Black early turnout at about 584,000, up 52% from 2022 (fetch blocked by Cloudflare; figure taken from the search snippet of the States Newsroom report).",
+    "kind": "fact",
+    "source": "https://www.newsfromthestates.com/node/436239"
+   },
+   {
+    "claim": "Statewide context: the Senate Leadership Fund paused its NC Senate ad spending and cancelled its reservations in early October 2026.",
+    "kind": "fact",
+    "source": "https://keyt.com/politics/cnn-us-politics/2026/10/02/top-senate-gop-group-puts-pause-on-spending-in-north-carolina/"
+   },
+   {
+    "claim": "Rep. Brian Jack (R-GA), running to succeed Hudson as NRCC chair, wrote that Senate Republicans' withdrawal from NC 'created a cascade that likely swept away many of our colleagues from that state'.",
+    "kind": "interpretation",
+    "source": "https://www.wunc.org/2026-11-05/how-north-carolina-democrats-flipped-several-house-seats-in-historically-gop-districts"
+   },
+   {
+    "claim": "Redistricting: the October 2025 mid-decade redraw changed only NC-1 and NC-3. These four districts are essentially the 2023 lines (PollCheck: under 2% of area differs).",
+    "kind": "fact",
+    "source": "https://abc13.com/post/north-carolina-house-new-congressional-map-republlcians-gain-additional-seat/18055836/"
+   },
+   {
+    "claim": "Final pre-election ratings (Wikipedia ratings table, Nov 2 snapshot) show no forecaster rating this seat Tilt D or Toss-up. See per-race summary.",
+    "kind": "fact",
+    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_ratings"
+   }
+  ],
+  "late_polls_winner_ahead": [],
+  "picked_winner": [],
+  "summary": "The purest wave result in the set. A $56k first-time campaign with no national support beat a $2m former Speaker in a Trump +15 seat, despite a late criminal-summons story. Mecklenburg suburbs swung hard, and the statewide Cooper and turnout wave carried the rest. No polls were found. Final ratings ranged from Likely R (Cook, Economist, Split Ticket, DDHQ, FPO) to Safe or Solid R; nobody picked Womack."
+ }
+}

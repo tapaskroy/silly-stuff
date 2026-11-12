@@ -1,0 +1,1226 @@
+[
+ {
+  "state": "MT",
+  "name": "Kurt Alme",
+  "party": "R",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": true,
+  "votes": {
+   "israel_disapproval": "n/a",
+   "ukraine_apr2024": "n/a",
+   "ukraine_feb2024": "n/a",
+   "objected_2021": null,
+   "house_votes": null
+  },
+  "signals": {
+   "immigration": "baseline"
+  },
+  "evidence": "No congressional record; former Trump-appointed U.S. Attorney for Montana, hand-picked successor to Daines (Ukraine Yea Apr 2024) and endorsed by Trump; immigration emphasis is enforcement-focused, no documented Ukraine/trade stance found.",
+  "sources": [
+   "https://dailymontanan.com/2026/03/04/kurt-alme-files-for-u-s-senate-immediately-endorsed-by-outgoing-sen-daines-president-trump/",
+   "https://ballotpedia.org/Kurt_Alme",
+   "https://ontheissues.org/Senate/Kurt_Alme.htm"
+  ]
+ },
+ {
+  "state": "NC",
+  "name": "Ted Budd",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): allow; 119-2 #81 (S.J.Res.138): allow",
+   "ukraine_apr2024": "Nay",
+   "ukraine_feb2024": "Nay",
+   "objected_2021": true,
+   "house_votes": "As House member voted for both AZ and PA objections Jan 6, 2021 (House 117-1 rolls 10, 11)"
+  },
+  "signals": {
+   "immigration": "beyond-baseline"
+  },
+  "evidence": "Voted Nay on both Feb and Apr 2024 Senate passage of Ukraine/Israel supplemental H.R. 815; objected to AZ and PA electors as a House member in 2021.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00048.xml",
+   "https://voteview.com/static/data/out/votes/H117_votes.csv"
+  ]
+ },
+ {
+  "state": "NC",
+  "name": "Roy Cooper",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "n/a",
+   "ukraine_apr2024": "n/a",
+   "ukraine_feb2024": "n/a",
+   "objected_2021": null,
+   "house_votes": null
+  },
+  "signals": {
+   "economic": "center",
+   "israel": "supports"
+  },
+  "evidence": "Former two-term NC governor running on a centrist record; endorsed by DMFI PAC and his campaign said he opposes withholding aid from Israel.",
+  "sources": [
+   "https://jewishinsider.com/2025/08/democrats-top-senate-recruit-roy-cooper-rejects-effort-to-block-aid-to-israel/",
+   "https://dmfipac.org/news-updates/press-release/dmfi-pac-announces-first-round-of-senate-endorsements-in-high-stakes-2026-battlegrounds/"
+  ]
+ },
+ {
+  "state": "ND",
+  "name": "Kevin Cramer",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): allow; 119-2 #81 (S.J.Res.138): allow",
+   "ukraine_apr2024": "Yea",
+   "ukraine_feb2024": "Yea",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "immigration": "baseline"
+  },
+  "evidence": "Voted Yea on both Feb and Apr 2024 passage of H.R. 815 (Ukraine aid); did not object to 2020 electors.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00048.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1171/vote_117_1_00001.xml"
+  ]
+ },
+ {
+  "state": "ND",
+  "name": "John Hoeven",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): allow; 119-2 #81 (S.J.Res.138): allow",
+   "ukraine_apr2024": "Yea",
+   "ukraine_feb2024": "Yea",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "immigration": "baseline"
+  },
+  "evidence": "Voted Yea on both Feb and Apr 2024 passage of H.R. 815 (Ukraine aid); did not object to 2020 electors.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00048.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1171/vote_117_1_00001.xml"
+  ]
+ },
+ {
+  "state": "NE",
+  "name": "Deb Fischer",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): allow; 119-2 #81 (S.J.Res.138): allow",
+   "ukraine_apr2024": "Yea",
+   "ukraine_feb2024": "Nay",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "immigration": "baseline"
+  },
+  "evidence": "Voted Nay on Feb 2024 H.R. 815 (no border provisions) but Yea on Apr 2024 final passage of Ukraine aid; defense-hawk Armed Services Republican.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00048.xml"
+  ]
+ },
+ {
+  "state": "NE",
+  "name": "Pete Ricketts",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): allow; 119-2 #81 (S.J.Res.138): allow",
+   "ukraine_apr2024": "Yea",
+   "ukraine_feb2024": "Nay",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "immigration": "baseline"
+  },
+  "evidence": "Voted Nay Feb 2024 but Yea Apr 2024 on Ukraine aid H.R. 815; China/defense hawk with a business background.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00048.xml"
+  ]
+ },
+ {
+  "state": "NH",
+  "name": "Margaret Wood Hassan",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): block; 119-2 #81 (S.J.Res.138): block",
+   "ukraine_apr2024": "Yea",
+   "ukraine_feb2024": "Yea",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "economic": "center",
+   "israel": "mixed"
+  },
+  "evidence": "Centrist economic record; voted against all three Nov 2024 Sanders resolutions and both Apr 2025 ones, then voted to block both sales in Apr 2026.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00080.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00081.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00292.xml"
+  ]
+ },
+ {
+  "state": "NH",
+  "name": "Chris Pappas",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "n/a",
+   "ukraine_apr2024": "n/a",
+   "ukraine_feb2024": "n/a",
+   "objected_2021": null,
+   "house_votes": "House: Yea H.R. 8035 Ukraine aid (Apr 2024); Nay Greene amdt barring Ukraine aid (2025 roll 209); Present/not voting on Massie amdt to strip Israel aid (2026 roll 243); Nay on 2021 objections"
+  },
+  "signals": {
+   "economic": "center",
+   "israel": "supports"
+  },
+  "evidence": "Moderate House Democrat (Problem Solvers-aligned) endorsed by DMFI PAC and historically AIPAC-backed; called for a 'reset' with Netanyahu government in 2026 primary but did not vote to strip Israel aid.",
+  "sources": [
+   "https://jewishinsider.com/2026/09/chris-pappas-stefany-shaheen-democratic-primaries-new-hampshire/",
+   "https://dmfipac.org/news-updates/press-release/dmfi-pac-announces-first-round-of-senate-endorsements-in-high-stakes-2026-battlegrounds/",
+   "https://voteview.com/static/data/out/votes/H118_votes.csv"
+  ]
+ },
+ {
+  "state": "NJ",
+  "name": "Andy Kim",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): block; 119-2 #81 (S.J.Res.138): block",
+   "ukraine_apr2024": "n/a",
+   "ukraine_feb2024": "n/a",
+   "objected_2021": null,
+   "house_votes": "House: Yea H.R. 8035 Ukraine aid (Apr 2024)"
+  },
+  "signals": {
+   "economic": "center",
+   "israel": "critical"
+  },
+  "evidence": "Voted to block Israel arms sales in every Senate roll call since 2025 (Apr 2025, Jul 2025, Apr 2026); economic record is mainstream Democratic, not Medicare-for-All/CPC-style.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00080.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00081.xml"
+  ]
+ },
+ {
+  "state": "NJ",
+  "name": "Cory Booker",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): block; 119-2 #81 (S.J.Res.138): block",
+   "ukraine_apr2024": "Yea",
+   "ukraine_feb2024": "Yea",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "economic": "center",
+   "israel": "mixed"
+  },
+  "evidence": "Voted against blocking in Nov 2024 and Apr/Jul 2025 but voted to block both sales in Apr 2026; co-sponsored Medicare for All in 2017-19 but generally aligned with party leadership.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00080.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00081.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00292.xml"
+  ]
+ },
+ {
+  "state": "NM",
+  "name": "Martin Heinrich",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): block; 119-2 #81 (S.J.Res.138): block",
+   "ukraine_apr2024": "Yea",
+   "ukraine_feb2024": "Yea",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "economic": "center",
+   "israel": "critical"
+  },
+  "evidence": "Voted to block Israel arms sales in every roll call since Nov 2024; economic record is mainstream Democratic (energy/clean-tech focus), not Medicare-for-All bloc.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00080.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00081.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00292.xml"
+  ]
+ },
+ {
+  "state": "NM",
+  "name": "Ben Ray Luján",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): block; 119-2 #81 (S.J.Res.138): block",
+   "ukraine_apr2024": "Yea",
+   "ukraine_feb2024": "Yea",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "economic": "center",
+   "israel": "critical"
+  },
+  "evidence": "Voted to block Israel arms sales in every roll call since Nov 2024; former House leadership member with mainstream Democratic economic record.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00080.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00081.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00292.xml"
+  ]
+ },
+ {
+  "state": "NV",
+  "name": "Catherine Cortez Masto",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): allow; 119-2 #81 (S.J.Res.138): allow",
+   "ukraine_apr2024": "Yea",
+   "ukraine_feb2024": "Yea",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "economic": "center",
+   "israel": "supports"
+  },
+  "evidence": "Voted against every Sanders resolution to block Israel arms sales (Nov 2024 through Apr 2026); mainstream Democratic economic record.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00080.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00081.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00292.xml"
+  ]
+ },
+ {
+  "state": "NV",
+  "name": "Jacky Rosen",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): allow; 119-2 #81 (S.J.Res.138): allow",
+   "ukraine_apr2024": "Yea",
+   "ukraine_feb2024": "Yea",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "economic": "center",
+   "israel": "supports"
+  },
+  "evidence": "Voted against every Sanders resolution to block Israel arms sales (Nov 2024 through Apr 2026); mainstream Democratic economic record.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00080.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00081.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00292.xml"
+  ]
+ },
+ {
+  "state": "NY",
+  "name": "Kirsten E. Gillibrand",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): allow; 119-2 #81 (S.J.Res.138): allow",
+   "ukraine_apr2024": "Yea",
+   "ukraine_feb2024": "Yea",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "economic": "center",
+   "israel": "supports"
+  },
+  "evidence": "Voted against every Sanders resolution to block Israel arms sales (Nov 2024 through Apr 2026); mainstream Democratic economic record.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00080.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00081.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00292.xml"
+  ]
+ },
+ {
+  "state": "NY",
+  "name": "Charles E. Schumer",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): allow; 119-2 #81 (S.J.Res.138): allow",
+   "ukraine_apr2024": "Yea",
+   "ukraine_feb2024": "Yea",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "economic": "center",
+   "israel": "supports"
+  },
+  "evidence": "Voted against every Sanders resolution to block Israel arms sales (Nov 2024 through Apr 2026); mainstream Democratic economic record.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00080.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00081.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00292.xml"
+  ]
+ },
+ {
+  "state": "OH",
+  "name": "Bernie Moreno",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): allow; 119-2 #81 (S.J.Res.138): allow",
+   "ukraine_apr2024": "n/a",
+   "ukraine_feb2024": "n/a",
+   "objected_2021": null,
+   "house_votes": null
+  },
+  "signals": {
+   "immigration": "beyond-baseline"
+  },
+  "evidence": "Not in Senate in 2024; as candidate said 'absolutely no more money for Ukraine, period' and opposed the $95B package; Trump/Vance-backed America First platform with hardline immigration focus.",
+  "sources": [
+   "https://www.news5cleveland.com/news/politics/ohio-politics/gop-senate-hopefuls-offer-their-take-on-further-aid-to-ukraine-in-war-with-russia",
+   "https://ohiocapitaljournal.com/2024/04/23/ohioans-react-to-u-s-house-passage-of-ukraine-aid/"
+  ]
+ },
+ {
+  "state": "OH",
+  "name": "Sherrod Brown",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "votes": {
+   "israel_disapproval": "118-2 #292-294 (Nov 20, 2024, S.J.Res.111/113/115): allow on all three (last Senate vote)",
+   "ukraine_apr2024": "Yea",
+   "ukraine_feb2024": "Yea",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "economic": "center",
+   "israel": "supports"
+  },
+  "evidence": "Former senator (lost 2024); labor-populist/protectionist economics but not a Medicare-for-All or Green New Deal cosponsor; voted against all three Nov 2024 Israel disapproval resolutions.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00292.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.xml"
+  ]
+ },
+ {
+  "state": "OK",
+  "name": "James Lankford",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): allow; 119-2 #81 (S.J.Res.138): allow",
+   "ukraine_apr2024": "Yea",
+   "ukraine_feb2024": "Nay",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "immigration": "baseline"
+  },
+  "evidence": "Negotiated the Feb 2024 border deal; voted Nay Feb 2024 then Yea Apr 2024 on Ukraine aid H.R. 815.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00048.xml"
+  ]
+ },
+ {
+  "state": "OK",
+  "name": "Kevin Hern",
+  "party": "R",
+  "returning": false,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": true,
+  "votes": {
+   "israel_disapproval": "n/a",
+   "ukraine_apr2024": "n/a",
+   "ukraine_feb2024": "n/a",
+   "objected_2021": true,
+   "house_votes": "House: objected to AZ and PA electors (2021 rolls 10, 11); Nay H.R. 8035 Ukraine aid (Apr 2024); Yea Greene amdt barring Ukraine aid (2025 roll 209); Nay Massie amdt to strip Israel aid (2026 roll 243)"
+  },
+  "signals": {
+   "immigration": "baseline"
+  },
+  "evidence": "Voted against 2024 Ukraine aid and for the 2025 amendment barring Ukraine aid, and objected to 2020 electors; otherwise a business-oriented former Republican Study Committee chair, hence borderline.",
+  "sources": [
+   "https://voteview.com/static/data/out/votes/H118_votes.csv",
+   "https://voteview.com/static/data/out/votes/H119_votes.csv",
+   "https://voteview.com/static/data/out/votes/H117_votes.csv"
+  ]
+ },
+ {
+  "state": "OR",
+  "name": "Ron Wyden",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): block; 119-2 #81 (S.J.Res.138): block",
+   "ukraine_apr2024": "Yea",
+   "ukraine_feb2024": "Yea",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "economic": "center",
+   "israel": "mixed"
+  },
+  "evidence": "Voted against blocking in Nov 2024 and 2025, then for blocking both sales in Apr 2026; tax/trade-focused mainstream Democratic economic record.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00080.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00081.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00292.xml"
+  ]
+ },
+ {
+  "state": "OR",
+  "name": "Jeff Merkley",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): block; 119-2 #81 (S.J.Res.138): block",
+   "ukraine_apr2024": "Nay",
+   "ukraine_feb2024": "Nay",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "economic": "left",
+   "israel": "critical"
+  },
+  "evidence": "Only senator to endorse Sanders in 2016, Medicare for All and Green New Deal cosponsor; voted to block Israel arms sales in every roll call since Nov 2024.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00080.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00081.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00292.xml"
+  ]
+ },
+ {
+  "state": "PA",
+  "name": "John Fetterman",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): allow; 119-2 #81 (S.J.Res.138): allow",
+   "ukraine_apr2024": "Yea",
+   "ukraine_feb2024": "Yea",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "economic": "center",
+   "israel": "supports"
+  },
+  "evidence": "Ran as a Sanders-backed progressive in 2022 but has voted against every Israel disapproval resolution and staked out strongly pro-Israel positions; user rule puts Israel support under Mainstream.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00080.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00081.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00292.xml"
+  ]
+ },
+ {
+  "state": "PA",
+  "name": "David McCormick",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): allow; 119-2 #81 (S.J.Res.138): allow",
+   "ukraine_apr2024": "n/a",
+   "ukraine_feb2024": "n/a",
+   "objected_2021": null,
+   "house_votes": null
+  },
+  "signals": {
+   "immigration": "baseline"
+  },
+  "evidence": "Not in Senate in 2024; former Bridgewater CEO and Treasury official who backed military aid to Ukraine during his campaigns; traditional national-security conservative.",
+  "sources": [
+   "https://ballotpedia.org/David_McCormick"
+  ]
+ },
+ {
+  "state": "RI",
+  "name": "Sheldon Whitehouse",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): block; 119-2 #81 (S.J.Res.138): allow",
+   "ukraine_apr2024": "Yea",
+   "ukraine_feb2024": "Yea",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "economic": "center",
+   "israel": "mixed"
+  },
+  "evidence": "Split votes in Apr 2026 (blocked one sale, allowed the other) after opposing all earlier resolutions; mainstream Democratic economic record.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00080.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00081.xml"
+  ]
+ },
+ {
+  "state": "RI",
+  "name": "Jack Reed",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): block; 119-2 #81 (S.J.Res.138): allow",
+   "ukraine_apr2024": "Yea",
+   "ukraine_feb2024": "Yea",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "economic": "center",
+   "israel": "mixed"
+  },
+  "evidence": "Armed Services ranking member; split votes in Apr 2026 (blocked S.J.Res.32, allowed S.J.Res.138); mainstream economic record.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00080.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00081.xml"
+  ]
+ },
+ {
+  "state": "SC",
+  "name": "Tim Scott",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): allow; 119-2 #81 (S.J.Res.138): allow",
+   "ukraine_apr2024": "absent (not voting)",
+   "ukraine_feb2024": "Nay",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "immigration": "baseline"
+  },
+  "evidence": "Voted Nay on Feb 2024 H.R. 815 and did not vote on Apr 2024 passage; business-aligned, free-market conservative and NRSC chair, no culture-war or protectionist emphasis.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00048.xml"
+  ]
+ },
+ {
+  "state": "SC",
+  "name": "Annie Andrews",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": true,
+  "votes": {
+   "israel_disapproval": "n/a",
+   "ukraine_apr2024": "n/a",
+   "ukraine_feb2024": "n/a",
+   "objected_2021": null,
+   "house_votes": null
+  },
+  "signals": {
+   "economic": "center",
+   "israel": "critical"
+  },
+  "evidence": "Pediatrician campaigning on health-care costs and abortion rights, endorsed by EMILY's List and two former SC governors; said she backs Sanders' resolutions to block arms sales to Israel, but no left economic program (M4A/GND) found.",
+  "sources": [
+   "https://www.salon.com/2025/09/17/lindsey-grahams-challenger-says-democrats-cant-give-up-on-red-states",
+   "https://emilyslist.org/news/emilys-list-endorses-dr-annie-andrews-in-south-carolinas-u-s-senate-race/",
+   "https://www.foxcarolina.com/2026/06/05/us-senate-race-sc-candidate-profile-annie-andrews/"
+  ]
+ },
+ {
+  "state": "SD",
+  "name": "John Thune",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): allow; 119-2 #81 (S.J.Res.138): allow",
+   "ukraine_apr2024": "Yea",
+   "ukraine_feb2024": "Yea",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "immigration": "baseline"
+  },
+  "evidence": "Voted Yea on both Feb and Apr 2024 Senate passage of Ukraine aid H.R. 815; traditional business/defense conservative.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00048.xml"
+  ]
+ },
+ {
+  "state": "SD",
+  "name": "Mike Rounds",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): allow; 119-2 #81 (S.J.Res.138): allow",
+   "ukraine_apr2024": "Yea",
+   "ukraine_feb2024": "Yea",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "immigration": "baseline"
+  },
+  "evidence": "Voted Yea on both Feb and Apr 2024 Senate passage of Ukraine aid H.R. 815; traditional business/defense conservative.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00048.xml"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Marsha Blackburn",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): allow; 119-2 #81 (S.J.Res.138): allow",
+   "ukraine_apr2024": "Nay",
+   "ukraine_feb2024": "Nay",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "immigration": "beyond-baseline"
+  },
+  "evidence": "Voted Nay on both 2024 Ukraine aid passages; platform centered on culture-war issues and immigration enforcement.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00048.xml"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Bill Hagerty",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": true,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): allow; 119-2 #81 (S.J.Res.138): allow",
+   "ukraine_apr2024": "Nay",
+   "ukraine_feb2024": "Nay",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "immigration": "beyond-baseline"
+  },
+  "evidence": "Voted Nay on both 2024 Ukraine aid passages and is a close Trump ally on America First trade/China policy; former ambassador with otherwise establishment profile, hence borderline.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00048.xml"
+  ]
+ },
+ {
+  "state": "TX",
+  "name": "Ted Cruz",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): allow; 119-2 #81 (S.J.Res.138): allow",
+   "ukraine_apr2024": "Nay",
+   "ukraine_feb2024": "Nay",
+   "objected_2021": true,
+   "house_votes": null
+  },
+  "signals": {
+   "immigration": "beyond-baseline"
+  },
+  "evidence": "Voted Nay on both 2024 Ukraine aid passages and led the Jan 6, 2021 objection to Arizona electors (also voted for PA objection).",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00048.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1171/vote_117_1_00001.xml"
+  ]
+ },
+ {
+  "state": "TX",
+  "name": "James Talarico",
+  "party": "D",
+  "returning": false,
+  "wing": "Progressive",
+  "confidence": "low",
+  "borderline": true,
+  "votes": {
+   "israel_disapproval": "n/a",
+   "ukraine_apr2024": "n/a",
+   "ukraine_feb2024": "n/a",
+   "objected_2021": null,
+   "house_votes": null
+  },
+  "signals": {
+   "economic": "left",
+   "israel": "critical"
+  },
+  "evidence": "State representative whose platform includes universal Medicare eligibility, universal childcare and ending billionaire tax breaks; disavows AIPAC money and says he would not vote for further military aid to the Netanyahu government. Not endorsed by Sanders/Justice Democrats as far as found, so low confidence.",
+  "sources": [
+   "https://jewishinsider.com/2026/08/james-talarico-israel-aid-netanyahu-aipac-breakfast-club-interview/",
+   "https://www.fox4news.com/election/talarico-paxton-senate-race-healthcare-plan",
+   "https://www.sacurrent.com/news/democratic-u-s-senate-hopeful-james-talarico-unveils-plan-to-tax-billionaires/"
+  ]
+ },
+ {
+  "state": "UT",
+  "name": "John R. Curtis",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): allow; 119-2 #81 (S.J.Res.138): allow",
+   "ukraine_apr2024": "n/a",
+   "ukraine_feb2024": "n/a",
+   "objected_2021": false,
+   "house_votes": "House: Yea H.R. 8035 Ukraine aid (Apr 2024); Nay on both Jan 6, 2021 objections"
+  },
+  "signals": {
+   "immigration": "baseline"
+  },
+  "evidence": "Voted for Ukraine aid as a House member in Apr 2024 and against 2020 elector objections; pragmatic conservative.",
+  "sources": [
+   "https://voteview.com/static/data/out/votes/H118_votes.csv",
+   "https://voteview.com/static/data/out/votes/H117_votes.csv"
+  ]
+ },
+ {
+  "state": "UT",
+  "name": "Mike Lee",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): allow; 119-2 #81 (S.J.Res.138): allow",
+   "ukraine_apr2024": "Nay",
+   "ukraine_feb2024": "Nay",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "immigration": "beyond-baseline"
+  },
+  "evidence": "Voted Nay on both 2024 Ukraine aid passages; vocal opponent of Ukraine/foreign aid and NATO-spending skeptic.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00048.xml"
+  ]
+ },
+ {
+  "state": "VA",
+  "name": "Tim Kaine",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): block; 119-2 #81 (S.J.Res.138): block",
+   "ukraine_apr2024": "Yea",
+   "ukraine_feb2024": "Yea",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "economic": "center",
+   "israel": "critical"
+  },
+  "evidence": "Voted to block Israel arms sales in every roll call since Nov 2024; economic record is mainstream Democratic.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00080.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00081.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00292.xml"
+  ]
+ },
+ {
+  "state": "VA",
+  "name": "Mark Warner",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): block; 119-2 #81 (S.J.Res.138): allow",
+   "ukraine_apr2024": "Yea",
+   "ukraine_feb2024": "Yea",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "economic": "center",
+   "israel": "mixed"
+  },
+  "evidence": "Business-oriented centrist; split votes in Apr 2026 (blocked S.J.Res.32, allowed S.J.Res.138) after opposing all earlier resolutions.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00080.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00081.xml"
+  ]
+ },
+ {
+  "state": "VT",
+  "name": "Bernard Sanders",
+  "party": "I",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): block; 119-2 #81 (S.J.Res.138): block",
+   "ukraine_apr2024": "Nay",
+   "ukraine_feb2024": "Nay",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "economic": "left",
+   "israel": "critical"
+  },
+  "evidence": "Author of Medicare for All and sponsor of the Israel arms-sale disapproval resolutions.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00080.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00081.xml"
+  ]
+ },
+ {
+  "state": "VT",
+  "name": "Peter Welch",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): block; 119-2 #81 (S.J.Res.138): block",
+   "ukraine_apr2024": "Nay",
+   "ukraine_feb2024": "Nay",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "economic": "left",
+   "israel": "critical"
+  },
+  "evidence": "Former House Progressive Caucus member, Medicare for All cosponsor; voted to block Israel arms sales in every roll call since Nov 2024.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00080.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00081.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00292.xml"
+  ]
+ },
+ {
+  "state": "WA",
+  "name": "Maria Cantwell",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): block; 119-2 #81 (S.J.Res.138): block",
+   "ukraine_apr2024": "Yea",
+   "ukraine_feb2024": "Yea",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "economic": "center",
+   "israel": "mixed"
+  },
+  "evidence": "Opposed blocking through 2025, voted to block both sales in Apr 2026; business/tech-aligned Commerce Committee Democrat.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00080.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00081.xml"
+  ]
+ },
+ {
+  "state": "WA",
+  "name": "Patty Murray",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): block; 119-2 #81 (S.J.Res.138): block",
+   "ukraine_apr2024": "Yea",
+   "ukraine_feb2024": "Yea",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "economic": "center",
+   "israel": "mixed"
+  },
+  "evidence": "Appropriations leader; voted against blocking Nov 2024, then to block in Jul 2025 and Apr 2026; mainstream economic record.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00080.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00081.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00292.xml"
+  ]
+ },
+ {
+  "state": "WI",
+  "name": "Tammy Baldwin",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": true,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): block; 119-2 #81 (S.J.Res.138): block",
+   "ukraine_apr2024": "Yea",
+   "ukraine_feb2024": "Yea",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "economic": "left",
+   "israel": "critical"
+  },
+  "evidence": "Former House Progressive Caucus member and 2017 Medicare for All cosponsor; voted to block Israel arms sales in Jul 2025 and Apr 2026 (absent earlier). Recent campaigns were run on a more centrist, manufacturing-focused message.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00080.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00081.xml"
+  ]
+ },
+ {
+  "state": "WI",
+  "name": "Ron Johnson",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): allow; 119-2 #81 (S.J.Res.138): allow",
+   "ukraine_apr2024": "Nay",
+   "ukraine_feb2024": "Nay",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "immigration": "beyond-baseline"
+  },
+  "evidence": "Voted Nay on both 2024 Ukraine aid passages; promoted 2020 election-fraud claims (did not vote to object after Jan 6 breach).",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00048.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1171/vote_117_1_00001.xml"
+  ]
+ },
+ {
+  "state": "WV",
+  "name": "James C. Justice",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": true,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): allow; 119-2 #81 (S.J.Res.138): allow",
+   "ukraine_apr2024": "n/a",
+   "ukraine_feb2024": "n/a",
+   "objected_2021": null,
+   "house_votes": null
+  },
+  "signals": {
+   "immigration": "baseline"
+  },
+  "evidence": "Not in Congress in 2024; as governor sought aid for Ukraine (Mariupol hospital rebuilding) and governs as a non-ideological business Republican; no Senate Ukraine record.",
+  "sources": [
+   "https://www.kyivpost.com/amp/post/41819"
+  ]
+ },
+ {
+  "state": "WV",
+  "name": "Shelley Moore Capito",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): allow; 119-2 #81 (S.J.Res.138): allow",
+   "ukraine_apr2024": "Yea",
+   "ukraine_feb2024": "Yea",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "immigration": "baseline"
+  },
+  "evidence": "Voted Yea on both 2024 Ukraine aid passages; GOP leadership member with traditional conservative record.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00048.xml"
+  ]
+ },
+ {
+  "state": "WY",
+  "name": "John Barrasso",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "low",
+  "borderline": true,
+  "votes": {
+   "israel_disapproval": "119-2 #80 (S.J.Res.32, 4/15/2026): allow; 119-2 #81 (S.J.Res.138): allow",
+   "ukraine_apr2024": "Nay",
+   "ukraine_feb2024": "Nay",
+   "objected_2021": false,
+   "house_votes": null
+  },
+  "signals": {
+   "immigration": "baseline"
+  },
+  "evidence": "Voted Nay on both 2024 Ukraine aid passages (the primary test), but is GOP leadership (Majority Whip) with a traditional energy/business conservative profile, so borderline.",
+  "sources": [
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.xml",
+   "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00048.xml"
+  ]
+ },
+ {
+  "state": "WY",
+  "name": "Harriet Hageman",
+  "party": "R",
+  "returning": false,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "votes": {
+   "israel_disapproval": "n/a",
+   "ukraine_apr2024": "n/a",
+   "ukraine_feb2024": "n/a",
+   "objected_2021": null,
+   "house_votes": "House: Nay H.R. 8035 Ukraine aid (Apr 2024); Yea Greene amdt barring Ukraine aid (2025 roll 209); Nay Massie amdt (2026 roll 243); not in Congress in 2021"
+  },
+  "signals": {
+   "immigration": "beyond-baseline"
+  },
+  "evidence": "Freedom Caucus member who defeated Liz Cheney with Trump's backing; voted against Ukraine aid and for barring it, and has questioned the 2020 election.",
+  "sources": [
+   "https://voteview.com/static/data/out/votes/H118_votes.csv",
+   "https://voteview.com/static/data/out/votes/H119_votes.csv"
+  ]
+ }
+]

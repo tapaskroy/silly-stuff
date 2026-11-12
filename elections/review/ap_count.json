@@ -1,0 +1,4907 @@
+{
+ "_updated": "2026-11-12T05:32:11+00:00",
+ "_sources": "Winners: AP race calls. Margins: AP's count once 0%+ of the expected vote is in, replaced by state election office figures at the one-week recheck and at certification.",
+ "senate": {
+  "Alabama": {
+   "candidates": "Wess (D) vs Moore (R)",
+   "winner": "Moore",
+   "margin": -9.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:17:58.590Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Alaska": {
+   "candidates": "Peltola (D) vs Sullivan (R)",
+   "winner": null,
+   "margin": null,
+   "status": "pending",
+   "called_by": null,
+   "called_at": null,
+   "source": null,
+   "note": "86"
+  },
+  "Arkansas": {
+   "candidates": "Shoffner (D) vs Cotton (R)",
+   "winner": "Cotton",
+   "margin": -11.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:40:06.259Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Colorado": {
+   "candidates": "Hickenlooper (D) vs Baisley (R)",
+   "winner": "Hickenlooper",
+   "margin": 25.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:00:32.190Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "Delaware": {
+   "candidates": "Coons (D) vs Katz (R)",
+   "winner": "Coons",
+   "margin": 27.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:00:20.744Z",
+   "source": "AP election results feed",
+   "note": "100"
+  },
+  "Florida": {
+   "candidates": "Nixon (D) vs Moody (R)",
+   "winner": "Moody",
+   "margin": -2.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:34:55.352Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Georgia": {
+   "candidates": "Ossoff (D) vs Collins (R)",
+   "winner": "Ossoff",
+   "margin": 18.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T00:55:21.984Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Idaho": {
+   "candidates": "Achilles (I) vs Risch (R)",
+   "winner": "Risch",
+   "margin": -22.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T06:31:52.473Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Illinois": {
+   "candidates": "Stratton (D) vs Tracy (R)",
+   "winner": "Stratton",
+   "margin": 24.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:00:40.102Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "Iowa": {
+   "candidates": "Turek (D) vs Hinson (R)",
+   "winner": "Turek",
+   "margin": 4.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:35:30.952Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Kansas": {
+   "candidates": "Hamilton (D) vs Marshall (R)",
+   "winner": "Hamilton",
+   "margin": 5.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:24:51.393Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Kentucky": {
+   "candidates": "Booker (D) vs Barr (R)",
+   "winner": "Barr",
+   "margin": -12.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:16:00.684Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Louisiana": {
+   "candidates": "Davis (D) vs Letlow (R)",
+   "winner": "Letlow",
+   "margin": -1.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:31:29.298Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Maine": {
+   "candidates": "Jackson (D) vs Collins (R)",
+   "winner": "Jackson",
+   "margin": 6.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T06:02:01.517Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "Massachusetts": {
+   "candidates": "Markey (D) vs Deaton (R)",
+   "winner": "Markey",
+   "margin": 31.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:01:27.995Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Michigan": {
+   "candidates": "El-Sayed (D) vs Rogers (R)",
+   "winner": "El-Sayed",
+   "margin": 7.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T07:27:18.642Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "Minnesota": {
+   "candidates": "Flanagan (D) vs Tafoya (R)",
+   "winner": "Flanagan",
+   "margin": 10.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:07:07.217Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Mississippi": {
+   "candidates": "Colom (D) vs Hyde-Smith (R)",
+   "winner": "Colom",
+   "margin": 0.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-11T22:58:49.687Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Montana": {
+   "candidates": "Bodnar (I) vs Alme (R)",
+   "winner": "Alme",
+   "margin": -10.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T07:54:25.875Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Nebraska": {
+   "candidates": "Osborn (I) vs Ricketts (R)",
+   "winner": "Ricketts",
+   "margin": -6.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T08:27:46.220Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "New Hampshire": {
+   "candidates": "Pappas (D) vs Sununu (R)",
+   "winner": "Pappas",
+   "margin": 13.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:20:51.833Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "New Jersey": {
+   "candidates": "Booker (D) vs Murphy (R)",
+   "winner": "Booker",
+   "margin": 27.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:00:53.549Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "New Mexico": {
+   "candidates": "Lujan (D) vs Marker (R)",
+   "winner": "Lujan",
+   "margin": 26.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:00:42.148Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "North Carolina": {
+   "candidates": "Cooper (D) vs Whatley (R)",
+   "winner": "Cooper",
+   "margin": 19.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:23:59.591Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Ohio": {
+   "candidates": "Brown (D) vs Husted (R)",
+   "winner": "Brown",
+   "margin": 4.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:10:04.990Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "Oklahoma": {
+   "candidates": "Thomas (D) vs Hern (R)",
+   "winner": "Hern",
+   "margin": -17.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:36:04.840Z",
+   "source": "AP election results feed",
+   "note": "100"
+  },
+  "Oregon": {
+   "candidates": "Merkley (D) vs Smith (R)",
+   "winner": "Merkley",
+   "margin": 19.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:00:14.705Z",
+   "source": "AP election results feed",
+   "note": "94"
+  },
+  "Rhode Island": {
+   "candidates": "Reed (D) vs McKay (R)",
+   "winner": "Reed",
+   "margin": 37.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:01:11.089Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "South Carolina": {
+   "candidates": "Andrews (D) vs Graham (R)",
+   "winner": "Andrews",
+   "margin": 4.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:39:16.039Z",
+   "source": "AP election results feed",
+   "note": "100"
+  },
+  "South Dakota": {
+   "candidates": "Bengs (I) vs Rounds (R)",
+   "winner": "Rounds",
+   "margin": -21.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:02:17.689Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Tennessee": {
+   "candidates": "Bradshaw (D) vs Hagerty (R)",
+   "winner": "Hagerty",
+   "margin": -12.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:28:22.446Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Texas": {
+   "candidates": "Talarico (D) vs Paxton (R)",
+   "winner": "Talarico",
+   "margin": 12.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:03:28.187Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Virginia": {
+   "candidates": "Warner (D) vs Mizusawa (R)",
+   "winner": "Warner",
+   "margin": 23.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T00:00:10.929Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "West Virginia": {
+   "candidates": "Anderson (D) vs Capito (R)",
+   "winner": "Capito",
+   "margin": -20.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:52:23.966Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Wyoming": {
+   "candidates": "Byrd (D) vs Hageman (R)",
+   "winner": "Hageman",
+   "margin": -30.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:00:20.492Z",
+   "source": "AP election results feed",
+   "note": "100"
+  }
+ },
+ "house": {
+  "CA-1": {
+   "candidates": "McGuire (D) vs Gallagher (R)",
+   "winner": "McGuire",
+   "margin": 12.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:53:06.875Z",
+   "source": "AP election results feed",
+   "note": "77"
+  },
+  "CA-2": {
+   "candidates": "Huffman (D) vs Littau (R)",
+   "winner": "Huffman",
+   "margin": 31.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:47:40.059Z",
+   "source": "AP election results feed",
+   "note": "69"
+  },
+  "CA-3": {
+   "candidates": "Bera (D) vs Tucker (R)",
+   "winner": "Bera",
+   "margin": 17.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:36:02.003Z",
+   "source": "AP election results feed",
+   "note": "84"
+  },
+  "CA-5": {
+   "candidates": "Masuda (D) vs McClintock (R)",
+   "winner": "McClintock",
+   "margin": -12.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T07:33:21.419Z",
+   "source": "AP election results feed",
+   "note": "88"
+  },
+  "CA-8": {
+   "candidates": "Garamendi (D) vs Recile (R)",
+   "winner": "Garamendi",
+   "margin": 46.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:42:42.538Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "CA-9": {
+   "candidates": "Harder (D) vs McBride (R)",
+   "winner": "Harder",
+   "margin": 33.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:41:10.823Z",
+   "source": "AP election results feed",
+   "note": "96"
+  },
+  "CA-10": {
+   "candidates": "DeSaulnier (D) vs Frese (R)",
+   "winner": "DeSaulnier",
+   "margin": 39.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:42:20.820Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "CA-13": {
+   "candidates": "Gray (D) vs Lincoln (R)",
+   "winner": "Gray",
+   "margin": 24.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T18:03:14.496Z",
+   "source": "AP election results feed",
+   "note": "89"
+  },
+  "CA-15": {
+   "candidates": "Mullin (D) vs Hoelter (R)",
+   "winner": "Mullin",
+   "margin": 58.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:43:59.873Z",
+   "source": "AP election results feed",
+   "note": "83"
+  },
+  "CA-16": {
+   "candidates": "Liccardo (D) vs Soulé (R)",
+   "winner": "Liccardo",
+   "margin": 55.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:36:23.781Z",
+   "source": "AP election results feed",
+   "note": "87"
+  },
+  "CA-17": {
+   "candidates": "Khanna (D) vs Tandon (R)",
+   "winner": "Khanna",
+   "margin": 44.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:33:49.339Z",
+   "source": "AP election results feed",
+   "note": "89"
+  },
+  "CA-18": {
+   "candidates": "Lofgren (D) vs Lewis (R)",
+   "winner": "Lofgren",
+   "margin": 46.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:57:26.923Z",
+   "source": "AP election results feed",
+   "note": "87"
+  },
+  "CA-19": {
+   "candidates": "Panetta (D) vs Verbica (R)",
+   "winner": "Panetta",
+   "margin": 45.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:48:52.128Z",
+   "source": "AP election results feed",
+   "note": "88"
+  },
+  "CA-20": {
+   "candidates": "Scotter (D) vs Fong (R)",
+   "winner": "Fong",
+   "margin": -23.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:36:35.180Z",
+   "source": "AP election results feed",
+   "note": "79"
+  },
+  "CA-21": {
+   "candidates": "Costa (D) vs Kirkland (R)",
+   "winner": "Costa",
+   "margin": 28.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:31:38.456Z",
+   "source": "AP election results feed",
+   "note": "81"
+  },
+  "CA-22": {
+   "candidates": "Villegas (D) vs Valadao (R)",
+   "winner": "Villegas",
+   "margin": 35.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T18:17:49.897Z",
+   "source": "AP election results feed",
+   "note": "82"
+  },
+  "CA-23": {
+   "candidates": "Hodge (D) vs Obernolte (R)",
+   "winner": null,
+   "margin": null,
+   "status": "pending",
+   "called_by": null,
+   "called_at": null,
+   "source": null,
+   "note": "95"
+  },
+  "CA-24": {
+   "candidates": "Carbajal (D) vs Smith (R)",
+   "winner": "Carbajal",
+   "margin": 32.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:02:41.079Z",
+   "source": "AP election results feed",
+   "note": "76"
+  },
+  "CA-25": {
+   "candidates": "Ruiz (D) vs Males (R)",
+   "winner": "Ruiz",
+   "margin": 30.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T06:12:47.012Z",
+   "source": "AP election results feed",
+   "note": "71"
+  },
+  "CA-26": {
+   "candidates": "Irwin (D) vs Gallucci (R)",
+   "winner": "Irwin",
+   "margin": 24.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:04:22.861Z",
+   "source": "AP election results feed",
+   "note": "77"
+  },
+  "CA-27": {
+   "candidates": "Whitesides (D) vs Gibbs (R)",
+   "winner": "Whitesides",
+   "margin": 28.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T06:01:40.953Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "CA-28": {
+   "candidates": "Chu (D) vs Verlato (R)",
+   "winner": "Chu",
+   "margin": 39.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:52:44.733Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "CA-30": {
+   "candidates": "Friedman (D) vs Meyers (R)",
+   "winner": "Friedman",
+   "margin": 55.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:44:55.800Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "CA-31": {
+   "candidates": "Cisneros (D) vs Ching (R)",
+   "winner": "Cisneros",
+   "margin": 32.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:50:02.724Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "CA-32": {
+   "candidates": "Sherman (D) vs Thompson (R)",
+   "winner": "Sherman",
+   "margin": 35.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:48:12.845Z",
+   "source": "AP election results feed",
+   "note": "93"
+  },
+  "CA-33": {
+   "candidates": "Aguilar (D) vs Vargas (R)",
+   "winner": "Aguilar",
+   "margin": 37.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:52:28.234Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "CA-35": {
+   "candidates": "Torres (D) vs Cargile (R)",
+   "winner": "Torres",
+   "margin": 34.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:09:35.262Z",
+   "source": "AP election results feed",
+   "note": "91"
+  },
+  "CA-36": {
+   "candidates": "Lieu (D) vs Brignano (R)",
+   "winner": "Lieu",
+   "margin": 45.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:40:06.574Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "CA-38": {
+   "candidates": "Solis (D) vs Casas (R)",
+   "winner": "Solis",
+   "margin": 35.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:55:12.583Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "CA-39": {
+   "candidates": "Takano (D) vs Manos (R)",
+   "winner": "Takano",
+   "margin": 35.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T06:11:44.245Z",
+   "source": "AP election results feed",
+   "note": "67"
+  },
+  "CA-41": {
+   "candidates": "Sánchez (D) vs Clemmons (R)",
+   "winner": "Sánchez",
+   "margin": 35.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:39:23.555Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "CA-42": {
+   "candidates": "Garcia (D) vs Burley (R)",
+   "winner": "Garcia",
+   "margin": 23.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T06:23:19.545Z",
+   "source": "AP election results feed",
+   "note": "96"
+  },
+  "CA-43": {
+   "candidates": "Waters (D) vs Morales (R)",
+   "winner": "Waters",
+   "margin": 65.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:33:45.205Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "CA-44": {
+   "candidates": "Barragán (D) vs Angel (R)",
+   "winner": "Barragán",
+   "margin": 63.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:35:04.677Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "CA-45": {
+   "candidates": "Tran (D) vs Vo (R)",
+   "winner": "Tran",
+   "margin": 21.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T06:57:25.358Z",
+   "source": "AP election results feed",
+   "note": "96"
+  },
+  "CA-46": {
+   "candidates": "Correa (D) vs Pan (R)",
+   "winner": "Correa",
+   "margin": 42.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:49:41.849Z",
+   "source": "AP election results feed",
+   "note": "95"
+  },
+  "CA-47": {
+   "candidates": "Min (D) vs Roux (R)",
+   "winner": "Min",
+   "margin": 16.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-05T01:15:59.925Z",
+   "source": "AP election results feed",
+   "note": "94"
+  },
+  "CA-48": {
+   "candidates": "von Wilpert (D) vs Desmond (R)",
+   "winner": "von Wilpert",
+   "margin": 19.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-05T01:32:45.566Z",
+   "source": "AP election results feed",
+   "note": "78"
+  },
+  "CA-49": {
+   "candidates": "Levin (D) vs Kurdian (R)",
+   "winner": "Levin",
+   "margin": 17.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T07:13:34.674Z",
+   "source": "AP election results feed",
+   "note": "91"
+  },
+  "CA-50": {
+   "candidates": "Peters (D) vs Cohen (R)",
+   "winner": "Peters",
+   "margin": 26.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T06:12:18.732Z",
+   "source": "AP election results feed",
+   "note": "90"
+  },
+  "CA-51": {
+   "candidates": "Jacobs (D) vs Cabrera (R)",
+   "winner": "Jacobs",
+   "margin": 30.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T06:07:54.740Z",
+   "source": "AP election results feed",
+   "note": "90"
+  },
+  "CA-52": {
+   "candidates": "Vargas (D) vs Belle (R)",
+   "winner": "Vargas",
+   "margin": 42.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:45:51.621Z",
+   "source": "AP election results feed",
+   "note": "90"
+  },
+  "TX-1": {
+   "candidates": "Prince (D) vs Moran (R)",
+   "winner": "Moran",
+   "margin": -38.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:00:08.161Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-2": {
+   "candidates": "Finnie (D) vs Toth (R)",
+   "winner": "Toth",
+   "margin": -2.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T22:11:41.765Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-3": {
+   "candidates": "Hunt (D) vs Self (R)",
+   "winner": "Self",
+   "margin": -5.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T07:09:45.723Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-4": {
+   "candidates": "Pearce (D) vs Fallon (R)",
+   "winner": "Fallon",
+   "margin": -12.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:44:32.828Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-5": {
+   "candidates": "Hockett (D) vs Gooden (R)",
+   "winner": "Gooden",
+   "margin": -2.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T22:11:54.444Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-6": {
+   "candidates": "Minton (D) vs Ellzey (R)",
+   "winner": "Ellzey",
+   "margin": -4.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T07:20:02.967Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-7": {
+   "candidates": "Fletcher (D) vs Hale (R)",
+   "winner": "Fletcher",
+   "margin": 43.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:26:22.127Z",
+   "source": "AP election results feed",
+   "note": "99",
+   "winner_name": "Pannill Fletcher"
+  },
+  "TX-8": {
+   "candidates": "Jones (D) vs Steinmann (R)",
+   "winner": "Steinmann",
+   "margin": -6.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T06:08:38.787Z",
+   "source": "AP election results feed",
+   "note": "99",
+   "winner_name": "Hart Steinmann"
+  },
+  "TX-9": {
+   "candidates": "Gutierrez (D) vs Mealer (R)",
+   "winner": "Gutierrez",
+   "margin": 15.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T18:02:04.375Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-10": {
+   "candidates": "Rourk (D) vs Gober (R)",
+   "winner": "Gober",
+   "margin": -7.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T06:00:38.956Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-11": {
+   "candidates": "Reynolds (D) vs Pfluger (R)",
+   "winner": "Pfluger",
+   "margin": -19.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:36:11.524Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-12": {
+   "candidates": "Prilliman (D) vs Goldman (R)",
+   "winner": "Goldman",
+   "margin": -6.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T08:30:42.898Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-13": {
+   "candidates": "Nair (D) vs Jackson (R)",
+   "winner": "Jackson",
+   "margin": -30.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:58:26.347Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-14": {
+   "candidates": "Bartie (D) vs Weber (R)",
+   "winner": "Weber",
+   "margin": -8.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:41:14.100Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-15": {
+   "candidates": "Pulido (D) vs Cruz (R)",
+   "winner": "Pulido",
+   "margin": 24.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:37:33.656Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-16": {
+   "candidates": "Escobar (D) vs Bauman (R)",
+   "winner": "Escobar",
+   "margin": 41.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:08:20.730Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-17": {
+   "candidates": "Shepard (D) vs Sessions (R)",
+   "winner": "Sessions",
+   "margin": -7.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T06:59:29.171Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-18": {
+   "candidates": "Menefee (D) vs Whitfield (R)",
+   "winner": "Menefee",
+   "margin": 72.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:24:02.876Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "TX-19": {
+   "candidates": "Rable (D) vs Sell (R)",
+   "winner": "Sell",
+   "margin": -39.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:34:57.324Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-20": {
+   "candidates": "Castro (D) vs Baez (R)",
+   "winner": "Castro",
+   "margin": 55.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:52:52.580Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-21": {
+   "candidates": "Hook (D) vs Teixeira (R)",
+   "winner": "Teixeira",
+   "margin": -9.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:42:34.575Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-22": {
+   "candidates": "Greene-Scott (D) vs Nehls (R)",
+   "winner": "Nehls",
+   "margin": -3.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T22:12:10.165Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-23": {
+   "candidates": "Stout (D) vs Herrera (R)",
+   "winner": "Stout",
+   "margin": 8.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T06:05:50.409Z",
+   "source": "AP election results feed",
+   "note": "99",
+   "winner_name": "Padilla Stout"
+  },
+  "TX-24": {
+   "candidates": "Burge (D) vs Duyne (R)",
+   "winner": "Duyne",
+   "margin": -6.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T06:33:16.067Z",
+   "source": "AP election results feed",
+   "note": "99",
+   "winner_name": "Van Duyne"
+  },
+  "TX-25": {
+   "candidates": "Sims (D) vs Williams (R)",
+   "winner": "Williams",
+   "margin": -7.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T07:04:52.519Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-26": {
+   "candidates": "Shook (D) vs Gill (R)",
+   "winner": "Gill",
+   "margin": -10.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:47:37.881Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-27": {
+   "candidates": "Lloyd (D) vs Cloud (R)",
+   "winner": "Cloud",
+   "margin": -2.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T22:15:05.044Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-28": {
+   "candidates": "Cuellar (D) vs Tijerina (R)",
+   "winner": "Cuellar",
+   "margin": 36.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:31:08.827Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-29": {
+   "candidates": "Garcia (D) vs Fierro (R)",
+   "winner": "Garcia",
+   "margin": 59.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:27:51.201Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-30": {
+   "candidates": "Haynes (D) vs Jackson (R)",
+   "winner": "Haynes",
+   "margin": 65.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:12:34.238Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-31": {
+   "candidates": "Early (D) vs Carter (R)",
+   "winner": "Carter",
+   "margin": -9.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:37:40.890Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-32": {
+   "candidates": "Barrios (D) vs Yarbrough (R)",
+   "winner": "Yarbrough",
+   "margin": -2.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T22:12:21.225Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-33": {
+   "candidates": "Allred (D) vs Gillespie (R)",
+   "winner": "Allred",
+   "margin": 57.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:10:44.669Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-34": {
+   "candidates": "Gonzalez (D) vs Flores (R)",
+   "winner": "Gonzalez",
+   "margin": 15.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:51:38.471Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-35": {
+   "candidates": "Garcia (D) vs Cruz (R)",
+   "winner": "Garcia",
+   "margin": 10.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T06:23:57.344Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-36": {
+   "candidates": "Hart (D) vs Babin (R)",
+   "winner": "Babin",
+   "margin": -7.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T06:36:05.832Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-37": {
+   "candidates": "Casar (D) vs Pena (R)",
+   "winner": "Casar",
+   "margin": 67.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:56:17.985Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TX-38": {
+   "candidates": "McDonough (D) vs Bonck (R)",
+   "winner": "Bonck",
+   "margin": -4.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T22:12:40.074Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "OK-1": {
+   "candidates": "Croisant (D) vs Tedford (R)",
+   "winner": "Tedford",
+   "margin": -4.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:56:21.290Z",
+   "source": "AP election results feed",
+   "note": "100"
+  },
+  "OK-2": {
+   "candidates": "Wade (D) vs Brecheen (R)",
+   "winner": "Brecheen",
+   "margin": -39.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:49:16.735Z",
+   "source": "AP election results feed",
+   "note": "100"
+  },
+  "OK-3": {
+   "candidates": "Byrd (D) vs Lucas (R)",
+   "winner": "Lucas",
+   "margin": -27.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:59:48.663Z",
+   "source": "AP election results feed",
+   "note": "100"
+  },
+  "OK-4": {
+   "candidates": "Jacob (D) vs Cole (R)",
+   "winner": "Cole",
+   "margin": -18.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:19:54.574Z",
+   "source": "AP election results feed",
+   "note": "100"
+  },
+  "OK-5": {
+   "candidates": "Nelson (D) vs Bice (R)",
+   "winner": "Bice",
+   "margin": -1.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T22:10:38.344Z",
+   "source": "AP election results feed",
+   "note": "100"
+  },
+  "FL-1": {
+   "candidates": "Valimont (D) vs Patronis (R)",
+   "winner": "Patronis",
+   "margin": -26.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:35:27.858Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "FL-2": {
+   "candidates": "Green (D) vs Rogers (R)",
+   "winner": "Rogers",
+   "margin": -4.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:52:52.121Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "FL-3": {
+   "candidates": "Harp (D) vs Cammack (R)",
+   "winner": "Cammack",
+   "margin": -12.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:32:27.187Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "FL-4": {
+   "candidates": "Holloway (D) vs Bean (R)",
+   "winner": "Bean",
+   "margin": -2.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:51:37.500Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "FL-5": {
+   "candidates": "Grage (D) vs Rutherford (R)",
+   "winner": "Rutherford",
+   "margin": -12.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T00:38:45.451Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "FL-6": {
+   "candidates": "Yonce (D) vs Fine (R)",
+   "winner": "Fine",
+   "margin": -19.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:00:47.762Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "FL-7": {
+   "candidates": "Dalton (D) vs Elijah (R)",
+   "winner": "Elijah",
+   "margin": -0.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-10T19:09:20.705Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "FL-8": {
+   "candidates": "Jenkins (D) vs Haridopolos (R)",
+   "winner": "Haridopolos",
+   "margin": -6.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:01:58.406Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "FL-9": {
+   "candidates": "Soto (D) vs Green (R)",
+   "winner": "Soto",
+   "margin": 0.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-10T19:09:32.793Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "FL-11": {
+   "candidates": "Pericola (D) vs Strada (R)",
+   "winner": "Strada",
+   "margin": -6.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:05:15.254Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "FL-12": {
+   "candidates": "Overman (D) vs Bilirakis (R)",
+   "winner": "Bilirakis",
+   "margin": -6.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T00:59:41.659Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "FL-13": {
+   "candidates": "Gray (D) vs Luna (R)",
+   "winner": "Luna",
+   "margin": -0.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-05T19:38:55.301Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "FL-14": {
+   "candidates": "Castor (D) vs Beltran (R)",
+   "winner": "Castor",
+   "margin": 5.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:13:10.744Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "FL-15": {
+   "candidates": "People (D) vs Lee (R)",
+   "winner": "Lee",
+   "margin": -8.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:09:38.475Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "FL-16": {
+   "candidates": "Kirschner (D) vs Gruters (R)",
+   "winner": "Gruters",
+   "margin": -4.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:39:07.512Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "FL-17": {
+   "candidates": "Montavon (D) vs Steube (R)",
+   "winner": "Steube",
+   "margin": -18.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T00:46:58.943Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "FL-18": {
+   "candidates": "Gibson (D) vs Franklin (R)",
+   "winner": "Franklin",
+   "margin": -3.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:37:07.257Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "FL-19": {
+   "candidates": "Arias (D) vs Schwartzel (R)",
+   "winner": "Schwartzel",
+   "margin": -23.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T00:16:55.306Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "FL-20": {
+   "candidates": "Schultz (D) vs Andersen (R)",
+   "winner": "Schultz",
+   "margin": 52.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T00:09:03.412Z",
+   "source": "AP election results feed",
+   "note": "99",
+   "winner_name": "Wasserman Schultz"
+  },
+  "FL-21": {
+   "candidates": "Martin (D) vs Mast (R)",
+   "winner": "Mast",
+   "margin": -9.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:13:02.479Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "FL-22": {
+   "candidates": "Dandiya (D) vs Askar (R)",
+   "winner": "Dandiya",
+   "margin": 3.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:11:34.875Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "FL-23": {
+   "candidates": "Frankel (D) vs Adeimy (R)",
+   "winner": "Frankel",
+   "margin": 31.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T00:34:27.926Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "FL-24": {
+   "candidates": "Gilbert (D) vs Brown (R)",
+   "winner": "Gilbert",
+   "margin": 61.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T00:16:24.918Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "FL-25": {
+   "candidates": "Moskowitz (D) vs Singer (R)",
+   "winner": "Moskowitz",
+   "margin": 4.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:07:33.679Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "FL-26": {
+   "candidates": "Locklin (D) vs Diaz-Balart (R)",
+   "winner": "Diaz-Balart",
+   "margin": -0.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-09T21:32:50.569Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "FL-27": {
+   "candidates": "Rodriguez (D) vs Salazar (R)",
+   "winner": "Salazar",
+   "margin": -0.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-10T22:47:46.907Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "FL-28": {
+   "candidates": "Ehr (D) vs Gimenez (R)",
+   "winner": "Gimenez",
+   "margin": -7.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T00:55:15.431Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "GA-1": {
+   "candidates": "Hollowell (D) vs Kingston (R)",
+   "winner": "Kingston",
+   "margin": -2.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:14:38.399Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "GA-2": {
+   "candidates": "Bishop (D) vs Day (R)",
+   "winner": "Bishop",
+   "margin": 21.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T00:59:07.999Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "GA-3": {
+   "candidates": "Keller (D) vs Jack (R)",
+   "winner": "Jack",
+   "margin": -17.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:59:18.552Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "GA-4": {
+   "candidates": "Johnson (D) vs Duffie (R)",
+   "winner": "Johnson",
+   "margin": 65.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T00:38:33.758Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "GA-5": {
+   "candidates": "Williams (D) vs Salvesen (R)",
+   "winner": "Williams",
+   "margin": 80.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T00:24:24.416Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "GA-6": {
+   "candidates": "McBath (D) vs Martin (R)",
+   "winner": "McBath",
+   "margin": 61.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T00:34:12.075Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "GA-7": {
+   "candidates": "Kozycki (D) vs McCormick (R)",
+   "winner": "McCormick",
+   "margin": -12.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:32:39.318Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "GA-8": {
+   "candidates": "Esti (D) vs Scott (R)",
+   "winner": "Scott",
+   "margin": -20.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:28:13.912Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "GA-9": {
+   "candidates": "Gegen (D) vs Clyde (R)",
+   "winner": "Clyde",
+   "margin": -18.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:10:46.450Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "GA-10": {
+   "candidates": "DeLancy (D) vs Gaines (R)",
+   "winner": "Gaines",
+   "margin": -7.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:54:21.704Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "GA-11": {
+   "candidates": "Harden (D) vs Cowan (R)",
+   "winner": "Cowan",
+   "margin": -10.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:17:48.781Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "GA-12": {
+   "candidates": "Smith (D) vs Allen (R)",
+   "winner": "Allen",
+   "margin": -4.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:57:29.693Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "GA-13": {
+   "candidates": "Clark (D) vs Chavez (R)",
+   "winner": "Clark",
+   "margin": 59.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T00:21:31.239Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "GA-14": {
+   "candidates": "Harris (D) vs Fuller (R)",
+   "winner": "Fuller",
+   "margin": -17.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:55:35.989Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "NY-1": {
+   "candidates": "Gallant (D) vs LaLota (R)",
+   "winner": "LaLota",
+   "margin": -2.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-05T17:00:41.053Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "NY-2": {
+   "candidates": "Halpin (D) vs Garbarino (R)",
+   "winner": "Garbarino",
+   "margin": -3.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-05T17:00:30.832Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "NY-3": {
+   "candidates": "Suozzi (D) vs LiPetri (R)",
+   "winner": "Suozzi",
+   "margin": 10.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T19:04:10.881Z",
+   "source": "AP election results feed",
+   "note": "95"
+  },
+  "NY-4": {
+   "candidates": "Gillen (D) vs Driscoll (R)",
+   "winner": "Gillen",
+   "margin": 12.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T19:04:26.176Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "NY-5": {
+   "candidates": "Meeks (D) vs Marsh (R)",
+   "winner": "Meeks",
+   "margin": 61.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:05:56.054Z",
+   "source": "AP election results feed",
+   "note": "91"
+  },
+  "NY-6": {
+   "candidates": "Meng (D) vs Chou (R)",
+   "winner": "Meng",
+   "margin": 38.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:22:27.667Z",
+   "source": "AP election results feed",
+   "note": "88"
+  },
+  "NY-7": {
+   "candidates": "Valdez (D) vs Rivera (R)",
+   "winner": "Valdez",
+   "margin": 68.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:08:40.071Z",
+   "source": "AP election results feed",
+   "note": "88"
+  },
+  "NY-8": {
+   "candidates": "Jeffries (D) vs Mizrahi (R)",
+   "winner": "Jeffries",
+   "margin": 59.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:07:13.207Z",
+   "source": "AP election results feed",
+   "note": "87"
+  },
+  "NY-9": {
+   "candidates": "Clarke (D) vs Anabilah-Azumah (R)",
+   "winner": "Clarke",
+   "margin": 65.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:05:32.790Z",
+   "source": "AP election results feed",
+   "note": "87"
+  },
+  "NY-10": {
+   "candidates": "Lander (D) vs Moore (R)",
+   "winner": "Lander",
+   "margin": 67.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:05:13.644Z",
+   "source": "AP election results feed",
+   "note": "88"
+  },
+  "NY-11": {
+   "candidates": "DeCillis (D) vs Malliotakis (R)",
+   "winner": "Malliotakis",
+   "margin": -12.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:26:46.016Z",
+   "source": "AP election results feed",
+   "note": "91"
+  },
+  "NY-12": {
+   "candidates": "Lasher (D) vs Shinkle (R)",
+   "winner": "Lasher",
+   "margin": 57.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:04:50.543Z",
+   "source": "AP election results feed",
+   "note": "86"
+  },
+  "NY-13": {
+   "candidates": "Chevalier (D) vs Williams (R)",
+   "winner": "Chevalier",
+   "margin": 76.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:07:39.132Z",
+   "source": "AP election results feed",
+   "note": "90",
+   "winner_name": "Avila Chevalier"
+  },
+  "NY-14": {
+   "candidates": "Ocasio-Cortez (D) vs Hysenaj (R)",
+   "winner": "Ocasio-Cortez",
+   "margin": 56.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:06:26.257Z",
+   "source": "AP election results feed",
+   "note": "92"
+  },
+  "NY-15": {
+   "candidates": "Torres (D) vs Sapaskis (R)",
+   "winner": "Torres",
+   "margin": 66.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:08:00.258Z",
+   "source": "AP election results feed",
+   "note": "90"
+  },
+  "NY-16": {
+   "candidates": "Latimer (D) vs Cinquemani (R)",
+   "winner": "Latimer",
+   "margin": 51.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:31:50.028Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "NY-17": {
+   "candidates": "Conley (D) vs Lawler (R)",
+   "winner": "Conley",
+   "margin": 6.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-05T23:12:39.941Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "NY-18": {
+   "candidates": "Ryan (D) vs Auringer (R)",
+   "winner": "Ryan",
+   "margin": 25.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:37:09.718Z",
+   "source": "AP election results feed",
+   "note": "96"
+  },
+  "NY-19": {
+   "candidates": "Riley (D) vs Oberacker (R)",
+   "winner": "Riley",
+   "margin": 14.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:40:01.275Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "NY-20": {
+   "candidates": "Tonko (D) vs Ambrosio (R)",
+   "winner": "Tonko",
+   "margin": 27.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:40:40.251Z",
+   "source": "AP election results feed",
+   "note": "96"
+  },
+  "NY-21": {
+   "candidates": "Gendebien (D) vs Constantino (R)",
+   "winner": "Constantino",
+   "margin": -1.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-06T16:23:12.472Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "NY-22": {
+   "candidates": "Mannion (D) vs Buller (R)",
+   "winner": "Mannion",
+   "margin": 17.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:55:35.442Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "NY-23": {
+   "candidates": "Gies (D) vs Langworthy (R)",
+   "winner": "Langworthy",
+   "margin": -20.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:49:43.737Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "NY-24": {
+   "candidates": "Ellman (D) vs Tenney (R)",
+   "winner": "Tenney",
+   "margin": -20.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:11:11.671Z",
+   "source": "AP election results feed",
+   "note": "96"
+  },
+  "NY-25": {
+   "candidates": "Morelle (D) vs McIntyre (R)",
+   "winner": "Morelle",
+   "margin": 26.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:38:51.240Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "NY-26": {
+   "candidates": "Kennedy (D) vs Hannon (R)",
+   "winner": "Kennedy",
+   "margin": 32.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:53:41.461Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "NJ-1": {
+   "candidates": "Norcross (D) vs Galdo (R)",
+   "winner": "Norcross",
+   "margin": 40.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:17:19.543Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "NJ-2": {
+   "candidates": "Mullock (D) vs Drew (R)",
+   "winner": "Mullock",
+   "margin": 2.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-05T21:29:00.736Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "NJ-3": {
+   "candidates": "Conaway (D) vs McGuire (R)",
+   "winner": "Conaway",
+   "margin": 27.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:35:41.078Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "NJ-4": {
+   "candidates": "Peace (D) vs Smith (R)",
+   "winner": "Smith",
+   "margin": -18.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:23:29.661Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "NJ-5": {
+   "candidates": "Gottheimer (D) vs Kirrane (R)",
+   "winner": "Gottheimer",
+   "margin": 27.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:12:11.123Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "NJ-6": {
+   "candidates": "Pallone (D) vs Herzig (R)",
+   "winner": "Pallone",
+   "margin": 38.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:06:31.009Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "NJ-7": {
+   "candidates": "Bennett (D) vs Kean (R)",
+   "winner": "Bennett",
+   "margin": 16.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:48:17.933Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "NJ-9": {
+   "candidates": "Pou (D) vs Pino (R)",
+   "winner": "Pou",
+   "margin": 35.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:22:06.948Z",
+   "source": "AP election results feed",
+   "note": "96"
+  },
+  "NJ-10": {
+   "candidates": "McIver (D) vs Bucco (R)",
+   "winner": "McIver",
+   "margin": 69.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:22:28.493Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "NJ-11": {
+   "candidates": "Mejia (D) vs Hathaway (R)",
+   "winner": "Mejia",
+   "margin": 22.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:18:49.311Z",
+   "source": "AP election results feed",
+   "note": "96"
+  },
+  "NJ-12": {
+   "candidates": "Hamawy (D) vs Mele (R)",
+   "winner": "Hamawy",
+   "margin": 42.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:26:52.699Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "CT-1": {
+   "candidates": "Bronin (D) vs Chai (R)",
+   "winner": "Bronin",
+   "margin": 36.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:04:31.485Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "CT-2": {
+   "candidates": "Courtney (D) vs Austin (R)",
+   "winner": "Courtney",
+   "margin": 24.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:54:14.040Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "CT-3": {
+   "candidates": "DeLauro (D) vs Lancia (R)",
+   "winner": "DeLauro",
+   "margin": 25.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:42:04.756Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "CT-4": {
+   "candidates": "Himes (D) vs Goldstein (R)",
+   "winner": "Himes",
+   "margin": 33.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:55:14.618Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "CT-5": {
+   "candidates": "Hayes (D) vs Shea (R)",
+   "winner": "Hayes",
+   "margin": 15.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:59:57.219Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "PA-1": {
+   "candidates": "Harvie (D) vs Fitzpatrick (R)",
+   "winner": "Harvie",
+   "margin": 5.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:37:55.727Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "PA-2": {
+   "candidates": "Boyle (D) vs Arriaga (R)",
+   "winner": "Boyle",
+   "margin": 61.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:28:38.680Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "PA-4": {
+   "candidates": "Dean (D) vs Stuski (R)",
+   "winner": "Dean",
+   "margin": 34.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:48:29.148Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "PA-5": {
+   "candidates": "Scanlon (D) vs Manganaro (R)",
+   "winner": "Scanlon",
+   "margin": 44.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:44:53.714Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "PA-6": {
+   "candidates": "Houlahan (D) vs Young (R)",
+   "winner": "Houlahan",
+   "margin": 28.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:17:45.309Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "PA-7": {
+   "candidates": "Brooks (D) vs Mackenzie (R)",
+   "winner": "Brooks",
+   "margin": 12.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:27:45.871Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "PA-8": {
+   "candidates": "Cognetti (D) vs Bresnahan (R)",
+   "winner": "Cognetti",
+   "margin": 9.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:41:21.541Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "PA-9": {
+   "candidates": "Wallace (D) vs Meuser (R)",
+   "winner": "Meuser",
+   "margin": -23.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:31:29.246Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "PA-10": {
+   "candidates": "Stelson (D) vs Perry (R)",
+   "winner": "Stelson",
+   "margin": 10.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:41:44.934Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "PA-11": {
+   "candidates": "Mannion (D) vs Smucker (R)",
+   "winner": "Smucker",
+   "margin": -10.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:55:56.813Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "PA-12": {
+   "candidates": "Lee (D) vs Hayes (R)",
+   "winner": "Lee",
+   "margin": 31.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:46:45.265Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "PA-13": {
+   "candidates": "Farnham (D) vs Joyce (R)",
+   "winner": "Joyce",
+   "margin": -34.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:12:38.878Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "PA-14": {
+   "candidates": "Bradstock (D) vs Reschenthaler (R)",
+   "winner": "Reschenthaler",
+   "margin": -15.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:40:42.605Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "PA-15": {
+   "candidates": "Bilger (D) vs Thompson (R)",
+   "winner": "Thompson",
+   "margin": -27.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:28:58.884Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "PA-16": {
+   "candidates": "Wagner (D) vs Kelly (R)",
+   "winner": "Kelly",
+   "margin": -7.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:03:56.220Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "PA-17": {
+   "candidates": "Deluzio (D) vs Guy (R)",
+   "winner": "Deluzio",
+   "margin": 25.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:01:11.790Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "OH-1": {
+   "candidates": "Landsman (D) vs Conroy (R)",
+   "winner": "Landsman",
+   "margin": 11.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:35:01.840Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "OH-2": {
+   "candidates": "Mazzuckelli (D) vs Taylor (R)",
+   "winner": "Taylor",
+   "margin": -28.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:06:02.943Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "OH-3": {
+   "candidates": "Beatty (D) vs Dulaney (R)",
+   "winner": "Beatty",
+   "margin": 54.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T00:42:11.309Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "OH-4": {
+   "candidates": "Kolasinski (D) vs Jordan (R)",
+   "winner": "Jordan",
+   "margin": -33.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:58:47.082Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "OH-5": {
+   "candidates": "Shaver (D) vs Latta (R)",
+   "winner": "Latta",
+   "margin": -11.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:56:06.740Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "OH-6": {
+   "candidates": "Kirtley (D) vs Rulli (R)",
+   "winner": "Rulli",
+   "margin": -20.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:35:01.196Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "OH-7": {
+   "candidates": "Poindexter (D) vs Miller (R)",
+   "winner": "Poindexter",
+   "margin": 9.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T06:23:33.534Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "OH-8": {
+   "candidates": "Enoch (D) vs Davidson (R)",
+   "winner": "Davidson",
+   "margin": -4.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:03:49.925Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "OH-9": {
+   "candidates": "Kaptur (D) vs Merrin (R)",
+   "winner": "Kaptur",
+   "margin": 5.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T07:53:04.366Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "OH-10": {
+   "candidates": "Knickerbocker (D) vs Turner (R)",
+   "winner": "Knickerbocker",
+   "margin": 1.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-05T19:39:42.727Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "OH-11": {
+   "candidates": "Brown (D) vs Kirchner (R)",
+   "winner": "Brown",
+   "margin": 67.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T00:52:51.929Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "OH-12": {
+   "candidates": "Christian (D) vs Balderson (R)",
+   "winner": "Balderson",
+   "margin": -18.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:35:31.538Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "OH-13": {
+   "candidates": "Sykes (D) vs Coleman (R)",
+   "winner": "Sykes",
+   "margin": 21.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T00:48:02.013Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "OH-14": {
+   "candidates": "Jukic (D) vs Joyce (R)",
+   "winner": "Joyce",
+   "margin": -10.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:06:01.335Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "OH-15": {
+   "candidates": "Leonard (D) vs Carey (R)",
+   "winner": "Leonard",
+   "margin": 6.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:52:04.969Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "WV-1": {
+   "candidates": "George (D) vs Miller (R)",
+   "winner": "Miller",
+   "margin": -17.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:20:50.935Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "WV-2": {
+   "candidates": "Parsi (D) vs Moore (R)",
+   "winner": "Moore",
+   "margin": -18.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:22:21.433Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "KY-1": {
+   "candidates": "Williams (D) vs Comer (R)",
+   "winner": "Comer",
+   "margin": -35.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T00:56:30.063Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "KY-2": {
+   "candidates": "Wingfield (D) vs Guthrie (R)",
+   "winner": "Guthrie",
+   "margin": -27.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:42:38.829Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "KY-3": {
+   "candidates": "McGarvey (D) vs Rodriguez (R)",
+   "winner": "McGarvey",
+   "margin": 40.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T00:03:20.762Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "KY-4": {
+   "candidates": "Strange (D) vs Gallrein (R)",
+   "winner": "Gallrein",
+   "margin": -13.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:43:12.412Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "KY-5": {
+   "candidates": "Pillersdorf (D) vs Rogers (R)",
+   "winner": "Rogers",
+   "margin": -45.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T00:00:02.966Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "KY-6": {
+   "candidates": "Dembo (D) vs Alvarado (R)",
+   "winner": "Dembo",
+   "margin": 9.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:16:11.543Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "IL-1": {
+   "candidates": "Jackson (D) vs Maxwell (R)",
+   "winner": "Jackson",
+   "margin": 43.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:58:49.240Z",
+   "source": "AP election results feed",
+   "note": "95"
+  },
+  "IL-2": {
+   "candidates": "Miller (D) vs Noack (R)",
+   "winner": "Miller",
+   "margin": 45.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:55:27.549Z",
+   "source": "AP election results feed",
+   "note": "95"
+  },
+  "IL-3": {
+   "candidates": "Ramirez (D) vs Oakley (R)",
+   "winner": "Ramirez",
+   "margin": 54.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:00:08.631Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "IL-4": {
+   "candidates": "Garcia (D) vs Castillo (R)",
+   "winner": "Garcia",
+   "margin": 55.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:42:38.129Z",
+   "source": "AP election results feed",
+   "note": "95"
+  },
+  "IL-5": {
+   "candidates": "Quigley (D) vs Hanson (R)",
+   "winner": "Quigley",
+   "margin": 54.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:09:33.222Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "IL-6": {
+   "candidates": "Casten (D) vs Conforti (R)",
+   "winner": "Casten",
+   "margin": 25.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:37:12.313Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "IL-7": {
+   "candidates": "Ford (D) vs Koppie (R)",
+   "winner": "Ford",
+   "margin": 78.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:54:24.491Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "IL-8": {
+   "candidates": "Bean (D) vs Davis (R)",
+   "winner": "Bean",
+   "margin": 28.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:31:20.001Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "IL-9": {
+   "candidates": "Biss (D) vs Elleson (R)",
+   "winner": "Biss",
+   "margin": 53.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:50:30.692Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "IL-10": {
+   "candidates": "Schneider (D) vs Lambrecht (R)",
+   "winner": "Schneider",
+   "margin": 40.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:02:02.144Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "IL-11": {
+   "candidates": "Foster (D) vs Walter (R)",
+   "winner": "Foster",
+   "margin": 28.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:38:07.068Z",
+   "source": "AP election results feed",
+   "note": "96"
+  },
+  "IL-12": {
+   "candidates": "Fortier (D) vs Bost (R)",
+   "winner": "Bost",
+   "margin": -39.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:15:40.102Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "IL-13": {
+   "candidates": "Budzinski (D) vs Wilson (R)",
+   "winner": "Budzinski",
+   "margin": 25.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:45:46.210Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "IL-14": {
+   "candidates": "Underwood (D) vs Marter (R)",
+   "winner": "Underwood",
+   "margin": 25.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:34:13.213Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "IL-15": {
+   "candidates": "Todd (D) vs Miller (R)",
+   "winner": "Miller",
+   "margin": -33.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:40:28.377Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "IL-16": {
+   "candidates": "Nolley (D) vs LaHood (R)",
+   "winner": "LaHood",
+   "margin": -17.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:01:09.857Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "IL-17": {
+   "candidates": "Sorensen (D) vs Vancil (R)",
+   "winner": "Sorensen",
+   "margin": 20.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:48:31.642Z",
+   "source": "AP election results feed",
+   "note": "95"
+  },
+  "IN-1": {
+   "candidates": "Mrvan (D) vs Regnitz (R)",
+   "winner": "Mrvan",
+   "margin": 26.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:18:26.184Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "IN-2": {
+   "candidates": "Decio (D) vs Yakym (R)",
+   "winner": "Yakym",
+   "margin": -5.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T07:54:36.982Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "IN-3": {
+   "candidates": "Thompson (D) vs Stutzman (R)",
+   "winner": "Stutzman",
+   "margin": -9.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:05:08.960Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "IN-4": {
+   "candidates": "Cox (D) vs Baird (R)",
+   "winner": "Baird",
+   "margin": -8.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:44:26.877Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "IN-5": {
+   "candidates": "Ford (D) vs Spartz (R)",
+   "winner": "Ford",
+   "margin": 3.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T06:03:32.370Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "IN-6": {
+   "candidates": "Wirth (D) vs Shreve (R)",
+   "winner": "Shreve",
+   "margin": -10.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:43:25.931Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "IN-7": {
+   "candidates": "Carson (D) vs McAuley (R)",
+   "winner": "Carson",
+   "margin": 56.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:38:28.530Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "IN-8": {
+   "candidates": "Allen (D) vs Messmer (R)",
+   "winner": "Messmer",
+   "margin": -10.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:21:38.269Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "IN-9": {
+   "candidates": "Meyer (D) vs Houchin (R)",
+   "winner": "Houchin",
+   "margin": -10.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:50:56.091Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MI-1": {
+   "candidates": "Barr (D) vs Bergman (R)",
+   "winner": "Bergman",
+   "margin": -9.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T06:09:29.238Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "MI-2": {
+   "candidates": "Ambrose (D) vs Moolenaar (R)",
+   "winner": "Moolenaar",
+   "margin": -24.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:45:52.252Z",
+   "source": "AP election results feed",
+   "note": "95"
+  },
+  "MI-3": {
+   "candidates": "Scholten (D) vs DeBoer (R)",
+   "winner": "Scholten",
+   "margin": 15.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:54:25.475Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MI-4": {
+   "candidates": "McCann (D) vs Huizenga (R)",
+   "winner": "McCann",
+   "margin": 1.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T18:13:09.652Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "MI-5": {
+   "candidates": "Vukasovich (D) vs Walberg (R)",
+   "winner": "Walberg",
+   "margin": -20.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:11:51.058Z",
+   "source": "AP election results feed",
+   "note": "95"
+  },
+  "MI-6": {
+   "candidates": "Dingell (D) vs Smiley (R)",
+   "winner": "Dingell",
+   "margin": 37.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:32:48.802Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MI-7": {
+   "candidates": "Lawrence (D) vs Barrett (R)",
+   "winner": "Lawrence",
+   "margin": 3.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T19:05:49.862Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "MI-8": {
+   "candidates": "Rivet (D) vs Smith (R)",
+   "winner": "Rivet",
+   "margin": 13.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T06:30:33.290Z",
+   "source": "AP election results feed",
+   "note": "98",
+   "winner_name": "McDonald Rivet"
+  },
+  "MI-9": {
+   "candidates": "Pooley (D) vs McClain (R)",
+   "winner": "McClain",
+   "margin": -27.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:45:00.652Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MI-10": {
+   "candidates": "Hines (D) vs Bouchard (R)",
+   "winner": "Hines",
+   "margin": 7.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T17:26:10.023Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MI-11": {
+   "candidates": "Moss (D) vs Baker (R)",
+   "winner": "Moss",
+   "margin": 24.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:23:26.129Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MI-12": {
+   "candidates": "Tlaib (D) vs Hooper (R)",
+   "winner": "Tlaib",
+   "margin": 54.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:55:52.635Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "MI-13": {
+   "candidates": "McKinney (D) vs Nykoriak (R)",
+   "winner": "McKinney",
+   "margin": 56.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:33:07.745Z",
+   "source": "AP election results feed",
+   "note": "69"
+  },
+  "WI-1": {
+   "candidates": "Berman (D) vs Steil (R)",
+   "winner": "Berman",
+   "margin": 3.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:48:24.571Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "WI-3": {
+   "candidates": "Cooke (D) vs Orden (R)",
+   "winner": "Cooke",
+   "margin": 6.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:48:40.114Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "WI-4": {
+   "candidates": "Moore (D) vs Rogers (R)",
+   "winner": "Moore",
+   "margin": 62.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:49:38.622Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "WI-5": {
+   "candidates": "Beck (D) vs Fitzgerald (R)",
+   "winner": "Fitzgerald",
+   "margin": -18.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:14:43.861Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "WI-6": {
+   "candidates": "Smith (D) vs Grothman (R)",
+   "winner": "Grothman",
+   "margin": -9.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:35:42.980Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "WI-7": {
+   "candidates": "Clark (D) vs Alfonso (R)",
+   "winner": "Alfonso",
+   "margin": -12.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:02:12.771Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "WI-8": {
+   "candidates": "Crosson (D) vs Wied (R)",
+   "winner": "Wied",
+   "margin": -7.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:01:22.295Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "NC-1": {
+   "candidates": "Davis (D) vs Buckhout (R)",
+   "winner": "Davis",
+   "margin": 3.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-05T16:58:36.782Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "NC-2": {
+   "candidates": "Ross (D) vs Douglass (R)",
+   "winner": "Ross",
+   "margin": 51.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:24:28.657Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "NC-3": {
+   "candidates": "Smith (D) vs Murphy (R)",
+   "winner": null,
+   "margin": null,
+   "status": "pending",
+   "called_by": null,
+   "called_at": null,
+   "source": null,
+   "note": "99"
+  },
+  "NC-4": {
+   "candidates": "Foushee (D) vs Ganorkar (R)",
+   "winner": "Foushee",
+   "margin": 60.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:24:37.306Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "NC-5": {
+   "candidates": "Hubbard (D) vs Foxx (R)",
+   "winner": null,
+   "margin": null,
+   "status": "pending",
+   "called_by": null,
+   "called_at": null,
+   "source": null,
+   "note": "99"
+  },
+  "NC-6": {
+   "candidates": "Jefferson (D) vs McDowell (R)",
+   "winner": "Jefferson",
+   "margin": 2.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-05T16:58:47.607Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "NC-7": {
+   "candidates": "Hardy (D) vs Rouzer (R)",
+   "winner": null,
+   "margin": null,
+   "status": "pending",
+   "called_by": null,
+   "called_at": null,
+   "source": null,
+   "note": "99"
+  },
+  "NC-8": {
+   "candidates": "Watson (D) vs Harris (R)",
+   "winner": "Harris",
+   "margin": -1.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-06T21:34:34.599Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "NC-9": {
+   "candidates": "Ojeda (D) vs Hudson (R)",
+   "winner": "Ojeda",
+   "margin": 2.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-05T19:39:21.200Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "NC-10": {
+   "candidates": "Bell (D) vs Harrigan (R)",
+   "winner": null,
+   "margin": null,
+   "status": "pending",
+   "called_by": null,
+   "called_at": null,
+   "source": null,
+   "note": "99"
+  },
+  "NC-11": {
+   "candidates": "Ager (D) vs Balkcom (R)",
+   "winner": "Ager",
+   "margin": 15.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:53:13.100Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "NC-12": {
+   "candidates": "Adams (D) vs Codiga (R)",
+   "winner": "Adams",
+   "margin": 62.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:25:03.636Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "NC-13": {
+   "candidates": "Barringer (D) vs Knott (R)",
+   "winner": "Barringer",
+   "margin": 2.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-05T16:59:02.063Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "NC-14": {
+   "candidates": "Womack (D) vs Moore (R)",
+   "winner": "Womack",
+   "margin": 2.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-05T16:59:11.444Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "VA-1": {
+   "candidates": "Taylor (D) vs Wittman (R)",
+   "winner": "Taylor",
+   "margin": 2.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-05T16:59:33.672Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "VA-2": {
+   "candidates": "Luria (D) vs Kiggans (R)",
+   "winner": "Luria",
+   "margin": 8.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:47:25.620Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "VA-3": {
+   "candidates": "Scott (D) vs Rivera (R)",
+   "winner": "Scott",
+   "margin": 48.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:08:23.968Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "VA-4": {
+   "candidates": "McClellan (D) vs Murray (R)",
+   "winner": "McClellan",
+   "margin": 46.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:33:41.774Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "VA-5": {
+   "candidates": "Perriello (D) vs McGuire (R)",
+   "winner": "McGuire",
+   "margin": -2.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-05T16:59:42.774Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "VA-6": {
+   "candidates": "Macy (D) vs Cline (R)",
+   "winner": "Cline",
+   "margin": -10.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:10:30.669Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "VA-7": {
+   "candidates": "Vindman (D) vs Ollivant (R)",
+   "winner": "Vindman",
+   "margin": 22.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:40:22.097Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "VA-8": {
+   "candidates": "Beyer (D) vs Sabio (R)",
+   "winner": "Beyer",
+   "margin": 61.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:05:22.460Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "VA-9": {
+   "candidates": "Powers (D) vs Griffith (R)",
+   "winner": "Griffith",
+   "margin": -31.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:29:35.869Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "VA-10": {
+   "candidates": "Subramanyam (D) vs Beckwith (R)",
+   "winner": "Subramanyam",
+   "margin": 25.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:03:36.123Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "VA-11": {
+   "candidates": "Walkinshaw (D) vs Purves (R)",
+   "winner": "Walkinshaw",
+   "margin": 50.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:10:56.310Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "SC-1": {
+   "candidates": "Lacore (D) vs Honeycutt (R)",
+   "winner": "Lacore",
+   "margin": 1.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-06T23:51:45.093Z",
+   "source": "AP election results feed",
+   "note": "100"
+  },
+  "SC-2": {
+   "candidates": "Khalifa (D) vs Wilson (R)",
+   "winner": "Wilson",
+   "margin": -0.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-11T16:10:55.281Z",
+   "source": "AP election results feed",
+   "note": "100"
+  },
+  "SC-3": {
+   "candidates": "Lehmacher (D) vs Biggs (R)",
+   "winner": "Biggs",
+   "margin": -29.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:33:41.525Z",
+   "source": "AP election results feed",
+   "note": "100"
+  },
+  "SC-4": {
+   "candidates": "McClain (D) vs Timmons (R)",
+   "winner": "Timmons",
+   "margin": -6.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:00:13.551Z",
+   "source": "AP election results feed",
+   "note": "100"
+  },
+  "SC-5": {
+   "candidates": "Dittmer (D) vs Climer (R)",
+   "winner": "Climer",
+   "margin": -5.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:08:28.022Z",
+   "source": "AP election results feed",
+   "note": "100"
+  },
+  "SC-6": {
+   "candidates": "Clyburn (D) vs Peterson (R)",
+   "winner": "Clyburn",
+   "margin": 38.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:37:40.885Z",
+   "source": "AP election results feed",
+   "note": "100"
+  },
+  "SC-7": {
+   "candidates": "Vincent (D) vs Fry (R)",
+   "winner": "Fry",
+   "margin": -13.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:13:04.127Z",
+   "source": "AP election results feed",
+   "note": "100"
+  },
+  "TN-1": {
+   "candidates": "Burke (D) vs Harshbarger (R)",
+   "winner": "Harshbarger",
+   "margin": -37.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:29:44.553Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TN-2": {
+   "candidates": "Barnett (D) vs Burchett (R)",
+   "winner": "Burchett",
+   "margin": -16.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:06:32.433Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TN-3": {
+   "candidates": "Golladay (D) vs Fleischmann (R)",
+   "winner": "Fleischmann",
+   "margin": -17.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:40:05.919Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "TN-4": {
+   "candidates": "Broderick (D) vs DesJarlais (R)",
+   "winner": null,
+   "margin": null,
+   "status": "pending",
+   "called_by": null,
+   "called_at": null,
+   "source": null,
+   "note": "99"
+  },
+  "TN-5": {
+   "candidates": "Molder (D) vs Hatcher (R)",
+   "winner": "Hatcher",
+   "margin": -4.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:17:15.428Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TN-6": {
+   "candidates": "Croley (D) vs Garrett (R)",
+   "winner": "Garrett",
+   "margin": -3.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:16:48.755Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TN-7": {
+   "candidates": "Copeland (D) vs Epps (R)",
+   "winner": "Epps",
+   "margin": -2.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-05T17:01:14.324Z",
+   "source": "AP election results feed",
+   "note": "99",
+   "winner_name": "Van Epps"
+  },
+  "TN-8": {
+   "candidates": "Kuhn (D) vs Kustoff (R)",
+   "winner": "Kustoff",
+   "margin": -5.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:16:19.424Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "TN-9": {
+   "candidates": "Pearson (D) vs Taylor (R)",
+   "winner": "Taylor",
+   "margin": -1.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-05T19:40:13.354Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MD-1": {
+   "candidates": "Schwartz (D) vs Harris (R)",
+   "winner": "Harris",
+   "margin": -6.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:42:01.021Z",
+   "source": "AP election results feed",
+   "note": "92"
+  },
+  "MD-2": {
+   "candidates": "Olszewski (D) vs Wallace (R)",
+   "winner": "Olszewski",
+   "margin": 27.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:53:45.295Z",
+   "source": "AP election results feed",
+   "note": "88"
+  },
+  "MD-3": {
+   "candidates": "Elfreth (D) vs Flowers (R)",
+   "winner": "Elfreth",
+   "margin": 34.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:37:47.259Z",
+   "source": "AP election results feed",
+   "note": "92"
+  },
+  "MD-4": {
+   "candidates": "Ivey (D) vs McDermott (R)",
+   "winner": "Ivey",
+   "margin": 83.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:33:43.345Z",
+   "source": "AP election results feed",
+   "note": "85"
+  },
+  "MD-5": {
+   "candidates": "Boafo (D) vs Chaffee (R)",
+   "winner": "Boafo",
+   "margin": 40.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:32:37.874Z",
+   "source": "AP election results feed",
+   "note": "92"
+  },
+  "MD-6": {
+   "candidates": "Delaney (D) vs Ficker (R)",
+   "winner": "Delaney",
+   "margin": 19.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:23:09.099Z",
+   "source": "AP election results feed",
+   "note": "91",
+   "winner_name": "McClain Delaney"
+  },
+  "MD-7": {
+   "candidates": "Mfume (D) vs Collier (R)",
+   "winner": "Mfume",
+   "margin": 69.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:27:18.793Z",
+   "source": "AP election results feed",
+   "note": "86"
+  },
+  "MD-8": {
+   "candidates": "Raskin (D) vs Riley (R)",
+   "winner": "Raskin",
+   "margin": 67.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:15:23.355Z",
+   "source": "AP election results feed",
+   "note": "81"
+  },
+  "DE-AL": {
+   "candidates": "McBride (D) vs Arminio (R)",
+   "winner": "McBride",
+   "margin": 28.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:50:26.609Z",
+   "source": "AP election results feed",
+   "note": "100"
+  },
+  "AZ-1": {
+   "candidates": "Shah (D) vs Feely (R)",
+   "winner": "Shah",
+   "margin": 7.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-05T17:02:49.849Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "AZ-2": {
+   "candidates": "Nez (D) vs Crane (R)",
+   "winner": "Crane",
+   "margin": -1.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-09T17:53:43.059Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "AZ-3": {
+   "candidates": "Ansari (D) vs Parkman (R)",
+   "winner": "Ansari",
+   "margin": 86.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:09:42.232Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "AZ-4": {
+   "candidates": "Stanton (D) vs Jasser (R)",
+   "winner": "Stanton",
+   "margin": 27.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:10:56.841Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "AZ-5": {
+   "candidates": "Lee (D) vs Lamb (R)",
+   "winner": "Lamb",
+   "margin": -3.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-06T16:25:33.037Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "AZ-6": {
+   "candidates": "Mendoza (D) vs Ciscomani (R)",
+   "winner": "Mendoza",
+   "margin": 8.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-05T19:38:13.062Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "AZ-7": {
+   "candidates": "Grijalva (D) vs Butierez (R)",
+   "winner": "Grijalva",
+   "margin": 43.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:11:34.250Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "AZ-8": {
+   "candidates": "Greene-Placentia (D) vs Hamadeh (R)",
+   "winner": "Hamadeh",
+   "margin": -2.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-06T18:25:34.538Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "AZ-9": {
+   "candidates": "Sterbinsky (D) vs Gosar (R)",
+   "winner": "Gosar",
+   "margin": -15.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T08:45:30.365Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "CO-1": {
+   "candidates": "Kiros (D) vs Peterson (R)",
+   "winner": "Kiros",
+   "margin": 64.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:22:24.627Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "CO-2": {
+   "candidates": "Neguse (D) vs Dennison (R)",
+   "winner": "Neguse",
+   "margin": 51.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:34:10.952Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "CO-3": {
+   "candidates": "Romero (D) vs Hurd (R)",
+   "winner": "Hurd",
+   "margin": -1.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-06T16:24:39.416Z",
+   "source": "AP election results feed",
+   "note": "96"
+  },
+  "CO-4": {
+   "candidates": "Laubacher (D) vs Boebert (R)",
+   "winner": null,
+   "margin": null,
+   "status": "pending",
+   "called_by": null,
+   "called_at": null,
+   "source": null,
+   "note": "98"
+  },
+  "CO-5": {
+   "candidates": "Killin (D) vs Crank (R)",
+   "winner": "Killin",
+   "margin": 4.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-05T19:38:34.112Z",
+   "source": "AP election results feed",
+   "note": "95"
+  },
+  "CO-6": {
+   "candidates": "Crow (D) vs Clark (R)",
+   "winner": "Crow",
+   "margin": 34.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:32:27.790Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "CO-7": {
+   "candidates": "Pettersen (D) vs Bennett (R)",
+   "winner": "Pettersen",
+   "margin": 24.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:12:06.684Z",
+   "source": "AP election results feed",
+   "note": "96"
+  },
+  "CO-8": {
+   "candidates": "Rutinel (D) vs Evans (R)",
+   "winner": "Rutinel",
+   "margin": 14.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:49:24.111Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "NV-1": {
+   "candidates": "Titus (D) vs Buck (R)",
+   "winner": "Titus",
+   "margin": 21.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T09:00:54.107Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "NV-2": {
+   "candidates": "Benitez-Thompson (D) vs Flippo (R)",
+   "winner": "Benitez-Thompson",
+   "margin": 5.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-05T02:29:25.426Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "NV-3": {
+   "candidates": "Lee (D) vs O'Donnell (R)",
+   "winner": "Lee",
+   "margin": 21.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T09:04:34.029Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "NV-4": {
+   "candidates": "Horsford (D) vs Whipple (R)",
+   "winner": "Horsford",
+   "margin": 22.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T08:53:17.226Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "NM-1": {
+   "candidates": "Stansbury (D) vs Okpareke (R)",
+   "winner": "Stansbury",
+   "margin": 27.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:07:37.574Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "NM-2": {
+   "candidates": "Vasquez (D) vs Cunningham (R)",
+   "winner": "Vasquez",
+   "margin": 17.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:12:37.370Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "NM-3": {
+   "candidates": "Fernández (D) vs Zamora (R)",
+   "winner": "Fernández",
+   "margin": 23.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:19:47.209Z",
+   "source": "AP election results feed",
+   "note": "98",
+   "winner_name": "Leger Fernandez"
+  },
+  "UT-1": {
+   "candidates": "McAdams (D) vs Owen (R)",
+   "winner": "McAdams",
+   "margin": 43.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:26:32.273Z",
+   "source": "AP election results feed",
+   "note": "96"
+  },
+  "UT-2": {
+   "candidates": "Crosby (D) vs Moore (R)",
+   "winner": "Moore",
+   "margin": -7.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-05T17:02:26.384Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "UT-3": {
+   "candidates": "Udell (D) vs Maloy (R)",
+   "winner": "Maloy",
+   "margin": -21.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:03:50.989Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "UT-4": {
+   "candidates": "Larsen (D) vs Kennedy (R)",
+   "winner": "Kennedy",
+   "margin": -14.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-06T01:43:45.319Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "ID-1": {
+   "candidates": "Peterson (D) vs Fulcher (R)",
+   "winner": "Fulcher",
+   "margin": -35.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:43:54.852Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "ID-2": {
+   "candidates": "Gilbreath (D) vs Simpson (R)",
+   "winner": "Simpson",
+   "margin": -11.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T08:49:18.630Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MT-1": {
+   "candidates": "Forstag (D) vs Flint (R)",
+   "winner": "Forstag",
+   "margin": 3.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-05T17:02:04.546Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MT-2": {
+   "candidates": "Miller (D) vs Downing (R)",
+   "winner": "Downing",
+   "margin": -25.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:18:51.791Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "WY-AL": {
+   "candidates": "Kinney (D) vs Gray (R)",
+   "winner": "Gray",
+   "margin": -20.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:40:29.036Z",
+   "source": "AP election results feed",
+   "note": "100"
+  },
+  "WA-1": {
+   "candidates": "DelBene (D) vs Silva (R)",
+   "winner": "DelBene",
+   "margin": 35.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:38:49.721Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "WA-2": {
+   "candidates": "Larsen (D) vs Feller (R)",
+   "winner": "Larsen",
+   "margin": 33.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:38:38.046Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "WA-3": {
+   "candidates": "Perez (D) vs Braun (R)",
+   "winner": "Perez",
+   "margin": 8.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T18:04:01.273Z",
+   "source": "AP election results feed",
+   "note": "98",
+   "winner_name": "Gluesenkamp Perez"
+  },
+  "WA-4": {
+   "candidates": "Duresky (D) vs McKinney (R)",
+   "winner": "McKinney",
+   "margin": -8.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-06T01:44:28.825Z",
+   "source": "AP election results feed",
+   "note": "96"
+  },
+  "WA-5": {
+   "candidates": "Conroy (D) vs Baumgartner (R)",
+   "winner": "Baumgartner",
+   "margin": -3.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-10T01:36:52.302Z",
+   "source": "AP election results feed",
+   "note": "92"
+  },
+  "WA-6": {
+   "candidates": "Randall (D) vs Fox (R)",
+   "winner": "Randall",
+   "margin": 25.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:20:50.781Z",
+   "source": "AP election results feed",
+   "note": "94"
+  },
+  "WA-7": {
+   "candidates": "Jayapal (D) vs Sheth (R)",
+   "winner": "Jayapal",
+   "margin": 75.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:17:15.277Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "WA-8": {
+   "candidates": "Schrier (D) vs Meline (R)",
+   "winner": "Schrier",
+   "margin": 14.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:54:58.455Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "WA-9": {
+   "candidates": "Smith (D) vs Basler (R)",
+   "winner": "Smith",
+   "margin": 51.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:17:09.856Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "WA-10": {
+   "candidates": "Strickland (D) vs Chung (R)",
+   "winner": "Strickland",
+   "margin": 28.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:21:09.952Z",
+   "source": "AP election results feed",
+   "note": "96"
+  },
+  "OR-1": {
+   "candidates": "Bonamici (D) vs Kahl (R)",
+   "winner": "Bonamici",
+   "margin": 42.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:22:06.403Z",
+   "source": "AP election results feed",
+   "note": "92"
+  },
+  "OR-2": {
+   "candidates": "Beck (D) vs Bentz (R)",
+   "winner": "Bentz",
+   "margin": -23.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:32:52.740Z",
+   "source": "AP election results feed",
+   "note": "95"
+  },
+  "OR-3": {
+   "candidates": "Dexter (D) vs Ayles (R)",
+   "winner": "Dexter",
+   "margin": 54.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:12:15.832Z",
+   "source": "AP election results feed",
+   "note": "96"
+  },
+  "OR-4": {
+   "candidates": "Hoyle (D) vs DeSpain (R)",
+   "winner": "Hoyle",
+   "margin": 10.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T06:09:38.872Z",
+   "source": "AP election results feed",
+   "note": "96"
+  },
+  "OR-5": {
+   "candidates": "Bynum (D) vs Adair (R)",
+   "winner": "Bynum",
+   "margin": 10.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T06:24:39.485Z",
+   "source": "AP election results feed",
+   "note": "95"
+  },
+  "OR-6": {
+   "candidates": "Salinas (D) vs Russ (R)",
+   "winner": "Salinas",
+   "margin": 16.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T06:48:14.873Z",
+   "source": "AP election results feed",
+   "note": "89"
+  },
+  "AK-AL": {
+   "candidates": "Hill (I) vs Begich (R)",
+   "winner": null,
+   "margin": null,
+   "status": "pending",
+   "called_by": null,
+   "called_at": null,
+   "source": null,
+   "note": "86"
+  },
+  "HI-1": {
+   "candidates": "Case (D) vs Lam (R)",
+   "winner": "Case",
+   "margin": 48.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T06:21:07.633Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "HI-2": {
+   "candidates": "Tokuda (D) vs Awa (R)",
+   "winner": "Tokuda",
+   "margin": 33.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T06:18:30.825Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MN-1": {
+   "candidates": "Johnson (D) vs Finstad (R)",
+   "winner": null,
+   "margin": null,
+   "status": "pending",
+   "called_by": null,
+   "called_at": null,
+   "source": null,
+   "note": "99"
+  },
+  "MN-2": {
+   "candidates": "Little (D) vs Pratt (R)",
+   "winner": "Little",
+   "margin": 14.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:32:43.386Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MN-3": {
+   "candidates": "Morrison (D) vs Bass (R)",
+   "winner": "Morrison",
+   "margin": 28.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:05:19.114Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MN-4": {
+   "candidates": "McCollum (D) vs Wikstrom (R)",
+   "winner": "McCollum",
+   "margin": 46.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:06:09.267Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MN-5": {
+   "candidates": "Omar (D) vs Nagel (R)",
+   "winner": "Omar",
+   "margin": 60.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:04:45.354Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MN-6": {
+   "candidates": "Chapin (D) vs Emmer (R)",
+   "winner": "Emmer",
+   "margin": -11.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T06:42:19.677Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MN-7": {
+   "candidates": "Osberg (D) vs Fischbach (R)",
+   "winner": "Fischbach",
+   "margin": -29.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:08:00.798Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MN-8": {
+   "candidates": "Swanson (D) vs Stauber (R)",
+   "winner": "Stauber",
+   "margin": -6.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T07:11:54.417Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "IA-1": {
+   "candidates": "Bohannan (D) vs Miller-Meeks (R)",
+   "winner": "Bohannan",
+   "margin": 9.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:08:30.903Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "IA-2": {
+   "candidates": "James (D) vs Mitchell (R)",
+   "winner": "James",
+   "margin": 4.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:19:55.506Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "IA-3": {
+   "candidates": "Garriott (D) vs Nunn (R)",
+   "winner": "Garriott",
+   "margin": 7.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:03:37.503Z",
+   "source": "AP election results feed",
+   "note": "99",
+   "winner_name": "Trone Garriott"
+  },
+  "IA-4": {
+   "candidates": "Dawson (D) vs McGowan (R)",
+   "winner": "McGowan",
+   "margin": -18.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:33:34.046Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MA-3": {
+   "candidates": "Trahan (D) vs Grossi (R)",
+   "winner": "Trahan",
+   "margin": 36.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:18:11.300Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MA-4": {
+   "candidates": "Auchincloss (D) vs Stalcup (R)",
+   "winner": "Auchincloss",
+   "margin": 32.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:39:36.475Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MA-6": {
+   "candidates": "Koh (D) vs Jones (R)",
+   "winner": "Koh",
+   "margin": 26.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:24:39.483Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MA-8": {
+   "candidates": "Lynch (D) vs Burke (R)",
+   "winner": "Lynch",
+   "margin": 42.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:45:28.721Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MA-9": {
+   "candidates": "Keating (D) vs MacAllister (R)",
+   "winner": "Keating",
+   "margin": 21.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:27:54.454Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "ME-1": {
+   "candidates": "Pingree (D) vs Russell (R)",
+   "winner": "Pingree",
+   "margin": 31.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:18:52.586Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "ME-2": {
+   "candidates": "Dunlap (D) vs LePage (R)",
+   "winner": null,
+   "margin": null,
+   "status": "pending",
+   "called_by": null,
+   "called_at": null,
+   "source": null,
+   "note": "98"
+  },
+  "NH-1": {
+   "candidates": "Shaheen (D) vs DiLorenzo (R)",
+   "winner": "Shaheen",
+   "margin": 14.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:21:46.377Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "NH-2": {
+   "candidates": "Goodlander (D) vs Williams (R)",
+   "winner": "Goodlander",
+   "margin": 20.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:05:53.943Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "RI-1": {
+   "candidates": "Amo (D) vs Keenan (R)",
+   "winner": "Amo",
+   "margin": 41.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:32:15.576Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "RI-2": {
+   "candidates": "Magaziner (D) vs Mellor (R)",
+   "winner": "Magaziner",
+   "margin": 24.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:36:03.351Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "VT-AL": {
+   "candidates": "Balint (D) vs Malloy (R)",
+   "winner": "Balint",
+   "margin": 34.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T00:41:47.560Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MO-1": {
+   "candidates": "Bell (D) vs Berry (R)",
+   "winner": "Bell",
+   "margin": 67.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:37:01.159Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MO-2": {
+   "candidates": "Wellman (D) vs Wagner (R)",
+   "winner": "Wellman",
+   "margin": 4.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:57:28.710Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MO-3": {
+   "candidates": "Mann (D) vs Onder (R)",
+   "winner": "Onder",
+   "margin": -8.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:02:07.426Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MO-4": {
+   "candidates": "Herrera (D) vs Alford (R)",
+   "winner": "Alford",
+   "margin": -26.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:40:45.992Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MO-5": {
+   "candidates": "Cleaver (D) vs Brattin (R)",
+   "winner": "Cleaver",
+   "margin": 41.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:54:13.351Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MO-6": {
+   "candidates": "Smead (D) vs Stigall (R)",
+   "winner": "Stigall",
+   "margin": -19.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:48:42.995Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MO-7": {
+   "candidates": "Hesketh (D) vs Burlison (R)",
+   "winner": "Burlison",
+   "margin": -26.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:40:28.629Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MO-8": {
+   "candidates": "Reichard (D) vs Smith (R)",
+   "winner": "Smith",
+   "margin": -38.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:36:52.160Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "KS-1": {
+   "candidates": "Reinhold (D) vs Mann (R)",
+   "winner": "Mann",
+   "margin": -21.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:13:55.358Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "KS-2": {
+   "candidates": "Coover (D) vs Schmidt (R)",
+   "winner": "Schmidt",
+   "margin": -6.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:26:31.787Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "KS-3": {
+   "candidates": "Davids (D) vs Jenkins (R)",
+   "winner": "Davids",
+   "margin": 21.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:08:30.390Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "KS-4": {
+   "candidates": "Tyndell (D) vs Estes (R)",
+   "winner": "Estes",
+   "margin": -9.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:10:21.984Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "NE-1": {
+   "candidates": "Backemeyer (D) vs Flood (R)",
+   "winner": "Flood",
+   "margin": -3.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T22:11:11.832Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "NE-2": {
+   "candidates": "Powell (D) vs Harding (R)",
+   "winner": "Powell",
+   "margin": 16.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:57:07.866Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "NE-3": {
+   "candidates": "Stille (D) vs Smith (R)",
+   "winner": "Smith",
+   "margin": -51.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:08:48.912Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "ND-AL": {
+   "candidates": "Hammer (D) vs Fedorchak (R)",
+   "winner": "Fedorchak",
+   "margin": -20.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:56:13.495Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "SD-AL": {
+   "candidates": "Gronli (D) vs Jackley (R)",
+   "winner": "Jackley",
+   "margin": -28.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:03:59.912Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "AL-1": {
+   "candidates": "Jones (D) vs Carl (R)",
+   "winner": "Carl",
+   "margin": -18.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:15:20.379Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "AL-2": {
+   "candidates": "Figures (D) vs Marques (R)",
+   "winner": "Figures",
+   "margin": 7.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:00:23.554Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "AL-3": {
+   "candidates": "McInnis (D) vs Rogers (R)",
+   "winner": "Rogers",
+   "margin": -27.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:10:41.072Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "AL-4": {
+   "candidates": "Pusczek (D) vs Aderholt (R)",
+   "winner": "Aderholt",
+   "margin": -49.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:33:00.516Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "AL-5": {
+   "candidates": "Sneed (D) vs Strong (R)",
+   "winner": "Strong",
+   "margin": -6.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:03:26.672Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "AL-6": {
+   "candidates": "Mercer (D) vs Palmer (R)",
+   "winner": "Palmer",
+   "margin": -14.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:00:53.608Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "AL-7": {
+   "candidates": "Sewell (D) vs Akin (R)",
+   "winner": "Sewell",
+   "margin": 38.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:24:01.827Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MS-1": {
+   "candidates": "Johnson (D) vs Kelly (R)",
+   "winner": "Kelly",
+   "margin": -18.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:05:36.317Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "MS-2": {
+   "candidates": "Thompson (D) vs Eller (R)",
+   "winner": "Thompson",
+   "margin": 37.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:45:41.646Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MS-3": {
+   "candidates": "Chiaradio (D) vs Guest (R)",
+   "winner": "Guest",
+   "margin": -16.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:21:31.654Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "MS-4": {
+   "candidates": "Hulum (D) vs Ezell (R)",
+   "winner": "Ezell",
+   "margin": -25.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:45:53.947Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "LA-1": {
+   "candidates": "Jewett (D) vs Arrington (R)",
+   "winner": "Arrington",
+   "margin": -30.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:58:50.646Z",
+   "source": "AP election results feed",
+   "note": "99",
+   "winner_name": "Scalise"
+  },
+  "LA-2": {
+   "candidates": "Collins (D) vs Williams (R)",
+   "winner": "Collins",
+   "margin": 64.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:47:33.690Z",
+   "source": "AP election results feed",
+   "note": "99",
+   "winner_name": "Carter"
+  },
+  "LA-3": {
+   "candidates": "Walker (D) vs Cotten (R)",
+   "winner": "Cotten",
+   "margin": -25.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:38:54.393Z",
+   "source": "AP election results feed",
+   "note": "99",
+   "winner_name": "Higgins"
+  },
+  "LA-4": {
+   "candidates": "Gromlich (D) vs Nichols (R)",
+   "winner": "Nichols",
+   "margin": -25.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:43:34.764Z",
+   "source": "AP election results feed",
+   "note": "99",
+   "winner_name": "Johnson"
+  },
+  "LA-5": {
+   "candidates": "Wilson (D) vs Magee (R)",
+   "winner": null,
+   "margin": null,
+   "status": "pending",
+   "called_by": null,
+   "called_at": null,
+   "source": null,
+   "note": "99"
+  },
+  "LA-6": {
+   "candidates": "Garcia (D) vs Wagley (R)",
+   "winner": null,
+   "margin": null,
+   "status": "pending",
+   "called_by": null,
+   "called_at": null,
+   "source": null,
+   "note": "99"
+  },
+  "AR-1": {
+   "candidates": "Green (D) vs Crawford (R)",
+   "winner": "Crawford",
+   "margin": -34.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:18:30.366Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "AR-2": {
+   "candidates": "Jones (D) vs Hill (R)",
+   "winner": "Hill",
+   "margin": -1.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-05T17:01:35.527Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "AR-3": {
+   "candidates": "Ryerse (D) vs Womack (R)",
+   "winner": "Womack",
+   "margin": -13.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:48:41.905Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "AR-4": {
+   "candidates": "Russell (D) vs Westerman (R)",
+   "winner": "Westerman",
+   "margin": -31.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:17:44.240Z",
+   "source": "AP election results feed",
+   "note": "99"
+  }
+ },
+ "governors": {
+  "Alabama": {
+   "candidates": "Jones (D) vs Tuberville (R)",
+   "winner": "Tuberville",
+   "margin": -4.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T06:36:23.346Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Alaska": {
+   "candidates": "Kreiss-Tomkins (D) vs Wilson (R)",
+   "winner": null,
+   "margin": null,
+   "status": "pending",
+   "called_by": null,
+   "called_at": null,
+   "source": null,
+   "note": "86"
+  },
+  "Arizona": {
+   "candidates": "Hobbs (D) vs Biggs (R)",
+   "winner": "Hobbs",
+   "margin": 13.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T08:20:43.985Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Arkansas": {
+   "candidates": "Love (D) vs Sanders (R)",
+   "winner": "Sanders",
+   "margin": -15.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:40:20.136Z",
+   "source": "AP election results feed",
+   "note": "99",
+   "winner_name": "Huckabee Sanders"
+  },
+  "California": {
+   "candidates": "Becerra (D) vs Hilton (R)",
+   "winner": "Becerra",
+   "margin": 31.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:00:05.615Z",
+   "source": "AP election results feed",
+   "note": "89"
+  },
+  "Colorado": {
+   "candidates": "Weiser (D) vs Marx (R)",
+   "winner": "Weiser",
+   "margin": 27.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:00:32.286Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "Connecticut": {
+   "candidates": "Lamont (D) vs Fazio (R)",
+   "winner": "Lamont",
+   "margin": 19.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:17:10.065Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "Florida": {
+   "candidates": "Jolly (D) vs Donalds (R)",
+   "winner": "Donalds",
+   "margin": -1.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:09:14.952Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Georgia": {
+   "candidates": "Bottoms (D) vs Jackson (R)",
+   "winner": "Bottoms",
+   "margin": 8.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:24:08.323Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Hawaii": {
+   "candidates": "Green (D) vs Cordery (R)",
+   "winner": "Green",
+   "margin": 45.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:00:11.283Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Idaho": {
+   "candidates": "Pickens (D) vs Little (R)",
+   "winner": "Little",
+   "margin": -24.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:36:13.223Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Illinois": {
+   "candidates": "Pritzker (D) vs Bailey (R)",
+   "winner": "Pritzker",
+   "margin": 24.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:00:40.195Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "Iowa": {
+   "candidates": "Sand (D) vs Lahn (R)",
+   "winner": "Sand",
+   "margin": 11.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:12:21.264Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Kansas": {
+   "candidates": "Holscher (D) vs Masterson (R)",
+   "winner": null,
+   "margin": null,
+   "status": "pending",
+   "called_by": null,
+   "called_at": null,
+   "source": null,
+   "note": "99"
+  },
+  "Maine": {
+   "candidates": "Pingree (D) vs Charles (R)",
+   "winner": "Pingree",
+   "margin": 17.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:29:21.708Z",
+   "source": "AP election results feed",
+   "note": "97"
+  },
+  "Maryland": {
+   "candidates": "Moore (D) vs Cox (R)",
+   "winner": "Moore",
+   "margin": 32.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:01:47.008Z",
+   "source": "AP election results feed",
+   "note": "88"
+  },
+  "Massachusetts": {
+   "candidates": "Healey (D) vs Minogue (R)",
+   "winner": "Healey",
+   "margin": 27.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:01:28.205Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Michigan": {
+   "candidates": "Benson (D) vs James (R)",
+   "winner": "Benson",
+   "margin": 10.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T06:45:21.077Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "Minnesota": {
+   "candidates": "Klobuchar (D) vs Demuth (R)",
+   "winner": "Klobuchar",
+   "margin": 12.8,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:07:26.279Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Nebraska": {
+   "candidates": "Walz (D) vs Pillen (R)",
+   "winner": "Pillen",
+   "margin": -7.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T07:53:54.147Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "Nevada": {
+   "candidates": "Ford (D) vs Lombardo (R)",
+   "winner": "Ford",
+   "margin": 7.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T09:46:36.197Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "New Hampshire": {
+   "candidates": "Warmington (D) vs Ayotte (R)",
+   "winner": "Ayotte",
+   "margin": -4.3,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:42:29.910Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "New Mexico": {
+   "candidates": "Haaland (D) vs Hull (R)",
+   "winner": "Haaland",
+   "margin": 14.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:40:44.095Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "New York": {
+   "candidates": "Hochul (D) vs Blakeman (R)",
+   "winner": "Hochul",
+   "margin": 19.7,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:00:05.888Z",
+   "source": "AP election results feed",
+   "note": "95"
+  },
+  "Ohio": {
+   "candidates": "Acton (D) vs Ramaswamy (R)",
+   "winner": "Acton",
+   "margin": 7.9,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T03:49:08.000Z",
+   "source": "AP election results feed",
+   "note": "98"
+  },
+  "Oklahoma": {
+   "candidates": "Munson (D) vs Mazzei (R)",
+   "winner": "Mazzei",
+   "margin": -6.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:46:46.516Z",
+   "source": "AP election results feed",
+   "note": "100"
+  },
+  "Oregon": {
+   "candidates": "Kotek (D) vs Drazan (R)",
+   "winner": "Kotek",
+   "margin": 9.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T08:49:19.497Z",
+   "source": "AP election results feed",
+   "note": "94"
+  },
+  "Pennsylvania": {
+   "candidates": "Shapiro (D) vs Garrity (R)",
+   "winner": "Shapiro",
+   "margin": 22.2,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:01:56.195Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Rhode Island": {
+   "candidates": "Foulkes (D) vs Block (I)",
+   "winner": "Foulkes",
+   "margin": 30.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T01:32:37.260Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "South Carolina": {
+   "candidates": "Johnson (D) vs Wilson (R)",
+   "winner": "Wilson",
+   "margin": -4.4,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:35:52.176Z",
+   "source": "AP election results feed",
+   "note": "100"
+  },
+  "South Dakota": {
+   "candidates": "Ahlers (D) vs Rhoden (R)",
+   "winner": "Rhoden",
+   "margin": -27.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:45:56.644Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Tennessee": {
+   "candidates": "Green (D) vs Blackburn (R)",
+   "winner": "Blackburn",
+   "margin": -2.5,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:43:19.886Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Texas": {
+   "candidates": "Hinojosa (D) vs Abbott (R)",
+   "winner": "Hinojosa",
+   "margin": 7.1,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:17:30.287Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Vermont": {
+   "candidates": "Janoo (D) vs Scott (R)",
+   "winner": "Scott",
+   "margin": -6.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T05:35:27.269Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Wisconsin": {
+   "candidates": "Crowley (D) vs Tiffany (R)",
+   "winner": "Crowley",
+   "margin": 8.0,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T04:28:00.184Z",
+   "source": "AP election results feed",
+   "note": "99"
+  },
+  "Wyoming": {
+   "candidates": "Casner (D) vs Barlow (R)",
+   "winner": "Barlow",
+   "margin": -53.6,
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-04T02:00:20.399Z",
+   "source": "AP election results feed",
+   "note": "100"
+  }
+ }
+}

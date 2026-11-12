@@ -1,0 +1,3707 @@
+{
+ "sources": {
+  "cook": {
+   "date": "2026-11-02 (House & Senate final ratings); 2026-10-27 (Governor final ratings; Wikipedia table labels it Oct 29)",
+   "urls": [
+    "https://www.cookpolitical.com/ratings/house-race-ratings",
+    "https://www.cookpolitical.com/ratings/senate-race-ratings",
+    "https://www.cookpolitical.com/ratings/governor-race-ratings",
+    "https://cookpolitical.com/index.php/analysis/house/house-overview/final-house-ratings-democrats-poised-expand-majority-10-15-seats (title as indexed; content not retrievable, 403)",
+    "https://x.com/Redistrict/status/2117366771003118046",
+    "https://x.com/Redistrict/status/2117366341674189024",
+    "https://thecookpoliticalreport.substack.com/p/two-governors-race-ratings-move-in",
+    "https://www.cookpolitical.com/analysis/governors/2026-final-governors-ratings",
+    "https://politicalwire.com/2026/11/02/michigan-moves-to-lean-democrat/",
+    "https://www.270towin.com/2026-house-election/table/cook-political-report-2026-house-ratings/",
+    "https://www.270towin.com/2026-senate-election/cook-political-report-2026-senate",
+    "https://www.270towin.com/2026-governor-election/cook-political-report-2026-governor"
+   ],
+   "notes": "cookpolitical.com returns 403 to scripted fetches and Wayback content fetch was rate-blocked. Ratings taken from Wikipedia prediction tables (Senate col dated Nov 2, House Nov 2, Gov Oct 29) and cross-checked race-by-race against 270toWin Cook maps (Senate/Gov maps labelled \"November 2: Final 2026 ratings\"; House table \"As of November 2, 2026\"): 100% agreement. Final House update (Nov 2) shifted FL-4, NC-7, NC-14, TN-9, VA-5 toward Dems (Wasserman). Final Senate update (Nov 2) moved Michigan Toss Up -> Lean D. Final Governor update (Oct 27, Substack \"final 2026 CPR Governor Race Ratings\"): Kansas Lean R -> Toss Up, Nebraska Likely R -> Lean R."
+  },
+  "sabato": {
+   "date": "2026-11-02",
+   "urls": [
+    "https://centerforpolitics.org/crystalball/2026finalratings/",
+    "https://sabatoscrystalball.substack.com/p/the-final-2026-ratings-democrats",
+    "https://centerforpolitics.org/crystalball/2026-house/",
+    "https://centerforpolitics.org/crystalball/2026-senate/",
+    "https://centerforpolitics.org/crystalball/2026-governor/",
+    "https://x.com/JMilesColeman/status/2117300742881259585",
+    "https://yellowhammernews.com/sabatos-crystal-ball-moves-alabamas-2nd-district-to-leans-democratic-in-final-2026-ratings/",
+    "https://www.270towin.com/2026-house-election/table/crystal-ball-2026-house-forecast/",
+    "https://www.270towin.com/2026-senate-election/sabatos-crystal-ball-senate-2026",
+    "https://www.270towin.com/2026-governor-election/sabatos-crystal-ball-2026-governor"
+   ],
+   "notes": "\"THE FINAL 2026 RATINGS: Democrats Favored to Capture House, Senate, and Gubernatorial Majorities\" (Kondik & Coleman), Mon Nov 2, 2026. Yes: Toss-ups eliminated in every chamber; zero Toss-ups remain in Wikipedia and 270toWin Sabato tables. House: \"leaned the bulk of the final Toss-ups to Democrats\", last batch broke 14-3 to Leans D. Senate: Iowa was \"the one Toss-up race where we feel the best about Republicans\" -> Leans R; Kansas, Texas, Ohio, Maine -> Leans D. Governors: GA and NV (the only Toss-ups) -> Leans D; Alaska Leans D -> Likely D; NH added to Leans R; Louisiana Senate flagged Leans R. centerforpolitics.org returns 403; ratings from Wikipedia + 270toWin (100% agreement), text via Substack copy."
+  },
+  "inside": {
+   "date": "2026-10-29",
+   "urls": [
+    "https://insideelections.com/ratings/house",
+    "https://insideelections.com/ratings/senate",
+    "https://insideelections.com/ratings/governor",
+    "https://rollcall.com/2026/10/31/midterm-elections-race-rating-changes/",
+    "https://gvwire.com/2026/11/03/as-election-day-voting-begins-heres-what-the-battle-for-congress-looks-like/",
+    "https://www.270towin.com/2026-house-election/table/inside-elections-2026-house-ratings/",
+    "https://www.270towin.com/2026-senate-election/inside-elections-2026-senate-ratings",
+    "https://www.270towin.com/2026-governor-election/inside-elections-governor-2026"
+   ],
+   "notes": "Final ratings released the week of Oct 26 (Wikipedia & 270toWin House table: Oct 29, 2026); Roll Call (Oct 31) \"Final rating changes: 63 races move toward Democrats, 1 toward Republicans\" lists all 64 changes (45 House, 9 Senate, 10 Gov). 270toWin labels its IE Senate/Gov maps \"November 2: Final 2026 ratings\" (likely 270toWin's entry date; ratings identical). No IE update after Oct 29 found. insideelections.com returns 403; ratings from Wikipedia + 270toWin (100% agreement), changes confirmed against Roll Call list."
+  }
+ },
+ "senate": {
+  "Alaska": {
+   "cook": "Toss-up",
+   "sabato": "Lean D (flip)",
+   "inside": "Toss-up",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Toss-up",
+    "sabato": "Lean D",
+    "inside": "Toss-up"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "Arkansas": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R (2026-10-20)",
+    "sabato": "Safe R (2026-10-14)",
+    "inside": "Solid R (2026-10-15)"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "Delaware": {
+   "cook": "Solid D",
+   "sabato": "Safe D",
+   "inside": "Solid D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid D (2026-10-20)",
+    "sabato": "Safe D (2026-10-14)",
+    "inside": "Solid D (2026-10-15)"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "Florida": {
+   "cook": "Likely R",
+   "sabato": "Likely R",
+   "inside": "Likely R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Likely R"
+   },
+   "changed_from_mid_oct": [
+    "cook: Solid R -> Likely R",
+    "sabato: Safe R -> Likely R"
+   ],
+   "notes": "Wikipedia row: Florida (special)"
+  },
+  "Georgia": {
+   "cook": "Likely D",
+   "sabato": "Likely D",
+   "inside": "Likely D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely D",
+    "sabato": "Likely D",
+    "inside": "Lean D"
+   },
+   "changed_from_mid_oct": [
+    "inside: Lean D -> Likely D"
+   ],
+   "notes": ""
+  },
+  "Idaho": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "Illinois": {
+   "cook": "Solid D",
+   "sabato": "Safe D",
+   "inside": "Solid D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid D (2026-10-20)",
+    "sabato": "Safe D (2026-10-14)",
+    "inside": "Solid D (2026-10-15)"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "Iowa": {
+   "cook": "Toss-up",
+   "sabato": "Lean R",
+   "inside": "Toss-up",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Toss-up",
+    "sabato": "Toss-up",
+    "inside": "Tilt R"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Toss-up -> Lean R",
+    "inside: Tilt R -> Toss-up"
+   ],
+   "notes": ""
+  },
+  "Kansas": {
+   "cook": "Toss-up",
+   "sabato": "Lean D (flip)",
+   "inside": "Toss-up",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Toss-up",
+    "sabato": "Toss-up",
+    "inside": "Tilt R"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Toss-up -> Lean D (flip)",
+    "inside: Tilt R -> Toss-up"
+   ],
+   "notes": ""
+  },
+  "Kentucky": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R (2026-10-20)",
+    "sabato": "Safe R (2026-10-14)",
+    "inside": "Solid R (2026-10-15)"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "Louisiana": {
+   "cook": "Solid R",
+   "sabato": "Lean R",
+   "inside": "Likely R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R (2026-10-20)",
+    "sabato": "Safe R (2026-10-14)",
+    "inside": "Solid R (2026-10-15)"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Safe R (2026-10-14) -> Lean R",
+    "inside: Solid R (2026-10-15) -> Likely R"
+   ],
+   "notes": ""
+  },
+  "Maine": {
+   "cook": "Toss-up",
+   "sabato": "Lean D (flip)",
+   "inside": "Toss-up",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Toss-up",
+    "sabato": "Toss-up",
+    "inside": "Toss-up"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Toss-up -> Lean D (flip)"
+   ],
+   "notes": ""
+  },
+  "Michigan": {
+   "cook": "Lean D",
+   "sabato": "Lean D",
+   "inside": "Tilt D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Toss-up",
+    "sabato": "Lean D",
+    "inside": "Tilt D"
+   },
+   "changed_from_mid_oct": [
+    "cook: Toss-up -> Lean D"
+   ],
+   "notes": ""
+  },
+  "Minnesota": {
+   "cook": "Lean D",
+   "sabato": "Likely D",
+   "inside": "Lean D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean D",
+    "sabato": "Lean D",
+    "inside": "Lean D"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Lean D -> Likely D"
+   ],
+   "notes": ""
+  },
+  "Mississippi": {
+   "cook": "Likely R",
+   "sabato": "Likely R",
+   "inside": "Likely R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely R (2026-10-20)",
+    "sabato": "Likely R (2026-10-14)",
+    "inside": "Solid R (2026-10-15)"
+   },
+   "changed_from_mid_oct": [
+    "inside: Solid R (2026-10-15) -> Likely R"
+   ],
+   "notes": ""
+  },
+  "Montana": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "Nebraska": {
+   "cook": "Lean R",
+   "sabato": "Lean R",
+   "inside": "Tilt R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely R",
+    "sabato": "Lean R",
+    "inside": "Lean R"
+   },
+   "changed_from_mid_oct": [
+    "cook: Likely R -> Lean R",
+    "inside: Lean R -> Tilt R"
+   ],
+   "notes": ""
+  },
+  "New Hampshire": {
+   "cook": "Lean D",
+   "sabato": "Likely D",
+   "inside": "Tilt D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean D",
+    "sabato": "Likely D",
+    "inside": "Tilt D"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "New Jersey": {
+   "cook": "Solid D",
+   "sabato": "Safe D",
+   "inside": "Solid D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid D (2026-10-20)",
+    "sabato": "Safe D (2026-10-14)",
+    "inside": "Solid D (2026-10-15)"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "North Carolina": {
+   "cook": "Likely D (flip)",
+   "sabato": "Likely D (flip)",
+   "inside": "Lean D (flip)",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely D (flip)",
+    "sabato": "Lean D (flip)",
+    "inside": "Lean D (flip)"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Lean D (flip) -> Likely D (flip)"
+   ],
+   "notes": ""
+  },
+  "Ohio": {
+   "cook": "Toss-up",
+   "sabato": "Lean D (flip)",
+   "inside": "Tilt D (flip)",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Toss-up",
+    "sabato": "Toss-up",
+    "inside": "Toss-up"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Toss-up -> Lean D (flip)",
+    "inside: Toss-up -> Tilt D (flip)"
+   ],
+   "notes": "Wikipedia row: Ohio (special)"
+  },
+  "Oregon": {
+   "cook": "Solid D",
+   "sabato": "Safe D",
+   "inside": "Solid D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid D (2026-10-06)",
+    "sabato": "Safe D (2026-10-14)",
+    "inside": "Solid D (2026-10-15)"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "South Carolina": {
+   "cook": "Lean R",
+   "sabato": "Lean R",
+   "inside": "Tilt R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean R",
+    "sabato": "Likely R",
+    "inside": "Lean R"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Likely R -> Lean R",
+    "inside: Lean R -> Tilt R"
+   ],
+   "notes": ""
+  },
+  "South Dakota": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "Texas": {
+   "cook": "Toss-up",
+   "sabato": "Lean D (flip)",
+   "inside": "Tilt D (flip)",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Toss-up",
+    "sabato": "Toss-up",
+    "inside": "Toss-up"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Toss-up -> Lean D (flip)",
+    "inside: Toss-up -> Tilt D (flip)"
+   ],
+   "notes": ""
+  }
+ },
+ "house": {
+  "CA-5": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "CA-13": {
+   "cook": "Likely D",
+   "sabato": "Likely D",
+   "inside": "Tilt D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely D",
+    "sabato": "Likely D",
+    "inside": "Tilt D"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "CA-21": {
+   "cook": "Solid D",
+   "sabato": "Likely D",
+   "inside": "Solid D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid D",
+    "sabato": "Likely D",
+    "inside": "Solid D"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "CA-22": {
+   "cook": "Toss-up",
+   "sabato": "Lean D (flip)",
+   "inside": "Toss-up",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Toss-up",
+    "sabato": "Lean D (flip)",
+    "inside": "Toss-up"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "CA-23": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "270toWin rater maps (all three maps code CA-23 as Safe R; absent from Wikipedia competitive table)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": "270toWin uses a generic \"Safe R\" label; recorded in each rater's native wording (Cook/IE \"Solid\", Sabato \"Safe\"). No Wikipedia state-level prediction table for CA-23."
+  },
+  "CA-45": {
+   "cook": "Likely D",
+   "sabato": "Likely D",
+   "inside": "Solid D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely D",
+    "sabato": "Likely D",
+    "inside": "Likely D"
+   },
+   "changed_from_mid_oct": [
+    "inside: Likely D -> Solid D"
+   ],
+   "notes": ""
+  },
+  "CA-48": {
+   "cook": "Lean D (flip)",
+   "sabato": "Likely D (flip)",
+   "inside": "Tilt D (flip)",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean D (flip)",
+    "sabato": "Likely D (flip)",
+    "inside": "Tilt D (flip)"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "TX-3": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki (state page) + 270toWin rater maps (Safe, not in competitive tables)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "TX-5": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "TX-6": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki (state page) + 270toWin rater maps (Safe, not in competitive tables)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "TX-9": {
+   "cook": "Likely R (flip)",
+   "sabato": "Likely R (flip)",
+   "inside": "Lean R (flip)",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely R",
+    "sabato": "Likely R",
+    "inside": "Likely R"
+   },
+   "changed_from_mid_oct": [
+    "inside: Likely R -> Lean R (flip)"
+   ],
+   "notes": ""
+  },
+  "TX-10": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "TX-12": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki (state page) + 270toWin rater maps (Safe, not in competitive tables)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "TX-14": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki (state page) + 270toWin rater maps (Safe, not in competitive tables)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "TX-15": {
+   "cook": "Toss-up",
+   "sabato": "Lean D (flip)",
+   "inside": "Tilt D (flip)",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Toss-up",
+    "sabato": "Toss-up",
+    "inside": "Toss-up"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Toss-up -> Lean D (flip)",
+    "inside: Toss-up -> Tilt D (flip)"
+   ],
+   "notes": ""
+  },
+  "TX-17": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "TX-21": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "TX-22": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "TX-23": {
+   "cook": "Lean R",
+   "sabato": "Lean R",
+   "inside": "Likely R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean R",
+    "sabato": "Lean R",
+    "inside": "Likely R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "TX-24": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "TX-25": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki (state page) + 270toWin rater maps (Safe, not in competitive tables)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "TX-26": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki (state page) + 270toWin rater maps (Safe, not in competitive tables)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "TX-27": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "TX-28": {
+   "cook": "Likely D",
+   "sabato": "Lean D",
+   "inside": "Lean D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely D",
+    "sabato": "Lean D",
+    "inside": "Tilt D"
+   },
+   "changed_from_mid_oct": [
+    "inside: Tilt D -> Lean D"
+   ],
+   "notes": ""
+  },
+  "TX-31": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "TX-32": {
+   "cook": "Solid R (flip)",
+   "sabato": "Safe R (flip)",
+   "inside": "Solid R (flip)",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "TX-34": {
+   "cook": "Lean D",
+   "sabato": "Lean D",
+   "inside": "Toss-up",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean D",
+    "sabato": "Lean D",
+    "inside": "Toss-up"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "TX-35": {
+   "cook": "Toss-up",
+   "sabato": "Lean D",
+   "inside": "Toss-up",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Toss-up",
+    "sabato": "Toss-up",
+    "inside": "Lean R"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Toss-up -> Lean D",
+    "inside: Lean R -> Toss-up"
+   ],
+   "notes": ""
+  },
+  "TX-38": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "OK-1": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "OK-5": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Likely R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [
+    "inside: Solid R -> Likely R"
+   ],
+   "notes": ""
+  },
+  "FL-2": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "FL-4": {
+   "cook": "Likely R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [
+    "cook: Solid R -> Likely R"
+   ],
+   "notes": ""
+  },
+  "FL-7": {
+   "cook": "Lean R",
+   "sabato": "Lean R",
+   "inside": "Likely R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely R (Aug 13, 2026)",
+    "sabato": "Likely R (Aug 10, 2026)",
+    "inside": "Likely R (Aug 20, 2026)"
+   },
+   "changed_from_mid_oct": [
+    "cook: Likely R (Aug 13, 2026) -> Lean R",
+    "sabato: Likely R (Aug 10, 2026) -> Lean R"
+   ],
+   "notes": ""
+  },
+  "FL-8": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R (Feb 2025; possibly stale)",
+    "sabato": "Safe R (Apr 2025)",
+    "inside": "Solid R (May 5, 2026)"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "FL-9": {
+   "cook": "Lean R (flip)",
+   "sabato": "Lean R (flip)",
+   "inside": "Likely R (flip)",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely R (Sep 11, 2026)",
+    "sabato": "Likely R (Sep 22, 2026)",
+    "inside": "Likely R (Sep 17, 2026)"
+   },
+   "changed_from_mid_oct": [
+    "cook: Likely R (Sep 11, 2026) -> Lean R (flip)",
+    "sabato: Likely R (Sep 22, 2026) -> Lean R (flip)"
+   ],
+   "notes": ""
+  },
+  "FL-11": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "FL-12": {
+   "cook": "Solid R",
+   "sabato": "Likely R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R (Feb 2025; possibly stale)",
+    "sabato": "Likely R (May 4, 2026)",
+    "inside": "Solid R (May 5, 2026)"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "FL-13": {
+   "cook": "Lean R",
+   "sabato": "Lean R",
+   "inside": "Lean R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean R (Sep 25, 2026)",
+    "sabato": "Likely R (Apr 2025)",
+    "inside": "Lean R (Oct 1, 2026)"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Likely R (Apr 2025) -> Lean R"
+   ],
+   "notes": ""
+  },
+  "FL-14": {
+   "cook": "Toss-up",
+   "sabato": "Lean D",
+   "inside": "Tilt D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Toss-up (Aug 25, 2026)",
+    "sabato": "Toss-up (Aug 26, 2026)",
+    "inside": "Toss-up (Sep 17, 2026)"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Toss-up (Aug 26, 2026) -> Lean D",
+    "inside: Toss-up (Sep 17, 2026) -> Tilt D"
+   ],
+   "notes": ""
+  },
+  "FL-15": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "FL-16": {
+   "cook": "Likely R",
+   "sabato": "Likely R",
+   "inside": "Likely R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely R (Oct 16, 2026)",
+    "sabato": "Likely R (May 4, 2026)",
+    "inside": "Likely R (Sep 17, 2026)"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "FL-17": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "FL-18": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "FL-21": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "FL-22": {
+   "cook": "Toss-up",
+   "sabato": "Lean D",
+   "inside": "Toss-up",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Toss-up (Sep 25, 2026)",
+    "sabato": "Toss-up (Oct 8, 2026)",
+    "inside": "Tilt R (Aug 20, 2026)"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Toss-up (Oct 8, 2026) -> Lean D",
+    "inside: Tilt R (Aug 20, 2026) -> Toss-up"
+   ],
+   "notes": ""
+  },
+  "FL-25": {
+   "cook": "Lean D",
+   "sabato": "Lean D",
+   "inside": "Tilt D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean D (Oct 16, 2026)",
+    "sabato": "Lean D (Oct 8, 2026)",
+    "inside": "Toss-up (Aug 20, 2026)"
+   },
+   "changed_from_mid_oct": [
+    "inside: Toss-up (Aug 20, 2026) -> Tilt D"
+   ],
+   "notes": ""
+  },
+  "FL-26": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R (Feb 2025; possibly stale)",
+    "sabato": "Safe R (Apr 2025)",
+    "inside": "Solid R (May 5, 2026)"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "FL-27": {
+   "cook": "Lean R",
+   "sabato": "Lean R",
+   "inside": "Lean R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean R (Sep 25, 2026)",
+    "sabato": "Lean R (Sep 22, 2026)",
+    "inside": "Lean R (Sep 17, 2026)"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "GA-1": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R (Feb 2025)",
+    "sabato": "Safe R (Jul 2025)",
+    "inside": "Solid R (Mar 2025)"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "GA-7": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R (Feb 2025)",
+    "sabato": "Safe R (Jul 2025)",
+    "inside": "Solid R (Mar 2025)"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "GA-10": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R (Feb 2025)",
+    "sabato": "Safe R (Jul 2025)",
+    "inside": "Solid R (Mar 2025)"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "GA-11": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki (state page) + 270toWin rater maps (Safe, not in competitive tables)",
+   "stored_mid_oct": {
+    "cook": "Solid R (Feb 2025)",
+    "sabato": "Safe R (Jul 2025)",
+    "inside": "Solid R (Mar 2025)"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "GA-12": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R (Feb 2025)",
+    "sabato": "Safe R (Jul 2025)",
+    "inside": "Solid R (Mar 2025)"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "NY-1": {
+   "cook": "Solid R",
+   "sabato": "Likely R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Likely R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "NY-2": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "NY-3": {
+   "cook": "Likely D",
+   "sabato": "Lean D",
+   "inside": "Lean D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely D",
+    "sabato": "Lean D",
+    "inside": "Lean D"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "NY-4": {
+   "cook": "Likely D",
+   "sabato": "Likely D",
+   "inside": "Tilt D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely D",
+    "sabato": "Likely D",
+    "inside": "Tilt D"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "NY-17": {
+   "cook": "Toss-up",
+   "sabato": "Lean R",
+   "inside": "Toss-up",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Toss-up",
+    "sabato": "Toss-up",
+    "inside": "Toss-up"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Toss-up -> Lean R"
+   ],
+   "notes": ""
+  },
+  "NY-19": {
+   "cook": "Likely D",
+   "sabato": "Likely D",
+   "inside": "Solid D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely D",
+    "sabato": "Likely D",
+    "inside": "Solid D"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "NY-21": {
+   "cook": "Lean R",
+   "sabato": "Lean R",
+   "inside": "Lean R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean R",
+    "sabato": "Lean R",
+    "inside": "Lean R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "NJ-2": {
+   "cook": "Likely R",
+   "sabato": "Lean R",
+   "inside": "Likely R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Likely R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [
+    "cook: Solid R -> Likely R",
+    "sabato: Likely R -> Lean R",
+    "inside: Solid R -> Likely R"
+   ],
+   "notes": ""
+  },
+  "NJ-7": {
+   "cook": "Lean D (flip)",
+   "sabato": "Lean D (flip)",
+   "inside": "Tilt D (flip)",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean D",
+    "sabato": "Lean D",
+    "inside": "Tilt D"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "NJ-9": {
+   "cook": "Likely D",
+   "sabato": "Likely D",
+   "inside": "Solid D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely D",
+    "sabato": "Likely D",
+    "inside": "Solid D"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "PA-1": {
+   "cook": "Toss-up",
+   "sabato": "Lean D (flip)",
+   "inside": "Toss-up",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean R",
+    "sabato": "Lean R",
+    "inside": "Lean R"
+   },
+   "changed_from_mid_oct": [
+    "cook: Lean R -> Toss-up",
+    "sabato: Lean R -> Lean D (flip)",
+    "inside: Lean R -> Toss-up"
+   ],
+   "notes": ""
+  },
+  "PA-7": {
+   "cook": "Lean D (flip)",
+   "sabato": "Lean D (flip)",
+   "inside": "Tilt D (flip)",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean D",
+    "sabato": "Lean D",
+    "inside": "Tilt D"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "PA-8": {
+   "cook": "Lean D (flip)",
+   "sabato": "Lean D (flip)",
+   "inside": "Tilt D (flip)",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Toss-up",
+    "sabato": "Toss-up",
+    "inside": "Tilt D"
+   },
+   "changed_from_mid_oct": [
+    "cook: Toss-up -> Lean D (flip)",
+    "sabato: Toss-up -> Lean D (flip)"
+   ],
+   "notes": ""
+  },
+  "PA-10": {
+   "cook": "Lean D (flip)",
+   "sabato": "Lean D (flip)",
+   "inside": "Tilt D (flip)",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean D",
+    "sabato": "Lean D",
+    "inside": "Toss-up"
+   },
+   "changed_from_mid_oct": [
+    "inside: Toss-up -> Tilt D (flip)"
+   ],
+   "notes": ""
+  },
+  "OH-1": {
+   "cook": "Likely D",
+   "sabato": "Likely D",
+   "inside": "Lean D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely D",
+    "sabato": "Likely D",
+    "inside": "Tilt D"
+   },
+   "changed_from_mid_oct": [
+    "inside: Tilt D -> Lean D"
+   ],
+   "notes": ""
+  },
+  "OH-5": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki (state page) + 270toWin rater maps (Safe, not in competitive tables)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "OH-7": {
+   "cook": "Toss-up",
+   "sabato": "Lean D (flip)",
+   "inside": "Tilt D (flip)",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Toss-up",
+    "sabato": "Toss-up",
+    "inside": "Toss-up"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Toss-up -> Lean D (flip)",
+    "inside: Toss-up -> Tilt D (flip)"
+   ],
+   "notes": ""
+  },
+  "OH-8": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "OH-9": {
+   "cook": "Lean D",
+   "sabato": "Lean D",
+   "inside": "Tilt D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Toss-up",
+    "sabato": "Toss-up",
+    "inside": "Toss-up"
+   },
+   "changed_from_mid_oct": [
+    "cook: Toss-up -> Lean D",
+    "sabato: Toss-up -> Lean D",
+    "inside: Toss-up -> Tilt D"
+   ],
+   "notes": ""
+  },
+  "OH-10": {
+   "cook": "Lean R",
+   "sabato": "Lean R",
+   "inside": "Lean R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean R",
+    "sabato": "Likely R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Likely R -> Lean R",
+    "inside: Solid R -> Lean R"
+   ],
+   "notes": ""
+  },
+  "OH-13": {
+   "cook": "Likely D",
+   "sabato": "Likely D",
+   "inside": "Solid D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely D",
+    "sabato": "Likely D",
+    "inside": "Solid D"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "OH-14": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki (state page) + 270toWin rater maps (Safe, not in competitive tables)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "OH-15": {
+   "cook": "Lean R",
+   "sabato": "Lean R",
+   "inside": "Lean R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean R",
+    "sabato": "Likely R",
+    "inside": "Likely R"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Likely R -> Lean R",
+    "inside: Likely R -> Lean R"
+   ],
+   "notes": ""
+  },
+  "KY-6": {
+   "cook": "Toss-up",
+   "sabato": "Lean R",
+   "inside": "Toss-up",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Toss-up",
+    "sabato": "Lean R",
+    "inside": "Tilt R"
+   },
+   "changed_from_mid_oct": [
+    "inside: Tilt R -> Toss-up"
+   ],
+   "notes": ""
+  },
+  "IL-8": {
+   "cook": "Solid D",
+   "sabato": "Safe D",
+   "inside": "Solid D",
+   "source": "wiki (state page) + 270toWin rater maps (Safe, not in competitive tables)",
+   "stored_mid_oct": {
+    "cook": "Solid D",
+    "sabato": "Safe D",
+    "inside": "Solid D"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "IN-1": {
+   "cook": "Likely D",
+   "sabato": "Likely D",
+   "inside": "Likely D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely D",
+    "sabato": "Likely D",
+    "inside": "Likely D"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "IN-5": {
+   "cook": "Lean R",
+   "sabato": "Likely R",
+   "inside": "Likely R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely R",
+    "sabato": "Likely R",
+    "inside": "Likely R"
+   },
+   "changed_from_mid_oct": [
+    "cook: Likely R -> Lean R"
+   ],
+   "notes": ""
+  },
+  "MI-3": {
+   "cook": "Solid D",
+   "sabato": "Safe D",
+   "inside": "Likely D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid D",
+    "sabato": "Safe D",
+    "inside": "Likely D"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "MI-4": {
+   "cook": "Toss-up",
+   "sabato": "Lean D (flip)",
+   "inside": "Toss-up",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Toss-up",
+    "sabato": "Toss-up",
+    "inside": "Tilt R"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Toss-up -> Lean D (flip)",
+    "inside: Tilt R -> Toss-up"
+   ],
+   "notes": ""
+  },
+  "MI-7": {
+   "cook": "Toss-up",
+   "sabato": "Lean D (flip)",
+   "inside": "Toss-up",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Toss-up",
+    "sabato": "Toss-up",
+    "inside": "Toss-up"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Toss-up -> Lean D (flip)"
+   ],
+   "notes": ""
+  },
+  "MI-8": {
+   "cook": "Likely D",
+   "sabato": "Likely D",
+   "inside": "Solid D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely D",
+    "sabato": "Likely D",
+    "inside": "Solid D"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "MI-10": {
+   "cook": "Toss-up",
+   "sabato": "Lean D (flip)",
+   "inside": "Tilt R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Toss-up",
+    "sabato": "Toss-up",
+    "inside": "Tilt R"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Toss-up -> Lean D (flip)"
+   ],
+   "notes": ""
+  },
+  "WI-1": {
+   "cook": "Lean R",
+   "sabato": "Lean R",
+   "inside": "Lean R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean R",
+    "sabato": "Lean R",
+    "inside": "Likely R"
+   },
+   "changed_from_mid_oct": [
+    "inside: Likely R -> Lean R"
+   ],
+   "notes": ""
+  },
+  "WI-3": {
+   "cook": "Lean D (flip)",
+   "sabato": "Lean D (flip)",
+   "inside": "Tilt D (flip)",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean D (flip)",
+    "sabato": "Lean D (flip)",
+    "inside": "Toss-up"
+   },
+   "changed_from_mid_oct": [
+    "inside: Toss-up -> Tilt D (flip)"
+   ],
+   "notes": ""
+  },
+  "WI-7": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "WI-8": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "NC-1": {
+   "cook": "Toss-up",
+   "sabato": "Lean D",
+   "inside": "Tilt D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Toss-up",
+    "sabato": "Lean D",
+    "inside": "Toss-up"
+   },
+   "changed_from_mid_oct": [
+    "inside: Toss-up -> Tilt D"
+   ],
+   "notes": ""
+  },
+  "NC-3": {
+   "cook": "Likely R",
+   "sabato": "Likely R",
+   "inside": "Likely R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely R",
+    "sabato": "Likely R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [
+    "inside: Solid R -> Likely R"
+   ],
+   "notes": ""
+  },
+  "NC-5": {
+   "cook": "Likely R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [
+    "cook: Solid R -> Likely R"
+   ],
+   "notes": ""
+  },
+  "NC-6": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "NC-7": {
+   "cook": "Likely R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [
+    "cook: Solid R -> Likely R"
+   ],
+   "notes": ""
+  },
+  "NC-8": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "NC-9": {
+   "cook": "Likely R",
+   "sabato": "Likely R",
+   "inside": "Likely R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [
+    "cook: Solid R -> Likely R",
+    "sabato: Safe R -> Likely R",
+    "inside: Solid R -> Likely R"
+   ],
+   "notes": ""
+  },
+  "NC-10": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "NC-11": {
+   "cook": "Lean D (flip)",
+   "sabato": "Lean D (flip)",
+   "inside": "Tilt D (flip)",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean D",
+    "sabato": "Lean D",
+    "inside": "Toss-up"
+   },
+   "changed_from_mid_oct": [
+    "inside: Toss-up -> Tilt D (flip)"
+   ],
+   "notes": ""
+  },
+  "NC-13": {
+   "cook": "Likely R",
+   "sabato": "Likely R",
+   "inside": "Likely R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely R",
+    "sabato": "Safe R (unverified, last listed Apr 2025)",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [
+    "inside: Solid R -> Likely R"
+   ],
+   "notes": "sabato: stored mid-Oct value was unverified (\"Safe R (unverified, last listed Apr 2025)\"); final confirmed as Likely R"
+  },
+  "NC-14": {
+   "cook": "Likely R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [
+    "cook: Solid R -> Likely R"
+   ],
+   "notes": ""
+  },
+  "VA-1": {
+   "cook": "Toss-up",
+   "sabato": "Lean D (flip)",
+   "inside": "Tilt R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Toss-up",
+    "sabato": "Toss-up",
+    "inside": "Lean R"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Toss-up -> Lean D (flip)",
+    "inside: Lean R -> Tilt R"
+   ],
+   "notes": ""
+  },
+  "VA-2": {
+   "cook": "Lean D (flip)",
+   "sabato": "Lean D (flip)",
+   "inside": "Tilt D (flip)",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean D",
+    "sabato": "Lean D",
+    "inside": "Toss-up"
+   },
+   "changed_from_mid_oct": [
+    "inside: Toss-up -> Tilt D (flip)"
+   ],
+   "notes": ""
+  },
+  "VA-5": {
+   "cook": "Lean R",
+   "sabato": "Lean D (flip)",
+   "inside": "Lean R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely R",
+    "sabato": "Lean R",
+    "inside": "Likely R"
+   },
+   "changed_from_mid_oct": [
+    "cook: Likely R -> Lean R",
+    "sabato: Lean R -> Lean D (flip)",
+    "inside: Likely R -> Lean R"
+   ],
+   "notes": ""
+  },
+  "VA-7": {
+   "cook": "Likely D",
+   "sabato": "Safe D",
+   "inside": "Solid D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely D",
+    "sabato": "Likely D",
+    "inside": "Likely D"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Likely D -> Safe D",
+    "inside: Likely D -> Solid D"
+   ],
+   "notes": ""
+  },
+  "SC-1": {
+   "cook": "Toss-up",
+   "sabato": "Lean R",
+   "inside": "Tilt R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean R",
+    "sabato": "Lean R",
+    "inside": "Lean R"
+   },
+   "changed_from_mid_oct": [
+    "cook: Lean R -> Toss-up",
+    "inside: Lean R -> Tilt R"
+   ],
+   "notes": ""
+  },
+  "SC-2": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "SC-5": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "TN-4": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "TN-5": {
+   "cook": "Solid R",
+   "sabato": "Likely R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Safe R -> Likely R"
+   ],
+   "notes": ""
+  },
+  "TN-7": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "TN-8": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki (state page) + 270toWin rater maps (Safe, not in competitive tables)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "TN-9": {
+   "cook": "Likely R (flip)",
+   "sabato": "Likely R (flip)",
+   "inside": "Likely R (flip)",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [
+    "cook: Solid R -> Likely R (flip)",
+    "sabato: Safe R -> Likely R (flip)",
+    "inside: Solid R -> Likely R (flip)"
+   ],
+   "notes": ""
+  },
+  "MD-1": {
+   "cook": "Solid R",
+   "sabato": "Likely R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Likely R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "AZ-1": {
+   "cook": "Lean D (flip)",
+   "sabato": "Lean D (flip)",
+   "inside": "Tilt D (flip)",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean D",
+    "sabato": "Lean D",
+    "inside": "Tilt D"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "AZ-2": {
+   "cook": "Lean R",
+   "sabato": "Lean R",
+   "inside": "Lean R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean R",
+    "sabato": "Likely R",
+    "inside": "Likely R"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Likely R -> Lean R",
+    "inside: Likely R -> Lean R"
+   ],
+   "notes": ""
+  },
+  "AZ-5": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "AZ-6": {
+   "cook": "Lean D (flip)",
+   "sabato": "Lean D (flip)",
+   "inside": "Tilt D (flip)",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean D",
+    "sabato": "Lean D",
+    "inside": "Tossup"
+   },
+   "changed_from_mid_oct": [
+    "inside: Tossup -> Tilt D (flip)"
+   ],
+   "notes": ""
+  },
+  "AZ-8": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "CO-3": {
+   "cook": "Likely R",
+   "sabato": "Lean R",
+   "inside": "Likely R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely R",
+    "sabato": "Likely R",
+    "inside": "Likely R"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Likely R -> Lean R"
+   ],
+   "notes": ""
+  },
+  "CO-4": {
+   "cook": "Lean R",
+   "sabato": "Lean R",
+   "inside": "Likely R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean R",
+    "sabato": "Lean R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [
+    "inside: Solid R -> Likely R"
+   ],
+   "notes": ""
+  },
+  "CO-5": {
+   "cook": "Toss-up",
+   "sabato": "Lean D (flip)",
+   "inside": "Toss-up",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean R",
+    "sabato": "Lean R",
+    "inside": "Tilt R"
+   },
+   "changed_from_mid_oct": [
+    "cook: Lean R -> Toss-up",
+    "sabato: Lean R -> Lean D (flip)",
+    "inside: Tilt R -> Toss-up"
+   ],
+   "notes": ""
+  },
+  "CO-8": {
+   "cook": "Lean D (flip)",
+   "sabato": "Lean D (flip)",
+   "inside": "Tilt D (flip)",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean D",
+    "sabato": "Lean D",
+    "inside": "Tossup"
+   },
+   "changed_from_mid_oct": [
+    "inside: Tossup -> Tilt D (flip)"
+   ],
+   "notes": ""
+  },
+  "NV-1": {
+   "cook": "Likely D",
+   "sabato": "Likely D",
+   "inside": "Lean D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely D",
+    "sabato": "Likely D",
+    "inside": "Lean D"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "NV-2": {
+   "cook": "Lean R",
+   "sabato": "Lean R",
+   "inside": "Tilt R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean R",
+    "sabato": "Lean R",
+    "inside": "Lean R"
+   },
+   "changed_from_mid_oct": [
+    "inside: Lean R -> Tilt R"
+   ],
+   "notes": ""
+  },
+  "NV-3": {
+   "cook": "Likely D",
+   "sabato": "Likely D",
+   "inside": "Lean D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely D",
+    "sabato": "Likely D",
+    "inside": "Lean D"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "NV-4": {
+   "cook": "Likely D",
+   "sabato": "Likely D",
+   "inside": "Likely D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely D",
+    "sabato": "Likely D",
+    "inside": "Likely D"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "NM-2": {
+   "cook": "Lean D",
+   "sabato": "Lean D",
+   "inside": "Tilt D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean D",
+    "sabato": "Lean D",
+    "inside": "Tilt D"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "MT-1": {
+   "cook": "Toss-up",
+   "sabato": "Lean D (flip)",
+   "inside": "Toss-up",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Tossup",
+    "sabato": "Lean R",
+    "inside": "Tilt R"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Lean R -> Lean D (flip)",
+    "inside: Tilt R -> Toss-up"
+   ],
+   "notes": ""
+  },
+  "WY-AL": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Likely R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Solid R",
+    "inside": "Likely R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "WA-3": {
+   "cook": "Lean D",
+   "sabato": "Lean D",
+   "inside": "Toss-up",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean D",
+    "sabato": "Lean D",
+    "inside": "Toss-up"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "WA-4": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "WA-5": {
+   "cook": "Likely R",
+   "sabato": "Likely R",
+   "inside": "Likely R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Likely R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [
+    "cook: Solid R -> Likely R",
+    "inside: Solid R -> Likely R"
+   ],
+   "notes": ""
+  },
+  "OR-5": {
+   "cook": "Solid D",
+   "sabato": "Safe D",
+   "inside": "Solid D",
+   "source": "wiki (state page) + 270toWin rater maps (Safe, not in competitive tables)",
+   "stored_mid_oct": {
+    "cook": "Solid D",
+    "sabato": "Likely D",
+    "inside": "Solid D"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Likely D -> Safe D"
+   ],
+   "notes": "Wikipedia OR state page: Sabato moved to Safe D on Oct 27, 2026 (was Likely D mid-Oct); Cook Solid D (Jul 16, 2026); IE Solid D (Dec 5, 2025)."
+  },
+  "AK-AL": {
+   "cook": "Lean R",
+   "sabato": "Lean R",
+   "inside": "Likely R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean R",
+    "sabato": "Likely R",
+    "inside": "Likely R"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Likely R -> Lean R"
+   ],
+   "notes": ""
+  },
+  "MN-1": {
+   "cook": "Lean R",
+   "sabato": "Lean R",
+   "inside": "Lean R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean R",
+    "sabato": "Lean R",
+    "inside": "Likely R"
+   },
+   "changed_from_mid_oct": [
+    "inside: Likely R -> Lean R"
+   ],
+   "notes": ""
+  },
+  "MN-2": {
+   "cook": "Likely D",
+   "sabato": "Likely D",
+   "inside": "Likely D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely D",
+    "sabato": "Likely D",
+    "inside": "Likely D"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "MN-6": {
+   "cook": "Safe R",
+   "sabato": "Safe R",
+   "inside": "Safe R",
+   "source": "wiki (state page) + 270toWin rater maps (Safe, not in competitive tables)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": "Wikipedia MN state page shows \"Safe R\" template for Cook and IE (their native label is Solid R); 270toWin maps also show generic Safe R."
+  },
+  "MN-8": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R",
+    "sabato": "Safe R",
+    "inside": "Solid R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "IA-1": {
+   "cook": "Lean D (flip)",
+   "sabato": "Lean D (flip)",
+   "inside": "Tilt D (flip)",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean D",
+    "sabato": "Lean D",
+    "inside": "Tilt D"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "IA-2": {
+   "cook": "Toss-up",
+   "sabato": "Lean D (flip)",
+   "inside": "Toss-up",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Toss-up",
+    "sabato": "Lean D",
+    "inside": "Toss-up"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "IA-3": {
+   "cook": "Lean D (flip)",
+   "sabato": "Lean D (flip)",
+   "inside": "Tilt D (flip)",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean D",
+    "sabato": "Lean D",
+    "inside": "Tilt D"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "ME-2": {
+   "cook": "Lean R (flip)",
+   "sabato": "Lean R (flip)",
+   "inside": "Lean R (flip)",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean R",
+    "sabato": "Lean R",
+    "inside": "Lean R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "NH-1": {
+   "cook": "Likely D",
+   "sabato": "Likely D",
+   "inside": "Lean D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely D",
+    "sabato": "Likely D",
+    "inside": "Lean D"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "NH-2": {
+   "cook": "Solid D",
+   "sabato": "Likely D",
+   "inside": "Solid D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid D",
+    "sabato": "Likely D",
+    "inside": "Likely D"
+   },
+   "changed_from_mid_oct": [
+    "inside: Likely D -> Solid D"
+   ],
+   "notes": ""
+  },
+  "MO-2": {
+   "cook": "Likely R",
+   "sabato": "Lean R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely R",
+    "sabato": "Lean R",
+    "inside": "Solid R (Dec 2025, likely stale)"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "MO-5": {
+   "cook": "Solid D",
+   "sabato": "Safe D",
+   "inside": "Solid D",
+   "source": "wiki (state page) + 270toWin rater maps (Safe, not in competitive tables)",
+   "stored_mid_oct": {
+    "cook": "Solid D",
+    "sabato": "Safe D (unverified)",
+    "inside": "unverified"
+   },
+   "changed_from_mid_oct": [],
+   "notes": "sabato: stored mid-Oct value was unverified (\"Safe D (unverified)\"); final confirmed as Safe D; inside: stored mid-Oct value was unverified (\"unverified\"); final confirmed as Solid D"
+  },
+  "KS-2": {
+   "cook": "Likely R",
+   "sabato": "Likely R",
+   "inside": "Likely R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely R",
+    "sabato": "Likely R",
+    "inside": "Solid R (May 2025, likely stale)"
+   },
+   "changed_from_mid_oct": [
+    "inside: Solid R (May 2025, likely stale) -> Likely R"
+   ],
+   "notes": ""
+  },
+  "NE-1": {
+   "cook": "Likely R",
+   "sabato": "Likely R",
+   "inside": "Likely R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely R",
+    "sabato": "Likely R",
+    "inside": "Likely R"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "NE-2": {
+   "cook": "Likely D (flip)",
+   "sabato": "Likely D (flip)",
+   "inside": "Lean D (flip)",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely D",
+    "sabato": "Likely D",
+    "inside": "Lean D"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "AL-2": {
+   "cook": "Lean R (flip)",
+   "sabato": "Lean D",
+   "inside": "Tilt R (flip)",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean R (flip), Oct 23",
+    "sabato": "Lean R (flip), Sep 10",
+    "inside": "Lean R (flip), Oct 15"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Lean R (flip), Sep 10 -> Lean D",
+    "inside: Lean R (flip), Oct 15 -> Tilt R (flip)"
+   ],
+   "notes": ""
+  },
+  "AR-2": {
+   "cook": "Likely R",
+   "sabato": "Likely R",
+   "inside": "Likely R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely R, Oct 9",
+    "sabato": "Likely R, Sep 16",
+    "inside": "Likely R, Oct 15"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  }
+ },
+ "governors": {
+  "Alabama": {
+   "cook": "Solid R",
+   "sabato": "Likely R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R (2026-10-23)",
+    "sabato": "Likely R (2026-10-22)",
+    "inside": "Solid R (2026-10-15)"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "Alaska": {
+   "cook": "Lean D (flip)",
+   "sabato": "Likely D (flip)",
+   "inside": "Tilt D (flip)",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean D (flip) (2026-10-23)",
+    "sabato": "Lean D (flip) (2026-10-22)",
+    "inside": "Toss-up (2026-10-15)"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Lean D (flip) (2026-10-22) -> Likely D (flip)",
+    "inside: Toss-up (2026-10-15) -> Tilt D (flip)"
+   ],
+   "notes": ""
+  },
+  "Arizona": {
+   "cook": "Likely D",
+   "sabato": "Likely D",
+   "inside": "Tilt D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean D",
+    "sabato": "Lean D",
+    "inside": "Tilt D"
+   },
+   "changed_from_mid_oct": [
+    "cook: Lean D -> Likely D",
+    "sabato: Lean D -> Likely D"
+   ],
+   "notes": ""
+  },
+  "Florida": {
+   "cook": "Lean R",
+   "sabato": "Lean R",
+   "inside": "Lean R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean R (2026-10-23)",
+    "sabato": "Lean R (2026-10-22)",
+    "inside": "Lean R (2026-10-15)"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "Georgia": {
+   "cook": "Toss-up",
+   "sabato": "Lean D (flip)",
+   "inside": "Tilt D (flip)",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Toss-up",
+    "sabato": "Toss-up",
+    "inside": "Toss-up"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Toss-up -> Lean D (flip)",
+    "inside: Toss-up -> Tilt D (flip)"
+   ],
+   "notes": ""
+  },
+  "Hawaii": {
+   "cook": "Solid D",
+   "sabato": "Safe D",
+   "inside": "Solid D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid D (Oct 23, 2026)",
+    "sabato": "Safe D (Oct 22, 2026)",
+    "inside": "Solid D (Oct 15, 2026)"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "Iowa": {
+   "cook": "Lean D (flip)",
+   "sabato": "Lean D (flip)",
+   "inside": "Lean D (flip)",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean D (flip) (2026-10-23)",
+    "sabato": "Lean D (flip) (2026-10-22)",
+    "inside": "Tilt D (flip) (2026-10-15)"
+   },
+   "changed_from_mid_oct": [
+    "inside: Tilt D (flip) (2026-10-15) -> Lean D (flip)"
+   ],
+   "notes": ""
+  },
+  "Kansas": {
+   "cook": "Toss-up",
+   "sabato": "Lean R (flip)",
+   "inside": "Tilt R (flip)",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean R (flip)",
+    "sabato": "Lean R (flip)",
+    "inside": "Tilt R (flip)"
+   },
+   "changed_from_mid_oct": [
+    "cook: Lean R (flip) -> Toss-up"
+   ],
+   "notes": ""
+  },
+  "Maine": {
+   "cook": "Solid D",
+   "sabato": "Likely D",
+   "inside": "Solid D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid D (2026-10-23)",
+    "sabato": "Likely D (2026-10-22)",
+    "inside": "Solid D (2026-10-15)"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "Michigan": {
+   "cook": "Lean D",
+   "sabato": "Likely D",
+   "inside": "Lean D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean D",
+    "sabato": "Likely D",
+    "inside": "Tilt D"
+   },
+   "changed_from_mid_oct": [
+    "inside: Tilt D -> Lean D"
+   ],
+   "notes": ""
+  },
+  "Minnesota": {
+   "cook": "Solid D",
+   "sabato": "Safe D",
+   "inside": "Likely D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid D (2026-10-23)",
+    "sabato": "Safe D (2026-10-22)",
+    "inside": "Likely D (2026-10-15)"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "Nebraska": {
+   "cook": "Lean R",
+   "sabato": "Likely R",
+   "inside": "Likely R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely R (Oct 23, 2026)",
+    "sabato": "Likely R (Oct 22, 2026)",
+    "inside": "Likely R (Oct 15, 2026)"
+   },
+   "changed_from_mid_oct": [
+    "cook: Likely R (Oct 23, 2026) -> Lean R"
+   ],
+   "notes": ""
+  },
+  "Nevada": {
+   "cook": "Toss-up",
+   "sabato": "Lean D (flip)",
+   "inside": "Toss-up",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Toss-up",
+    "sabato": "Toss-up",
+    "inside": "Tilt R"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Toss-up -> Lean D (flip)",
+    "inside: Tilt R -> Toss-up"
+   ],
+   "notes": ""
+  },
+  "New Hampshire": {
+   "cook": "Likely R",
+   "sabato": "Lean R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely R (2026-10-23)",
+    "sabato": "Likely R (2026-10-22)",
+    "inside": "Solid R (2026-10-15)"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Likely R (2026-10-22) -> Lean R"
+   ],
+   "notes": ""
+  },
+  "New Mexico": {
+   "cook": "Solid D",
+   "sabato": "Safe D",
+   "inside": "Likely D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid D (2026-10-23)",
+    "sabato": "Safe D (2026-10-22)",
+    "inside": "Likely D (2026-10-15)"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "New York": {
+   "cook": "Solid D",
+   "sabato": "Safe D",
+   "inside": "Likely D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid D",
+    "sabato": "Safe D",
+    "inside": "Likely D"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "Ohio": {
+   "cook": "Lean D (flip)",
+   "sabato": "Lean D (flip)",
+   "inside": "Tilt D (flip)",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean D (flip) (2026-10-23)",
+    "sabato": "Lean D (flip) (2026-10-22, moved from Toss-up)",
+    "inside": "Toss-up (2026-10-15)"
+   },
+   "changed_from_mid_oct": [
+    "inside: Toss-up (2026-10-15) -> Tilt D (flip)"
+   ],
+   "notes": ""
+  },
+  "Oklahoma": {
+   "cook": "Likely R",
+   "sabato": "Likely R",
+   "inside": "Likely R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely R (2026-10-23)",
+    "sabato": "Likely R (2026-10-22)",
+    "inside": "Likely R (2026-10-15)"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "Oregon": {
+   "cook": "Lean D",
+   "sabato": "Lean D",
+   "inside": "Tilt D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean D",
+    "sabato": "Lean D",
+    "inside": "Lean D"
+   },
+   "changed_from_mid_oct": [
+    "inside: Lean D -> Tilt D"
+   ],
+   "notes": ""
+  },
+  "South Carolina": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R (2026-10-23)",
+    "sabato": "Safe R (2026-10-22)",
+    "inside": "Solid R (2026-10-15)"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  },
+  "Tennessee": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Likely R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R (2026-10-23)",
+    "sabato": "Safe R (2026-10-22)",
+    "inside": "Solid R (2026-10-15)"
+   },
+   "changed_from_mid_oct": [
+    "inside: Solid R (2026-10-15) -> Likely R"
+   ],
+   "notes": ""
+  },
+  "Texas": {
+   "cook": "Lean R",
+   "sabato": "Lean R",
+   "inside": "Tilt R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Lean R (2026-10-23)",
+    "sabato": "Lean R (2026-10-22)",
+    "inside": "Lean R (2026-10-15)"
+   },
+   "changed_from_mid_oct": [
+    "inside: Lean R (2026-10-15) -> Tilt R"
+   ],
+   "notes": ""
+  },
+  "Vermont": {
+   "cook": "Likely R",
+   "sabato": "Lean R",
+   "inside": "Likely R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Likely R (Oct 23, 2026)",
+    "sabato": "Likely R (Oct 22, 2026)",
+    "inside": "Likely R (Oct 15, 2026)"
+   },
+   "changed_from_mid_oct": [
+    "sabato: Likely R (Oct 22, 2026) -> Lean R"
+   ],
+   "notes": ""
+  },
+  "Wisconsin": {
+   "cook": "Lean D",
+   "sabato": "Lean D",
+   "inside": "Tilt D",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Toss-up",
+    "sabato": "Lean D",
+    "inside": "Toss-up"
+   },
+   "changed_from_mid_oct": [
+    "cook: Toss-up -> Lean D",
+    "inside: Toss-up -> Tilt D"
+   ],
+   "notes": ""
+  },
+  "Wyoming": {
+   "cook": "Solid R",
+   "sabato": "Safe R",
+   "inside": "Solid R",
+   "source": "wiki + 270toWin rater maps (agree)",
+   "stored_mid_oct": {
+    "cook": "Solid R (Oct 23, 2026)",
+    "sabato": "Safe R (Oct 22, 2026)",
+    "inside": "Solid R (Oct 15, 2026)"
+   },
+   "changed_from_mid_oct": [],
+   "notes": ""
+  }
+ },
+ "summary": {
+  "cook": {
+   "house_tossups": 18,
+   "senate_tossups": 6,
+   "gov_tossups": 3,
+   "house_tossup_list": [
+    "CA-22",
+    "CO-5",
+    "FL-14",
+    "FL-22",
+    "IA-2",
+    "KY-6",
+    "MI-10",
+    "MI-4",
+    "MI-7",
+    "MT-1",
+    "NC-1",
+    "NY-17",
+    "OH-7",
+    "PA-1",
+    "SC-1",
+    "TX-15",
+    "TX-35",
+    "VA-1"
+   ],
+   "senate_tossup_list": [
+    "Alaska",
+    "Iowa",
+    "Kansas",
+    "Maine",
+    "Ohio (special)",
+    "Texas"
+   ],
+   "gov_tossup_list": [
+    "Georgia",
+    "Kansas",
+    "Nevada"
+   ],
+   "coverage_of_races_to_check": {
+    "senate": 25,
+    "house": 152,
+    "governors": 25
+   },
+   "basis": "counts over all races in the Wikipedia/270toWin final tables, not just races_to_check"
+  },
+  "sabato": {
+   "house_tossups": 0,
+   "senate_tossups": 0,
+   "gov_tossups": 0,
+   "house_tossup_list": [],
+   "senate_tossup_list": [],
+   "gov_tossup_list": [],
+   "coverage_of_races_to_check": {
+    "senate": 25,
+    "house": 152,
+    "governors": 25
+   },
+   "basis": "counts over all races in the Wikipedia/270toWin final tables, not just races_to_check"
+  },
+  "inside": {
+   "house_tossups": 13,
+   "senate_tossups": 4,
+   "gov_tossups": 1,
+   "house_tossup_list": [
+    "CA-22",
+    "CO-5",
+    "FL-22",
+    "IA-2",
+    "KY-6",
+    "MI-4",
+    "MI-7",
+    "MT-1",
+    "NY-17",
+    "PA-1",
+    "TX-34",
+    "TX-35",
+    "WA-3"
+   ],
+   "senate_tossup_list": [
+    "Alaska",
+    "Iowa",
+    "Kansas",
+    "Maine"
+   ],
+   "gov_tossup_list": [
+    "Nevada"
+   ],
+   "coverage_of_races_to_check": {
+    "senate": 25,
+    "house": 152,
+    "governors": 25
+   },
+   "basis": "counts over all races in the Wikipedia/270toWin final tables, not just races_to_check"
+  }
+ },
+ "chamber_calls": {
+  "cook": {
+   "house": "Solid/Likely/Lean D 222, Solid/Likely/Lean R 195, Toss Up 18; projecting Dem gain of 15-25 seats \"and even higher Dem gains can't be ruled out\" (Wasserman, Nov 2)",
+   "senate": "No explicit seat projection found. Final ratings: 6 Toss-ups (AK, IA, KS, ME, OH-special, TX).",
+   "governors": "Democrats positioned to gain 2-4 governorships (Cook Substack, Oct 27, 2026)",
+   "sources": [
+    "https://x.com/Redistrict/status/2117366771003118046",
+    "https://thecookpoliticalreport.substack.com/p/two-governors-race-ratings-move-in"
+   ]
+  },
+  "sabato": {
+   "house": "239 at least Leans D, 196 at least Leans R (D+24)",
+   "senate": "53 at least Leans D, 47 at least Leans R (D+6)",
+   "governors": "28 at least Leans D, 22 at least Leans R (D+4)",
+   "tossups_eliminated": true,
+   "sources": [
+    "https://x.com/JMilesColeman/status/2117300742881259585",
+    "https://sabatoscrystalball.substack.com/p/the-final-2026-ratings-democrats"
+   ]
+  },
+  "inside": {
+   "house": "Democrats to gain 20-30 seats",
+   "senate": "Democrats to gain 4-6 seats",
+   "governors": "No explicit seat projection found",
+   "sources": [
+    "https://rollcall.com/2026/10/31/midterm-elections-race-rating-changes/"
+   ]
+  }
+ },
+ "changes_vs_mid_oct": [
+  {
+   "chamber": "senate",
+   "race": "Florida",
+   "changes": [
+    "cook: Solid R -> Likely R",
+    "sabato: Safe R -> Likely R"
+   ]
+  },
+  {
+   "chamber": "senate",
+   "race": "Georgia",
+   "changes": [
+    "inside: Lean D -> Likely D"
+   ]
+  },
+  {
+   "chamber": "senate",
+   "race": "Iowa",
+   "changes": [
+    "sabato: Toss-up -> Lean R",
+    "inside: Tilt R -> Toss-up"
+   ]
+  },
+  {
+   "chamber": "senate",
+   "race": "Kansas",
+   "changes": [
+    "sabato: Toss-up -> Lean D (flip)",
+    "inside: Tilt R -> Toss-up"
+   ]
+  },
+  {
+   "chamber": "senate",
+   "race": "Louisiana",
+   "changes": [
+    "sabato: Safe R (2026-10-14) -> Lean R",
+    "inside: Solid R (2026-10-15) -> Likely R"
+   ]
+  },
+  {
+   "chamber": "senate",
+   "race": "Maine",
+   "changes": [
+    "sabato: Toss-up -> Lean D (flip)"
+   ]
+  },
+  {
+   "chamber": "senate",
+   "race": "Michigan",
+   "changes": [
+    "cook: Toss-up -> Lean D"
+   ]
+  },
+  {
+   "chamber": "senate",
+   "race": "Minnesota",
+   "changes": [
+    "sabato: Lean D -> Likely D"
+   ]
+  },
+  {
+   "chamber": "senate",
+   "race": "Mississippi",
+   "changes": [
+    "inside: Solid R (2026-10-15) -> Likely R"
+   ]
+  },
+  {
+   "chamber": "senate",
+   "race": "Nebraska",
+   "changes": [
+    "cook: Likely R -> Lean R",
+    "inside: Lean R -> Tilt R"
+   ]
+  },
+  {
+   "chamber": "senate",
+   "race": "North Carolina",
+   "changes": [
+    "sabato: Lean D (flip) -> Likely D (flip)"
+   ]
+  },
+  {
+   "chamber": "senate",
+   "race": "Ohio",
+   "changes": [
+    "sabato: Toss-up -> Lean D (flip)",
+    "inside: Toss-up -> Tilt D (flip)"
+   ]
+  },
+  {
+   "chamber": "senate",
+   "race": "South Carolina",
+   "changes": [
+    "sabato: Likely R -> Lean R",
+    "inside: Lean R -> Tilt R"
+   ]
+  },
+  {
+   "chamber": "senate",
+   "race": "Texas",
+   "changes": [
+    "sabato: Toss-up -> Lean D (flip)",
+    "inside: Toss-up -> Tilt D (flip)"
+   ]
+  },
+  {
+   "chamber": "governors",
+   "race": "Alaska",
+   "changes": [
+    "sabato: Lean D (flip) (2026-10-22) -> Likely D (flip)",
+    "inside: Toss-up (2026-10-15) -> Tilt D (flip)"
+   ]
+  },
+  {
+   "chamber": "governors",
+   "race": "Arizona",
+   "changes": [
+    "cook: Lean D -> Likely D",
+    "sabato: Lean D -> Likely D"
+   ]
+  },
+  {
+   "chamber": "governors",
+   "race": "Georgia",
+   "changes": [
+    "sabato: Toss-up -> Lean D (flip)",
+    "inside: Toss-up -> Tilt D (flip)"
+   ]
+  },
+  {
+   "chamber": "governors",
+   "race": "Iowa",
+   "changes": [
+    "inside: Tilt D (flip) (2026-10-15) -> Lean D (flip)"
+   ]
+  },
+  {
+   "chamber": "governors",
+   "race": "Kansas",
+   "changes": [
+    "cook: Lean R (flip) -> Toss-up"
+   ]
+  },
+  {
+   "chamber": "governors",
+   "race": "Michigan",
+   "changes": [
+    "inside: Tilt D -> Lean D"
+   ]
+  },
+  {
+   "chamber": "governors",
+   "race": "Nebraska",
+   "changes": [
+    "cook: Likely R (Oct 23, 2026) -> Lean R"
+   ]
+  },
+  {
+   "chamber": "governors",
+   "race": "Nevada",
+   "changes": [
+    "sabato: Toss-up -> Lean D (flip)",
+    "inside: Tilt R -> Toss-up"
+   ]
+  },
+  {
+   "chamber": "governors",
+   "race": "New Hampshire",
+   "changes": [
+    "sabato: Likely R (2026-10-22) -> Lean R"
+   ]
+  },
+  {
+   "chamber": "governors",
+   "race": "Ohio",
+   "changes": [
+    "inside: Toss-up (2026-10-15) -> Tilt D (flip)"
+   ]
+  },
+  {
+   "chamber": "governors",
+   "race": "Oregon",
+   "changes": [
+    "inside: Lean D -> Tilt D"
+   ]
+  },
+  {
+   "chamber": "governors",
+   "race": "Tennessee",
+   "changes": [
+    "inside: Solid R (2026-10-15) -> Likely R"
+   ]
+  },
+  {
+   "chamber": "governors",
+   "race": "Texas",
+   "changes": [
+    "inside: Lean R (2026-10-15) -> Tilt R"
+   ]
+  },
+  {
+   "chamber": "governors",
+   "race": "Vermont",
+   "changes": [
+    "sabato: Likely R (Oct 22, 2026) -> Lean R"
+   ]
+  },
+  {
+   "chamber": "governors",
+   "race": "Wisconsin",
+   "changes": [
+    "cook: Toss-up -> Lean D",
+    "inside: Toss-up -> Tilt D"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "CA-45",
+   "changes": [
+    "inside: Likely D -> Solid D"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "TX-9",
+   "changes": [
+    "inside: Likely R -> Lean R (flip)"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "TX-15",
+   "changes": [
+    "sabato: Toss-up -> Lean D (flip)",
+    "inside: Toss-up -> Tilt D (flip)"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "TX-28",
+   "changes": [
+    "inside: Tilt D -> Lean D"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "TX-35",
+   "changes": [
+    "sabato: Toss-up -> Lean D",
+    "inside: Lean R -> Toss-up"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "OK-5",
+   "changes": [
+    "inside: Solid R -> Likely R"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "FL-4",
+   "changes": [
+    "cook: Solid R -> Likely R"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "FL-7",
+   "changes": [
+    "cook: Likely R (Aug 13, 2026) -> Lean R",
+    "sabato: Likely R (Aug 10, 2026) -> Lean R"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "FL-9",
+   "changes": [
+    "cook: Likely R (Sep 11, 2026) -> Lean R (flip)",
+    "sabato: Likely R (Sep 22, 2026) -> Lean R (flip)"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "FL-13",
+   "changes": [
+    "sabato: Likely R (Apr 2025) -> Lean R"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "FL-14",
+   "changes": [
+    "sabato: Toss-up (Aug 26, 2026) -> Lean D",
+    "inside: Toss-up (Sep 17, 2026) -> Tilt D"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "FL-22",
+   "changes": [
+    "sabato: Toss-up (Oct 8, 2026) -> Lean D",
+    "inside: Tilt R (Aug 20, 2026) -> Toss-up"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "FL-25",
+   "changes": [
+    "inside: Toss-up (Aug 20, 2026) -> Tilt D"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "NY-17",
+   "changes": [
+    "sabato: Toss-up -> Lean R"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "NJ-2",
+   "changes": [
+    "cook: Solid R -> Likely R",
+    "sabato: Likely R -> Lean R",
+    "inside: Solid R -> Likely R"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "PA-1",
+   "changes": [
+    "cook: Lean R -> Toss-up",
+    "sabato: Lean R -> Lean D (flip)",
+    "inside: Lean R -> Toss-up"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "PA-8",
+   "changes": [
+    "cook: Toss-up -> Lean D (flip)",
+    "sabato: Toss-up -> Lean D (flip)"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "PA-10",
+   "changes": [
+    "inside: Toss-up -> Tilt D (flip)"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "OH-1",
+   "changes": [
+    "inside: Tilt D -> Lean D"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "OH-7",
+   "changes": [
+    "sabato: Toss-up -> Lean D (flip)",
+    "inside: Toss-up -> Tilt D (flip)"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "OH-9",
+   "changes": [
+    "cook: Toss-up -> Lean D",
+    "sabato: Toss-up -> Lean D",
+    "inside: Toss-up -> Tilt D"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "OH-10",
+   "changes": [
+    "sabato: Likely R -> Lean R",
+    "inside: Solid R -> Lean R"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "OH-15",
+   "changes": [
+    "sabato: Likely R -> Lean R",
+    "inside: Likely R -> Lean R"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "KY-6",
+   "changes": [
+    "inside: Tilt R -> Toss-up"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "IN-5",
+   "changes": [
+    "cook: Likely R -> Lean R"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "MI-4",
+   "changes": [
+    "sabato: Toss-up -> Lean D (flip)",
+    "inside: Tilt R -> Toss-up"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "MI-7",
+   "changes": [
+    "sabato: Toss-up -> Lean D (flip)"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "MI-10",
+   "changes": [
+    "sabato: Toss-up -> Lean D (flip)"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "WI-1",
+   "changes": [
+    "inside: Likely R -> Lean R"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "WI-3",
+   "changes": [
+    "inside: Toss-up -> Tilt D (flip)"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "NC-1",
+   "changes": [
+    "inside: Toss-up -> Tilt D"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "NC-3",
+   "changes": [
+    "inside: Solid R -> Likely R"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "NC-5",
+   "changes": [
+    "cook: Solid R -> Likely R"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "NC-7",
+   "changes": [
+    "cook: Solid R -> Likely R"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "NC-9",
+   "changes": [
+    "cook: Solid R -> Likely R",
+    "sabato: Safe R -> Likely R",
+    "inside: Solid R -> Likely R"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "NC-11",
+   "changes": [
+    "inside: Toss-up -> Tilt D (flip)"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "NC-13",
+   "changes": [
+    "inside: Solid R -> Likely R"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "NC-14",
+   "changes": [
+    "cook: Solid R -> Likely R"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "VA-1",
+   "changes": [
+    "sabato: Toss-up -> Lean D (flip)",
+    "inside: Lean R -> Tilt R"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "VA-2",
+   "changes": [
+    "inside: Toss-up -> Tilt D (flip)"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "VA-5",
+   "changes": [
+    "cook: Likely R -> Lean R",
+    "sabato: Lean R -> Lean D (flip)",
+    "inside: Likely R -> Lean R"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "VA-7",
+   "changes": [
+    "sabato: Likely D -> Safe D",
+    "inside: Likely D -> Solid D"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "SC-1",
+   "changes": [
+    "cook: Lean R -> Toss-up",
+    "inside: Lean R -> Tilt R"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "TN-5",
+   "changes": [
+    "sabato: Safe R -> Likely R"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "TN-9",
+   "changes": [
+    "cook: Solid R -> Likely R (flip)",
+    "sabato: Safe R -> Likely R (flip)",
+    "inside: Solid R -> Likely R (flip)"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "AZ-2",
+   "changes": [
+    "sabato: Likely R -> Lean R",
+    "inside: Likely R -> Lean R"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "AZ-6",
+   "changes": [
+    "inside: Tossup -> Tilt D (flip)"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "CO-3",
+   "changes": [
+    "sabato: Likely R -> Lean R"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "CO-4",
+   "changes": [
+    "inside: Solid R -> Likely R"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "CO-5",
+   "changes": [
+    "cook: Lean R -> Toss-up",
+    "sabato: Lean R -> Lean D (flip)",
+    "inside: Tilt R -> Toss-up"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "CO-8",
+   "changes": [
+    "inside: Tossup -> Tilt D (flip)"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "NV-2",
+   "changes": [
+    "inside: Lean R -> Tilt R"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "MT-1",
+   "changes": [
+    "sabato: Lean R -> Lean D (flip)",
+    "inside: Tilt R -> Toss-up"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "WA-5",
+   "changes": [
+    "cook: Solid R -> Likely R",
+    "inside: Solid R -> Likely R"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "OR-5",
+   "changes": [
+    "sabato: Likely D -> Safe D"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "AK-AL",
+   "changes": [
+    "sabato: Likely R -> Lean R"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "MN-1",
+   "changes": [
+    "inside: Likely R -> Lean R"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "NH-2",
+   "changes": [
+    "inside: Likely D -> Solid D"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "KS-2",
+   "changes": [
+    "inside: Solid R (May 2025, likely stale) -> Likely R"
+   ]
+  },
+  {
+   "chamber": "house",
+   "race": "AL-2",
+   "changes": [
+    "sabato: Lean R (flip), Sep 10 -> Lean D",
+    "inside: Lean R (flip), Oct 15 -> Tilt R (flip)"
+   ]
+  }
+ ],
+ "conventions": {
+  "rating_text": "Ratings in rater-native wording (Cook/IE: Solid/Likely/Lean/Tilt(IE only)/Toss-up; Sabato: Safe/Likely/Lean/Toss-up). Cook publishes \"Toss Up\" and Sabato \"Leans\"; normalized here to \"Toss-up\"/\"Lean\".",
+  "flip": "\"(flip)\" is the Wikipedia table annotation meaning the favored party differs from the seat's current holder; not part of the rater's label.",
+  "source_values": "\"wiki + 270toWin rater maps (agree)\" = Wikipedia final predictions table cross-checked against 270toWin per-rater final maps; every race matched in all three chambers. Rater websites (cookpolitical.com, centerforpolitics.org, insideelections.com) all returned 403 to scripted fetches and Wayback content was blocked, so no race was read directly off a rater ratings page; rater-published text (Substack, X posts, Roll Call for IE) was used to confirm dates, final changes and chamber calls.",
+  "changed_from_mid_oct": "Compared after stripping dates/(flip)/Solid-vs-Safe wording. Some stored mid-Oct values were already stale (e.g. dated Apr 2025), so a listed change may predate mid-October."
+ }
+}

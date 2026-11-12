@@ -1,0 +1,780 @@
+[
+ {
+  "district": "VA-1",
+  "name": "Shannon Taylor",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Tim Kaine",
+    "Mark Warner",
+    "Abigail Spanberger",
+    "EMILY's List",
+    "DCCC-aligned House members (DelBene, McClellan, Vindman, Walkinshaw)"
+   ]
+  },
+  "evidence": "Newcomer (Henrico County commonwealth's attorney) who unseated Rob Wittman; primary backing came from party establishment figures and EMILY's List, while the progressive-group endorsements (Progressive Victory, Track AIPAC) went to rival Salaam Bhatti. No CPC/Justice Democrats/WFP backing found.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia",
+   "https://axios.com/local/richmond/2026/11/05/shannon-taylor-rob-wittman-election-results-2026-henrico"
+  ]
+ },
+ {
+  "district": "VA-2",
+  "name": "Elaine Luria",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition (2019-2023 tenure)"
+   ],
+   "key_endorsements": [
+    "Tim Kaine",
+    "Mark Warner",
+    "Mark Kelly",
+    "Pete Buttigieg"
+   ]
+  },
+  "evidence": "Former House member (2019-2023) returning after defeating Jen Kiggans; not an incumbent of the 119th Congress. Prior tenure was in the centrist New Democrat Coalition with a pro-Israel, pro-defense record; the DSA/USCPR endorsements in the primary went to other candidates.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia",
+   "https://virginiamercury.com/2026/11/03/warner-wins-fourth-term-luria-ousts-kiggans-in-va-02-taylor-triumphs-in-va-01/"
+  ]
+ },
+ {
+  "district": "VA-3",
+  "name": "Robert C. \"Bobby\" Scott",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "DW-NOMINATE -0.45, left of the Democratic median (-0.395); author of Raise the Wage Act; voted for H.R. 8034 (Israel aid) in 2024 but for the July 2026 Massie amendment to cut $3.3B in Israel military aid. Not on the current CPC roster, so evidence of a clearly left program is moderate.",
+  "sources": [
+   "https://voteview.com/congress/house",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml",
+   "https://progressives.house.gov/caucus-members"
+  ]
+ },
+ {
+  "district": "VA-4",
+  "name": "Jennifer McClellan",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "supports",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "AIPAC PAC (2023)",
+    "DMFI PAC (2023)"
+   ]
+  },
+  "evidence": "CPC member with DW-NOMINATE -0.555 (left of caucus median), but endorsed by AIPAC and DMFI in her 2023 race, voted for H.R. 8034, and voted against the July 2026 amendment to cut Israel military aid; classified Mainstream under the pro-Israel rule.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://voteview.com/congress/house",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml",
+   "https://dmfipac.org/news-updates/press-release/dmfi-pac-endorses-state-senator-jennifer-mcclellan-in-the-democratic-primary-in-va-04"
+  ]
+ },
+ {
+  "district": "VA-5",
+  "name": "John McGuire",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "beyond-baseline",
+   "caucuses": [],
+   "key_endorsements": [
+    "Donald Trump (2024 primary vs. Bob Good)"
+   ]
+  },
+  "evidence": "Voted for the July 2025 Greene amendment to bar Ukraine assistance in the FY26 defense bill; DW-NOMINATE 0.706, well right of GOP median (0.53); attended the Jan. 6, 2021 rally and ran on an America First/Trump-aligned platform.",
+  "sources": [
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/John_McGuire_(politician)"
+  ]
+ },
+ {
+  "district": "VA-6",
+  "name": "Ben Cline",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [
+    "House Freedom Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Voted to object to 2020 electoral votes (AZ and PA), against H.R. 8035 Ukraine aid in 2024, and for the 2025 Greene amendment barring Ukraine assistance; DW-NOMINATE 0.712.",
+  "sources": [
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://voteview.com/congress/house"
+  ]
+ },
+ {
+  "district": "VA-7",
+  "name": "Eugene Vindman",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "DW-NOMINATE -0.174, among the more moderate Democrats; voted for the Laken Riley Act and voted against the July 2026 amendment to cut Israel military aid.",
+  "sources": [
+   "https://voteview.com/congress/house",
+   "https://clerk.house.gov/evs/2026/roll243.xml",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia"
+  ]
+ },
+ {
+  "district": "VA-8",
+  "name": "Don Beyer",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus",
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member; voted against H.R. 8034 Israel aid in 2024 and for the July 2026 amendment to cut Israel military aid; DW-NOMINATE -0.392, near the caucus median.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml",
+   "https://voteview.com/congress/house"
+  ]
+ },
+ {
+  "district": "VA-9",
+  "name": "H. Morgan Griffith",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Mixed record: objected to 2020 electoral votes (AZ and PA), but voted for H.R. 8035 Ukraine aid in 2024 and against the 2025 Greene amendment barring Ukraine assistance; DW-NOMINATE 0.51, near the GOP median.",
+  "sources": [
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://voteview.com/congress/house"
+  ]
+ },
+ {
+  "district": "VA-10",
+  "name": "Suhas Subramanyam",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "DW-NOMINATE -0.238, right of the Democratic median; voted against the July 2026 amendment to cut Israel military aid.",
+  "sources": [
+   "https://voteview.com/congress/house",
+   "https://clerk.house.gov/evs/2026/roll243.xml"
+  ]
+ },
+ {
+  "district": "VA-11",
+  "name": "James Walkinshaw",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Not on the CPC roster; voted against the July 2026 amendment to cut Israel military aid. DW-NOMINATE -0.428 (slightly left of median) on a short 2025-26 record.",
+  "sources": [
+   "https://voteview.com/congress/house",
+   "https://clerk.house.gov/evs/2026/roll243.xml",
+   "https://progressives.house.gov/caucus-members"
+  ]
+ },
+ {
+  "district": "VT-AL",
+  "name": "Becca Balint",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member; voted against H.R. 8034 Israel aid in 2024 and for the July 2026 amendment to cut Israel military aid; DW-NOMINATE -0.442.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml",
+   "https://voteview.com/congress/house"
+  ]
+ },
+ {
+  "district": "WA-1",
+  "name": "Suzan DelBene",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition (former chair)"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Former New Democrat Coalition chair and DCCC chair; DW-NOMINATE -0.296; voted for H.R. 8034 and against the 2026 Israel aid cut amendment.",
+  "sources": [
+   "https://voteview.com/congress/house",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml"
+  ]
+ },
+ {
+  "district": "WA-2",
+  "name": "Rick Larsen",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "DW-NOMINATE -0.365; not a CPC member; voted for H.R. 8034 and against the 2026 Israel aid cut amendment.",
+  "sources": [
+   "https://voteview.com/congress/house",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml",
+   "https://progressives.house.gov/caucus-members"
+  ]
+ },
+ {
+  "district": "WA-3",
+  "name": "Marie Gluesenkamp Perez",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "Blue Dog Coalition (co-chair)"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Blue Dog co-chair with DW-NOMINATE -0.099, among the most moderate Democrats; voted for H.R. 8034 and against the 2026 Israel aid cut amendment.",
+  "sources": [
+   "https://voteview.com/congress/house",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml"
+  ]
+ },
+ {
+  "district": "WA-4",
+  "name": "Amanda McKinney",
+  "party": "R",
+  "returning": false,
+  "wing": "Nationalist",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": [
+    "Donald Trump",
+    "Mike Johnson",
+    "Turning Point Action",
+    "NRA-PVF"
+   ]
+  },
+  "evidence": "Newcomer (Yakima County commissioner) replacing retiring Dan Newhouse; describes herself as America First/MAGA and was backed by Trump and Turning Point Action, but campaigned as a non-obstructionist and was positioned between establishment candidate Boehnke and Flynn/Stone-backed Sessler. No stated Ukraine or trade positions found; evidence thin.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington",
+   "https://opb.org/article/2026/08/03/factions-of-the-republican-party-on-display-in-a-washington-race"
+  ]
+ },
+ {
+  "district": "WA-6",
+  "name": "Emily Randall",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "Progressive Caucus PAC (2024)"
+   ]
+  },
+  "evidence": "CPC member with DW-NOMINATE -0.572; ran in 2024 opposing conditions on Israel aid (losing some progressive support), but voted for the July 2026 amendment to cut $3.3B in Israel military aid.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://voteview.com/congress/house",
+   "https://clerk.house.gov/evs/2026/roll243.xml",
+   "https://randall.house.gov/media/press-releases/randall-votes-103-house-democrats-end-military-aid-israel",
+   "https://thestranger.com/news/2024/06/28/79578010/congressional-candidate-emily-randall-loses-the-left-after-taking-a-pro-israel-stance"
+  ]
+ },
+ {
+  "district": "WA-7",
+  "name": "Pramila Jayapal",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus (former chair)"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Former CPC chair and lead Medicare for All sponsor; DW-NOMINATE -0.607; voted against H.R. 8034 and for the 2026 Israel aid cut amendment.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://voteview.com/congress/house",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml"
+  ]
+ },
+ {
+  "district": "WA-8",
+  "name": "Kim Schrier",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "DW-NOMINATE -0.275; voted for H.R. 8034 and against the 2026 Israel aid cut amendment.",
+  "sources": [
+   "https://voteview.com/congress/house",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml"
+  ]
+ },
+ {
+  "district": "WA-9",
+  "name": "Adam Smith",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [
+    "Congressional Progressive Caucus",
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Listed on the CPC roster and voted for the July 2026 amendment to cut Israel military aid, but DW-NOMINATE -0.291 is right of the caucus median, he is a New Democrat and Armed Services ranking member, and he voted for H.R. 8034 in 2024.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://voteview.com/congress/house",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml"
+  ]
+ },
+ {
+  "district": "WA-10",
+  "name": "Marilyn Strickland",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Not a CPC member; voted for H.R. 8034 and against the 2026 Israel aid cut amendment; DW-NOMINATE -0.443.",
+  "sources": [
+   "https://voteview.com/congress/house",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml",
+   "https://progressives.house.gov/caucus-members"
+  ]
+ },
+ {
+  "district": "WI-1",
+  "name": "Mitchell Berman",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": [
+    "Blue Dog PAC",
+    "NewDem Action Fund",
+    "DCCC Red to Blue",
+    "J Street",
+    "UAW",
+    "Pat Ryan"
+   ]
+  },
+  "evidence": "Newcomer (nurse) who defeated Bryan Steil 52.0-48.0; general-election backing from Blue Dog PAC and NewDem Action Fund. Our Revolution backed a withdrawn rival (Randy Bryce), not Berman.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin"
+  ]
+ },
+ {
+  "district": "WI-2",
+  "name": "Mark Pocan",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus (former co-chair)"
+   ],
+   "key_endorsements": [
+    "Progressive Democrats of America",
+    "Citizens Against AIPAC Corruption"
+   ]
+  },
+  "evidence": "Former CPC co-chair; DW-NOMINATE -0.521; voted against H.R. 8034 and for the 2026 Israel aid cut amendment.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://voteview.com/congress/house",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin"
+  ]
+ },
+ {
+  "district": "WI-3",
+  "name": "Rebecca Cooke",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Blue Dog Coalition",
+    "DCCC Red to Blue",
+    "EMILY's List",
+    "Wisconsin AFL-CIO",
+    "Tammy Baldwin",
+    "Bernie Sanders",
+    "Jared Golden"
+   ]
+  },
+  "evidence": "Newcomer who defeated Derrick Van Orden 52.4-45.8; endorsed by the Blue Dog Coalition and DCCC along with labor and Bernie Sanders. The DSA and Our Wisconsin Revolution endorsements went to primary rival Emily Berge.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin"
+  ]
+ },
+ {
+  "district": "WI-4",
+  "name": "Gwen Moore",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member with DW-NOMINATE -0.52; voted for H.R. 8034 in 2024 while calling for a ceasefire, then voted for the July 2026 amendment to cut Israel military aid.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://voteview.com/congress/house",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml",
+   "https://wisconsinexaminer.com/2024/01/08/congresswoman-gwen-moore-calls-for-ceasefire-in-gaza/"
+  ]
+ },
+ {
+  "district": "WI-5",
+  "name": "Scott Fitzgerald",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Objected to 2020 electoral votes (AZ and PA), voted against H.R. 8035 Ukraine aid and for the 2025 Greene amendment barring Ukraine assistance; DW-NOMINATE 0.597.",
+  "sources": [
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://voteview.com/congress/house"
+  ]
+ },
+ {
+  "district": "WI-6",
+  "name": "Glenn Grothman",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted against H.R. 8035 Ukraine aid in 2024 but against the 2025 Greene amendment barring Ukraine assistance; did not object to 2020 electoral votes; DW-NOMINATE 0.601, right of GOP median. Mixed signals.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://voteview.com/congress/house"
+  ]
+ },
+ {
+  "district": "WI-7",
+  "name": "Michael Alfonso",
+  "party": "R",
+  "returning": false,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "beyond-baseline",
+   "caucuses": [],
+   "key_endorsements": [
+    "Donald Trump",
+    "Turning Point Action",
+    "Sean Duffy",
+    "Brandon Gill"
+   ]
+  },
+  "evidence": "Newcomer (Sean Duffy's son-in-law) succeeding Tom Tiffany, won 56.4-43.6; promoted as 'America First' new generation, campaigned against mass immigration including H-1B visas and 'wasteful foreign spending'; backed by Turning Point Action. Rival Club for Growth endorsements went to others.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin",
+   "https://www.dailysignal.com/2026/05/11/wisconsin-polling-michael-alfonso/",
+   "https://www.wpr.org/news/republican-michael-alfonso-wins-northern-wisconsin-district"
+  ]
+ },
+ {
+  "district": "WI-8",
+  "name": "Tony Wied",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Donald Trump (2024)"
+   ]
+  },
+  "evidence": "Voted for the July 2025 Greene amendment barring Ukraine assistance in the FY26 defense bill; DW-NOMINATE 0.534, at the GOP median; ran in 2024 as Trump-endorsed outsider.",
+  "sources": [
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://voteview.com/congress/house"
+  ]
+ },
+ {
+  "district": "WV-1",
+  "name": "Carol Miller",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Mixed record: objected to 2020 electoral votes (AZ and PA), but voted for H.R. 8035 Ukraine aid in 2024 and against the 2025 Greene amendment barring Ukraine assistance; DW-NOMINATE 0.53 (GOP median).",
+  "sources": [
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://voteview.com/congress/house"
+  ]
+ },
+ {
+  "district": "WV-2",
+  "name": "Riley Moore",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted for the July 2025 Greene amendment barring Ukraine assistance; DW-NOMINATE 0.544; as state treasurer led anti-ESG boycotts and in Congress has centered persecution of Christians abroad.",
+  "sources": [
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://voteview.com/congress/house",
+   "https://en.wikipedia.org/wiki/Riley_Moore"
+  ]
+ },
+ {
+  "district": "WY-AL",
+  "name": "Chuck Gray",
+  "party": "R",
+  "returning": false,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown",
+   "caucuses": [
+    "Wyoming Freedom Caucus (state-level backing)"
+   ],
+   "key_endorsements": [
+    "Donald Trump",
+    "Wyoming Freedom Caucus",
+    "Wyoming Republican Party",
+    "Club for Growth PAC"
+   ]
+  },
+  "evidence": "Newcomer (Wyoming Secretary of State) succeeding Harriet Hageman, won 54.5-33.7; backed by the Wyoming Freedom Caucus and state party against an establishment field, and as a candidate and secretary of state promoted claims of 2020 election fraud. No Ukraine record.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_Wyoming",
+   "https://en.wikipedia.org/wiki/Chuck_Gray_(Wyoming_politician)"
+  ]
+ }
+]

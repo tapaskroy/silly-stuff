@@ -1,0 +1,1203 @@
+[
+ {
+  "district": "CT-1",
+  "name": "Luke Bronin",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "mixed",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Former Hartford mayor; defeated 14-term AIPAC-endorsed Rep. John Larson in the Aug 11, 2026 primary on a generational-change message. Has said he would support Iron Dome but not offensive weapons for Israel; no progressive-group endorsements found.",
+  "sources": [
+   "https://ctmirror.org/2026/08/11/john-larson-luke-bronin-primary-election-results/",
+   "https://www.jns.org/news/u-s-news/former-hartford-mayor-beats-aipac-endorsed-congressman-seeking-15th-term-in-connecticut-dem-primary"
+  ]
+ },
+ {
+  "district": "CT-2",
+  "name": "Joe Courtney",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Not a CPC member; DW-NOMINATE -0.336 (about 66th percentile from the left of the 119th-Congress Democratic caucus). Voted Yea on H.R. 8034 (2024) and No on the July 2026 Massie amendment to strip Israel FMF (roll 243).",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://progressives.house.gov/caucus-members",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml"
+  ]
+ },
+ {
+  "district": "CT-3",
+  "name": "Rosa DeLauro",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "supports",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member with a left economic record (DW-NOMINATE -0.414, mid-caucus). Classified Mainstream under the Israel rule: voted Yea on H.R. 8034 (2024) and No on the July 2026 amendment to strip $3.3B Israel FMF (roll 243), on which 103 Democrats voted Aye.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml"
+  ]
+ },
+ {
+  "district": "CT-4",
+  "name": "Jim Himes",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "DW-NOMINATE -0.241 (about 86th percentile from the left, among the caucus's more moderate members); not CPC. Voted Yea on H.R. 8034 and No on the 2026 Israel-aid strip amendment.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://progressives.house.gov/caucus-members",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml"
+  ]
+ },
+ {
+  "district": "CT-5",
+  "name": "Jahana Hayes",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "mixed",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Not a CPC member; DW-NOMINATE -0.341 (about 64th percentile from the left). Voted Yea on H.R. 8034 (2024) but Aye on the July 2026 Massie amendment to strip Israel FMF (roll 243).",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://progressives.house.gov/caucus-members",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml"
+  ]
+ },
+ {
+  "district": "DE-AL",
+  "name": "Sarah McBride",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Listed CPC member and voted Aye on the July 2026 amendment to strip Israel FMF (roll 243). Borderline: DW-NOMINATE -0.267 places her about 82nd percentile from the left, i.e. on the moderate side of the caucus.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2026/roll243.xml"
+  ]
+ },
+ {
+  "district": "FL-1",
+  "name": "Jimmy Patronis",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Donald Trump"
+   ]
+  },
+  "evidence": "Joined in April 2025 special election. Voted Aye on Greene's July 2025 amendment to bar Ukraine funding in the FY26 defense bill (roll 209, failed 76-353) and Aye on the 2026 Roy amendment to bar UN funding (roll 245).",
+  "sources": [
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2026/roll245.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv"
+  ]
+ },
+ {
+  "district": "FL-2",
+  "name": "Austin Rogers",
+  "party": "R",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": [
+    "U.S. Chamber of Commerce",
+    "Steve Scalise",
+    "Tom Emmer",
+    "Jim Jordan",
+    "Donald Trump"
+   ]
+  },
+  "evidence": "Newcomer; former general counsel to Sen. Rick Scott; won open seat (Neal Dunn retired). Endorsed by the U.S. Chamber and House GOP leadership; platform is border security and affordability with no detailed foreign-policy or trade positions found.",
+  "sources": [
+   "https://www.uschamber.com/improving-government/u-s-chamber-endorses-austin-rogers-for-floridas-second-congressional-district",
+   "https://news.wfsu.org/2026-election-coverage/2026-08-18/austin-rogers-secures-republican-nomination-for-district-two-congressional-seat"
+  ]
+ },
+ {
+  "district": "FL-3",
+  "name": "Kat Cammack",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted Nay on H.R. 8035 (2024), Aye on the July 2025 amendment to bar Ukraine funding (roll 209), and voted for the Jan 2021 objections to 2020 electoral votes.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml"
+  ]
+ },
+ {
+  "district": "FL-4",
+  "name": "Aaron Bean",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted Nay on H.R. 8035 (2024) and Aye on the July 2025 amendment to bar Ukraine funding (roll 209); DW-NOMINATE 0.695 (about 86th percentile toward the right of the GOP conference).",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv"
+  ]
+ },
+ {
+  "district": "FL-5",
+  "name": "John Rutherford",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted Yea on H.R. 8035 (2024) and No on the 2025 Ukraine-funding ban (roll 209); DW-NOMINATE 0.433 (center of the conference). Did vote for the Jan 2021 electoral-vote objections.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv"
+  ]
+ },
+ {
+  "district": "FL-6",
+  "name": "Randy Fine",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Donald Trump"
+   ]
+  },
+  "evidence": "Joined April 2025. Voted No on the 2025 Ukraine-funding ban (roll 209), but his record centers on culture-war and Israel-related issues; DW-NOMINATE 0.633 (about 72nd percentile). Mixed signals, so borderline.",
+  "sources": [
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2026/roll245.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv"
+  ]
+ },
+ {
+  "district": "FL-8",
+  "name": "Mike Haridopolos",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Joined Jan 2025. Voted No on the July 2025 amendment to bar Ukraine funding (roll 209); DW-NOMINATE 0.462 (about 37th percentile, center of the conference).",
+  "sources": [
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv"
+  ]
+ },
+ {
+  "district": "FL-10",
+  "name": "Maxwell Frost",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "Bernie Sanders",
+    "Our Revolution"
+   ]
+  },
+  "evidence": "CPC vice chair; DW-NOMINATE -0.442 (left third of caucus). Voted Nay on H.R. 8034 (2024) and Aye on the July 2026 amendment to strip Israel FMF (roll 243).",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml"
+  ]
+ },
+ {
+  "district": "FL-11",
+  "name": "Joe Strada",
+  "party": "R",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": [
+    "Jim Jordan",
+    "Steve Scalise",
+    "Donald Trump"
+   ]
+  },
+  "evidence": "Newcomer businessman; won GOP primary by 393 votes after recount to succeed Daniel Webster. Campaign themes were term limits, an insider-trading ban and removing 'criminal illegals'; backed by Scalise and Jordan. Evidence thin.",
+  "sources": [
+   "https://mynews13.com/fl/orlando/news/2026/08/24/recount-confirms-strada-wins-the-republican-nomination-for-congressional-district-11",
+   "https://floridianpress.com/2026/06/joe-strada-says-washington-is-full-of-crap-in-new-campaign-ad/"
+  ]
+ },
+ {
+  "district": "FL-12",
+  "name": "Gus Bilirakis",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Mixed: voted Nay on H.R. 8035 (2024) but No on the 2025 amendment to bar Ukraine funding (roll 209); did not vote on the Jan 2021 objections; DW-NOMINATE 0.423 (about 27th percentile, moderate side).",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv"
+  ]
+ },
+ {
+  "district": "FL-13",
+  "name": "Anna Paulina Luna",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [
+    "House Freedom Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Voted Nay on H.R. 8035 (2024) and Aye on the July 2025 amendment to bar Ukraine funding (roll 209).",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml"
+  ]
+ },
+ {
+  "district": "FL-14",
+  "name": "Kathy Castor",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Not on the CPC roster although DW-NOMINATE -0.434 is on the left third of the caucus. Voted Yea on H.R. 8034 and No on the 2026 Israel-aid strip amendment (roll 243).",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml"
+  ]
+ },
+ {
+  "district": "FL-15",
+  "name": "Laurel Lee",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Mixed: voted Nay on H.R. 8035 (2024) but No on the 2025 Ukraine-funding ban (roll 209); DW-NOMINATE 0.422 (about 26th percentile, moderate side); former Florida Secretary of State.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv"
+  ]
+ },
+ {
+  "district": "FL-16",
+  "name": "Sydney Gruters",
+  "party": "R",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "beyond-baseline",
+   "caucuses": [],
+   "key_endorsements": [
+    "Donald Trump",
+    "Speaker Mike Johnson and House GOP leadership"
+   ]
+  },
+  "evidence": "Newcomer (wife of RNC chair Joe Gruters); won the open seat vacated by Vern Buchanan, her former boss. Backed by House leadership against insurgent Eddie Speir; local coverage describes her immigration stance as hardline. Evidence thin.",
+  "sources": [
+   "https://floridianpress.com/2026/05/mike-johnson-house-republican-brass-endorse-sydney-gruters-in-cd-16/",
+   "https://www.thebradentontimes.com/stories/race-analysis-congressional-district-16-republican-primary,205476"
+  ]
+ },
+ {
+  "district": "FL-17",
+  "name": "Greg Steube",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted Nay on H.R. 8035 (2024), Aye on the 2025 Ukraine-funding ban (roll 209), and voted for the Jan 2021 objections; DW-NOMINATE 0.686.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv"
+  ]
+ },
+ {
+  "district": "FL-18",
+  "name": "Scott Franklin",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted Nay on H.R. 8035 (2024) and for the Jan 2021 objections; DW-NOMINATE 0.625. Borderline because he voted No on the 2025 amendment to bar Ukraine funding (roll 209).",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv"
+  ]
+ },
+ {
+  "district": "FL-19",
+  "name": "Jim Schwartzel",
+  "party": "R",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": [
+    "Jim Jordan",
+    "Connie Mack III",
+    "Connie Mack IV"
+   ]
+  },
+  "evidence": "Newcomer media executive; narrowly beat Trump-endorsed Catalina Lauf in the primary for Byron Donalds's open seat. Platform is term limits, border security and Florida water quality; no foreign-policy positions found.",
+  "sources": [
+   "https://news.ballotpedia.org/2026/08/19/jim-schwartzel-r-defeated-nine-other-candidates-in-the-republican-primary-for-floridas-19th-congressional-district-on-august-18-2026/",
+   "https://www.washingtonexaminer.com/?p=4691584"
+  ]
+ },
+ {
+  "district": "FL-20",
+  "name": "Debbie Wasserman Schultz",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Incumbent (previously FL-25) who ran in the new FL-20 after the 2026 Florida redistricting, so returning=true. Voted Yea on H.R. 8034 and No on the 2026 Israel-aid strip amendment; not CPC.",
+  "sources": [
+   "https://www.wlrn.org/government-politics/2026-11-03/elections-congressional-dandiya-frankel-gimenez-mast-south-florida",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml",
+   "https://progressives.house.gov/caucus-members"
+  ]
+ },
+ {
+  "district": "FL-21",
+  "name": "Brian Mast",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted Nay on H.R. 8035 (2024) and for the Jan 2021 objections. Borderline: voted No on the 2025 Ukraine-funding ban (roll 209) and DW-NOMINATE 0.461 is mid-conference.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv"
+  ]
+ },
+ {
+  "district": "FL-22",
+  "name": "Pia Dandiya",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "EMILY's List",
+    "Ro Khanna",
+    "New Politics",
+    "Indian American Impact Fund"
+   ]
+  },
+  "evidence": "Newcomer; won open FL-22 over Casey Askar. Platform is universal pre-K, health-care costs and abortion rights; endorsers include Ro Khanna and EMILY's List, and a Republican mayor crossed over to back her. No CPC-type group endorsements or Israel statements found.",
+  "sources": [
+   "https://www.wlrn.org/government-politics/2026-11-03/elections-congressional-dandiya-frankel-gimenez-mast-south-florida",
+   "https://www.newpolitics.org/news/new-politics-endorses-pia-dandiya-for-congress-in-floridas-22nd-district"
+  ]
+ },
+ {
+  "district": "FL-23",
+  "name": "Lois Frankel",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Incumbent (previously FL-22) running in redrawn FL-23, so returning=true. Voted Yea on H.R. 8034 and No on the 2026 Israel-aid strip amendment; not CPC.",
+  "sources": [
+   "https://www.thejewishnews.com/news/florida-redistricting-scrambled-the-map-three-jewish-democrats-found-a-way-through/article_a736dde9-1b5a-47e3-b83d-75a6d03d0f2c.html",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml"
+  ]
+ },
+ {
+  "district": "FL-24",
+  "name": "Oliver Gilbert",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": false,
+  "signals": {
+   "economic": "unknown",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Frederica Wilson"
+   ]
+  },
+  "evidence": "Newcomer; Miami-Dade commissioner and former Miramar mayor, endorsed by retiring Rep. Frederica Wilson; beat state Sen. Shevrin Jones by about 2 points in the primary. No CPC-type endorsements or detailed platform found. Evidence thin.",
+  "sources": [
+   "https://www.wlrn.org/government-politics/2026-08-18/oliver-gilbert-prevails-in-crowded-7-way-democratic-primary-to-succeed-rep-frederica-wilson",
+   "https://www.wlrn.org/government-politics/2026-08-04/a-look-at-the-democratic-candidates-running-in-floridas-24th-congressional-district"
+  ]
+ },
+ {
+  "district": "FL-25",
+  "name": "Jared Moskowitz",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Incumbent (previously FL-23) running in redrawn FL-25, so returning=true. DW-NOMINATE -0.227 (about 91st percentile, among the most moderate Democrats); voted Yea on H.R. 8034 and No on the 2026 Israel-aid strip amendment.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml",
+   "https://gvwire.com/2026/08/18/democratic-us-representative-moskowitz-fends-off-challenge-in-florida-from-democratic-socialist/"
+  ]
+ },
+ {
+  "district": "FL-28",
+  "name": "Carlos Gimenez",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted Yea on H.R. 8035 (2024), No on the 2025 Ukraine-funding ban, No on the 2026 UN-funding ban; DW-NOMINATE 0.329 (about 12th percentile). Did vote for the Jan 2021 objections.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2026/roll245.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml"
+  ]
+ },
+ {
+  "district": "GA-1",
+  "name": "Jim Kingston",
+  "party": "R",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": [
+    "Club for Growth PAC",
+    "U.S. Chamber of Commerce",
+    "Donald Trump"
+   ]
+  },
+  "evidence": "Newcomer (son of former Rep. Jack Kingston) for Buddy Carter's open seat; endorsed by Club for Growth and the U.S. Chamber; campaign themes were spending restraint and deregulation.",
+  "sources": [
+   "https://www.clubforgrowth.org/club-for-growth-pac-endorses-jim-kingston-in-ga-01-race/",
+   "https://www.uschamber.com/improving-government/u-s-chamber-endorses-candidate-jim-kingston-for-georgias-1st-congressional-district"
+  ]
+ },
+ {
+  "district": "GA-2",
+  "name": "Sanford Bishop",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "Blue Dog Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "DW-NOMINATE -0.289 (about 78th percentile, moderate side); not CPC. Voted Yea on H.R. 8034 and No on the 2026 Israel-aid strip amendment.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://progressives.house.gov/caucus-members",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml"
+  ]
+ },
+ {
+  "district": "GA-3",
+  "name": "Brian Jack",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Donald Trump"
+   ]
+  },
+  "evidence": "Former Trump White House political director, joined Jan 2025. Voted Aye on the July 2025 amendment to bar Ukraine funding (roll 209); DW-NOMINATE 0.595.",
+  "sources": [
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv"
+  ]
+ },
+ {
+  "district": "GA-4",
+  "name": "Hank Johnson",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member; DW-NOMINATE -0.479 (left fifth of caucus). Voted Nay on H.R. 8034 (2024) and Aye on the 2026 amendment to strip Israel FMF (roll 243).",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml"
+  ]
+ },
+ {
+  "district": "GA-5",
+  "name": "Nikema Williams",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "supports",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member with DW-NOMINATE -0.442 (left third of caucus). Classified Mainstream under the Israel rule: voted Yea on H.R. 8034 (2024) and No on the July 2026 amendment to strip Israel FMF (roll 243).",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml"
+  ]
+ },
+ {
+  "district": "GA-6",
+  "name": "Lucy McBath",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Not CPC; DW-NOMINATE -0.371 (mid-caucus). Voted Yea on H.R. 8034 and No on the 2026 Israel-aid strip amendment.",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml"
+  ]
+ },
+ {
+  "district": "GA-7",
+  "name": "Rich McCormick",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted Yea on H.R. 8035 (2024) and No on the 2025 Ukraine-funding ban (roll 209). His DW-NOMINATE (0.891) is high, which goes against the classification.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv"
+  ]
+ },
+ {
+  "district": "GA-8",
+  "name": "Austin Scott",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted Yea on H.R. 8035, No on the 2025 Ukraine-funding ban, and against the Jan 2021 objections.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml"
+  ]
+ },
+ {
+  "district": "GA-9",
+  "name": "Andrew Clyde",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [
+    "House Freedom Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Voted Nay on H.R. 8035 and on H.R. 8034 (2024), voted for the Jan 2021 objections; DW-NOMINATE 0.827 (about 98th percentile).",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv"
+  ]
+ },
+ {
+  "district": "GA-10",
+  "name": "Houston Gaines",
+  "party": "R",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Donald Trump",
+    "Speaker Mike Johnson",
+    "GOPAC Election Fund"
+   ]
+  },
+  "evidence": "Newcomer state representative from Athens for Mike Collins's open seat; backed by Trump, Speaker Johnson and GOPAC. No distinctive foreign-policy, trade or immigration positions found. Evidence thin.",
+  "sources": [
+   "https://www.atlantanewsfirst.com/2026/05/20/president-trump-endorsed-houston-gaines-wins-us-district-10-gop-primary/",
+   "https://www.atlantanewsfirst.com/2026/11/04/houston-gaines-jumps-state-house-congress-georgias-10th/"
+  ]
+ },
+ {
+  "district": "GA-11",
+  "name": "John Cowan",
+  "party": "R",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "U.S. Chamber of Commerce",
+    "Andy Harris (HFC chair)",
+    "Donald Trump"
+   ]
+  },
+  "evidence": "Newcomer neurosurgeon for Barry Loudermilk's open seat; finished second to Marjorie Taylor Greene in the 2020 GA-14 primary. Endorsed by both the U.S. Chamber and Freedom Caucus chair Andy Harris, so borderline.",
+  "sources": [
+   "https://www.uschamber.com/improving-government/u-s-chamber-endorses-dr-john-cowan-for-georgias-eleventh-congressional-district",
+   "https://www.atlantanewsfirst.com/2026/11/04/cartersville-physician-john-cowan-defeats-chris-harden-succeed-us-rep-barry-loudermilk/",
+   "https://www.cookpolitical.com/house/race/482916"
+  ]
+ },
+ {
+  "district": "GA-12",
+  "name": "Rick Allen",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted Nay on H.R. 8035 (2024) and for the Jan 2021 objections; DW-NOMINATE 0.689 (about 85th percentile). Voted No on the 2025 Ukraine-funding ban.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2025/roll209.xml"
+  ]
+ },
+ {
+  "district": "GA-13",
+  "name": "Jasmine Clark",
+  "party": "D",
+  "returning": false,
+  "wing": "Progressive",
+  "confidence": "low",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [],
+   "key_endorsements": [
+    "Working Families Party (listed, undated)",
+    "Indivisible",
+    "J Street PAC",
+    "314 Action"
+   ]
+  },
+  "evidence": "Newcomer state representative; seat held by Everton Blair (special-election winner after David Scott died) until Jan 2027. iVoterGuide lists a Working Families Party endorsement; she opposed Georgia HB 30, the antisemitism-definition bill, and is J Street-endorsed. Evidence thin.",
+  "sources": [
+   "https://ivoterguide.com/candidate/46820/race/11781/election/961",
+   "https://jstreetpac.org/?p=21528",
+   "https://asianamericanadvocacyfund.org/endorsement-archive/dr-jasmine-clark",
+   "https://www.atlantanewsfirst.com/2026/08/26/everton-blair-wins-metro-atlantas-13th-district-special-election/"
+  ]
+ },
+ {
+  "district": "GA-14",
+  "name": "Clay Fuller",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": [
+    "Donald Trump",
+    "Club for Growth PAC"
+   ]
+  },
+  "evidence": "Won April 2026 special election to succeed Marjorie Taylor Greene; short record: DW-NOMINATE 0.703 (about 87th percentile) and Aye on the 2026 Boebert and Roy (UN funding) amendments (rolls 241, 245). Club for Growth backing points the other way; evidence thin.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2026/roll241.xml",
+   "https://clerk.house.gov/evs/2026/roll245.xml",
+   "https://www.clubforgrowth.org/club-for-growth-pac-congratulates-clay-fuller-on-advancing-to-runoff-in-ga-14-special-election/"
+  ]
+ },
+ {
+  "district": "HI-1",
+  "name": "Ed Case",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "Blue Dog Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "DW-NOMINATE -0.208 (about 95th percentile, most moderate in the caucus); not CPC. Voted Yea on H.R. 8034 and No on the 2026 Israel-aid strip amendment.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://progressives.house.gov/caucus-members",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml"
+  ]
+ },
+ {
+  "district": "HI-2",
+  "name": "Jill Tokuda",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member; DW-NOMINATE -0.455 (left quarter of caucus). Voted Nay on H.R. 8034 (2024) and Aye on the 2026 amendment to strip Israel FMF (roll 243).",
+  "sources": [
+   "https://progressives.house.gov/caucus-members",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml"
+  ]
+ },
+ {
+  "district": "IA-1",
+  "name": "Christina Bohannan",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "New Dem Action Fund",
+    "EMILY's List",
+    "JDCA",
+    "DCCC Red to Blue"
+   ]
+  },
+  "evidence": "Newcomer; unseated Rep. Mariannette Miller-Meeks on her third try. Put on the New Democrat Coalition's first 2026 endorsement slate; no progressive-group endorsements found.",
+  "sources": [
+   "https://newdemactionfund.com/press-releases/2025/7/14/new-dems-endorse-christina-bohannan-rebecca-cooke-and-janelle-stelson-in-first-endorsement-slate-for-2026-midterms",
+   "https://www.newsfromthestates.com/article/iowa-1st-district-bohannan-miller-meeks-face-november-ap-projects"
+  ]
+ },
+ {
+  "district": "IA-2",
+  "name": "Lindsay James",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": false,
+  "signals": {
+   "economic": "unknown",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "EMILY's List",
+    "End Citizens United",
+    "Iowa Teamsters",
+    "AFSCME"
+   ]
+  },
+  "evidence": "Newcomer Dubuque state representative; won open seat (Ashley Hinson ran for Senate). Platform covers wages, housing, child care and school funding; endorsed by labor and EMILY's List, with no CPC-type group endorsements found. Evidence thin.",
+  "sources": [
+   "https://ballotpedia.org/Lindsay_James",
+   "https://www2.thegazette.com/news/elections/state/national-state-unions-endorse-in-iowa-democratic-primaries/article_ea545fe6-6b2a-44ba-bdf7-4bbfde89fb19.html"
+  ]
+ },
+ {
+  "district": "IA-3",
+  "name": "Sarah Trone Garriott",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "mixed",
+   "caucuses": [],
+   "key_endorsements": [
+    "EMILY's List",
+    "End Citizens United",
+    "J Street PAC",
+    "The NewDEAL",
+    "New Politics"
+   ]
+  },
+  "evidence": "Newcomer state senator; unseated Rep. Zach Nunn. Endorsed by the center-left NewDEAL, New Politics, EMILY's List and J Street; no CPC-type group endorsements or Medicare for All position found.",
+  "sources": [
+   "https://emilyslist.org/news/emilys-list-endorses-state-sen-sarah-trone-garriott-for-iowas-3rd-congressional-district/",
+   "https://bluevoterguide.org/endorser-org/The_NewDEAL/IA/3425",
+   "https://jstreetpac.org/?p=19824"
+  ]
+ },
+ {
+  "district": "IA-4",
+  "name": "Chris McGowan",
+  "party": "R",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Donald Trump",
+    "Speaker Mike Johnson",
+    "Steve Scalise",
+    "Tom Emmer"
+   ]
+  },
+  "evidence": "Newcomer; president of the Siouxland Chamber of Commerce; ran unopposed in the GOP primary for Randy Feenstra's open seat; calls himself a fiscal and social conservative and was endorsed by House leadership.",
+  "sources": [
+   "https://www.thegazette.com/campaigns-elections/siouxland-chamber-of-commerce-president-chris-mcgowan-running-for-congress/",
+   "https://iowacapitaldispatch.com/2025/11/20/house-majority-whip-tom-emmer-endorses-iowa-gop-congressional-candidates/"
+  ]
+ },
+ {
+  "district": "ID-1",
+  "name": "Russ Fulcher",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [
+    "House Freedom Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Voted Nay on H.R. 8035 (2024), Aye on the 2025 Ukraine-funding ban (roll 209), and for the Jan 2021 objections.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml"
+  ]
+ },
+ {
+  "district": "ID-2",
+  "name": "Mike Simpson",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted Yea on H.R. 8035, No on the 2025 Ukraine-funding ban, No on the 2026 UN-funding ban, and against the Jan 2021 objections; DW-NOMINATE 0.296 (about 8th percentile).",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2026/roll245.xml",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv"
+  ]
+ }
+]
