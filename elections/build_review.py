@@ -288,15 +288,109 @@ def close_line():
             + " Confident calls (70% or more) right: " + "; ".join(f"{esc(short(x['name']))} {x['confident_right']} of {x['confident']}" for x in conf) + ".")
 
 
+RACES_OF = {"senate": "Senate races", "house": "House races", "governors": "governors' races"}
+
+
+def lead(u, x):
+    """A margin for the winner as 'Name +x' for whoever led."""
+    return f"{u['winner']} +{x:.1f}" if x > 0 else f"{u['loser']} +{-x:.1f}" if x < 0 else "a tie"
+
+
+def versus(ch):
+    """Which models and markets beat us, tied or trailed on the races they covered, by races right and by Brier score."""
+    rows = [b for b in B[ch] if b["kind"] in ("model", "market") and b.get("right_ours_same") is not None]
+    if not rows:
+        return ""
+    more = [short(b["name"]) for b in rows if b["right"] > b["right_ours_same"]]
+    fewer = [short(b["name"]) for b in rows if b["right"] < b["right_ours_same"]]
+    brier = [short(b["name"]) for b in rows if b.get("brier") is not None and b["brier"] < b["brier_ours_same"]]
+    return (f"in the {RACES_OF[ch]}, {len(more)} of {len(rows)} got more right than we did on the same races"
+            + (f" ({esc(', '.join(more))})" if more else "") + f", {len(fewer)} fewer"
+            + (f", and {len(brier)} had a better Brier score ({esc(', '.join(brier))})." if brier else ", and none had a better Brier score."))
+
+
+def close_versus(ch):
+    c = A[ch]["close"]
+    ours = next(x for x in c["sources"] if x["name"] == "This forecast")
+    better = sorted((x for x in c["sources"] if x["right"] > ours["right"] and x["name"] != "This forecast"), key=lambda x: -x["right"])
+    return (f"In the {c['n']} close {RACES_OF[ch].replace('the ', '')} we got {ours['right']} right"
+            + (f"; {len(better)} sources did better: " + "; ".join(f"{esc(short(x['name']))} {x['right']}" for x in better) + "." if better else ", as well as anyone."))
+
+
+def sc_sentence():
+    sc = next((u for u in A["senate"]["upsets"] if u["key"] == "South Carolina"), None)
+    if not sc or sc.get("prior_winner") is None or sc.get("poll_avg_winner") is None:
+        return ""
+    return (f" South Carolina is the one we should have come closer on: {len(sc['polls'])} polls averaged {lead(sc, sc['poll_avg_winner'])}, but"
+            f" our fundamentals prior ({lead(sc, sc['prior_winner'])}) pulled the forecast to {lead(sc, sc['forecast_margin_winner'])}.")
+
+
+def caught_line(ids):
+    parts = [f"{esc(short(b['name']))} {len(b['upsets_caught'])}" for b in (find("house", i) for i in ids) if b]
+    return ("Of the models and markets: " + ", ".join(parts) + ".") if parts else ""
+
+
 def house_models_line():
     full = [b for b in house_models if b["n"] >= 100]
     if not full:
         return ""
     best = sorted(full, key=lambda b: -b["right"])
-    return (f"Every model and market with district odds did better. On the same {best[0]['n']} competitive districts, where we got "
+    better = [b for b in best if b["right"] > b["right_ours_same"]]
+    lead = ("Every model and market with district odds did better." if len(better) == len(best)
+            else f"{len(better)} of the {len(best)} models and markets with district odds did better.")
+    return (f"{lead} On the same {best[0]['n']} competitive districts, where we got "
             f"{best[0]['right_ours_same']} right: " + "; ".join(f"{esc(short(b['name']))} {b['right']}" for b in best) + ".")
 
 
+# ---------- hand-written claims, checked against the data ----------
+# The prose below states these facts in words. If a recount, a withdrawn call or new research makes one false, the build stops
+# here instead of publishing a stale sentence; update the text, then the check.
+
+def _u(ch, key):
+    return next((u for u in A[ch]["upsets"] if u["key"] == key), None)
+
+
+def _models_right(u):
+    return [m for m in u["models"] if m["right"]]
+
+
+def _raters_right(u):
+    return [k for k, v in u["ratings"].items() if _side(v) == ("R" if u["winner_party"] == "R" else "D")]
+
+
+CLAIMS = {
+    "Mississippi and South Carolina are the Senate upsets, both Democratic": sorted(s["key"] for s in A["senate"]["upsets"]) == ["Mississippi", "South Carolina"]
+        and all(u["winner_party"] == "D" for u in A["senate"]["upsets"]),
+    "no source favored Colom (Mississippi)": _u("senate", "Mississippi") is not None and not _models_right(_u("senate", "Mississippi"))
+        and not _raters_right(_u("senate", "Mississippi")),
+    "only one model (On Point) favored Andrews (South Carolina)": _u("senate", "South Carolina") is not None
+        and [m["id"] for m in _models_right(_u("senate", "South Carolina"))] == ["onpoint"] and not _raters_right(_u("senate", "South Carolina")),
+    "every House upset went to the Democrat": all(u["winner_party"] == "D" for u in A["house"]["upsets"]),
+    "Vermont is the only Republican upset, and every rater, model and market favored Scott": [u["key"] for u in ALL_UPSETS if u["winner_party"] == "R"] == ["Vermont"]
+        and all(m["right"] for m in _u("governors", "Vermont")["models"]) and len(_raters_right(_u("governors", "Vermont"))) == 3,
+    "most models and both markets called Nevada right": _u("governors", "Nevada") is not None
+        and 2 * len(_models_right(_u("governors", "Nevada"))) > len(_u("governors", "Nevada")["models"])
+        and {"polymarket", "kalshi"} <= {m["id"] for m in _models_right(_u("governors", "Nevada"))},
+    "Texas governor was missed by everyone": _u("governors", "Texas") is not None and not _models_right(_u("governors", "Texas"))
+        and not _raters_right(_u("governors", "Texas")),
+    "TX-9, 15, 23, 35 and NC-6, 9, 13, 14 are all upsets": all(_u("house", k) for k in ("TX-9", "TX-15", "TX-23", "TX-35", "NC-6", "NC-9", "NC-13", "NC-14")),
+    "the NC upsets were 4-11% and won by 2-3 points": all(.035 <= _u("house", k)["p_winner"] <= .115 and 1.5 <= (_u("house", k)["actual_margin_winner"] or 0) <= 3.5
+                                                       for k in ("NC-6", "NC-9", "NC-13", "NC-14")),
+    "no rule change rescues Mississippi, South Carolina, TX-9, NJ-2 or the NC seats": not any(
+        k in v["upsets_fixed"] for ch in CHS for v in CF[ch] for k in ("Mississippi", "South Carolina", "TX-9", "NJ-2", "NC-6", "NC-9", "NC-13", "NC-14")),
+    "Democratic internals were among the most accurate (Impact, GBAO all-right on upsets)": all(
+        any(p["pollster"] == n and p["upsets_polled"] and p["upsets_right"] == p["upsets_polled"] for p in pollsters) for n in ("Impact Research", "GBAO")),
+    "the House result ran past every forecaster's median": all((v.get("house_median_dem") or 0) < A["seats"]["house_d"]
+                                                               for v in list((A.get("control") or {}).values()) + [A["seats"]["ours"]] if isinstance(v, dict)),
+}
+bad = [k for k, ok in CLAIMS.items() if not ok]
+if bad:
+    raise SystemExit("review.html not written; these sentences no longer match the data:\n  " + "\n  ".join(bad))
+
+
+PSHIFT = json.loads((HERE / "frozen" / "house_model.json").read_text())["params"]["weights"]["partisan_shift"]
+_biased = [p for p in pollsters if p["bias_d"] is not None and p["races"] >= 3]
+under_d = f"{sum(p['bias_d'] > 0 for p in _biased)} of the {len(_biased)} pollsters with 3 or more called races underestimated Democrats on average"
 upset_cards = "".join(appendix_card(u) for u in sorted(ALL_UPSETS, key=lambda u: (CHS.index(u["ch"]), u["p_winner"])))
 pollster_rows = "".join(
     f"<tr><td>{esc(p['pollster'])}</td><td class='dim'>{ {'none': 'Independent', 'D': 'Democratic internal', 'R': 'Republican internal'}.get(p['mostly'], esc(p['mostly'])) }</td>"
@@ -306,7 +400,7 @@ pollster_rows = "".join(
     for p in pollsters if p["races"] >= 3 or p["upsets_polled"])
 nat_rows = "".join(
     f"<tr><td>{esc(p['pollster'])}</td><td class='num'>D+{p['d_margin']:g}</td><td class='num'>{p['error']:+.1f}</td><td class='num'>{p['house_right']}</td>"
-    f"<td class='num'>{p['house_d']}</td><td class='num'>{len([k for k in p['upsets_caught'] if '-' in k])}</td></tr>" for p in NATL["polls"])
+    f"<td class='num'>{p['house_d']}</td><td class='num'>{len(p['upsets_caught'])}</td></tr>" for p in NATL["polls"])
 cf_rows = "".join(
     f"<tr class='{'mine' if v['key'] == 'frozen' else 'hind' if v['key'] == 'hindsight' else ''}'><td>{esc(v['label'])}</td>"
     + "".join(f"<td class='num'>{CFV[ch][v['key']]['right'] if v['key'] in CFV[ch] else '–'}</td>" for ch in CHS)
@@ -376,9 +470,8 @@ hardest races uncalled. Scored only on the close races, the picture changes. We 
 made the Republican the favorite, and Democrats won {close_fav_r_lost} of them.</p>
 <p>The fairest single comparison is with Sabato's Crystal Ball, which, like us, made a call in every race. It beat us in the House
 ({sab['house']['right']} to {h['right']} of {h['called']}) and in governors' races ({sab['governors']['right']} to {g['right']}); we beat it in the
-Senate ({s_['right']} to {sab['senate']['right']}). Against the other models and the betting markets, the Senate was a draw: most got the
-same races right, and only Race to the WH and On Point had a better Brier score on the same races. Governors went against us: both markets,
-LeanTossup and On Point got one more race right. The House was the clear loss. {house_models_line()} And {nat_beat} of the {len(nat_best)} final
+Senate ({s_['right']} to {sab['senate']['right']}). Against the other models and the betting markets: {versus('senate')} {versus('governors')[0].upper() + versus('governors')[1:]}
+The House was the clear loss. {house_models_line()} And {nat_beat} of the {len(nat_best)} final
 national generic-ballot polls, applied evenly to every district, would have called more House races right than our district model did.</p>
 </div>
 """
@@ -403,9 +496,7 @@ sat too far to the right. Each upset is written up in <a href="#appA">the append
 </div>
 <h3>Senate: {len(s_['upsets'])} upsets in {s_['called']} called races</h3>
 <div class="prose"><p>Both misses were in the Deep South and both went to Democrats. No forecaster, rater or market we found favored Scott Colom in Mississippi,
-and only one little-known model favored Annie Andrews in South Carolina, so these were shared misses. South Carolina is the one we should have
-come closer on: 18 polls averaged a near tie, but our fundamentals prior (Republican by {abs(next(u for u in A['senate']['upsets'] if u['key'] == 'South Carolina')['prior_winner']):.1f})
-pulled the forecast to a 1.5-point Graham lead. Mississippi had only two polls, both showing Hyde-Smith ahead; reporting credits a surge in
+and only one little-known model favored Annie Andrews in South Carolina, so these were shared misses.{sc_sentence()} Mississippi had only two polls, both showing Hyde-Smith ahead; reporting credits a surge in
 Black turnout that no poll captured.</p></div>
 {upset_table("senate")}
 <h3>House: {len(h['upsets'])} upsets in {h['called']} called races</h3>
@@ -417,7 +508,7 @@ Black turnout that no poll captured.</p></div>
 <li><b>The Midwest and battleground suburbs:</b> Ohio (7, 9, 10, 15), Michigan (4, 10), Wisconsin's 1st, Indiana's 5th, Pennsylvania's 1st, where
 the polls were close and we leaned Republican almost every time.</li></ul>
 <p>Sabato's final ratings caught {len(sab['house']['upsets_caught'])} of our {len(h['upsets'])} House upsets, Cook {len(cook['house']['upsets_caught'])};
-Polymarket caught {len(find('house', 'polymarket')['upsets_caught'])} and Split Ticket {len(find('house', 'splitticket')['upsets_caught'])}.
+{caught_line(('polymarket', 'splitticket'))}
 {house_models_line()}</p></div>
 {upset_table("house")}
 <h3>Governors: {len(g['upsets'])} upsets in {g['called']} called races</h3>
@@ -453,7 +544,7 @@ to measure how much of the miss was the national number.</p></div>
 <tbody>{cf_rows}</tbody></table></div>
 <div class="prose">
 <p>Three things stand out:</p><ul>
-<li><b>We discounted the polls that were right.</b> Partisan polls are shifted {json.loads((HERE / 'frozen' / 'house_model.json').read_text())['params']['weights']['partisan_shift']} points
+<li><b>We discounted the polls that were right.</b> Partisan polls are shifted {PSHIFT:g} points
 against their sponsor and given half weight. This year Democratic internal polls (Impact Research, GBAO, PPP for House Majority PAC, Hart) were
 among the most accurate in the field and were the polls most likely to show the upset winners ahead. Removing the shift alone fixes
 {len(cfh['no_partisan_shift']['upsets_fixed'])} House upsets and Nevada governor and cuts the House Brier score from {cfh['frozen']['brier']:.3f} to
@@ -481,7 +572,7 @@ average added error this year; the honest version is to keep the uncertainty and
 <li><b>Correlated error has to show up in the race odds, not just the seat totals.</b> The model simulates a national error, but it called
 {close_fav_r} close races for Republicans and they broke {close_fav_r_lost}–{close_fav_r - close_fav_r_lost} the other way. When most close races lean
 one way, a single national error flips them together, and the overview should say so.</li>
-<li><b>Treat partisan polls by track record, not by rule.</b> A fixed 4.5-point penalty for every internal poll threw away the best signal in the
+<li><b>Treat partisan polls by track record, not by rule.</b> A fixed {PSHIFT:g}-point penalty for every internal poll threw away the best signal in the
 races that decided the House.</li>
 <li><b>The prior should yield faster to polls.</b> South Carolina had 18 polls and the prior still moved the margin 0.6 points; with a lighter prior the
 House would have caught MT-1 and the Senate odds would have been less confident.</li>
@@ -496,23 +587,22 @@ Report the close-race record and the Brier score alongside it.</li></ol>
 right, and how its confident calls did (Likely or stronger for raters; 70% or more for models and markets). Leaving a race as a toss-up is not
 wrong, but it is not a call either.</p>
 <p>In the House, the sources willing to commit did best. {close_line()} Sabato's Crystal Ball eliminated every toss-up on Nov 2 and
-broke the last 17 House toss-ups 14–3 toward Democrats. In the Senate, most models and both markets matched our 5 of 6. In the governors' races, where we got only 3 of 6, Sabato, both markets,
-LeanTossup and On Point got 5, and the markets were right on all 4 of their confident calls. Cook and Inside Elections left the most races
+broke the last 17 House toss-ups 14–3 toward Democrats. {close_versus('senate')} {close_versus('governors')} Cook and Inside Elections left the most races
 uncalled, so they were seldom wrong but seldom useful in exactly the races that mattered.</p></div>
 """
 for ch in CHS:
     page += f"<h3>{TITLE[ch]}: {A[ch]['close']['n']} close races</h3>" + close_table(ch)
-top_nat = NATL["polls"][:3]
+top_nat = sorted(NATL["polls"], key=lambda p: -p["d_margin"])[:3]
 page += f"""
 <h3>Pollsters who saw the upsets coming</h3>
 <div class="prose"><p>Nationally, the polls that best anticipated the upsets were the ones with the biggest Democratic margins:
-{esc(', '.join(f"{p['pollster']} (D+{p['d_margin']:g})" for p in top_nat))}. Applied evenly to every district, AtlasIntel's number alone catches
-{len([k for k in NATL['polls'][0]['upsets_caught'] if '-' in k])} of the {len(h['upsets'])} House upsets. In the districts, the polls that had the upset winners
+{esc(', '.join(f"{p['pollster']} (D+{p['d_margin']:g})" for p in top_nat))}. Applied evenly to every district, {esc(top_nat[0]['pollster'])}'s number alone catches
+{len(top_nat[0]['upsets_caught'])} of the {len(h['upsets'])} House upsets. In the districts, the polls that had the upset winners
 ahead were mostly Democratic internals:
 {esc('; '.join(f"{p['pollster']} {p['upsets_right']} of {p['upsets_polled']}" for p in sorted(dint, key=lambda p: -p['upsets_right'] / p['upsets_polled'])))}.
 Among independent pollsters with 8 or more races, the most accurate were
 {esc('; '.join(f"{p['pollster']} ({p['right']} of {p['races']} right, average miss {p['mae']:.1f})" for p in indep[:4]))}.
-Nearly every pollster underestimated Democrats. The full table is in <a href="#appB">Appendix B</a>.</p></div>
+{under_d}. The full table is in <a href="#appB">Appendix B</a>.</p></div>
 
 <h2 id="s5">5. Summary, and what to change for 2028</h2>
 <div class="prose">

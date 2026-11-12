@@ -124,7 +124,7 @@
    "bias": 6.7,
    "mae": 7.5,
    "key": "wide_national",
-   "label": "Wider national polling error (SD 3 to 4.5)"
+   "label": "Wider national polling error (x1.5)"
   },
   {
    "right": 387,
@@ -198,7 +198,7 @@
    "bias": 3.6,
    "mae": 5.8,
    "key": "light_prior",
-   "label": "Lighter fundamentals prior (its error 12 to 18)"
+   "label": "Lighter fundamentals prior (its error x1.5)"
   },
   {
    "right": 32,
@@ -212,7 +212,7 @@
    "bias": 3.7,
    "mae": 5.8,
    "key": "wide_national",
-   "label": "Wider national polling error (SD 3 to 4.5)"
+   "label": "Wider national polling error (x1.5)"
   },
   {
    "right": 32,
@@ -286,7 +286,7 @@
    "bias": 3.7,
    "mae": 6.3,
    "key": "wide_national",
-   "label": "Wider national polling error (SD 3 to 4.5)"
+   "label": "Wider national polling error (x1.5)"
   },
   {
    "right": 31,

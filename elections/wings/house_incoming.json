@@ -446,7 +446,7 @@
   "israel_vote_2024": "Yea",
   "wing": "Progressive",
   "wing_without_israel_rule": "Progressive",
-  "basis": "2026 vote on the Massie Israel-aid amendment"
+  "basis": "no Yea/Nay on the 2026 Massie amendment (Present): endorsements and statements"
  },
  {
   "district": "CA-3",
@@ -468,7 +468,7 @@
   "israel_vote_2024": "Yea",
   "wing": "Mainstream",
   "wing_without_israel_rule": "Mainstream",
-  "basis": "2026 vote on the Massie Israel-aid amendment"
+  "basis": "no Yea/Nay on the 2026 Massie amendment (Present): endorsements and statements"
  },
  {
   "district": "CA-4",
@@ -836,7 +836,7 @@
   "objected_2021": null,
   "immigration": "baseline",
   "wing": "Mainstream",
-  "basis": "mixed record (opposed the 2024 aid, not the 2025 ban): placed on other policies"
+  "basis": "no 2024 Ukraine aid vote, against the 2025 ban: placed on other policies"
  },
  {
   "district": "CA-21",
@@ -1266,7 +1266,7 @@
   "israel_vote_2024": "Yea",
   "wing": "Progressive",
   "wing_without_israel_rule": "Progressive",
-  "basis": "2026 vote on the Massie Israel-aid amendment"
+  "basis": "no Yea/Nay on the 2026 Massie amendment (Present): endorsements and statements"
  },
  {
   "district": "CA-42",
@@ -1568,7 +1568,7 @@
   "objected_2021": null,
   "immigration": "baseline",
   "wing": "Mainstream",
-  "basis": "mixed record (opposed the 2024 aid, not the 2025 ban): placed on other policies"
+  "basis": "no 2024 Ukraine aid vote, against the 2025 ban: placed on other policies"
  },
  {
   "district": "CO-5",
@@ -1899,7 +1899,7 @@
   "objected_2021": null,
   "immigration": "unknown",
   "wing": "Nationalist",
-  "basis": "mixed record (opposed the 2024 aid, not the 2025 ban): placed on other policies"
+  "basis": "no 2024 Ukraine aid vote, against the 2025 ban: placed on other policies"
  },
  {
   "district": "FL-8",
@@ -1918,7 +1918,7 @@
   "objected_2021": null,
   "immigration": "unknown",
   "wing": "Mainstream",
-  "basis": "mixed record (opposed the 2024 aid, not the 2025 ban): placed on other policies"
+  "basis": "no 2024 Ukraine aid vote, against the 2025 ban: placed on other policies"
  },
  {
   "district": "FL-10",
@@ -2558,7 +2558,7 @@
   "objected_2021": null,
   "immigration": "baseline",
   "wing": "Nationalist",
-  "basis": "mixed record (opposed the 2024 aid, not the 2025 ban): placed on other policies"
+  "basis": "no deciding Ukraine vote on record: placed on other policies"
  },
  {
   "district": "HI-1",
@@ -3193,7 +3193,7 @@
   "objected_2021": null,
   "immigration": "baseline",
   "wing": "Mainstream",
-  "basis": "mixed record (opposed the 2024 aid, not the 2025 ban): placed on other policies"
+  "basis": "no 2024 Ukraine aid vote, against the 2025 ban: placed on other policies"
  },
  {
   "district": "IN-7",
@@ -3233,7 +3233,7 @@
   "objected_2021": null,
   "immigration": "baseline",
   "wing": "Mainstream",
-  "basis": "mixed record (opposed the 2024 aid, not the 2025 ban): placed on other policies"
+  "basis": "no 2024 Ukraine aid vote, against the 2025 ban: placed on other policies"
  },
  {
   "district": "IN-9",
@@ -3292,7 +3292,7 @@
   "objected_2021": null,
   "immigration": "baseline",
   "wing": "Mainstream",
-  "basis": "mixed record (opposed the 2024 aid, not the 2025 ban): placed on other policies"
+  "basis": "no 2024 Ukraine aid vote, against the 2025 ban: placed on other policies"
  },
  {
   "district": "KS-3",
@@ -3543,7 +3543,7 @@
   "objected_2021": true,
   "immigration": "baseline",
   "wing": "Mainstream",
-  "basis": "voted for the 2024 Ukraine aid and against the 2025 ban"
+  "basis": "voted for the 2024 Ukraine aid; no recorded vote on the 2025 ban"
  },
  {
   "district": "MA-1",
@@ -3789,7 +3789,7 @@
   "israel_vote_2024": null,
   "wing": "Mainstream",
   "wing_without_israel_rule": "Mainstream",
-  "basis": "2026 vote on the Massie Israel-aid amendment"
+  "basis": "no Yea/Nay on the 2026 Massie amendment (Present): endorsements and statements"
  },
  {
   "district": "MD-4",
@@ -4047,7 +4047,7 @@
   "israel_vote_2024": "Not Voting",
   "wing": "Progressive",
   "wing_without_israel_rule": "Progressive",
-  "basis": "2026 vote on the Massie Israel-aid amendment"
+  "basis": "no Yea/Nay on the 2026 Massie amendment (Not Voting): endorsements and statements"
  },
  {
   "district": "MI-7",
@@ -4231,7 +4231,7 @@
   "israel_vote_2024": null,
   "wing": "Mainstream",
   "wing_without_israel_rule": "Mainstream",
-  "basis": "2026 vote on the Massie Israel-aid amendment"
+  "basis": "no Yea/Nay on the 2026 Massie amendment (Present): endorsements and statements"
  },
  {
   "district": "MN-4",
@@ -4254,7 +4254,7 @@
   "israel_vote_2024": "Yea",
   "wing": "Progressive",
   "wing_without_israel_rule": "Progressive",
-  "basis": "2026 vote on the Massie Israel-aid amendment"
+  "basis": "no Yea/Nay on the 2026 Massie amendment (Present): endorsements and statements"
  },
  {
   "district": "MN-5",
@@ -4636,7 +4636,7 @@
   "objected_2021": null,
   "immigration": "unknown",
   "wing": "Mainstream",
-  "basis": "mixed record (opposed the 2024 aid, not the 2025 ban): placed on other policies"
+  "basis": "no 2024 Ukraine aid vote, against the 2025 ban: placed on other policies"
  },
  {
   "district": "NC-1",
@@ -4658,7 +4658,7 @@
   "israel_vote_2024": "Yea",
   "wing": "Mainstream",
   "wing_without_israel_rule": "Mainstream",
-  "basis": "2026 vote on the Massie Israel-aid amendment"
+  "basis": "no Yea/Nay on the 2026 Massie amendment (Not Voting): endorsements and statements"
  },
  {
   "district": "NC-2",
@@ -4868,7 +4868,7 @@
   "objected_2021": null,
   "immigration": "unknown",
   "wing": "Mainstream",
-  "basis": "mixed record (opposed the 2024 aid, not the 2025 ban): placed on other policies"
+  "basis": "no 2024 Ukraine aid vote, against the 2025 ban: placed on other policies"
  },
  {
   "district": "NE-1",
@@ -6159,7 +6159,7 @@
   "israel_vote_2024": "Yea",
   "wing": "Mainstream",
   "wing_without_israel_rule": "Progressive",
-  "basis": "2026 vote on the Massie Israel-aid amendment"
+  "basis": "no Yea/Nay on the 2026 Massie amendment (Present): endorsements and statements"
  },
  {
   "district": "OH-12",
@@ -6227,7 +6227,7 @@
   "objected_2021": false,
   "immigration": "baseline",
   "wing": "Mainstream",
-  "basis": "voted for the 2024 Ukraine aid and against the 2025 ban"
+  "basis": "voted for the 2024 Ukraine aid; did not vote on the 2025 ban"
  },
  {
   "district": "OH-15",
@@ -6465,7 +6465,7 @@
   "israel_vote_2024": null,
   "wing": "Mainstream",
   "wing_without_israel_rule": "Mainstream",
-  "basis": "2026 vote on the Massie Israel-aid amendment"
+  "basis": "no Yea/Nay on the 2026 Massie amendment (Present): endorsements and statements"
  },
  {
   "district": "OR-6",
@@ -6686,7 +6686,7 @@
   "objected_2021": true,
   "immigration": "baseline",
   "wing": "Mainstream",
-  "basis": "mixed record (opposed the 2024 aid, not the 2025 ban): placed on other policies"
+  "basis": "Present on the 2024 Ukraine aid vote, against the 2025 ban: placed on other policies"
  },
  {
   "district": "PA-10",
@@ -7172,7 +7172,7 @@
   "objected_2021": null,
   "immigration": "baseline",
   "wing": "Mainstream",
-  "basis": "mixed record (opposed the 2024 aid, not the 2025 ban): placed on other policies"
+  "basis": "no deciding Ukraine vote on record: placed on other policies"
  },
  {
   "district": "TN-8",
@@ -7458,7 +7458,7 @@
   "objected_2021": null,
   "immigration": "unknown",
   "wing": "Mainstream",
-  "basis": "mixed record (opposed the 2024 aid, not the 2025 ban): placed on other policies"
+  "basis": "no 2024 Ukraine aid vote, against the 2025 ban: placed on other policies"
  },
  {
   "district": "TX-13",
@@ -8760,7 +8760,7 @@
   ],
   "ukraine_2024": "Yea",
   "ukraine_ban_2025": "No",
-  "objected_2021": null,
+  "objected_2021": true,
   "immigration": null,
   "wing": "Mainstream",
   "basis": "voted for the 2024 Ukraine aid and against the 2025 ban"
@@ -8817,7 +8817,7 @@
   ],
   "ukraine_2024": "Yea",
   "ukraine_ban_2025": "No",
-  "objected_2021": null,
+  "objected_2021": true,
   "immigration": null,
   "wing": "Mainstream",
   "basis": "voted for the 2024 Ukraine aid and against the 2025 ban"
@@ -8840,7 +8840,7 @@
   "objected_2021": null,
   "immigration": null,
   "wing": "Mainstream",
-  "basis": "no 2024 vote (first term 2025), voted against the 2025 ban: placed on other policies"
+  "basis": "no 2024 Ukraine aid vote, against the 2025 ban: placed on other policies"
  },
  {
   "district": "FL-7",

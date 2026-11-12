@@ -49,7 +49,10 @@ For each newly called House or Senate seat in a competitive race:
 1. Add the winner to `wings/house_incoming.json` or `wings/senate_incoming.json` (and remove anyone who is now departing from it), placed by `wings/RULES.md`: recorded votes first, then platform. Returning members keep their wing.
 2. If the winner beat a sitting member, add the loser to the departing file. If the seat was open, the losing nominee goes in `wings/losers.json`; research them with a subagent using `wings/RULES.md` as the brief.
 3. Senate Republican Ukraine votes come from Voteview S118 rollnumber **506** (H.R. 815), not 154.
-4. Rebuild:
+4. For House members, fill in `econ` (and `israel` for Democrats), `agent_wing` and `returning` from the research, then run
+   `python3 wings/combine_house.py`: it looks up each returning member's votes in `wings/votes/` and sets `wing` and `basis` in place,
+   printing anyone whose wing changed.
+5. Rebuild:
 ```
 python3 fetch_ap.py --count-to review/ap_count.json   # AP's current count for every race + national House vote; results.json untouched
 python3 wings/matchups.py review/ap_count.json         # head-to-head pairs; fails loudly if a winner or loser is missing
@@ -66,7 +69,7 @@ python3 review/counterfactuals.py      # only when calls changed; a few minutes;
 python3 build_review.py
 ```
 - Research inputs are in `review/research/`: `final_ratings.json` (Cook, Sabato, Inside Elections final ratings), `quant_senate_gov.json` and `quant_house.json` (other models and Polymarket/Kalshi), `upsets_*.json` (sourced reporting per upset). A new upset needs an entry in an `upsets_*.json` file (same shape: chamber, result, explanations with fact/interpretation and source URL, late polls, who picked the winner, summary); research it with a subagent.
-- The text in `build_review.py` is computed from the data where it cites numbers. After a refresh, reread sections 1, 2 and 4 for any hand-written claim the new data contradicts (e.g. "no model favored X").
+- The text in `build_review.py` is computed from the data where it cites numbers. Sentences that are still hand-written are listed in its `CLAIMS` checks: if new calls or research make one false, the build stops and names it. Rewrite the sentence, then its check; never just delete the check.
 - Screenshot the page and look at it before publishing: `"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless=new --hide-scrollbars --window-size=1300,9000 --screenshot=<scratchpad>/r.png file://$PWD/review.html`
 
 ## 4. Publish and verify

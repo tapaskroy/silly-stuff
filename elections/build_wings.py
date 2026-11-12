@@ -115,7 +115,8 @@ MU = load("matchups.json")
 RES = json.loads((HERE / "results.json").read_text())
 AS_OF = datetime.fromisoformat(RES["_updated"]).strftime("%b %-d, %Y")
 S_OPEN = sum(x.get("status") != "called" for x in RES["senate"].values())
-PARTIAL = sorted((r for r in MU if int(r["counted"]) < 90), key=lambda r: (r["district"].split("-")[0], int(r["district"].split("-")[-1]) if "-" in r["district"] else 0))
+PARTIAL = sorted((r for r in MU if r["counted"] < 90),  # natural order: AZ-2 before AZ-10; at-large seats (AK-AL) first in their state
+                 key=lambda r: (r["district"].split("-")[0], int(r["district"].split("-")[1]) if r["district"].split("-")[-1].isdigit() else 0))
 PAIRS = [("Progressive", "Nationalist"), ("Mainstream", "Mainstream"), ("Progressive", "Mainstream"), ("Mainstream", "Nationalist")]
 HC = [r for r in MU if r["chamber"] == "House"]
 UPS = [r for r in MU if r["upset"]]

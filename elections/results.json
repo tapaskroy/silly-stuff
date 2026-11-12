@@ -1,5 +1,5 @@
 {
- "_updated": "2026-11-12T02:39:44+00:00",
+ "_updated": "2026-11-12T05:50:00+00:00",
  "_sources": "Winners: AP race calls. Margins: AP's count once 95%+ of the expected vote is in, replaced by state election office figures at the one-week recheck and at certification.",
  "senate": {
   "Alabama": {
@@ -20,7 +20,7 @@
    "called_by": null,
    "called_at": null,
    "source": null,
-   "note": "AP: Too Early to Call; Active Tabulation; 84% of expected vote in"
+   "note": "AP: Too Early to Call; Active Tabulation; 86% of expected vote in"
   },
   "Arkansas": {
    "candidates": "Shoffner (D) vs Cotton (R)",
@@ -3893,7 +3893,7 @@
    "called_by": null,
    "called_at": null,
    "source": null,
-   "note": "AP: Too Early to Call; Active Tabulation; 84% of expected vote in"
+   "note": "AP: Too Early to Call; Active Tabulation; 86% of expected vote in"
   },
   "HI-1": {
    "candidates": "Case (D) vs Lam (R)",
@@ -4560,7 +4560,7 @@
    "called_by": null,
    "called_at": null,
    "source": null,
-   "note": "AP: Too Early to Call; Active Tabulation; 84% of expected vote in"
+   "note": "AP: Too Early to Call; Active Tabulation; 86% of expected vote in"
   },
   "Arizona": {
    "candidates": "Hobbs (D) vs Biggs (R)",

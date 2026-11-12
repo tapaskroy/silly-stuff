@@ -75,7 +75,7 @@ def races():
         r["p_winner"] = None if r["d_won"] is None else (r["p_d"] if r["d_won"] else 1 - r["p_d"])
         c = COUNT[r["ch"]].get(r["key"]) or {}
         r["count_margin"] = c.get("margin")                    # first-listed minus second-listed, AP's current count
-        r["counted"] = c.get("note")
+        r["counted"] = int(float(c["note"])) if str(c.get("note") or "").replace(".", "", 1).isdigit() else None  # % of expected vote in
         r["d_margin"] = None if r["count_margin"] is None else r["count_margin"] * r["sign"]
         r["d_mean"] = r["mean"] * r["sign"]
         r["err"] = None if r["d_margin"] is None else r["d_margin"] - r["d_mean"]
@@ -326,10 +326,10 @@ def national():
         swing = p["d_margin"] - NPOLLS["nat_pres_2024"]
         d_seats = sum((r["pres"] + swing > 0) if r["pres"] is not None else r["p_d"] >= .5 for r in CALLED["house"])
         right = sum(((r["pres"] + swing > 0) if r["pres"] is not None else r["p_d"] >= .5) == r["d_won"] for r in CALLED["house"])
-        ups = [r["key"] for r in R if r["upset"] and r["pres"] is not None and (r["pres"] + swing > 0) == r["d_won"]]
+        ups = [r["key"] for r in CALLED["house"] if r["upset"] and r["pres"] is not None and (r["pres"] + swing > 0) == r["d_won"]]
         rows.append(dict(pollster=p["pollster"], d_margin=p["d_margin"], error=round(actual - p["d_margin"], 1), house_right=right, upsets_caught=ups,
                          house_d=d_seats))
-    rows.sort(key=lambda x: abs(x["error"]))
+    rows.sort(key=lambda x: abs(x["error"]))  # closest to the result first
     return dict(actual=actual, eevp=NAT["eevp"], average=NPOLLS["average"], model_input=NPOLLS["model_input"], polls=rows,
                 closer_than_input=sum(abs(x["error"]) < abs(actual - NPOLLS["model_input"]) for x in rows))
 

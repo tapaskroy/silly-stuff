@@ -75,7 +75,8 @@ for ch, races in results.items():
     if ch.startswith("_"):
         continue
     for key, x in races.items():
-        if x.get("status") in ("final", "certified") or (x.get("source") not in (None, SOURCE)):
+        # results.json keeps final, certified and non-AP entries as they are; the count file always takes AP's current count
+        if not COUNT_TO and (x.get("status") in ("final", "certified") or x.get("source") not in (None, SOURCE)):
             continue
         (a, pa), (b, pb) = [(s.rsplit(" (", 1)[0], s.rsplit("(", 1)[1].rstrip(")")) for s in x["candidates"].split(" vs ")]
         party = {a: pa, b: pb}

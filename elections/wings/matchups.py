@@ -27,11 +27,13 @@ rows = []
 
 def add(chamber, key, tier, mean, p_d, pres, x, d_name, r_name, d_inc, r_inc, winner, loser, now_x):
     margin = now_x["margin"]
+    if margin is None:
+        sys.exit(f"{chamber} {key}: no current margin in {sys.argv[1]}; refresh it with fetch_ap.py --count-to after the latest calls")
     rows.append({"chamber": chamber, "district": key, "tier": tier, "forecast_margin": round(mean, 1), "p_d": round(p_d, 3),
-                 "pres_2024": pres, "margin": margin, "counted": now_x["note"],
+                 "pres_2024": pres, "margin": margin, "counted": int(float(now_x["note"])),  # percent of expected vote in (fetch_ap.py --count-to)
                  "d": d_name, "d_wing": (winner if side(winner["party"]) == "D" else loser)["wing"], "d_inc": d_inc,
                  "r": r_name, "r_wing": (winner if side(winner["party"]) == "R" else loser)["wing"], "r_inc": r_inc,
-                 "winner": side(winner["party"]), "upset": side(winner["party"]) != ("D" if p_d > 0.5 else "R"),
+                 "winner": side(winner["party"]), "upset": side(winner["party"]) != ("D" if p_d >= 0.5 else "R"),  # same favorite rule as the scorecard and review
                  "vs_forecast": round(margin - mean, 1), "vs_pres": None if pres is None else round(margin - pres, 1)})
 
 

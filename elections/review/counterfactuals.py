@@ -21,6 +21,7 @@ RES = json.loads((HERE / "results.json").read_text())
 COUNT = json.loads((RV / "ap_count.json").read_text())  # AP's current count for every race, called or not
 NAT = json.loads((RV / "national_vote.json").read_text())
 ACTUAL = round(NAT["dem_pct"] - NAT["rep_pct"], 1)
+PRES24 = json.loads((RV / "national_polls.json").read_text())["nat_pres_2024"]  # national_shift is measured from the 2024 presidential margin
 MODELS = {"house": ("house_model.py", "model_params_house.json", "house_model.json", "district", "p_dem"),
           "senate": ("senate_model.py", "model_params.json", "senate_model.json", "state", "p_challenger"),
           "governors": ("governor_model.py", "model_params_gov.json", "gov_model.json", "state", "p_challenger")}
@@ -39,6 +40,14 @@ def setp(*path, v):
     return f
 
 
+def scale(*keys, by=1.5):
+    """Multiply error terms in the frozen parameters, so the label stays true if the frozen values differ."""
+    def f(P):
+        for k in keys:
+            P["error"][k] *= by
+    return f
+
+
 def both(*fs):
     def f(P):
         for g in fs:
@@ -52,22 +61,21 @@ VARIANTS = {
               ("no_partisan_shift", "Partisan polls not shifted against their sponsor (still half weight)", setp("weights", "partisan_shift", v=0.0)),
               ("both", "Both of the above", both(setp("generic_ballot_bias_adj", v=0.0), setp("weights", "partisan_shift", v=0.0))),
               ("no_elasticity", "No damping of the national swing in lopsided seats", setp("elasticity_k", v=0.0)),
-              ("light_prior", "Lighter fundamentals prior (its error x1.5)", both(setp("error", "fundamentals_sd", v=8.25), setp("error", "fundamentals_sd_open", v=9.0),
-                                                                                  setp("error", "fundamentals_sd_new", v=9.75))),
-              ("wide_national", "Wider national polling error (SD 3 to 4.5)", setp("error", "national_sd", v=4.5)),
+              ("light_prior", "Lighter fundamentals prior (its error x1.5)", scale("fundamentals_sd", "fundamentals_sd_open", "fundamentals_sd_new")),
+              ("wide_national", "Wider national polling error (x1.5)", scale("national_sd")),
               ("hindsight", f"Hindsight: national environment set to the actual House vote, D+{ACTUAL}",
-               both(setp("national_shift", v=ACTUAL + 1.5), setp("generic_ballot_bias_adj", v=0.0)))],
+               both(setp("national_shift", v=ACTUAL - PRES24), setp("generic_ballot_bias_adj", v=0.0)))],
     "senate": [("frozen", "The forecast as published", lambda P: None),
                ("no_partisan_shift", "Partisan polls not shifted against their sponsor", setp("weights", "partisan_shift", v=0.0)),
-               ("light_prior", "Lighter fundamentals prior (its error 12 to 18)", setp("error", "fundamentals_sd", v=18.0)),
-               ("wide_national", "Wider national polling error (SD 3 to 4.5)", setp("error", "national_sd", v=4.5)),
-               ("hindsight", f"Hindsight: national environment set to the actual House vote, D+{ACTUAL}", setp("national_shift", v=ACTUAL + 1.5))],
+               ("light_prior", "Lighter fundamentals prior (its error x1.5)", scale("fundamentals_sd")),
+               ("wide_national", "Wider national polling error (x1.5)", scale("national_sd")),
+               ("hindsight", f"Hindsight: national environment set to the actual House vote, D+{ACTUAL}", setp("national_shift", v=ACTUAL - PRES24))],
     "governors": [("frozen", "The forecast as published", lambda P: None),
                   ("no_partisan_shift", "Partisan polls not shifted against their sponsor", setp("weights", "partisan_shift", v=0.0)),
-                  ("light_prior", "Lighter fundamentals prior (its error x1.5)", both(setp("error", "fundamentals_sd", v=16.5), setp("error", "fundamentals_sd_nopoll", v=21.0))),
-                  ("wide_national", "Wider national polling error (SD 3 to 4.5)", setp("error", "national_sd", v=4.5)),
+                  ("light_prior", "Lighter fundamentals prior (its error x1.5)", scale("fundamentals_sd", "fundamentals_sd_nopoll")),
+                  ("wide_national", "Wider national polling error (x1.5)", scale("national_sd")),
                   ("hindsight", f"Hindsight: national environment set to the actual House vote, D+{ACTUAL}",
-                   both(setp("national_shift", v=ACTUAL + 1.5), setp("generic_ballot", v=ACTUAL)))],
+                   both(setp("national_shift", v=ACTUAL - PRES24), setp("generic_ballot", v=ACTUAL)))],
 }
 
 
