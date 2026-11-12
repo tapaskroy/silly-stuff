@@ -1,0 +1,586 @@
+[
+ {
+  "chamber": "house",
+  "district": "MI-8",
+  "name": "Thomas J. Smith",
+  "party": "R",
+  "winner": "Kristen McDonald Rivet (D)",
+  "incumbent_before": "Kristen McDonald Rivet",
+  "full_name": "Thomas J. Smith",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown"
+  },
+  "evidence": "Retired GM engineer who suspended his campaign in July but still beat Trump-endorsed Amir Hassan in the primary after backing another candidate; no nationalist policy profile found.",
+  "sources": [
+   "https://www.michiganpublic.org/politics-government/2026-08-05/republican-congressional-candidate-wins-8th-district-primary-even-though-he-dropped-out",
+   "https://www.washingtontimes.com/news/2026/aug/5/thomas-smith-retiree-who-dropped-michigan-primary-scores-upset-trump/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "WI-7",
+  "name": "Fred Clark",
+  "party": "D",
+  "winner": "Michael Alfonso (R)",
+  "incumbent_before": "Tom Tiffany (R)",
+  "full_name": "Fred Clark",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Former state assemblyman and forester who calls himself an 'independent Democrat' willing to buck the party (broke with Democrats on concealed carry); endorsed by David Obey and Mark Pocan.",
+  "sources": [
+   "https://www.wpr.org/news/wisconsin-7th-congressional-district-alfonso-clark",
+   "https://urbanmilwaukee.com/pressrelease/congressman-mark-pocan-endorses-democratic-candidate-fred-clark-in-wisconsins-7th-congressional-district/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "WI-8",
+  "name": "Rick Crosson",
+  "party": "D",
+  "winner": "Tony Wied (R)",
+  "incumbent_before": "Tony Wied (R)",
+  "full_name": "Rick Crosson",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Retired Army officer and former Green Bay school board member who ran on affordability; no progressive-group endorsements found.",
+  "sources": [
+   "https://wbay.com/2026/08/11/wisconsins-8th-congressional-district-primary-draws-three-democrats-wied-runs-unopposed",
+   "https://www.wpr.org/news/republican-incumbent-tony-wied-democrat-rick-crosson-northeast-wisconsin-8th-congressional-district"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "NC-1",
+  "name": "Laurie Buckhout",
+  "party": "R",
+  "winner": "Don Davis (D)",
+  "incumbent_before": "Don Davis",
+  "full_name": "Laurie Buckhout",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "ukraine_aid": "supports",
+   "immigration": "restrictionist"
+  },
+  "evidence": "Army veteran and Trump-endorsed nominee who runs on the 'America First Agenda' with border security as a top priority, but in 2023 did not oppose Ukraine aid (asked only for accountability) and stresses national defense.",
+  "sources": [
+   "https://www.dailyadvance.com/news/local/buckhout-weighs-in-on-immigration-ukraine-abortion-ending-aca-smith-did-not-respond-to-questions/article_345d8f58-d043-11ee-ace4-db2f8ac99ada.html",
+   "https://www.lauriebuckhoutforcongress.com/about",
+   "https://ncnewsline.com/?p=178775"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "NC-8",
+  "name": "Colby Watson",
+  "party": "D",
+  "winner": "Mark Harris (R)",
+  "incumbent_before": "Mark Harris (R)",
+  "full_name": "Colby Watson",
+  "wing": "Progressive",
+  "confidence": "low",
+  "signals": {
+   "economic": "left",
+   "israel": "unknown"
+  },
+  "evidence": "First-time candidate and contractor profiled as a progressive Democrat backing Medicare for All and curbs on corporate housing ownership; listed among NC Democratic Party Progressive Caucus endorsees. No Israel position found.",
+  "sources": [
+   "https://www.predictionedge.com/elections/profile/colby-watson/",
+   "https://bluevoterguide.org/es/endorser-org/Progressive_Caucus_North_Carolina_Democratic_Party/NC/699",
+   "https://ballotpedia.org/Colby_Watson"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "VA-5",
+  "name": "Tom Perriello",
+  "party": "D",
+  "winner": "John McGuire (R)",
+  "incumbent_before": "John McGuire",
+  "full_name": "Tom Perriello",
+  "wing": "Progressive",
+  "confidence": "medium",
+  "signals": {
+   "economic": "left",
+   "israel": "neutral"
+  },
+  "evidence": "Former congressman endorsed by the Congressional Progressive Caucus PAC, End Citizens United, and J Street (not AIPAC/DMFI), running an anti-corruption, anti-insurer populist message; also backed by Warner, Kaine and Spanberger.",
+  "sources": [
+   "https://bluevoterguide.org/VA/candidate_Tom_Perriello/55953",
+   "https://jstreetpac.org/candidate/tom-perriello/",
+   "https://www.endcitizensunited.org/end-citizens-united-endorses-four-anti-corruption-champions-for-congress"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "VA-7",
+  "name": "Doug Ollivant",
+  "party": "R",
+  "winner": "Eugene Vindman (D)",
+  "incumbent_before": "Eugene Vindman",
+  "full_name": "Douglas Ollivant",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown"
+  },
+  "evidence": "Retired Army lieutenant colonel, former NSC Iraq director and New America/FPRI fellow; ran on affordability, manufacturing, fiscal responsibility and energy, with no nationalist themes found.",
+  "sources": [
+   "https://www.washingtonexaminer.com/?p=4687914",
+   "https://www.vpm.org/news/2026-06-16/va07-election-nova-fxbg-pwc-vindman-harding-ollivant-smithers"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "SC-5",
+  "name": "Mallory Dittmer",
+  "party": "D",
+  "winner": "Wes Climer (R)",
+  "incumbent_before": "Ralph Norman (R)",
+  "full_name": "Mallory Dittmer",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Former business executive described as a moderate Democrat; platform stresses 'Order at the Border', fair trade, affordable health care and anti-corruption, endorsed by former Rep. John Spratt.",
+  "sources": [
+   "https://www.wrhi.com/2026/06/mallory-dittmer-wins-democratic-nomination-for-congress-in-south-carolinas-5th-district-213335",
+   "https://www.predictionedge.com/elections/profile/mallory-dittmer/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "TN-5",
+  "name": "Chaz Molder",
+  "party": "D",
+  "winner": "Charlie Hatcher (R)",
+  "incumbent_before": "Andy Ogles",
+  "full_name": "Chaz Molder",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Columbia mayor described as a centrist-leaning Democrat touting seven balanced budgets without raising property taxes and bipartisan unity; DCCC-backed.",
+  "sources": [
+   "https://www.newschannel5.com/news/newschannel-5-investigates/democrat-chaz-molder-seeks-tennessees-5th-district-seat-after-primary-upset-reshaped-the-race",
+   "https://tennesseelookout.com/2025/07/22/columbia-mayor-weighs-run-as-democrat-in-5th-congressional-district/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "TN-7",
+  "name": "Darden Copeland",
+  "party": "D",
+  "winner": "Matt Van Epps (R)",
+  "incumbent_before": "Matt Van Epps (R)",
+  "full_name": "Darden Copeland",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Founder/CEO of Nashville public affairs firm Calvert Street Group; ran on cost of living and health care with no progressive-group backing found.",
+  "sources": [
+   "https://tennesseelookout.com/2026/08/06/tn-us-house-district-7-copeland-defeats-dixie-in-dem-primary-setting-up-matchup-with-van-epp/",
+   "https://tennesseelookout.com/2025/08/08/nashville-businessman-darden-copeland-enters-democratic-primary-in-congressional-district-7/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "TN-8",
+  "name": "Heidi Kuhn",
+  "party": "D",
+  "winner": "David Kustoff (R)",
+  "incumbent_before": "David Kustoff (R)",
+  "full_name": "Heidi Kuhn",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Former Shelby County Criminal Court Clerk and conventional local Democratic officeholder; no progressive-movement endorsements or platform found.",
+  "sources": [
+   "https://www.wsmv.com/2026/08/07/heidi-kuhn-wins-democratic-nomination-district-8-congressional-seat/",
+   "https://dailymemphian.com/article/63580/memphis-democrat-heidi-kuhn-launches-bid-for-8th-congressional-district"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "AZ-5",
+  "name": "Elizabeth Lee",
+  "party": "D",
+  "winner": "Mark Lamb (R)",
+  "incumbent_before": "Andy Biggs (R)",
+  "full_name": "Elizabeth Lee",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Nurse and patient advocate running on health-care costs, housing affordability, Colorado River water and securing the border alongside a Dreamers pathway.",
+  "sources": [
+   "https://www.fox10phoenix.com/election/2026-election-arizona-cd-5-matchup-key-candidates-top-platform-issues",
+   "https://ballotpedia.org/Elizabeth_Lee_(Arizona)"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "AZ-8",
+  "name": "Bernadette Greene-Placentia",
+  "party": "D",
+  "winner": "Abraham Hamadeh (R)",
+  "incumbent_before": "Abraham Hamadeh (R)",
+  "full_name": "Bernadette Greene-Placentia",
+  "wing": "Progressive",
+  "confidence": "low",
+  "signals": {
+   "economic": "left",
+   "israel": "unknown"
+  },
+  "evidence": "Former trucker running on affordability and Social Security, takes no PAC money, and is a spotlight candidate of Sanders-aligned Political Revolution; no Israel position found.",
+  "sources": [
+   "https://pol-rev.com/?p=3414",
+   "https://ballotpedia.org/Bernadette_Greene_Placentia"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "CO-3",
+  "name": "Dwayne L. Romero",
+  "party": "D",
+  "winner": "Jeff Hurd (R)",
+  "incumbent_before": "Jeff Hurd",
+  "full_name": "Dwayne Romero",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Former Army Ranger and Aspen city councilman/businessman running on reversing health-care cuts and protecting public lands; no progressive-group endorsements found.",
+  "sources": [
+   "https://www.coloradopolitics.com/2026/03/06/democrat-dwayne-romero-jumps-in-primary-to-challenge-republican-jeff-hurd-in-colorados-3rd-cd",
+   "https://www.coloradopolitics.com/2026/10/02/jeff-hurd-dwayne-romero-3rd-congressional-district/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "NV-1",
+  "name": "Carrie Buck",
+  "party": "R",
+  "winner": "Dina Titus (D)",
+  "incumbent_before": "Dina Titus",
+  "full_name": "Carrie Buck",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown"
+  },
+  "evidence": "State senator and former principal who brands herself an 'independent thinker' and ran on education and Trump's 'no tax on tips'; Trump-endorsed but no nationalist policy themes found.",
+  "sources": [
+   "https://www.foxnews.com/politics/trump-endorsed-candidate-will-face-top-gop-target-nevada-house-district",
+   "https://www.washingtonexaminer.com/?p=4677108"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "NV-3",
+  "name": "Martin O'Donnell",
+  "party": "R",
+  "winner": "Susie Lee (D)",
+  "incumbent_before": "Susie Lee",
+  "full_name": "Martin O'Donnell",
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "restrictionist"
+  },
+  "evidence": "Halo composer backed by Trump and the MAGA Majority program whose campaign warned of open borders, Marxism and the 'woke left' and called for reduced immigration; anti-establishment outsider.",
+  "sources": [
+   "https://www.foxnews.com/politics/gaming-world-veteran-ripped-woke-culture-scores-trump-backed-battleground-primary-win",
+   "https://pcgamer.com/games/former-halo-composer-marty-odonnell-loses-election-then-gets-absolutely-bodied-by-his-opponent-the-fight-is-finished",
+   "https://thenevadaindependent.com/article/gop-video-game-composer-marty-odonnell-announces-another-run-at-susie-lees-seat"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "NV-4",
+  "name": "Cody Whipple",
+  "party": "R",
+  "winner": "Steven Horsford (D)",
+  "incumbent_before": "Steven Horsford",
+  "full_name": "Cody Whipple",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "restrictionist"
+  },
+  "evidence": "Rancher and businessman running on cost of living, small business, border security, parental rights and election integrity; endorsed by Lt. Gov. Stavros Anthony and former Rep. Cresent Hardy, not by Trump.",
+  "sources": [
+   "https://thenevadaindependent.com/article/cody-whipple-does-things-my-way-can-the-small-town-rancher-flip-nevadas-bluest-house-seat",
+   "https://nevadacurrent.com/2026/05/19/three-republicans-vie-for-chance-to-beat-horsford-in-cd4/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "NM-2",
+  "name": "Greg Cunningham",
+  "party": "R",
+  "winner": "Gabe Vasquez (D)",
+  "incumbent_before": "Gabe Vasquez",
+  "full_name": "Greg Cunningham",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "moderate"
+  },
+  "evidence": "Marine combat veteran running on law and order and border enforcement but conceding common ground with Vasquez on immigration reform; Trump-endorsed and campaigned with Speaker Johnson.",
+  "sources": [
+   "https://searchlightnm.org/vasquez-cunningham-contrast-on-immigration-medicaid-and-more-at-nmsu-conference/",
+   "https://sourcenm.com/2026/10/17/new-mexico-dem-us-rep-vasquez-debates-2nd-congressional-district-gop-challenger-cunningham/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "WA-3",
+  "name": "John Braun",
+  "party": "R",
+  "winner": "Marie Gluesenkamp Perez (D)",
+  "incumbent_before": "Marie Gluesenkamp Perez",
+  "full_name": "John Braun",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown"
+  },
+  "evidence": "Longtime Washington Senate Republican leader described as a pragmatic conservative appealing to moderates and independents; Trump endorsed him but he ran as a governing establishment conservative.",
+  "sources": [
+   "https://washingtonstatestandard.com/2025/08/12/wa-gop-senate-leader-john-braun-to-challenge-democratic-congresswoman-gluesenkamp-perez/",
+   "https://washingtonstatestandard.com/2026/10/07/4-takeaways-from-the-gluesenkamp-perez-debate/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "WA-4",
+  "name": "John Duresky",
+  "party": "D",
+  "winner": "Amanda McKinney (R)",
+  "incumbent_before": "Dan Newhouse (R)",
+  "full_name": "John Duresky",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Retired Air Force major with 37 years of government service including Hanford; endorsed by the Washington State Labor Council, no progressive-movement backing found.",
+  "sources": [
+   "https://mynorthwest.com/mynorthwest-politics/mckinney-duresky/4263272",
+   "https://www.johnduresky4congress.com/news/one-on-one-with-john-duresky"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "OR-5",
+  "name": "Patti Adair",
+  "party": "R",
+  "winner": "Janelle Bynum (D)",
+  "incumbent_before": "Janelle Bynum",
+  "full_name": "Patti Adair",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown"
+  },
+  "evidence": "Conservative Deschutes County commissioner and 2016 Trump delegate who ran on spending accountability and barely mentioned Trump; her primary rival attacked her county record as liberal.",
+  "sources": [
+   "https://oregoncapitalchronicle.com/2026/04/22/meet-the-two-republicans-vying-to-flip-oregons-5th-congressional-district/",
+   "https://www.opb.org/article/2026/04/22/republicans-lockwood-adair-oregon-5th-congressional-district/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "MN-2",
+  "name": "Eric Pratt",
+  "party": "R",
+  "winner": "Matt Little (D)",
+  "incumbent_before": "Angie Craig",
+  "full_name": "Eric Pratt",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown"
+  },
+  "evidence": "Veteran state senator who cast himself as a 'boring' common-sense moderate while pledging to back Trump's agenda; contrasted himself with an opponent backing an Israel arms embargo.",
+  "sources": [
+   "https://www.startribune.com/state-sen-eric-pratt-enters-cd2-field-immediately-throwing-support-behind-trump-amid-criticism/601438046",
+   "https://jewishinsider.com/2026/08/eric-pratt-minnesota-gop-congress-matt-little/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "MN-6",
+  "name": "Doug Chapin",
+  "party": "D",
+  "winner": "Tom Emmer (R)",
+  "incumbent_before": "Tom Emmer (R)",
+  "full_name": "Doug Chapin",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Former college professor and congressional staffer who won the DFL endorsement; no progressive-group endorsements or left platform found.",
+  "sources": [
+   "https://www.mprnews.org/story/2026/11/04/republican-rep-tom-emmer-wins-reelection",
+   "https://ballotpedia.org/Doug_Chapin"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "MN-8",
+  "name": "Trina Swanson",
+  "party": "D",
+  "winner": "Pete Stauber (R)",
+  "incumbent_before": "Pete Stauber (R)",
+  "full_name": "Trina Swanson",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Former federal worker who positioned herself as a moderate and reached out to the centrist New Democrat Coalition; platform on health care and the economy.",
+  "sources": [
+   "https://www.kaxe.org/elections/2026-10-08/underdog-trina-swanson-eyes-rep-staubers-seat-in-a-race-thats-coming-into-focus",
+   "https://www.kaxe.org/2026-09-28/cd8-stauber-swanson-congress-mn-2026-election-guide"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "NH-1",
+  "name": "Anthony DiLorenzo",
+  "party": "R",
+  "winner": "Stefany Shaheen (D)",
+  "incumbent_before": "Chris Pappas",
+  "full_name": "Anthony DiLorenzo",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown"
+  },
+  "evidence": "Portsmouth car dealer and developer running on a balanced budget amendment, 2017 tax cuts, energy independence and private-sector efficiency; Trump-endorsed but a business-conservative profile.",
+  "sources": [
+   "https://thedartmouth.com/article/2026/05/menna-republican-congressional-candidate-anthony-dilorenzo-pitches-outsider-approach-energy-focus-in-nh-01-bid",
+   "https://www.breitbart.com/politics/2026/02/06/republican-anthony-dilorenzo-surges-ahead-in-nh-01-as-fundraising-crushes-democrat-field"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "KS-2",
+  "name": "Don Coover",
+  "party": "D",
+  "winner": "Derek Schmidt (R)",
+  "incumbent_before": "Derek Schmidt",
+  "full_name": "Don Coover",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Veterinarian, rancher and Army veteran endorsed by Gov. Laura Kelly, running as a rural farmer alarmed by Trump; no progressive-group backing found.",
+  "sources": [
+   "https://www.kcur.org/politics-elections-and-government/2026-10-06/kansas-2nd-congressional-district-house-voter-guide-schmidt-coover",
+   "https://www.rawstory.com/don-coover/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "NE-1",
+  "name": "Chris Backemeyer",
+  "party": "D",
+  "winner": "Mike Flood (R)",
+  "incumbent_before": "Mike Flood",
+  "full_name": "Chris Backemeyer",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Former State Department diplomat running on tariffs, health-care cuts and rural hospitals; beat a progressive primary challenger and is in the DCCC's districts-in-play program.",
+  "sources": [
+   "https://nebraskaexaminer.com/2026/08/05/national-democrats-put-ne-01-in-its-districts-in-play-program/",
+   "https://www.foxnews.com/politics/progressive-challenger-complicates-democrat-path-house-fight-unseat-gop-incumbent-rep-mike-flood"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "AL-2",
+  "name": "Rhett Marques",
+  "party": "R",
+  "winner": "Shomari Figures (D)",
+  "incumbent_before": "Shomari Figures",
+  "full_name": "Rhett Marques",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown"
+  },
+  "evidence": "Enterprise state representative and businessman backed by the Alabama Farmers Federation and 31 GOP House colleagues, running on tax cuts like no tax on overtime; Trump-endorsed but establishment profile.",
+  "sources": [
+   "https://alabamareflector.com/?p=22333",
+   "https://alfafarmers.org/?p=26829"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "AR-2",
+  "name": "Chris Jones",
+  "party": "D",
+  "winner": "French Hill (R)",
+  "incumbent_before": "French Hill",
+  "full_name": "Chris Jones",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Physicist/minister and 2022 gubernatorial nominee endorsed by Gov. Andy Beshear, running on jobs, fair wages, rural hospitals and congressional war powers.",
+  "sources": [
+   "https://arkansasadvocate.com/2025/08/01/former-democratic-candidate-for-arkansas-governor-will-challenge-u-s-rep-hill-in-2026/",
+   "https://chrisjonesforcongress.com/?p=593"
+  ]
+ }
+]

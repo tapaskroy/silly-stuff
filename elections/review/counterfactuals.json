@@ -1,0 +1,306 @@
+{
+ "actual_national": 13.6,
+ "house": [
+  {
+   "right": 377,
+   "n": 405,
+   "brier": 0.0462,
+   "logloss": 0.144,
+   "close_right": 18,
+   "close_n": 36,
+   "upsets_fixed": [],
+   "new_misses": [],
+   "bias": 6.7,
+   "mae": 7.5,
+   "key": "frozen",
+   "label": "The forecast as published"
+  },
+  {
+   "right": 379,
+   "n": 405,
+   "brier": 0.0432,
+   "logloss": 0.135,
+   "close_right": 20,
+   "close_n": 36,
+   "upsets_fixed": [
+    "PA-1",
+    "OH-9"
+   ],
+   "new_misses": [],
+   "bias": 6.0,
+   "mae": 7.0,
+   "key": "no_shade",
+   "label": "Generic ballot at face value (no 1-point shading toward Republicans)"
+  },
+  {
+   "right": 381,
+   "n": 405,
+   "brier": 0.0394,
+   "logloss": 0.126,
+   "close_right": 22,
+   "close_n": 36,
+   "upsets_fixed": [
+    "PA-1",
+    "OH-9",
+    "KY-6",
+    "WI-1",
+    "VA-1",
+    "MT-1"
+   ],
+   "new_misses": [
+    "CO-3",
+    "IA-3"
+   ],
+   "bias": 6.5,
+   "mae": 7.3,
+   "key": "no_partisan_shift",
+   "label": "Partisan polls not shifted against their sponsor (still half weight)"
+  },
+  {
+   "right": 383,
+   "n": 405,
+   "brier": 0.0369,
+   "logloss": 0.119,
+   "close_right": 24,
+   "close_n": 36,
+   "upsets_fixed": [
+    "PA-1",
+    "OH-9",
+    "OH-10",
+    "KY-6",
+    "WI-1",
+    "VA-1",
+    "MT-1"
+   ],
+   "new_misses": [
+    "CO-3"
+   ],
+   "bias": 5.7,
+   "mae": 6.8,
+   "key": "both",
+   "label": "Both of the above"
+  },
+  {
+   "right": 378,
+   "n": 405,
+   "brier": 0.0445,
+   "logloss": 0.139,
+   "close_right": 19,
+   "close_n": 36,
+   "upsets_fixed": [
+    "OH-9"
+   ],
+   "new_misses": [],
+   "bias": 5.5,
+   "mae": 6.7,
+   "key": "no_elasticity",
+   "label": "No damping of the national swing in lopsided seats"
+  },
+  {
+   "right": 378,
+   "n": 405,
+   "brier": 0.0448,
+   "logloss": 0.145,
+   "close_right": 19,
+   "close_n": 36,
+   "upsets_fixed": [
+    "MT-1"
+   ],
+   "new_misses": [],
+   "bias": 6.7,
+   "mae": 7.5,
+   "key": "light_prior",
+   "label": "Lighter fundamentals prior (its error x1.5)"
+  },
+  {
+   "right": 377,
+   "n": 405,
+   "brier": 0.0451,
+   "logloss": 0.14,
+   "close_right": 18,
+   "close_n": 36,
+   "upsets_fixed": [],
+   "new_misses": [],
+   "bias": 6.7,
+   "mae": 7.5,
+   "key": "wide_national",
+   "label": "Wider national polling error (x1.5)"
+  },
+  {
+   "right": 387,
+   "n": 405,
+   "brier": 0.0339,
+   "logloss": 0.111,
+   "close_right": 28,
+   "close_n": 36,
+   "upsets_fixed": [
+    "TX-35",
+    "FL-22",
+    "PA-1",
+    "OH-7",
+    "OH-9",
+    "OH-10",
+    "KY-6",
+    "MI-10",
+    "WI-1",
+    "VA-1",
+    "MT-1",
+    "MO-2"
+   ],
+   "new_misses": [
+    "AZ-2",
+    "CO-3"
+   ],
+   "bias": 2.2,
+   "mae": 5.2,
+   "key": "hindsight",
+   "label": "Hindsight: national environment set to the actual House vote, D+13.6"
+  }
+ ],
+ "senate": [
+  {
+   "right": 32,
+   "n": 34,
+   "brier": 0.0557,
+   "logloss": 0.194,
+   "close_right": 5,
+   "close_n": 6,
+   "upsets_fixed": [],
+   "new_misses": [],
+   "bias": 3.7,
+   "mae": 5.8,
+   "key": "frozen",
+   "label": "The forecast as published"
+  },
+  {
+   "right": 32,
+   "n": 34,
+   "brier": 0.0532,
+   "logloss": 0.179,
+   "close_right": 5,
+   "close_n": 6,
+   "upsets_fixed": [],
+   "new_misses": [],
+   "bias": 3.3,
+   "mae": 5.7,
+   "key": "no_partisan_shift",
+   "label": "Partisan polls not shifted against their sponsor"
+  },
+  {
+   "right": 32,
+   "n": 34,
+   "brier": 0.0536,
+   "logloss": 0.191,
+   "close_right": 5,
+   "close_n": 6,
+   "upsets_fixed": [],
+   "new_misses": [],
+   "bias": 3.6,
+   "mae": 5.8,
+   "key": "light_prior",
+   "label": "Lighter fundamentals prior (its error x1.5)"
+  },
+  {
+   "right": 32,
+   "n": 34,
+   "brier": 0.058,
+   "logloss": 0.202,
+   "close_right": 5,
+   "close_n": 6,
+   "upsets_fixed": [],
+   "new_misses": [],
+   "bias": 3.7,
+   "mae": 5.8,
+   "key": "wide_national",
+   "label": "Wider national polling error (x1.5)"
+  },
+  {
+   "right": 32,
+   "n": 34,
+   "brier": 0.0511,
+   "logloss": 0.178,
+   "close_right": 5,
+   "close_n": 6,
+   "upsets_fixed": [],
+   "new_misses": [],
+   "bias": 2.5,
+   "mae": 5.2,
+   "key": "hindsight",
+   "label": "Hindsight: national environment set to the actual House vote, D+13.6"
+  }
+ ],
+ "governors": [
+  {
+   "right": 31,
+   "n": 34,
+   "brier": 0.0536,
+   "logloss": 0.169,
+   "close_right": 3,
+   "close_n": 6,
+   "upsets_fixed": [],
+   "new_misses": [],
+   "bias": 3.7,
+   "mae": 6.3,
+   "key": "frozen",
+   "label": "The forecast as published"
+  },
+  {
+   "right": 32,
+   "n": 34,
+   "brier": 0.0481,
+   "logloss": 0.159,
+   "close_right": 4,
+   "close_n": 6,
+   "upsets_fixed": [
+    "Nevada"
+   ],
+   "new_misses": [],
+   "bias": 3.6,
+   "mae": 6.1,
+   "key": "no_partisan_shift",
+   "label": "Partisan polls not shifted against their sponsor"
+  },
+  {
+   "right": 31,
+   "n": 34,
+   "brier": 0.0519,
+   "logloss": 0.169,
+   "close_right": 3,
+   "close_n": 6,
+   "upsets_fixed": [],
+   "new_misses": [],
+   "bias": 3.6,
+   "mae": 6.3,
+   "key": "light_prior",
+   "label": "Lighter fundamentals prior (its error x1.5)"
+  },
+  {
+   "right": 31,
+   "n": 34,
+   "brier": 0.0539,
+   "logloss": 0.179,
+   "close_right": 3,
+   "close_n": 6,
+   "upsets_fixed": [],
+   "new_misses": [],
+   "bias": 3.7,
+   "mae": 6.3,
+   "key": "wide_national",
+   "label": "Wider national polling error (x1.5)"
+  },
+  {
+   "right": 31,
+   "n": 34,
+   "brier": 0.0517,
+   "logloss": 0.165,
+   "close_right": 3,
+   "close_n": 6,
+   "upsets_fixed": [],
+   "new_misses": [],
+   "bias": 3.2,
+   "mae": 6.0,
+   "key": "hindsight",
+   "label": "Hindsight: national environment set to the actual House vote, D+13.6"
+  }
+ ]
+}

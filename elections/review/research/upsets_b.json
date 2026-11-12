@@ -1,0 +1,761 @@
+{
+ "NJ-2": {
+  "chamber": "house",
+  "result": "Zack Mullock (D) def. Rep. Jeff Van Drew (R): 50.9% to 48.1% (Ramon Mora Jr., I, 1.0%) with ~98% of expected vote in per NBC; AP figures at 97% tabulated were 137,166 (49.2%) to 130,084 (46.7%). Van Drew conceded election night; AP called it Nov 5. D flip.",
+  "pres_2024": "Trump +12.5 (270toWin district data); Inquirer: Trump won by nearly 13. No map change (NJ).",
+  "explanations": [
+   {
+    "claim": "NBC/AP results: Mullock 50.9%, Van Drew 48.1% at ~98% of expected vote; NBC computes a 15.5-point shift toward Democrats vs. the 2024 presidential result.",
+    "kind": "fact",
+    "source": "https://www.nbcnews.com/politics/2026-elections/new-jersey-us-house-district-2-results"
+   },
+   {
+    "claim": "AP called the race Nov 5 at 4:29 p.m.; Mullock 137,166 (49.2%) to Van Drew 130,084 (46.7%) with 97% tabulated. Van Drew conceded about two hours after polls closed. Electorate ~35% unaffiliated, ~34% R, ~30% D.",
+    "kind": "fact",
+    "source": "https://www.inquirer.com/politics/new-jersey/zack-mullock-jeff-van-drew-results-official-20261105.html"
+   },
+   {
+    "claim": "Van Drew outspent Mullock: through Oct. 14 Van Drew spent nearly $2.3M vs. just over $855K for Mullock; Van Drew had ~$900K cash left vs. ~$100K.",
+    "kind": "fact",
+    "source": "https://www.inquirer.com/politics/election/a/zack-mullock-cape-may-jeff-van-drew-election-20261108.html"
+   },
+   {
+    "claim": "National analysts rated the seat solid/likely Republican; DCCC added the district to its target list only about a month before the election and did not prioritize it; national help was mostly a last-minute batch of outside spending and surrogate visits (Gov. Sherrill, DNC chair Ken Martin, Rep. Jamie Raskin).",
+    "kind": "fact",
+    "source": "https://www.inquirer.com/politics/new-jersey/van-drew-mullock-race-nj-2nd-district-winner-results-20261103.html"
+   },
+   {
+    "claim": "Mullock attacked Van Drew over support for Trump's tariffs and the One Big Beautiful Bill Act and his votes against resolutions to end the Iran war; cost of living, homeownership and flooding were also campaign themes.",
+    "kind": "fact",
+    "source": "https://www.inquirer.com/politics/election/a/zack-mullock-cape-may-jeff-van-drew-election-20261108.html"
+   },
+   {
+    "claim": "Van Drew himself compared the year to the 1974 Watergate midterm: 'it's kind of like a Watergate where it's larger than life and just swept people along with it.'",
+    "kind": "interpretation",
+    "source": "https://www.inquirer.com/politics/new-jersey/van-drew-mullock-race-nj-2nd-district-winner-results-20261103.html"
+   },
+   {
+    "claim": "Voters interviewed cited Van Drew's 2019 party switch and a controversial Vineland data center (which Van Drew said he had no authority over) as reasons to vote against him (voter quotes, not data).",
+    "kind": "interpretation",
+    "source": "https://www.inquirer.com/politics/new-jersey/van-drew-mullock-race-nj-2nd-district-winner-results-20261103.html"
+   },
+   {
+    "claim": "Mullock's campaign credits a field-heavy, all-six-county campaign aimed at unaffiliated voters and a candidate profile as a local mayor ('the Mr. Rogers of Cape May'); Mullock says Republicans crossed over to support him. Van Drew rarely advertised his public schedule.",
+    "kind": "interpretation",
+    "source": "https://www.inquirer.com/politics/election/a/zack-mullock-cape-may-jeff-van-drew-election-20261108.html"
+   }
+  ],
+  "late_polls_winner_ahead": [],
+  "picked_winner": [],
+  "summary": "A local-mayor challenger outspent roughly 3:1 beat a four-term incumbent in a Trump +12.5 seat on a ~15-point swing that no rater anticipated (final ratings: Cook and Inside Likely R, Crystal Ball Lean R, Split Ticket Safe R). The only public poll found (Impact Research, Oct 7-10, D-aligned) had Van Drew up 50-40, outside the 3-week window. Reporting points to the national wave plus local factors (party-switch resentment, data center, Iran war and tariffs); none of it was visible in polling.",
+  "_notes": "No public poll Oct 13-Nov 3 found. The Impact Research poll Oct 7-10 (Van Drew 50, Mullock 40) is listed at https://poliagg.com/race/us-house-2026-nj-2/ . No forecaster pick for Mullock found. Final ratings: Split Ticket Safe R, Crystal Ball Lean R, Cook Likely R, Inside Likely R (Final pre-election ratings as mirrored by 270toWin (Split Ticket map updated Nov 2; Crystal Ball, Cook, Inside Elections updated Nov 3, 2026)). Final ratings source: Final pre-election ratings as mirrored by 270toWin (Split Ticket map updated Nov 2; Crystal Ball, Cook, Inside Elections updated Nov 3, 2026). 2024 presidential margins are from the 'margin_president' field in 270toWin's district data (current lines). NBC's 'shift' is NBC's own computation vs. the 2024 presidential vote."
+ },
+ "PA-1": {
+  "chamber": "house",
+  "result": "Bob Harvie (D) def. Rep. Brian Fitzpatrick (R): 52.7% to 47.3% at ~99% of expected vote (NBC). City & State reported 49.1%-44.3% (180,036 to 162,454) at 91% in. AP called it 12:41 a.m. Nov 4. D flip.",
+  "pres_2024": "Harris +0.3 (270toWin district data; City & State describes it as a Harris district). No map change.",
+  "explanations": [
+   {
+    "claim": "NBC results 52.7-47.3 at 99% expected vote; NBC computes a 5.2-point shift toward Democrats vs. 2024 presidential.",
+    "kind": "fact",
+    "source": "https://www.nbcnews.com/politics/2026-elections/pennsylvania-us-house-district-1-results"
+   },
+   {
+    "claim": "Every precinct in the district shifted toward Harvie, per an Inquirer analysis of voting data; Harvie won most of Lower and Central Bucks and the Montgomery County portion.",
+    "kind": "fact",
+    "source": "https://www.inquirer.com/politics/election/bob-harvie-brian-fitzpatrick-bucks-county-congress-win-20261104.html"
+   },
+   {
+    "claim": "DCCC began spending in PA-1 in October, its first investment there since 2020, and said it spent more on broadcast in PA-1 than in the other Pennsylvania swing seats; Gov. Shapiro campaigned in Bucks almost every October weekend.",
+    "kind": "fact",
+    "source": "https://www.inquirer.com/politics/election/bob-harvie-brian-fitzpatrick-bucks-county-congress-win-20261104.html"
+   },
+   {
+    "claim": "Fitzpatrick voted with Trump/his party ~70% of the time this term, the least of any House Republican; he voted against the One Big Beautiful Bill Act and Canada tariffs and eventually for ending the Iran war.",
+    "kind": "fact",
+    "source": "https://www.spotlightpa.org/news/2026/11/pennsylvania-election-results-first-congressional-district-brian-fitzpatrick-bob-harvie-elections/"
+   },
+   {
+    "claim": "Cook moved the race from Lean R to Toss-up days before the election.",
+    "kind": "fact",
+    "source": "https://www.cityandstatepa.com/politics/2026/11/bucks-and-blue-bob-harvie-beats-brian-fitzpatrick-flip-pa-1-blue/417027/"
+   },
+   {
+    "claim": "Inquirer: Harvie benefited from Trump's 'toxic political brand,' Shapiro's 'lights-out win' and an affordability message; GOP strategist Samuel Chen called it 'clearly a repudiation of the president.'",
+    "kind": "interpretation",
+    "source": "https://www.inquirer.com/politics/election/bob-harvie-brian-fitzpatrick-bucks-county-congress-win-20261104.html"
+   },
+   {
+    "claim": "GOP strategists argued the loss was a product of the wave, not anything Fitzpatrick did; Democratic strategist Anthony Campisi said Trump's low approval made Fitzpatrick's independent brand hard to square. Fitzpatrick's negative ads alleging Harvie was the 'subject' of an FBI investigation (denied by Harvie) did not stop the swing.",
+    "kind": "interpretation",
+    "source": "https://www.inquirer.com/politics/election/bob-harvie-brian-fitzpatrick-bucks-county-congress-win-20261104.html"
+   },
+   {
+    "claim": "Harvie attributes the win to being a countywide-elected commissioner with local roots ('a different kind of candidate... a different time') and four October town halls.",
+    "kind": "interpretation",
+    "source": "https://www.inquirer.com/politics/election/bob-harvie-brian-fitzpatrick-bucks-county-congress-win-20261104.html"
+   }
+  ],
+  "late_polls_winner_ahead": [
+   {
+    "pollster": "New York Times / Philadelphia Inquirer / Siena",
+    "dates": "Oct 16-22, 2026 (released Oct 25), 400 LV",
+    "result": "Harvie 48, Fitzpatrick 46 (within MoE); independents tied 44-44",
+    "url": "https://inquirer.com/politics/election/bob-harvie-brian-fitzpatrick-congressional-poll-bucks-county-20261025.html"
+   },
+   {
+    "pollster": "RedBox Research (PoliAgg lists as D-aligned internal)",
+    "dates": "~Oct 22, 2026, 733 LV",
+    "result": "Harvie 46, Fitzpatrick 46 (tie)",
+    "url": "https://poliagg.com/race/us-house-2026-pa-1/"
+   }
+  ],
+  "picked_winner": [
+   {
+    "who": "Sabato's Crystal Ball",
+    "what": "Final House ratings (no Toss-ups) had PA-1 Lean D",
+    "url": "https://www.270towin.com/2026-house-election/table/crystal-ball-2026-house-forecast"
+   },
+   {
+    "who": "Kalshi prediction market",
+    "what": "City & State: Kalshi had Harvie as the odds-on favorite in the lead-up to polls closing",
+    "url": "https://www.cityandstatepa.com/politics/2026/11/bucks-and-blue-bob-harvie-beats-brian-fitzpatrick-flip-pa-1-blue/417027/"
+   }
+  ],
+  "summary": "In a Harris +0.3 seat, the national wave plus Shapiro coattails and a late DCCC investment finally overcame Fitzpatrick's ticket-splitting brand; every precinct moved toward Harvie. The one nonpartisan late poll (NYT/Siena, Oct 16-22) had Harvie up 2, and Crystal Ball's forced-choice final rating and Kalshi both favored him. That makes our 48% a near coin-flip miss, not a blind spot.",
+  "_notes": "Final ratings source: Final pre-election ratings as mirrored by 270toWin (Split Ticket map updated Nov 2; Crystal Ball, Cook, Inside Elections updated Nov 3, 2026). 2024 presidential margins are from the 'margin_president' field in 270toWin's district data (current lines). NBC's 'shift' is NBC's own computation vs. the 2024 presidential vote."
+ },
+ "OH-7": {
+  "chamber": "house",
+  "result": "Brian Poindexter (D) def. Rep. Max Miller (R): 54.9% to 45.1% at ~98% of expected vote (NBC). AP call. D flip.",
+  "pres_2024": "Trump +11.0 on the new 2026 lines (270toWin district data); Cleveland 19 and Scripps say Trump carried it by 11. New Ohio map adopted Oct 2025 (Ballotpedia notes boundaries changed from 2024).",
+  "explanations": [
+   {
+    "claim": "NBC results 54.9-45.1; NBC computes a 21.0-point shift toward Democrats vs. 2024 presidential, the largest among these 14 races.",
+    "kind": "fact",
+    "source": "https://www.nbcnews.com/politics/2026-elections/ohio-us-house-district-7-results"
+   },
+   {
+    "claim": "In July 2026 Miller's ex-wife Emily Moreno (daughter of Sen. Bernie Moreno) accused him of spousal and child abuse; Miller denied it; the House Ethics Committee opened an investigation; both Ohio GOP senators (Husted and Moreno) called on him to step aside, but he stayed on the ballot and kept Trump's support.",
+    "kind": "fact",
+    "source": "https://www.scrippsnews.com/politics/america-votes/poindexter-declared-winner-in-ohios-hotly-contested-7th-district-race"
+   },
+   {
+    "claim": "As of Nov 2, 2026 Poindexter had raised $3.72M vs. Miller's $3.32M.",
+    "kind": "fact",
+    "source": "https://news.ballotpedia.org/?p=52268"
+   },
+   {
+    "claim": "Forecasters rated the seat more Republican before the allegations and moved it to Toss-up in August after them.",
+    "kind": "fact",
+    "source": "https://news.ballotpedia.org/2026/08/18/forecasters-move-ohios-7th-congressional-district-to-toss-up-ahead-of-november-general-election/"
+   },
+   {
+    "claim": "Poindexter, a union ironworker and former Brook Park councilman, ran on affordability, health care and labor issues.",
+    "kind": "fact",
+    "source": "https://www.scrippsnews.com/politics/america-votes/poindexter-declared-winner-in-ohios-hotly-contested-7th-district-race"
+   },
+   {
+    "claim": "Statewide Democratic coattails: political scientist Lee Hannah (Wright State) said Amy Acton (governor) and Sherrod Brown (Senate) had strong coattails 'enough to carry a few more House districts than were expected' in Ohio, and that Vivek Ramaswamy ran 'a historically bad ad.'",
+    "kind": "interpretation",
+    "source": "https://www.springfieldnewssun.com/local/a-major-shakeup-knickerbocker-unseats-turner-in-congress/article_7e8c5557-1419-51a9-90fb-85948c451de9.html"
+   }
+  ],
+  "late_polls_winner_ahead": [
+   {
+    "pollster": "RedBox Research (PoliAgg lists as D-aligned internal)",
+    "dates": "~Oct 22, 2026, 875 LV",
+    "result": "Poindexter 46, Miller 42",
+    "url": "https://poliagg.com/race/us-house-2026-oh-7/"
+   }
+  ],
+  "picked_winner": [
+   {
+    "who": "Split Ticket",
+    "what": "Final rating Lean D",
+    "url": "https://www.270towin.com/2026-house-election/table/split-ticket-2026-house-ratings"
+   },
+   {
+    "who": "Sabato's Crystal Ball",
+    "what": "Final rating Lean D",
+    "url": "https://www.270towin.com/2026-house-election/table/crystal-ball-2026-house-forecast"
+   },
+   {
+    "who": "Inside Elections",
+    "what": "Final rating Tilt D",
+    "url": "https://www.270towin.com/2026-house-election/table/inside-elections-2026-house-ratings"
+   },
+   {
+    "who": "Kalshi / Polymarket",
+    "what": "Newsweek (Aug 2026): Poindexter had about an 80% chance of flipping the seat on both Kalshi and Polymarket",
+    "url": "https://www.newsweek.com/max-miller-chances-losing-democrats-withdrawal-deadline-passed-ohio-12310050"
+   }
+  ],
+  "summary": "A candidate scandal (abuse allegations from Sen. Moreno's daughter, an Ethics probe, GOP senators urging him to quit) on top of the wave produced a 21-point swing in a Trump +11 seat. Every published poll since August had Poindexter ahead (co/efficient R: 47-33 in Aug). Three of four raters and the prediction markets favored him at the end, so our 30% looks like the model under-weighting a known candidate-quality shock.",
+  "_notes": "Cook's final rating was Toss-up. August polls with Poindexter ahead (outside window): co/efficient 47-33, Tavern 54-46, Bedrock 43-35 (https://poliagg.com/race/us-house-2026-oh-7/). Final ratings source: Final pre-election ratings as mirrored by 270toWin (Split Ticket map updated Nov 2; Crystal Ball, Cook, Inside Elections updated Nov 3, 2026). 2024 presidential margins are from the 'margin_president' field in 270toWin's district data (current lines). NBC's 'shift' is NBC's own computation vs. the 2024 presidential vote."
+ },
+ "OH-9": {
+  "chamber": "house",
+  "result": "Rep. Marcy Kaptur (D) def. Derek Merrin (R): 52.7% to 47.3% at ~98% of expected vote (NBC); Lima News/Ohio SoS unofficial margin 16,476 votes. D hold (2024 rematch).",
+  "pres_2024": "Trump +10.5 on the new 2026 lines (270toWin); Ballotpedia: Trump 54.8%-Harris 44.2% on 2026 lines. The district Kaptur won in 2024 was Trump +7; the Oct 2025 Ohio map made it more Republican.",
+  "explanations": [
+   {
+    "claim": "NBC results 52.7-47.3; NBC computes a 16.1-point shift toward Democrats vs. 2024 presidential.",
+    "kind": "fact",
+    "source": "https://www.nbcnews.com/politics/2026-elections/ohio-us-house-district-9-results"
+   },
+   {
+    "claim": "Kaptur heavily outraised Merrin: $5.91M vs. $2.22M as of Nov 2, 2026. Kaptur beat Merrin 48.3%-47.6% under the old lines in 2024.",
+    "kind": "fact",
+    "source": "https://news.ballotpedia.org/?p=52289"
+   },
+   {
+    "claim": "Kaptur won Lucas County (Toledo) with about 64.5% while Merrin won most outlying counties (e.g., ~80% in Putnam).",
+    "kind": "fact",
+    "source": "https://www.limaohio.com/top-stories/2026/11/03/jordan-wins-re-election-kaptur-merrin-still-a-tossup/"
+   },
+   {
+    "claim": "Kaptur said she improved her tallies in the new parts of the district vs. 2024 and that non-absentee Lucas County turnout was 'historic' (candidate's claim, not verified turnout data).",
+    "kind": "interpretation",
+    "source": "https://spectrumnews1.com/oh/columbus/news/2026/11/04/democrat-marcy-kaptur-wins-reelection-to-u-s--house"
+   },
+   {
+    "claim": "Statewide Democratic coattails from Acton (governor) and Brown (Senate) helped Ohio Democrats carry more House seats than expected (Wright State's Lee Hannah).",
+    "kind": "interpretation",
+    "source": "https://www.springfieldnewssun.com/local/a-major-shakeup-knickerbocker-unseats-turner-in-congress/article_7e8c5557-1419-51a9-90fb-85948c451de9.html"
+   }
+  ],
+  "late_polls_winner_ahead": [
+   {
+    "pollster": "RedBox Research (PoliAgg lists as D-aligned internal)",
+    "dates": "~Oct 22, 2026, 858 LV",
+    "result": "Kaptur 49, Merrin 43",
+    "url": "https://poliagg.com/race/us-house-2026-oh-9/"
+   }
+  ],
+  "picked_winner": [
+   {
+    "who": "Split Ticket",
+    "what": "Final rating Lean D",
+    "url": "https://www.270towin.com/2026-house-election/table/split-ticket-2026-house-ratings"
+   },
+   {
+    "who": "Sabato's Crystal Ball",
+    "what": "Final rating Lean D",
+    "url": "https://www.270towin.com/2026-house-election/table/crystal-ball-2026-house-forecast"
+   },
+   {
+    "who": "Cook Political Report",
+    "what": "Final rating Lean D",
+    "url": "https://www.270towin.com/2026-house-election/table/cook-political-report-2026-house-ratings"
+   },
+   {
+    "who": "Inside Elections",
+    "what": "Final rating Tilt D",
+    "url": "https://www.270towin.com/2026-house-election/table/inside-elections-2026-house-ratings"
+   }
+  ],
+  "summary": "An entrenched incumbent who outraised her challenger by about 2.7:1 survived a map redrawn to Trump +10.5, carried by a large Toledo margin and a 16-point swing. All four major raters had moved the race to Lean or Tilt D by election eve, even though our stored mid-October ratings were Toss-ups. So this was an 'upset' only relative to our 48.5%.",
+  "_notes": "Other polls: DCCC Sep 22-23 tied 48-48; NRCC May Merrin 47-43 (outside window). Final ratings source: Final pre-election ratings as mirrored by 270toWin (Split Ticket map updated Nov 2; Crystal Ball, Cook, Inside Elections updated Nov 3, 2026). 2024 presidential margins are from the 'margin_president' field in 270toWin's district data (current lines). NBC's 'shift' is NBC's own computation vs. the 2024 presidential vote."
+ },
+ "OH-10": {
+  "chamber": "house",
+  "result": "Kristina Knickerbocker (D) def. Rep. Mike Turner (R): 49.3% to 47.7% (Libertarian Thomas McMasters 2.9%), margin under 5,000 votes; AP called it ~2:30 p.m. Nov 5. D flip.",
+  "pres_2024": "Trump +7.7 on the new 2026 lines (270toWin); WLWT and NOTUS: Trump +8 (the 2025 redraw moved it from Trump +6 to +8).",
+  "explanations": [
+   {
+    "claim": "Final unofficial: Knickerbocker 49.3%, Turner 47.7%, McMasters ~3%; Turner lost Montgomery County 43.86%-53.28% but won Greene County and the Butler County portion. Turner had won by 18 points in 2024.",
+    "kind": "fact",
+    "source": "https://www.springfieldnewssun.com/local/a-major-shakeup-knickerbocker-unseats-turner-in-congress/article_7e8c5557-1419-51a9-90fb-85948c451de9.html"
+   },
+   {
+    "claim": "NBC computes a 9.5-point shift toward Democrats vs. 2024 presidential.",
+    "kind": "fact",
+    "source": "https://www.nbcnews.com/politics/2026-elections/ohio-us-house-district-10-results"
+   },
+   {
+    "claim": "The Libertarian took about 2.9%, more than the 1.6-point margin.",
+    "kind": "fact",
+    "source": "https://www.wyso.org/government-politics-news/2026-11-05/knickerbocker-beats-turner-flipping-ohios-10th-district-for-democrats"
+   },
+   {
+    "claim": "Political scientist Kevin Sims (Cedarville) called it possibly 'the most surprising election result' and expects Turner underperformed with rural eastern Greene County voters. Lee Hannah (Wright State) said beating Turner signaled a larger wave than even optimistic Democrats projected, and that Knickerbocker's two-decades-in-office message fit a change election.",
+    "kind": "interpretation",
+    "source": "https://www.springfieldnewssun.com/local/a-major-shakeup-knickerbocker-unseats-turner-in-congress/article_7e8c5557-1419-51a9-90fb-85948c451de9.html"
+   },
+   {
+    "claim": "Cook (as cited by the Springfield News-Sun) called an unpopular Trump 'an anchor' on Turner; Hannah also blamed GOP gubernatorial nominee Ramaswamy's 'historically bad' ad and said Acton and Brown had strong coattails.",
+    "kind": "interpretation",
+    "source": "https://www.springfieldnewssun.com/local/a-major-shakeup-knickerbocker-unseats-turner-in-congress/article_7e8c5557-1419-51a9-90fb-85948c451de9.html"
+   },
+   {
+    "claim": "Turner appeared at an Oct. 3 Trump rally in Vandalia.",
+    "kind": "fact",
+    "source": "https://www.springfieldnewssun.com/local/a-major-shakeup-knickerbocker-unseats-turner-in-congress/article_7e8c5557-1419-51a9-90fb-85948c451de9.html"
+   },
+   {
+    "claim": "Columbus Dispatch: 'No political pundits had predicted Turner's seat would be in play.'",
+    "kind": "interpretation",
+    "source": "https://www.yahoo.com/news/politics/articles/columbus-area-house-races-one-230308402.html"
+   }
+  ],
+  "late_polls_winner_ahead": [
+   {
+    "pollster": "DCCC (D internal)",
+    "dates": "Oct 12-13, 2026, 535 LV (fielded 1 day before the window; listed Oct 13)",
+    "result": "Knickerbocker 47, Turner 44, McMasters 4",
+    "url": "https://poliagg.com/race/us-house-2026-oh-10/"
+   }
+  ],
+  "picked_winner": [],
+  "summary": "A first-time candidate beat a 12-term incumbent by 1.6 points in a Trump +7.7 seat. She won Montgomery County (Dayton) big, and Turner's rural margins fell short, with a Libertarian taking more than the margin. Every final rating was Lean R and no forecaster picked her; the only late poll was a Democratic internal (Oct 12-13, K+3).",
+  "_notes": "Final ratings source: Final pre-election ratings as mirrored by 270toWin (Split Ticket map updated Nov 2; Crystal Ball, Cook, Inside Elections updated Nov 3, 2026). 2024 presidential margins are from the 'margin_president' field in 270toWin's district data (current lines). NBC's 'shift' is NBC's own computation vs. the 2024 presidential vote."
+ },
+ "OH-15": {
+  "chamber": "house",
+  "result": "Don Leonard (D) def. Rep. Mike Carey (R): 51.9% to 45.3% (Libertarian Brennan Barrington 2.8%) at ~97% of expected vote (NBC). Election-night unofficial: 151,420 to 133,878. Carey conceded on X overnight. D flip.",
+  "pres_2024": "Trump +10.0 on the new 2026 lines (270toWin; WLWT: Trump +10).",
+  "explanations": [
+   {
+    "claim": "NBC results 51.9-45.3; NBC computes a 16.7-point shift toward Democrats vs. 2024 presidential.",
+    "kind": "fact",
+    "source": "https://www.nbcnews.com/politics/2026-elections/ohio-us-house-district-15-results"
+   },
+   {
+    "claim": "Leonard won the Franklin County (Columbus) portion 62.3%-35.2% (122,350 to 69,172); Carey won every other county (e.g., Fayette 70.2%, Pickaway 65.5%, Highland ~74%), but rural margins could not offset Franklin.",
+    "kind": "fact",
+    "source": "https://sciotovalleyguardian.com/2026/11/03/fayette-county-gets-a-democrat-in-congress-don-leonard-upsets-rep-mike-carey-in-ohios-15th-district/"
+   },
+   {
+    "claim": "Carey had previously won by 13+ points; PACs on both sides put more than $6.5M into ads; experts rated the seat likely Republican.",
+    "kind": "fact",
+    "source": "https://www.yahoo.com/news/politics/articles/columbus-area-house-races-one-230308402.html"
+   },
+   {
+    "claim": "Carey: 'We knew that 2026 would present a challenge unlike any other... despite the headwinds we faced.' Leonard said voters didn't fall for 'scare tactics.'",
+    "kind": "interpretation",
+    "source": "https://www.yahoo.com/news/politics/articles/columbus-area-house-races-one-230308402.html"
+   },
+   {
+    "claim": "Statewide coattails (Acton, Brown) carried more Ohio House seats than expected, per Wright State's Lee Hannah.",
+    "kind": "interpretation",
+    "source": "https://www.springfieldnewssun.com/local/a-major-shakeup-knickerbocker-unseats-turner-in-congress/article_7e8c5557-1419-51a9-90fb-85948c451de9.html"
+   }
+  ],
+  "late_polls_winner_ahead": [
+   {
+    "pollster": "Hart Research (D internal)",
+    "dates": "~Oct 9-11, 2026, 503 LV (just before the Oct 13 window)",
+    "result": "Leonard 48, Carey 45",
+    "url": "https://poliagg.com/race/us-house-2026-oh-15/"
+   }
+  ],
+  "picked_winner": [],
+  "summary": "A first-time candidate won by running up a 27-point margin in the Columbus portion of a Trump +10 seat while Carey won every rural county. All four raters had it Lean R, and no picks for Leonard were found. The only October data were Democratic internals (Hart, Leonard +3 around Oct 11, Leonard +1 Sep 22-24), which our model would rightly discount.",
+  "_notes": "Final ratings source: Final pre-election ratings as mirrored by 270toWin (Split Ticket map updated Nov 2; Crystal Ball, Cook, Inside Elections updated Nov 3, 2026). 2024 presidential margins are from the 'margin_president' field in 270toWin's district data (current lines). NBC's 'shift' is NBC's own computation vs. the 2024 presidential vote."
+ },
+ "IN-5": {
+  "chamber": "house",
+  "result": "J.D. Ford (D) def. Rep. Victoria Spartz (R): 51.7% to 48.3% (134,476 to 125,851 at 99%, AP); margin ~8,600 votes. D flip; first D win in the seat since 1990.",
+  "pres_2024": "Trump +16.8 (270toWin); WTHR/13News: Trump won by nearly 17. Lines unchanged since 2021 (the Indiana Senate rejected a 2025 mid-decade redraw).",
+  "explanations": [
+   {
+    "claim": "NBC computes a 20.4-point shift toward Democrats vs. 2024 presidential.",
+    "kind": "fact",
+    "source": "https://www.nbcnews.com/politics/2026-elections/indiana-us-house-district-5-results"
+   },
+   {
+    "claim": "Every county shifted left: Ford won Hamilton County with 55.4% and Delaware with 53.9%; Spartz's margins fell in Howard (37 to ~10.5), Grant (46.8 to 25), Tipton (53 to 32.6) and Madison (26 to 2.8). Turnout was ~260K vs. ~240K in 2022, and turnout appeared weaker in redder areas.",
+    "kind": "fact",
+    "source": "https://www.yahoo.com/news/politics/articles/j-d-ford-wins-indiana-234725110.html"
+   },
+   {
+    "claim": "WFYI: Hamilton County favored Ford by 10.8 points, a 22.3-point shift from 2024; county turnout was 51.9%, up 7.9 points from the last midterm, with ~20,000 more registered voters than 2022.",
+    "kind": "fact",
+    "source": "https://wfyi.org/wfyi-news/2026-11-11/hamilton-county-indiana-republican-democrat-blue-wave-election"
+   },
+   {
+    "claim": "Cook moved the race from Likely R to Lean R in the final week (earlier Solid R); DCCC added it to its target list in August.",
+    "kind": "fact",
+    "source": "https://www.wrtv.com/news/elections/indiana-congressional-races-draw-attention-in-midterm-election/"
+   },
+   {
+    "claim": "Spartz blamed 'an influx of liberal voters' in Hamilton County, too few rural voters to offset them, Democratic outspending and a 'dishonest campaign.'",
+    "kind": "interpretation",
+    "source": "https://www.wrtv.com/news/elections/indiana-congressional-races-draw-attention-in-midterm-election/"
+   },
+   {
+    "claim": "IU Indianapolis's Aaron Dusso: 'the blue wave nationally... caught her up'; Ford's single-minded affordability message (drug costs, data centers paying their own utility costs) was 'spot on.'",
+    "kind": "interpretation",
+    "source": "https://www.yahoo.com/news/politics/articles/j-d-ford-wins-indiana-234725110.html"
+   },
+   {
+    "claim": "UIndy's Laura Merrifield Wilson: affordability and dissatisfaction with top-of-ticket Republicans drove the Hamilton County shift.",
+    "kind": "interpretation",
+    "source": "https://wfyi.org/wfyi-news/2026-11-11/hamilton-county-indiana-republican-democrat-blue-wave-election"
+   }
+  ],
+  "late_polls_winner_ahead": [],
+  "picked_winner": [],
+  "summary": "The second-largest swing in this set (after OH-7): a 20-point shift flipped a Trump +17 seat, driven by suburban Hamilton County (up 22 points vs. 2024) and depressed margins and turnout in the rural counties. No rater picked Ford (two Lean R, two Likely R), and the only late poll, Quantus Insights (R-aligned, ~Oct 21-27), had Spartz up 2-3.",
+  "_notes": "Late poll with the loser ahead: Quantus Insights, 601 LV, listed 10/27 by 270toWin (Spartz 47, Ford 45; https://www.270towin.com/2026-house-polls/indiana/district-5) and Oct 21 by PoliAgg (Spartz 45, Ford 42). Expedition Strategies (D) Oct 3: Spartz 48-47. Final ratings source: Final pre-election ratings as mirrored by 270toWin (Split Ticket map updated Nov 2; Crystal Ball, Cook, Inside Elections updated Nov 3, 2026). 2024 presidential margins are from the 'margin_president' field in 270toWin's district data (current lines). NBC's 'shift' is NBC's own computation vs. the 2024 presidential vote."
+ },
+ "MI-4": {
+  "chamber": "house",
+  "result": "Sean McCann (D) def. Rep. Bill Huizenga (R): 50.1% to 48.3% (Green Shafina Che Barnett 1.5%), ~7,000-vote margin; AP called it 1:13 p.m. Nov 4. D flip.",
+  "pres_2024": "Trump +5.5 (270toWin). No map change.",
+  "explanations": [
+   {
+    "claim": "NBC results 50.1-48.3 at ~97% of expected vote; NBC computes a 7.4-point shift toward Democrats vs. 2024 presidential.",
+    "kind": "fact",
+    "source": "https://www.nbcnews.com/politics/2026-elections/michigan-us-house-district-4-results"
+   },
+   {
+    "claim": "AP margin ~7,000 votes; the Green candidate received ~5,600 votes; the race had been rated Lean R and 'was not expected to flip.'",
+    "kind": "fact",
+    "source": "https://www.americanbanker.com/news/rep-huizenga-no-2-on-house-finance-panel-defeated"
+   },
+   {
+    "claim": "Democrats won all three of Michigan's toss-up House races (MI-4, MI-7, MI-10) on a night Democrats won the governorship (Benson over James) and the Senate seat (El-Sayed over Rogers).",
+    "kind": "fact",
+    "source": "https://bridgemi.com/michigan-politics/house-results-tom-barrett-bill-huizenga-face-tough-re-election-bids/"
+   },
+   {
+    "claim": "Bridge Michigan: McCann benefited from name recognition from representing parts of southwest Michigan in the Legislature since 2011, and tied Huizenga to Trump while Huizenga ran as a workhorse on affordability.",
+    "kind": "interpretation",
+    "source": "https://bridgemi.com/michigan-politics/house-results-tom-barrett-bill-huizenga-face-tough-re-election-bids/"
+   },
+   {
+    "claim": "McCann said Huizenga 'hadn't held a town hall since 2018' and that high turnout was crucial (candidate's claims).",
+    "kind": "interpretation",
+    "source": "https://www.michiganpublic.org/politics-government/2026-11-04/democrat-sean-mccann-flips-michigans-4th-us-house-district-unseating-8-term-incumbent"
+   }
+  ],
+  "late_polls_winner_ahead": [],
+  "picked_winner": [
+   {
+    "who": "Sabato's Crystal Ball",
+    "what": "Final rating Lean D",
+    "url": "https://www.270towin.com/2026-house-election/table/crystal-ball-2026-house-forecast"
+   }
+  ],
+  "summary": "A well-known state senator beat an eight-term incumbent by 1.8 points in a Trump +5.5 seat during a Michigan Democratic sweep. The only late poll, RedBox (~Oct 22), had Huizenga up 3. Split Ticket, Cook and Inside all had it Toss-up and Crystal Ball picked McCann, so our 25% looks too low against the consensus.",
+  "_notes": "Late poll with the loser ahead: RedBox Research ~Oct 22, 787 LV, Huizenga 47-44 (https://poliagg.com/race/us-house-2026-mi-4/). GBAO (D) Sep 15: McCann 47-46. No independent post-election analysis beyond Bridge/Michigan Public found. Final ratings source: Final pre-election ratings as mirrored by 270toWin (Split Ticket map updated Nov 2; Crystal Ball, Cook, Inside Elections updated Nov 3, 2026). 2024 presidential margins are from the 'margin_president' field in 270toWin's district data (current lines). NBC's 'shift' is NBC's own computation vs. the 2024 presidential vote."
+ },
+ "MI-10": {
+  "chamber": "house",
+  "result": "Christina Hines (D) def. Michael Bouchard Jr. (R): 52.4% to 45.3% (AP, ~99% in); open seat (John James ran for governor). AP called it ~12:30 p.m. Nov 4. D flip.",
+  "pres_2024": "Trump +6.5 (270toWin). James won the seat by about 6 points in 2024 (Bridge). No map change.",
+  "explanations": [
+   {
+    "claim": "NBC results 52.4-45.3; NBC computes a 13.9-point shift toward Democrats vs. 2024 presidential.",
+    "kind": "fact",
+    "source": "https://www.nbcnews.com/politics/2026-elections/michigan-us-house-district-10-results"
+   },
+   {
+    "claim": "Open seat after John James ran for governor (and lost to Benson); Hines is a former Macomb/Oakland prosecutor and campaigned on eliminating tariffs, health-care costs and corporate money; Trump-endorsed Bouchard ran on border security, military strength and tariffs (excluding Canada).",
+    "kind": "fact",
+    "source": "https://bridgemi.com/michigan-politics/house-results-tom-barrett-bill-huizenga-face-tough-re-election-bids/"
+   },
+   {
+    "claim": "Bouchard was endorsed by Trump; the race was within a point with ~20% counted.",
+    "kind": "fact",
+    "source": "https://www.michiganpublic.org/politics-government/2026-11-04/michigans-10th-congressional-district-race-remains-close"
+   },
+   {
+    "claim": "Bouchard said 'the district has always been purple.'",
+    "kind": "interpretation",
+    "source": "https://www.michiganpublic.org/politics-government/2026-11-04/who-won-michigan-10th-congressional-district-2026-results"
+   }
+  ],
+  "late_polls_winner_ahead": [],
+  "picked_winner": [
+   {
+    "who": "Split Ticket",
+    "what": "Final rating Lean D",
+    "url": "https://www.270towin.com/2026-house-election/table/split-ticket-2026-house-ratings"
+   },
+   {
+    "who": "Sabato's Crystal Ball",
+    "what": "Final rating Lean D",
+    "url": "https://www.270towin.com/2026-house-election/table/crystal-ball-2026-house-forecast"
+   }
+  ],
+  "summary": "An open Macomb-based seat (Trump +6.5) flipped by 7 points in a statewide Democratic sweep with a 14-point swing. Two raters (Split Ticket and Crystal Ball) had it Lean D and Cook had it Toss-up. The only late poll, RedBox (~Oct 22), had Bouchard up 5. I found little district-specific post-election analysis.",
+  "_notes": "Late poll with the loser ahead: RedBox ~Oct 22, 889 LV, Bouchard 47-42 (https://poliagg.com/race/us-house-2026-mi-10/). GSG Aug 10-13 tied 45-45. A search-engine summary attributed ~$21M in spending by Bouchard and allies to the Detroit News, but the article could not be fetched to verify, so it is excluded. Inside Elections' final rating was Tilt R; Cook's was Toss-up. Final ratings source: Final pre-election ratings as mirrored by 270toWin (Split Ticket map updated Nov 2; Crystal Ball, Cook, Inside Elections updated Nov 3, 2026). 2024 presidential margins are from the 'margin_president' field in 270toWin's district data (current lines). NBC's 'shift' is NBC's own computation vs. the 2024 presidential vote."
+ },
+ "WI-1": {
+  "chamber": "house",
+  "result": "Mitchell Berman (D) def. Rep. Bryan Steil (R): 52.0% to 48.0% at ~99% of expected vote (NBC). AP called it 11:48 p.m.; Steil conceded. D flip; first D in the seat in 30+ years.",
+  "pres_2024": "Trump +4.5 (270toWin). Lines unchanged in 2026 (WPR notes the last redistricting added Democratic areas around Beloit and Janesville).",
+  "explanations": [
+   {
+    "claim": "NBC results 52.0-48.0; NBC computes an 8.5-point shift toward Democrats vs. 2024 presidential.",
+    "kind": "fact",
+    "source": "https://www.nbcnews.com/politics/2026-elections/wisconsin-us-house-district-1-results"
+   },
+   {
+    "claim": "Steil heavily outspent Berman: ~$6.4M vs. ~$1.6M (October FEC). Outside groups spent >$17.9M (about $6.1M opposing Berman, $6M opposing Steil, $4M supporting Steil, $1.7M supporting Berman). DCCC put Berman on Red to Blue.",
+    "kind": "fact",
+    "source": "https://wisconsinwatch.org/2026/11/wisconsin-battleground-congressional-districts-democrats-blue-tsunami-berman-cooke/"
+   },
+   {
+    "claim": "Berman, an ER nurse and political newcomer, ran on opposing Medicaid cuts, lowering costs, Social Security, minimum wage, unions and congressional stock-trading/ethics limits.",
+    "kind": "fact",
+    "source": "https://www.tmj4.com/america-votes/mitchell-berman-defeats-incumbent-bryan-steil-in-wisconsins-1st-congressional-district-race"
+   },
+   {
+    "claim": "WPR: Steil's seat 'got caught up in a blue wave, fueled by voter dissatisfaction with President Donald Trump and the high cost of living'; prior redistricting gave Democrats an opening.",
+    "kind": "interpretation",
+    "source": "https://www.wpr.org/news/democrat-mitchell-berman-defeats-republican-bryan-steil-2026"
+   },
+   {
+    "claim": "UW-Eau Claire's Geoff Peterson called the loss 'quite a shock' and said neither candidate expected a highly competitive race until near the end; UW-La Crosse's Anthony Chergosky said it 'took a historic Democratic Party tsunami' to reach a 4-4 Wisconsin delegation.",
+    "kind": "interpretation",
+    "source": "https://spectrumnews1.com/wi/madison/news/2026/11/04/wi-congressional-delegation-gains-2-dems--loses-2-gop"
+   },
+   {
+    "claim": "UW-Madison's Eleanor Powell described WI-1 as a 'bellwether' for the size of the wave.",
+    "kind": "interpretation",
+    "source": "https://wisconsinwatch.org/2026/11/wisconsin-battleground-congressional-districts-democrats-blue-tsunami-berman-cooke/"
+   }
+  ],
+  "late_polls_winner_ahead": [],
+  "picked_winner": [],
+  "summary": "A newcomer outspent about 4:1 by the incumbent won by 4 in a Trump +4.5 seat, an ~8.5-point swing in line with the national environment rather than a local shock. No public polls fell in the final three weeks; the last ones (DCCC Sep 21-23 tied, Impact/HMP ~Sep 30 Berman +1) were Democratic. No rater picked Berman (Split Ticket Toss-up, others Lean R).",
+  "_notes": "Pre-window polls: HMP (Impact Research) released ~Oct 3, Berman 48-47; DCCC Sep 21-23 tied 48-48 (https://www.wispolitics.com/?p=428394). Final ratings source: Final pre-election ratings as mirrored by 270toWin (Split Ticket map updated Nov 2; Crystal Ball, Cook, Inside Elections updated Nov 3, 2026). 2024 presidential margins are from the 'margin_president' field in 270toWin's district data (current lines). NBC's 'shift' is NBC's own computation vs. the 2024 presidential vote."
+ },
+ "CO-5": {
+  "chamber": "house",
+  "result": "Jessica Killin (D) def. Rep. Jeff Crank (R): 50.5% to 45.8% (L 1.9%, Constitution ~1.4%) at ~95% of expected vote (NBC); AP called it Nov 5 with Killin up >13,000 votes. D flip; first Democrat in the district's 54-year history.",
+  "pres_2024": "Trump +9.0 (270toWin); KUNC and Colorado Politics: Trump +9 in 2024 (+10 in 2020). No map change.",
+  "explanations": [
+   {
+    "claim": "NBC results 50.5-45.8 at ~95% in; NBC computes a 14.1-point shift toward Democrats vs. 2024 presidential.",
+    "kind": "fact",
+    "source": "https://www.nbcnews.com/politics/2026-elections/colorado-us-house-district-5-results"
+   },
+   {
+    "claim": "Before Killin no Democrat had received more than 41% in the district; Killin had a significant fundraising lead.",
+    "kind": "fact",
+    "source": "https://www.coloradopolitics.com/2026/11/05/ap-declares-jessica-killin-winner-in-5th-district-election/"
+   },
+   {
+    "claim": "Colorado Springs has seen the second-largest political shift among the top 30 metros since 2016 (+14.6); U.S. Space Command was moved from Colorado Springs to Huntsville, Alabama, during Crank's first term.",
+    "kind": "fact",
+    "source": "https://www.kunc.org/news/2026-11-05/jessica-killin-flips-colorados-5th-congressional-district-becomes-first-democrat-to-win"
+   },
+   {
+    "claim": "All three major national forecasters moved the seat toward Democrats the week before the election; Inside Elections cited a 'worsening environment' for Republicans.",
+    "kind": "fact",
+    "source": "https://www.coloradopolitics.com/2026/11/03/jeff-crank-jessica-killin-colorado-congress-election-results/"
+   },
+   {
+    "claim": "Former Rep. Doug Lamborn: 'in a normal election year, Jeff would have prevailed, but there was definitely a wind to the backs of every single Democrat.'",
+    "kind": "interpretation",
+    "source": "https://www.coloradopolitics.com/2026/11/05/ap-declares-jessica-killin-winner-in-5th-district-election/"
+   },
+   {
+    "claim": "Former Republican voters interviewed said Crank ran as a moderate but became 'a Trump clone' (voter anecdote).",
+    "kind": "interpretation",
+    "source": "https://www.coloradopolitics.com/2026/11/03/jeff-crank-jessica-killin-colorado-congress-election-results/"
+   }
+  ],
+  "late_polls_winner_ahead": [
+   {
+    "pollster": "Global Strategy Group for Killin campaign (D internal)",
+    "dates": "Mid/late Oct 2026, 500 LV (first reported by Colorado Sun Oct 22; PoliAgg dates it Oct 17)",
+    "result": "Killin 46, Crank 44 (PoliAgg lists the initial ballot as 43-38)",
+    "url": "https://www.kunc.org/news/2026-11-05/jessica-killin-flips-colorados-5th-congressional-district-becomes-first-democrat-to-win"
+   },
+   {
+    "pollster": "Public Policy Polling (PoliAgg lists as D-aligned internal)",
+    "dates": "~Oct 19, 2026, 577 LV",
+    "result": "Killin 47, Crank 47 (tie)",
+    "url": "https://poliagg.com/race/us-house-2026-co-5/"
+   }
+  ],
+  "picked_winner": [
+   {
+    "who": "Sabato's Crystal Ball",
+    "what": "Final rating Lean D",
+    "url": "https://www.270towin.com/2026-house-election/table/crystal-ball-2026-house-forecast"
+   }
+  ],
+  "summary": "Killin flipped a Trump +9 Colorado Springs seat on a 14-point swing, helped by a fundraising edge, the district's long leftward trend and the national wave. Late polls were Democratic internals showing a tie or a 2-point Killin lead. Crystal Ball picked her and Cook and Inside had it Toss-up, so our 26% sat at the R edge of the consensus.",
+  "_notes": "Final ratings source: Final pre-election ratings as mirrored by 270toWin (Split Ticket map updated Nov 2; Crystal Ball, Cook, Inside Elections updated Nov 3, 2026). 2024 presidential margins are from the 'margin_president' field in 270toWin's district data (current lines). NBC's 'shift' is NBC's own computation vs. the 2024 presidential vote."
+ },
+ "NV-2": {
+  "chamber": "house",
+  "result": "Teresa Benitez-Thompson (D) def. David Flippo (R): 50.2% to 44.3% (Independent American Lynn Chapman 5.5%) at ~98% of expected vote (NBC). Open seat (Amodei retired). D flip; first Democrat ever to win the district.",
+  "pres_2024": "Trump +13.9 (270toWin); Nevada Independent: Trump +14. No map change.",
+  "explanations": [
+   {
+    "claim": "NBC results 50.2-44.3; NBC computes a 20.2-point shift toward Democrats vs. 2024 presidential. The Nevada Independent says all four Nevada districts shifted ~20 points vs. Trump's 2024 margin, and the NV-2 shift vs. 2024 House margins was a little bigger.",
+    "kind": "fact",
+    "source": "https://www.nbcnews.com/politics/2026-elections/nevada-us-house-district-2-results"
+   },
+   {
+    "claim": "Flippo, Trump-endorsed, moved to Reno from a Southern Nevada race and beat Amodei's preferred successor in the primary; he failed to file a personal financial disclosure due in May and faced a report that he exaggerated his military record, plus reports on prior job dismissals.",
+    "kind": "fact",
+    "source": "https://thenevadaindependent.com/article/oh-shit-we-won-inside-the-perfect-storm-that-flipped-nevadas-only-gop-house-seat/"
+   },
+   {
+    "claim": "Benitez-Thompson won Washoe County by ~20 points, carried Carson City (first Democrat in a federal race since Obama 2008), improved Democratic rural-county percentages by double digits and outperformed all statewide Democrats in the district's counties; Flippo underperformed every statewide Republican. Gov. Lombardo (R) got a few thousand more votes than Benitez-Thompson in the district (ticket-splitting), and ~19,000 voters left the race blank.",
+    "kind": "fact",
+    "source": "https://thenevadaindependent.com/article/oh-shit-we-won-inside-the-perfect-storm-that-flipped-nevadas-only-gop-house-seat/"
+   },
+   {
+    "claim": "Record outside spending: Invest in Tomorrow Coalition spent $2M against Flippo; DCCC added her to Red to Blue in October and blanketed Reno TV in late October; the Retail Association of Nevada endorsed a Democrat in NV-2 for the first time. Pop-up PACs promoted IAP candidate Chapman to Republicans, but she performed about as she did in 2024.",
+    "kind": "fact",
+    "source": "https://thenevadaindependent.com/article/oh-shit-we-won-inside-the-perfect-storm-that-flipped-nevadas-only-gop-house-seat/"
+   },
+   {
+    "claim": "A private exit poll of 866 early voters (released post-election by GOP strategist Greg Bailor) showed Benitez-Thompson up 56.8-36.8, with only ~3/4 of Republicans backing Flippo and ~1 in 7 backing her.",
+    "kind": "interpretation",
+    "source": "https://thenevadaindependent.com/article/oh-shit-we-won-inside-the-perfect-storm-that-flipped-nevadas-only-gop-house-seat/"
+   },
+   {
+    "claim": "Retiring Rep. Amodei: she was 'better qualified... in people's minds' than Flippo; DCCC: 'This race really exemplifies how much candidate quality matters.' Flippo's consultant argued it was simply 'the worst election in the country' for Republicans in decades.",
+    "kind": "interpretation",
+    "source": "https://thenevadaindependent.com/article/oh-shit-we-won-inside-the-perfect-storm-that-flipped-nevadas-only-gop-house-seat/"
+   }
+  ],
+  "late_polls_winner_ahead": [],
+  "picked_winner": [],
+  "summary": "A classic candidate-quality upset: a polished former Assembly majority leader against a scandal-plagued, carpetbagging Trump pick in an open Trump +14 seat, with record outside money and a 20-point swing. The Nevada Independent documents ticket-splitting (Lombardo ran ahead of her) and GOP defections. No public polls fell in the final three weeks; the last was GBAO (D) Aug 31-Sep 3 at 38-37. No rater picked her (three Lean R, Inside Tilt R).",
+  "_notes": "Final ratings source: Final pre-election ratings as mirrored by 270toWin (Split Ticket map updated Nov 2; Crystal Ball, Cook, Inside Elections updated Nov 3, 2026). 2024 presidential margins are from the 'margin_president' field in 270toWin's district data (current lines). NBC's 'shift' is NBC's own computation vs. the 2024 presidential vote."
+ },
+ "MT-1": {
+  "chamber": "house",
+  "result": "Sam Forstag (D) def. Aaron Flint (R): 50.5% to 46.6% (Libertarian Nick Sheedy 2.9%) per NBC; Montana SoS final tally 132,003 to 122,694. Open seat (Zinke retired). Flint conceded election night; AP called it 10:02 a.m. Nov 5. D flip; first Democrat elected to the U.S. House from western Montana since 1994.",
+  "pres_2024": "Trump +11.5 (270toWin). No map change.",
+  "explanations": [
+   {
+    "claim": "NBC results 50.5-46.6; NBC computes a 15.8-point shift toward Democrats vs. 2024 presidential.",
+    "kind": "fact",
+    "source": "https://www.nbcnews.com/politics/2026-elections/montana-us-house-district-1-results"
+   },
+   {
+    "claim": "Missoula County broke 71-27 and Gallatin 61-37 for Forstag in early returns; Flint led on Flathead County votes.",
+    "kind": "fact",
+    "source": "https://dailymontanan.com/?p=39996"
+   },
+   {
+    "claim": "Mid-October, Fox News and Cook moved the race to Toss-up and Inside to Tilt R; Cook cited heavy spending by House Majority PAC and Trump's MAGA Inc. Trump rallied for Flint in Kalispell on Oct 14; former GOP Gov. Marc Racicot campaigned with Forstag.",
+    "kind": "fact",
+    "source": "https://dailymontanan.com/2026/10/17/analysts-shift-western-montana-congressional-district-to-toss-up-status/"
+   },
+   {
+    "claim": "Forstag, a smokejumper and Forest Service union leader, ran against Forest Service cuts and the One Big Beautiful Bill's Medicaid/SNAP cuts and held 80+ town halls and meet-and-greets.",
+    "kind": "fact",
+    "source": "https://dailymontanan.com/2026/10/17/analysts-shift-western-montana-congressional-district-to-toss-up-status/"
+   },
+   {
+    "claim": "MSU-Billings pollster Hope Gentry said the district was 'very close and people might be likely to split tickets'; the Mountain State Poll found 55% disapproval of U.S. military action in Iran and 65% opposition to new data centers statewide.",
+    "kind": "interpretation",
+    "source": "https://dailymontanan.com/2026/10/29/mountain-state-poll-shows-close-races-for-federal-offices/"
+   }
+  ],
+  "late_polls_winner_ahead": [
+   {
+    "pollster": "Emerson College (for Poll Vault, per aggregators)",
+    "dates": "Oct 12-14, 2026, 329 LV (270toWin lists Oct 22)",
+    "result": "Forstag 50, Flint 46",
+    "url": "https://www.270towin.com/2026-house-polls/montana/district-1"
+   },
+   {
+    "pollster": "Public Policy Polling (PoliAgg lists as D-aligned internal)",
+    "dates": "~Oct 13, 2026, 541 LV",
+    "result": "Forstag 48, Flint 45",
+    "url": "https://poliagg.com/race/us-house-2026-mt-1/"
+   },
+   {
+    "pollster": "MSU-Billings Mountain State Poll",
+    "dates": "October 2026 (released week of Oct 26), not screened for likely voters; district MoE 5.7%",
+    "result": "Forstag 49, Flint 32",
+    "url": "https://dailymontanan.com/2026/10/29/mountain-state-poll-shows-close-races-for-federal-offices/"
+   },
+   {
+    "pollster": "Emerson College",
+    "dates": "Oct 31-Nov 1, 2026, 311 LV (270toWin lists Nov 2)",
+    "result": "Forstag 49, Flint 49 (tie)",
+    "url": "https://www.270towin.com/2026-house-polls/montana/district-1"
+   }
+  ],
+  "picked_winner": [
+   {
+    "who": "Split Ticket",
+    "what": "Final rating Lean D",
+    "url": "https://www.270towin.com/2026-house-election/table/split-ticket-2026-house-ratings"
+   },
+   {
+    "who": "Sabato's Crystal Ball",
+    "what": "Final rating Lean D",
+    "url": "https://www.270towin.com/2026-house-election/table/crystal-ball-2026-house-forecast"
+   }
+  ],
+  "summary": "An open Trump +11.5 seat flipped on a 16-point swing powered by Missoula and Gallatin, with a union smokejumper running against federal land and health cuts. Every poll in the final three weeks had Forstag ahead or tied, including two Emerson polls and MSU-Billings. Split Ticket and Crystal Ball picked him and Cook and Inside had it Toss-up, so our 46% was a near coin-flip consistent with the data.",
+  "_notes": "Final ratings source: Final pre-election ratings as mirrored by 270toWin (Split Ticket map updated Nov 2; Crystal Ball, Cook, Inside Elections updated Nov 3, 2026). 2024 presidential margins are from the 'margin_president' field in 270toWin's district data (current lines). NBC's 'shift' is NBC's own computation vs. the 2024 presidential vote."
+ },
+ "MO-2": {
+  "chamber": "house",
+  "result": "Fred Wellman (D) def. Rep. Ann Wagner (R): 51.1% to 46.2% (Libertarian Brandon Daugherty 2.7%) at ~99% of expected vote (NBC); STLPR/KCUR: 51%-46%. Wagner conceded election night. D flip; first Democrat to win the seat since 1990.",
+  "pres_2024": "Trump +7.9 on the 2022 lines actually used (270toWin); Kyle Kondik: Trump by about 8. Correction to the premise: Missouri did NOT use a new map in 2026. The Trump-backed 2025 map was suspended by a referendum petition (vote on Nov 3), and STLPR/KCUR report the U.S. Supreme Court ruled against using it, so the 2022 lines applied.",
+  "explanations": [
+   {
+    "claim": "NBC results 51.1-46.2; NBC computes a 12.6-point shift toward Democrats vs. 2024 presidential.",
+    "kind": "fact",
+    "source": "https://www.nbcnews.com/politics/2026-elections/missouri-us-house-district-2-results"
+   },
+   {
+    "claim": "Missouri used its 2022 congressional lines; the GOP's 2025 map, which would have been more favorable to Wagner, was not used (referendum and Supreme Court ruling).",
+    "kind": "fact",
+    "source": "https://www.stlpr.org/government-politics-issues/2026-11-03/wellman-topples-wagner-represent-missouris-2nd-congressional-district"
+   },
+   {
+    "claim": "Missouri is using lines approved in 2022 because opponents of the 2025 Trump-backed map gathered enough signatures to force a referendum on Nov 3.",
+    "kind": "fact",
+    "source": "https://www.stlpr.org/government-politics-issues/2026-10-30/missouri-congress-ann-wagner-fred-wellman-race-toss-up"
+   },
+   {
+    "claim": "STLPR/KCUR: Wellman's victory 'may be partly attributed' to the 2022 maps being used, and Wagner's loss came amid a backlash over high gas prices, tariffs and the Iran war.",
+    "kind": "interpretation",
+    "source": "https://www.kcur.org/politics-elections-and-government/2026-11-03/missouri-2nd-district-wellman-wagner-election-results"
+   },
+   {
+    "claim": "Wellman, a MeidasTouch podcast host with a large anti-Trump online following, had union support and ran on workers' rights, ACA subsidies and requiring congressional approval of military action; Wagner's 2026 ads attacked Wellman heavily, unlike in 2022/2024.",
+    "kind": "fact",
+    "source": "https://www.stlpr.org/government-politics-issues/2026-10-30/missouri-congress-ann-wagner-fred-wellman-race-toss-up"
+   },
+   {
+    "claim": "Crystal Ball's Kyle Kondik flagged MO-2 among about six seats that 'could flip if Democrats really kind of blow things out.'",
+    "kind": "interpretation",
+    "source": "https://www.stlpr.org/government-politics-issues/2026-10-30/missouri-congress-ann-wagner-fred-wellman-race-toss-up"
+   }
+  ],
+  "late_polls_winner_ahead": [
+   {
+    "pollster": "Emerson College (for Poll Vault, per aggregators)",
+    "dates": "Oct 12-14, 2026, 401 LV (270toWin lists Oct 22)",
+    "result": "Wellman 51, Wagner 46",
+    "url": "https://www.270towin.com/2026-house-polls/missouri/district-2"
+   },
+   {
+    "pollster": "Public Policy Polling (D-aligned internal)",
+    "dates": "completed ~Oct 19-20, 2026, 631 LV",
+    "result": "Wellman 46, Wagner 45",
+    "url": "https://poliagg.com/race/us-house-2026-mo-2/"
+   },
+   {
+    "pollster": "Emerson College",
+    "dates": "Oct 31-Nov 1, 2026, 415 LV (270toWin lists Nov 2)",
+    "result": "Wellman 50, Wagner 49",
+    "url": "https://www.270towin.com/2026-house-polls/missouri/district-2"
+   }
+  ],
+  "picked_winner": [],
+  "summary": "Wellman flipped a Trump +8 suburban St. Louis seat by 5 points on a 12.6-point swing. Republicans' more favorable 2025 map was never used, so our premise of 'new maps in Missouri' is wrong for this race. Every poll in the final three weeks had Wellman ahead (Emerson twice, PPP), but no final rating picked him: Silver Bulletin flagged it as the most competitive race and Crystal Ball had moved it to Toss-up in October before ending at Lean R.",
+  "_notes": "Silver Bulletin placed MO-2 atop its most-competitive list in late October (STLPR, linking a Wellman campaign Facebook post); Crystal Ball moved it to Toss-up in October (https://centerforpolitics.org/crystalball/2026-rating-changes/) but its final forced-choice rating was Lean R (https://www.270towin.com/2026-house-election/table/crystal-ball-2026-house-forecast). Cook final: Likely R; Inside: Safe R; Split Ticket: Lean R. Final ratings source: Final pre-election ratings as mirrored by 270toWin (Split Ticket map updated Nov 2; Crystal Ball, Cook, Inside Elections updated Nov 3, 2026). 2024 presidential margins are from the 'margin_president' field in 270toWin's district data (current lines). NBC's 'shift' is NBC's own computation vs. the 2024 presidential vote."
+ }
+}

@@ -1,0 +1,620 @@
+[
+ {
+  "chamber": "house",
+  "district": "FL-12",
+  "name": "Kimberly Overman",
+  "party": "D",
+  "winner": "Gus Bilirakis (R)",
+  "incumbent_before": "Gus Bilirakis",
+  "full_name": "Kimberly Overman",
+  "wing": "Progressive",
+  "confidence": "low",
+  "signals": {
+   "economic": "left",
+   "israel": "unknown"
+  },
+  "evidence": "Former Hillsborough County commissioner endorsed by the Democratic Progressive Caucus of Florida and Emgage Action; platform centers housing/transit/child care as infrastructure, abortion rights, climate. No Israel statement found; Emgage backing suggests not pro-Israel-aligned.",
+  "sources": [
+   "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-democratic-progressive-caucus-of-florida-endorses-kimberly-overman/",
+   "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-emgage-action-endorses-kimberly-overman-for-floridas-12th-congressional-district/",
+   "https://www.predictionedge.com/elections/profile/kimberly-overman/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "FL-13",
+  "name": "Leela Gray",
+  "party": "D",
+  "winner": "Anna Paulina Luna (R)",
+  "incumbent_before": "Anna Paulina Luna",
+  "full_name": "Leela Gray",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Retired Army brigadier general backed by EMILY's List and the centrist service-candidate group New Politics; ran on costs (housing, insurance, groceries) and beat state Rep. Michele Rayner in the primary.",
+  "sources": [
+   "https://emilyslist.org/news/emilys-list-endorses-retired-brigadier-general-leela-gray-for-floridas-13th-congressional-district/",
+   "https://www.newpolitics.org/news/new-politics-endorsed-candidate-leela-gray-captures-democratic-nomination-in-floridas-13th-district",
+   "https://www.fox13news.com/news/florida-congressional-race-retired-army-leela-gray-challenges-anna-paulina-luna"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "FL-14",
+  "name": "Mike Beltran",
+  "party": "R",
+  "winner": "Kathy Castor (D)",
+  "incumbent_before": "Kathy Castor",
+  "full_name": "Mike Beltran",
+  "wing": "Nationalist",
+  "confidence": "low",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "restrictionist"
+  },
+  "evidence": "Former FL state rep pitched by Breitbart as a candidate who 'always backed President Trump'; platform says he 'stands 100% with President Trump on immigration', though he scrubbed some Trump branding after the primary. No Ukraine record found.",
+  "sources": [
+   "https://www.washingtonexaminer.com/?p=4706796",
+   "https://www.breitbart.com/politics/2026/06/01/exclusive-poll-citizens-in-fl-14-more-likely-to-support-a-candidate-such-as-mike-beltran-who-always-backed-president-trump/",
+   "https://en.wikipedia.org/wiki/Mike_Beltran"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "FL-15",
+  "name": "Robert People",
+  "party": "D",
+  "winner": "Laurel Lee (R)",
+  "incumbent_before": "Laurel Lee (R)",
+  "full_name": "Robert People",
+  "wing": "Progressive",
+  "confidence": "high",
+  "signals": {
+   "economic": "left",
+   "israel": "critical"
+  },
+  "evidence": "Army veteran whose campaign site lists Medicare for All, corporate accountability, 'No AIPAC' and 'No arms shipments to Israel'; endorsed by the Democratic Progressive Caucus of Florida.",
+  "sources": [
+   "https://peopleforcongress.com",
+   "https://www.predictionedge.com/elections/profile/robert-people/",
+   "https://ballotpedia.org/Robert_People_(Florida)"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "FL-16",
+  "name": "Kelly Kirschner",
+  "party": "D",
+  "winner": "Sydney Gruters (R)",
+  "incumbent_before": "Vern Buchanan",
+  "full_name": "Kelly Kirschner",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Former Sarasota mayor who calls himself a 'moderate Democrat and fiscal conservative'; endorsed by several Republicans including ex-Rep. Dan Miller.",
+  "sources": [
+   "https://www.wgcu.org/elections/2026-10-16/three-very-different-candidates-vying-for-congress-in-florida-district-16",
+   "https://floridaphoenix.com/2026/09/25/race-to-succeed-vern-buchanan-in-cd-16-is-getting-increasingly-interesting/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "FL-17",
+  "name": "Matthew Montavon",
+  "party": "D",
+  "winner": "Greg Steube (R)",
+  "incumbent_before": "Greg Steube (R)",
+  "full_name": "Matthew Montavon",
+  "wing": "Progressive",
+  "confidence": "low",
+  "signals": {
+   "economic": "left",
+   "israel": "unknown"
+  },
+  "evidence": "Prefers a government single-payer health system, wants to end tax breaks for the super-rich, supports reforming or abolishing ICE, co-founded the Suncoast Immigration Justice Coalition. No Israel position found.",
+  "sources": [
+   "https://wslr.org/the-race-for-the-district-17-u-s-house-seat/",
+   "https://www.predictionedge.com/elections/profile/matthew-montavon/",
+   "https://ballotpedia.org/Matthew_Montavon"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "FL-18",
+  "name": "Curtis Gibson",
+  "party": "D",
+  "winner": "Scott Franklin (R)",
+  "incumbent_before": "Scott Franklin (R)",
+  "full_name": "Curtis Gibson",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "economic": "unknown",
+   "israel": "unknown"
+  },
+  "evidence": "Former Lake Wales city commissioner with a thin, local-issue platform (veterans' care, insurance, agriculture); no progressive endorsements or left economic positions found.",
+  "sources": [
+   "https://ballotpedia.org/Curtis_Gibson",
+   "https://www.predictionedge.com/elections/profile/curtis-gibson/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "FL-21",
+  "name": "James Martin",
+  "party": "D",
+  "winner": "Brian Mast (R)",
+  "incumbent_before": "Brian Mast (R)",
+  "full_name": "James Martin",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Coast Guard veteran and former White House national security staffer running on cost of living and clean water; narrowly beat Bernard Taylor in the primary. No progressive-group ties found.",
+  "sources": [
+   "https://cbs12.com/news/florida/james-martin-says-cost-of-living-clean-water-top-priorities-in-challenge-to-brian-mast",
+   "https://ballotpedia.org/James_Martin_(Florida)",
+   "https://podcastrex.com/shows/breaking-the-meta/coast-guard-captain-white-house-national-security-staff-now-running-for-congress-james-martin"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "FL-22",
+  "name": "Casey Askar",
+  "party": "R",
+  "winner": "Pia Dandiya (D)",
+  "incumbent_before": "Lois Frankel",
+  "full_name": "Casey Askar",
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "restrictionist"
+  },
+  "evidence": "Trump- and DeSantis-endorsed businessman also backed by CPAC and Michael Flynn; platform calls for deporting criminal illegal aliens and securing all points of entry, and he proposed renaming I-75 for Trump. No Ukraine statement found.",
+  "sources": [
+   "https://caseyaskar.com",
+   "https://floridianpress.com/2026/08/hold_flynn/",
+   "https://floridianpress.com/2026/07/top-conservative-group-cpac-endorses-proven-conservative-casey-askar-for-congress/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "FL-25",
+  "name": "Scott Singer",
+  "party": "R",
+  "winner": "Jared Moskowitz (D)",
+  "incumbent_before": "Debbie Wasserman Schultz",
+  "full_name": "Scott Singer",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "moderate"
+  },
+  "evidence": "Former Boca Raton mayor and local-government establishment figure endorsed by Rep. Carlos Gimenez (a Ukraine aid supporter) and AG Uthmeier; campaigns on red tape, lower taxes and border security with generic America First language.",
+  "sources": [
+   "https://floridianpress.com/2026/05/congressman-carlos-gimenez-endorses-scott-singer-in-cd-25-bid/",
+   "https://flvoicenews.com/ex-boca-raton-mayor-scott-singer-launches-bid-for-floridas-25th-congressional-district/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "GA-1",
+  "name": "Amanda Hollowell",
+  "party": "D",
+  "winner": "Jim Kingston (R)",
+  "incumbent_before": "Buddy Carter (R)",
+  "full_name": "Amanda Hollowell",
+  "wing": "Progressive",
+  "confidence": "medium",
+  "signals": {
+   "economic": "left",
+   "israel": "unknown"
+  },
+  "evidence": "Color Of Change chief of campaigns endorsed by the Georgia Working Families Party; backs 'Healthcare for All', Medicaid expansion, and taxing the wealthy and corporations. No Israel position found.",
+  "sources": [
+   "https://workingfamilies.org/2026/03/georgia-wfp-announces-2026-primary-endorsements/",
+   "https://www.predictionedge.com/elections/profile/amanda-hollowell/",
+   "https://www.wtoc.com/2026/10/28/amanda-hollowell-outlines-priorities-georgias-1st-congressional-district-race-if-elected-nov-3/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "GA-7",
+  "name": "Anthony Kozycki",
+  "party": "D",
+  "winner": "Rich McCormick (R)",
+  "incumbent_before": "Rich McCormick",
+  "full_name": "Tony (Anthony) Kozycki",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "economic": "unknown",
+   "israel": "unknown"
+  },
+  "evidence": "Navy combat veteran and immigration attorney the AJC says 'doesn't fit neatly' into a political mold; endorsements found are pro-democracy (50501), not progressive-economic groups.",
+  "sources": [
+   "https://www.forsythnews.com/news/politics/immigration-attorney-tony-kozycki-launches-bid-for-georgias-7th-district-seat/",
+   "https://www.ajc.com/politics/2026/10/georgias-7th-district-rich-mccormick/",
+   "https://bluevoterguide.org/GA/candidate_Tony_Kozycki/737358"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "GA-10",
+  "name": "Pamela DeLancy",
+  "party": "D",
+  "winner": "Houston Gaines (R)",
+  "incumbent_before": "Mike Collins (R)",
+  "full_name": "Pamela DeLancy",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Retired Army colonel and nurse whose platform centers health care access and veterans' services; no progressive endorsements or left economic positions found.",
+  "sources": [
+   "https://ballotpedia.org/Pamela_DeLancy",
+   "https://www.predictionedge.com/elections/profile/pamela-delancy/",
+   "https://www.atlantanewsfirst.com/2026/11/04/houston-gaines-jumps-state-house-congress-georgias-10th/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "GA-11",
+  "name": "Chris Harden",
+  "party": "D",
+  "winner": "John Cowan (R)",
+  "incumbent_before": "Barry Loudermilk",
+  "full_name": "Chris Harden",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "economic": "unknown",
+   "israel": "unknown"
+  },
+  "evidence": "Woodstock estate-planning and probate attorney; little policy record found and no progressive-group endorsements.",
+  "sources": [
+   "https://www.atlantanewsfirst.com/2026/06/16/john-cowan-wins-gop-11th-district-runoff-will-face-democrat-chris-harden-this-fall/",
+   "https://www.atlantanewsfirst.com/2026/11/04/cartersville-physician-john-cowan-defeats-chris-harden-succeed-us-rep-barry-loudermilk/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "GA-12",
+  "name": "Ceretta Smith",
+  "party": "D",
+  "winner": "Rick Allen (R)",
+  "incumbent_before": "Rick Allen (R)",
+  "full_name": "Ceretta Smith",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Former Army medic and longtime AFGE union leader (Georgia state council president), Grovetown council member; platform is household costs and property-tax relief, with no M4A/CPC-type positions found.",
+  "sources": [
+   "https://theaugustapress.com/grovetown-city-councils-ceretta-smith-on-the-campaign-for-district-12",
+   "https://www.predictionedge.com/elections/profile/ceretta-smith/",
+   "https://wrdw.com/2026/06/17/ceretta-smith-wins-runoff-democratic-us-house-primary"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "NY-1",
+  "name": "Chris Gallant",
+  "party": "D",
+  "winner": "Nick LaLota (R)",
+  "incumbent_before": "Nick LaLota",
+  "full_name": "Chris Gallant",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Army Guard pilot, firefighter and union leader described as a moderate, 'getting things done' Democrat; endorsed by VoteVets and Pete Buttigieg.",
+  "sources": [
+   "https://gallantny.com/",
+   "https://www.easthamptonstar.com/government/2026115/dems-turn-to-new-face-cd-1",
+   "https://www.predictionedge.com/elections/profile/chris-gallant/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "NY-2",
+  "name": "Patrick Halpin",
+  "party": "D",
+  "winner": "Andrew Garbarino (R)",
+  "incumbent_before": "Andrew Garbarino (R)",
+  "full_name": "Patrick Halpin",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Former Suffolk County executive (1988-91) and establishment Long Island Democrat; campaign focused on attacking Garbarino and the OBBB, with no progressive-group ties found.",
+  "sources": [
+   "https://politicsny.com/2025/07/23/pat-halpin-announces-challenge-to-garbarino-in-house-race/",
+   "https://ballotpedia.org/New_York's_2nd_Congressional_District_election,_2026"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "NY-3",
+  "name": "Mike LiPetri",
+  "party": "R",
+  "winner": "Tom Suozzi (D)",
+  "incumbent_before": "Tom Suozzi",
+  "full_name": "Mike LiPetri",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "restrictionist"
+  },
+  "evidence": "NRCC-backed former assemblyman; platform is pro-police, 'deport those criminals here illegally' while praising legal immigrants, and strongly pro-Israel. Aligns with Trump but reads as Long Island establishment rather than America First populist.",
+  "sources": [
+   "https://mikelipetri.com",
+   "https://wset.com/news/nation-world/republican-mike-lipetri-targets-tom-suozzi-in-new-york-rematch-3rd-congressional-district-midterms-interview-financial-support-voter-id-transgender-athletes-tax-cuts"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "NY-4",
+  "name": "Jeanine Driscoll",
+  "party": "R",
+  "winner": "Laura Gillen (D)",
+  "incumbent_before": "Laura Gillen",
+  "full_name": "Jeanine Driscoll",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown"
+  },
+  "evidence": "Hempstead Town receiver of taxes chosen by the Nassau County GOP machine after D'Esposito declined; NRCC program candidate. Campaign was about the local tax burden.",
+  "sources": [
+   "https://news.ballotpedia.org/2026/08/13/incumbent-gillen-d-and-driscoll-r-to-face-off-in-new-york-swing-district/",
+   "https://longisland.news12.com/nrcc-adds-jeanine-driscoll-to-maga-majority-program-in-challenge-to-rep-laura-gillen"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "NY-19",
+  "name": "Peter Oberacker",
+  "party": "R",
+  "winner": "Josh Riley (D)",
+  "incumbent_before": "Josh Riley",
+  "full_name": "Peter Oberacker",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown"
+  },
+  "evidence": "State senator and agribusiness executive who called himself 'a centrist', said he agrees with Trump only 'when I agree', and urged scaling back the Iran war; backed the OBBB tax provisions. Trump-endorsed.",
+  "sources": [
+   "https://www.wamc.org/news/2026-10-08/ny-19-candidate-peter-oberacker-discusses-issues-at-the-center-of-his-campaign",
+   "https://spectrumlocalnews.com/nys/central-ny/news/2026/06/24/oberacker-wins-gop-nomination-in-ny-19--will-face-rep--josh-riley-in-november"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "NY-21",
+  "name": "Blake Gendebien",
+  "party": "D",
+  "winner": "Anthony Constantino (R)",
+  "incumbent_before": "Elise Stefanik",
+  "full_name": "Blake Gendebien",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "North Country dairy farmer who ran as a moderate and distanced himself from the national party.",
+  "sources": [
+   "https://www.wamc.org/news/2026-11-06/gendebien-concedes-in-ny-21",
+   "https://www.mymalonetelegram.com/top_stories/national-democrats-target-ny-21-as-winnable/article_733f3fdf-850d-5dce-8d3d-e9ece61cb8b4.html"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "NJ-9",
+  "name": "Rosie Pino",
+  "party": "R",
+  "winner": "Nellie Pou (D)",
+  "incumbent_before": "Nellie Pou",
+  "full_name": "Rosie Pino",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "moderate"
+  },
+  "evidence": "Clifton councilwoman and ex-Democrat, daughter of Ecuadorean immigrants; platform covers school choice, energy independence, border security and voter ID. Her Latino group had endorsed Pou in 2024.",
+  "sources": [
+   "https://newjerseyglobe.com/congress/vying-to-unseat-nellie-pou-nj-9-republicans-face-a-stark-choice/",
+   "https://www.insidernj.com/press-release/rosie-pino-declares-candidacy-for-new-jerseys-9th-congressional-district"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "OH-1",
+  "name": "Eric Conroy",
+  "party": "R",
+  "winner": "Greg Landsman (D)",
+  "incumbent_before": "Greg Landsman",
+  "full_name": "Eric Conroy",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "restrictionist"
+  },
+  "evidence": "Former CIA case officer (including in Eastern Europe) and Air Force intel officer; pledges to strengthen the military, invest in defense and be a 'steadfast ally of Israel', alongside border security. Trump-endorsed, but the profile is national-security hawk.",
+  "sources": [
+   "https://ericconroy.com/issues/",
+   "https://www.foxnews.com/politics/former-cia-officer-air-force-veteran-launches-gop-campaign-dem-held-district-ohio",
+   "https://www.dailysignal.com/2026/04/16/trump-makes-endorsement-in-key-house-race/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "OH-5",
+  "name": "Brian Shaver",
+  "party": "D",
+  "winner": "Bob Latta (R)",
+  "incumbent_before": "Bob Latta (R)",
+  "full_name": "Brian Shaver",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Fostoria council president and teacher running on congressional accountability (stock-trading ban, term limits, campaign finance reform); one voter guide lists him as anti-abortion.",
+  "sources": [
+   "https://tiffinohio.net/posts/fostorias-shaver-wins-dem-primary-will-face-latta/",
+   "https://www.amcno.org/assets/Voting_Guide/Final%202026%20Candidates%20Guide.docx",
+   "https://www.cleveland19.com/2026/10/27/incumbent-latta-faces-democrat-shaver-libertarian-veloff-ohios-heavily-republican-5th-district/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "OH-8",
+  "name": "Vanessa Enoch",
+  "party": "D",
+  "winner": "Warren Davidson (R)",
+  "incumbent_before": "Warren Davidson (R)",
+  "full_name": "Vanessa Enoch",
+  "wing": "Progressive",
+  "confidence": "low",
+  "signals": {
+   "economic": "left",
+   "israel": "unknown"
+  },
+  "evidence": "Endorsed by the Ohio Working Families Party; platform frames health care as a human right, attacks tax breaks for the wealthy and income inequality. No Israel position found.",
+  "sources": [
+   "https://enochforcongress.com/issue",
+   "https://www.predictionedge.com/elections/profile/vanessa-enoch/",
+   "https://ballotpedia.org/Vanessa_Enoch"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "OH-9",
+  "name": "Derek Merrin",
+  "party": "R",
+  "winner": "Marcy Kaptur (D)",
+  "incumbent_before": "Marcy Kaptur",
+  "full_name": "Derek Merrin",
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "restrictionist"
+  },
+  "evidence": "Trump called him an 'America First Patriot'; site asks donors to 'pass the America First Agenda' with a 'proven fighter'. In the Ohio House he led the rebel conservative faction against GOP leadership, and his campaign centers on the border.",
+  "sources": [
+   "https://www.presidency.ucsb.edu/documents/truth-social-posts-may-21-2026",
+   "https://derekmerrin.com",
+   "https://www.daytondailynews.com/news/ohio/republican-derek-merrin-launches-bid-for-rematch-against-rep-marcy-kaptur/TFSM5IHP5BAOXFGZXFVCVDZB64/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "OH-13",
+  "name": "Carey Coleman",
+  "party": "R",
+  "winner": "Emilia Sykes (D)",
+  "incumbent_before": "Emilia Sykes",
+  "full_name": "Carey Coleman",
+  "wing": "Nationalist",
+  "confidence": "low",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "restrictionist"
+  },
+  "evidence": "Former WNIR talk-radio host who runs against 'insiders' and 'government overreach' and on border security, and told teachers' unions to 'go to hell'. Anti-establishment populist profile, but no Ukraine or Freedom Caucus record.",
+  "sources": [
+   "https://careycoleman.com",
+   "https://dccc.org/the-case-against-carey-coleman/",
+   "https://www.predictionedge.com/elections/profile/carey-coleman/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "OH-14",
+  "name": "Maria Jukic",
+  "party": "D",
+  "winner": "David Joyce (R)",
+  "incumbent_before": "David Joyce (R)",
+  "full_name": "Maria Eva Jukic",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Attorney and former Euclid council member who pitches herself as a voice for the 'massive middle'; ran as an independent in 2024. No progressive-group ties found.",
+  "sources": [
+   "https://www.wfmj.com/news/local-news/nbc-maria-jukic-wins-democratic-race-for-ohio-s-14th-district/article_0457f098-cd81-4ea1-8eb3-2467c75e2c89.html",
+   "https://goodparty.org/candidate/maria-jukic/us-house-of-representatives-ohio-14th-congressional-district"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "IL-8",
+  "name": "Jennifer Davis",
+  "party": "R",
+  "winner": "Melissa Bean (D)",
+  "incumbent_before": "Raja Krishnamoorthi",
+  "full_name": "Jennifer Davis",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "moderate"
+  },
+  "evidence": "Software entrepreneur (Davisware) and first-time candidate who called affordability the top issue; site section on 'Secure Borders with Immigration Reform'. Endorsed by the Chicago Tribune editorial board in the primary.",
+  "sources": [
+   "https://ballotpedia.org/Jennifer_Davis_(Illinois)",
+   "https://www.aol.com/articles/editorial-8th-congressional-district-melissa-110000140.html",
+   "https://news.wttw.com/node/55057"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "IN-1",
+  "name": "Barb Regnitz",
+  "party": "R",
+  "winner": "Frank Mrvan (D)",
+  "incumbent_before": "Frank Mrvan",
+  "full_name": "Barb Regnitz",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown"
+  },
+  "evidence": "Porter County commissioner and financial planner backed by the NRCC and Maggie's List; priorities are education, national security and affordability, with Trump-echoing border and 'MAHA' lines.",
+  "sources": [
+   "https://indianacapitalchronicle.com/voter-guides/contests/congressional-district-1/",
+   "https://www.aol.com/articles/porter-county-commissioner-barb-regnitz-202300702.html"
+  ]
+ }
+]

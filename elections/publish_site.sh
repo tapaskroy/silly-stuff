@@ -12,6 +12,8 @@ DEST="$REPO/elections/midterms2026"
 mkdir -p "$DEST"
 cp index.html senate.html house.html governors.html "$DEST/"
 [ -f scorecard.html ] && cp scorecard.html "$DEST/"
+[ -f wings.html ] && cp wings.html "$DEST/"  # not in the sheets' nav: reachable only by its URL
+[ -f review.html ] && cp review.html "$DEST/"  # likewise unlinked until reviewed
 aws s3 sync "$DEST/" "s3://$BUCKET/elections/midterms2026/" --delete --cache-control "max-age=300"
 aws cloudfront create-invalidation --distribution-id "$DIST" --paths "/elections/midterms2026/*" --query Invalidation.Id --output text
 echo "https://tapaskroy.me/elections/midterms2026/"

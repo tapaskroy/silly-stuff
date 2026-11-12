@@ -1,0 +1,1211 @@
+[
+ {
+  "district": "MI-1",
+  "name": "Jack Bergman",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted for both 2021 electoral objections and against H.R. 8035 (2024), but voted against both 2025 Greene amendments to bar Ukraine funding (rolls 209, 255); not in Freedom Caucus or Main Street. Mixed record, placed Mainstream.",
+  "sources": [
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2025/roll255.xml",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+  ]
+ },
+ {
+  "district": "MI-2",
+  "name": "John Moolenaar",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "baseline",
+   "caucuses": [
+    "Main Street Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Main Street Caucus member; voted against 2021 objections; voted no on H.R. 8035 (2024) but against both 2025 amendments to bar Ukraine funding. Chairs China select committee (China-focused trade hawk).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Main_Street_Caucus",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2025/roll255.xml",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+  ]
+ },
+ {
+  "district": "MI-3",
+  "name": "Hillary Scholten",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition",
+    "Problem Solvers Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "New Democrat and Problem Solvers member; voted for H.R. 8034 Israel aid (2024) and against the July 2026 Massie amendment to eliminate Israel FMF (roll 243).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://en.wikipedia.org/wiki/Problem_Solvers_Caucus",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+  ]
+ },
+ {
+  "district": "MI-4",
+  "name": "Sean McCann",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Gretchen Whitmer",
+    "Elissa Slotkin",
+    "Suzan DelBene",
+    "Greg Stanton",
+    "Hillary Scholten",
+    "DCCC Red to Blue",
+    "AFL-CIO/UAW"
+   ]
+  },
+  "evidence": "Newcomer (state senator) who defeated incumbent Bill Huizenga (R). Primary backers were New Democrat-aligned figures (DelBene, Stanton, Scholten), Slotkin and DCCC; no progressive-group endorsements found.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+  ]
+ },
+ {
+  "district": "MI-5",
+  "name": "Tim Walberg",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted for both 2021 objections and against H.R. 8035 (2024), but against both 2025 amendments to bar Ukraine funding; not in Freedom Caucus. Mixed record, placed Mainstream.",
+  "sources": [
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2025/roll255.xml",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+  ]
+ },
+ {
+  "district": "MI-6",
+  "name": "Debbie Dingell",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [
+    "Congressional Progressive Caucus",
+    "Problem Solvers Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member and lead cosponsor (with Jayapal) of the Medicare for All Act H.R. 3069; did not vote on H.R. 8034 (2024) or the 2026 Massie Israel-aid amendment. Borderline: also a Problem Solvers member.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://en.wikipedia.org/wiki/Problem_Solvers_Caucus",
+   "https://www.govinfo.gov/content/pkg/BILLS-119hr3069ih/html/BILLS-119hr3069ih.htm",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml"
+  ]
+ },
+ {
+  "district": "MI-7",
+  "name": "William \"Will\" Lawrence",
+  "party": "D",
+  "returning": false,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [],
+   "key_endorsements": [
+    "Bernie Sanders",
+    "Greg Casar",
+    "Congressional Progressive Caucus",
+    "Our Revolution",
+    "Sunrise Movement (co-founder)",
+    "Working Families Party",
+    "Track AIPAC"
+   ]
+  },
+  "evidence": "Newcomer (Sunrise Movement co-founder) who defeated incumbent Tom Barrett (R); endorsed by Sanders, CPC, WFP, Our Revolution and Track AIPAC. Name listed as 'William Lawrence' is correct (goes by Will).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+  ]
+ },
+ {
+  "district": "MI-8",
+  "name": "Kristen McDonald Rivet",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "New Democrat member; voted against the July 2026 Massie amendment to eliminate Israel FMF (roll 243); DW-NOMINATE near the caucus center-right.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://clerk.house.gov/evs/2026/roll243.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv"
+  ]
+ },
+ {
+  "district": "MI-9",
+  "name": "Lisa McClain",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "baseline",
+   "caucuses": [
+    "Main Street Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "House GOP Conference Chair and Main Street member; voted for 2021 objections and against H.R. 8035, but against both 2025 amendments to bar Ukraine funding.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Main_Street_Caucus",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2025/roll255.xml"
+  ]
+ },
+ {
+  "district": "MI-10",
+  "name": "Christina Hines",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": [
+    "Democratic Majority for Israel",
+    "Jewish Democratic Council of America",
+    "EMILY's List",
+    "Southeast Michigan Chamber of Commerce",
+    "DCCC Red to Blue"
+   ]
+  },
+  "evidence": "Newcomer who won the open seat (John James ran for governor); endorsed by DMFI, JDCA and a chamber of commerce.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+  ]
+ },
+ {
+  "district": "MI-11",
+  "name": "Jeremy Moss",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": [
+    "Democratic Majority for Israel",
+    "Jewish Democratic Council of America",
+    "Gretchen Whitmer",
+    "Ritchie Torres",
+    "Detroit Regional Chamber PAC"
+   ]
+  },
+  "evidence": "Newcomer (state senator) in open seat vacated by Haley Stevens; endorsed by DMFI, JDCA, Ritchie Torres and the Detroit Regional Chamber.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+  ]
+ },
+ {
+  "district": "MI-12",
+  "name": "Rashida Tlaib",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "Metro Detroit DSA"
+   ]
+  },
+  "evidence": "CPC member, Medicare for All cosponsor; voted against H.R. 8034 (2024) and for the 2026 Massie amendment to eliminate Israel FMF.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://www.govinfo.gov/content/pkg/BILLS-119hr3069ih/html/BILLS-119hr3069ih.htm",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+  ]
+ },
+ {
+  "district": "MI-13",
+  "name": "Donavan McKinney",
+  "party": "D",
+  "returning": false,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [],
+   "key_endorsements": [
+    "Justice Democrats",
+    "Democratic Socialists of America",
+    "Bernie Sanders",
+    "Congressional Progressive Caucus",
+    "Working Families Party",
+    "Our Revolution",
+    "Sunrise Movement",
+    "Track AIPAC"
+   ]
+  },
+  "evidence": "Newcomer who defeated incumbent Shri Thanedar in the primary; endorsed by Justice Democrats, DSA, Sanders, CPC, WFP and Sunrise.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+  ]
+ },
+ {
+  "district": "MN-2",
+  "name": "Matt Little",
+  "party": "D",
+  "returning": false,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Congressional Progressive Caucus",
+    "Greg Casar",
+    "Our Revolution",
+    "Leaders We Deserve"
+   ]
+  },
+  "evidence": "Newcomer in open seat (Angie Craig ran for Senate); endorsed by CPC and Our Revolution, and backed Medicare for All in primary forums. No Israel position found.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota",
+   "https://kdhnews.com/news/politics/progressive-matt-little-wins-democratic-primary-to-replace-rep-angie-craig/article_ec4192b6-ec9d-5f5a-8ba7-070703c74295.html",
+   "https://minnesotareformer.com/2026/10/20/little-pratt-vie-for-craigs-open-seat-in-south-suburban-swing-district/"
+  ]
+ },
+ {
+  "district": "MN-3",
+  "name": "Kelly Morrison",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "mixed",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "New Democrat member, not a Medicare for All cosponsor; voted 'present' on the 2026 Massie amendment to eliminate Israel FMF.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://www.govinfo.gov/content/pkg/BILLS-119hr3069ih/html/BILLS-119hr3069ih.htm",
+   "https://clerk.house.gov/evs/2026/roll243.xml"
+  ]
+ },
+ {
+  "district": "MN-4",
+  "name": "Betty McCollum",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Original cosponsor of Medicare for All (H.R. 3069) and sponsor of the bill limiting Israel's use of U.S. aid against Palestinian children (opposed by AIPAC); voted for H.R. 8034 (2024) and 'present' on the 2026 Massie amendment. Borderline: not on the current CPC roster; DW-NOMINATE near caucus median.",
+  "sources": [
+   "https://www.govinfo.gov/content/pkg/BILLS-119hr3069ih/html/BILLS-119hr3069ih.htm",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml",
+   "https://www.jns.org/aipac-blasts-bill-proposed-by-minnesota-rep-mccollum-to-condition-us-aid-to-israel/",
+   "https://voteview.com/static/data/out/members/H119_members.csv"
+  ]
+ },
+ {
+  "district": "MN-5",
+  "name": "Ilhan Omar",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member, Medicare for All cosponsor; voted against H.R. 8034 (2024) and for the 2026 Massie amendment to eliminate Israel FMF.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://www.govinfo.gov/content/pkg/BILLS-119hr3069ih/html/BILLS-119hr3069ih.htm",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml"
+  ]
+ },
+ {
+  "district": "MN-6",
+  "name": "Tom Emmer",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [
+    "Main Street Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Majority Whip and Main Street member; voted against 2021 objections, for H.R. 8035 (2024), and against both 2025 amendments to bar Ukraine funding.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Main_Street_Caucus",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2025/roll255.xml"
+  ]
+ },
+ {
+  "district": "MN-7",
+  "name": "Michelle Fischbach",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted for both 2021 objections, against H.R. 8035 (2024), and for both 2025 Greene amendments to bar Ukraine funding (among 60-76 Republicans).",
+  "sources": [
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2025/roll255.xml"
+  ]
+ },
+ {
+  "district": "MN-8",
+  "name": "Pete Stauber",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [
+    "Main Street Caucus",
+    "Republican Governance Group"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Voted against H.R. 8035 (2024) and for both 2025 amendments to bar Ukraine funding; did not object in 2021. Borderline: Main Street and Republican Governance Group member, DW-NOMINATE in moderate quarter of the GOP.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Main_Street_Caucus",
+   "https://en.wikipedia.org/wiki/Republican_Governance_Group",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2025/roll255.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv"
+  ]
+ },
+ {
+  "district": "MO-1",
+  "name": "Wesley Bell",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": [
+    "AIPAC / United Democracy Project (2024)"
+   ]
+  },
+  "evidence": "Original Medicare for All cosponsor (left economic signal), but won his seat in 2024 with heavy United Democracy Project (AIPAC) spending and voted against the 2026 Massie amendment to eliminate Israel FMF; Mainstream per the Israel rule.",
+  "sources": [
+   "https://www.govinfo.gov/content/pkg/BILLS-119hr3069ih/html/BILLS-119hr3069ih.htm",
+   "https://clerk.house.gov/evs/2026/roll243.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv"
+  ]
+ },
+ {
+  "district": "MO-2",
+  "name": "Fred Wellman",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "VoteVets",
+    "Missouri AFL-CIO",
+    "Eugene Vindman",
+    "Reproductive Freedom for All"
+   ]
+  },
+  "evidence": "Newcomer (Army veteran, podcast host) who defeated incumbent Ann Wagner (R); ran on costs, health care and veterans, endorsed by VoteVets and Vindman. No progressive-group endorsements found; evidence thin.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri",
+   "https://www.stlpr.org/government-politics-issues/2026-11-03/wellman-topples-wagner-represent-missouris-2nd-congressional-district"
+  ]
+ },
+ {
+  "district": "MO-3",
+  "name": "Bob Onder",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "First elected 2024; voted for both 2025 Greene amendments to bar Ukraine funding; DW-NOMINATE in the most conservative ~10% of the GOP.",
+  "sources": [
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2025/roll255.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv"
+  ]
+ },
+ {
+  "district": "MO-4",
+  "name": "Mark Alford",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted against H.R. 8035 (2024) and for the 2025 NDAA amendment to bar Ukraine funding (roll 255), but against the 2025 appropriations version (roll 209). Mixed record.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2025/roll255.xml"
+  ]
+ },
+ {
+  "district": "MO-5",
+  "name": "Emanuel Cleaver",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Original Medicare for All cosponsor (left economic signal); not on CPC roster; voted for H.R. 8034 (2024) and against the 2026 Massie amendment to eliminate Israel FMF; Mainstream per the Israel rule.",
+  "sources": [
+   "https://www.govinfo.gov/content/pkg/BILLS-119hr3069ih/html/BILLS-119hr3069ih.htm",
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml"
+  ]
+ },
+ {
+  "district": "MO-6",
+  "name": "Chris Stigall",
+  "party": "R",
+  "returning": false,
+  "wing": "Nationalist",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Sam Graves",
+    "Catherine Hanaway"
+   ]
+  },
+  "evidence": "Newcomer (talk-radio host) in open seat vacated by Sam Graves; campaigned on backing Trump's agenda, supports Trump tariffs and the SAVE Act, backed the Iran strikes. Not endorsed by Trump in the primary. Evidence thin.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri",
+   "https://www.stlpr.org/podcast/politically-speaking/2026-06-30/stigall-hoping-to-follow-graves-in-north-missouri-based-6th-congressional-district",
+   "https://www.kcur.org/politics-elections-and-government/2026-10-06/missouri-6th-congressional-district-candidates-voter-guide-stigall-smead-maidment"
+  ]
+ },
+ {
+  "district": "MO-7",
+  "name": "Eric Burlison",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [
+    "Freedom Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Freedom Caucus member; voted against H.R. 8035 (2024) and for both 2025 amendments to bar Ukraine funding.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Freedom_Caucus",
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2025/roll255.xml"
+  ]
+ },
+ {
+  "district": "MO-8",
+  "name": "Jason Smith",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Ways and Means chair; voted for both 2021 objections, against H.R. 8035 (2024), and for both 2025 amendments to bar Ukraine funding.",
+  "sources": [
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2025/roll255.xml"
+  ]
+ },
+ {
+  "district": "MS-1",
+  "name": "Trent Kelly",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted for both 2021 objections and against H.R. 8035 (2024), but against both 2025 amendments to bar Ukraine funding. Mixed record.",
+  "sources": [
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2025/roll255.xml"
+  ]
+ },
+ {
+  "district": "MS-2",
+  "name": "Bennie Thompson",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Original Medicare for All cosponsor; DW-NOMINATE in the leftmost ~10% of the 119th Democratic caucus; voted against H.R. 8034 (2024) and for the 2026 Massie amendment. Borderline: not a CPC member.",
+  "sources": [
+   "https://www.govinfo.gov/content/pkg/BILLS-119hr3069ih/html/BILLS-119hr3069ih.htm",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml"
+  ]
+ },
+ {
+  "district": "MS-3",
+  "name": "Michael Guest",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [
+    "Main Street Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Voted for both 2021 objections, against H.R. 8035, and for the 2025 appropriations amendment to bar Ukraine funds (roll 209) but against the NDAA version (roll 255). Borderline: Main Street member.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Main_Street_Caucus",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2025/roll255.xml"
+  ]
+ },
+ {
+  "district": "MS-4",
+  "name": "Mike Ezell",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted against H.R. 8035 (2024) and for the 2025 appropriations amendment to bar Ukraine funds (roll 209) but against the NDAA version (roll 255). Little other evidence.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2025/roll255.xml"
+  ]
+ },
+ {
+  "district": "MT-1",
+  "name": "Sam Forstag",
+  "party": "D",
+  "returning": false,
+  "wing": "Progressive",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Bernie Sanders",
+    "Alexandria Ocasio-Cortez",
+    "Greg Casar",
+    "Congressional Progressive Caucus PAC",
+    "Our Revolution",
+    "Blue Dog PAC (general)",
+    "J Street (general)"
+   ]
+  },
+  "evidence": "Newcomer who flipped the open seat (Ryan Zinke did not run); primary backers were Sanders, AOC and CPC PAC, platform includes expanding Social Security and lifting the payroll-tax cap. Borderline: Blue Dog PAC also endorsed him in the general, and he has described support for a Medicare buy-in rather than single payer.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Montana",
+   "https://projects.montanafreepress.org/election-guide-2026/candidates/sam-forstag/"
+  ]
+ },
+ {
+  "district": "MT-2",
+  "name": "Troy Downing",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "unknown",
+   "caucuses": [
+    "Main Street Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "First elected 2024; Main Street member; voted against both 2025 amendments to bar Ukraine funding. ",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Main_Street_Caucus",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2025/roll255.xml"
+  ]
+ },
+ {
+  "district": "NC-1",
+  "name": "Don Davis",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "Blue Dog Coalition",
+    "Problem Solvers Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Blue Dog and Problem Solvers member; voted for H.R. 8034 (2024); did not vote on the 2026 Massie amendment.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Blue_Dog_Coalition",
+   "https://en.wikipedia.org/wiki/Problem_Solvers_Caucus",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml"
+  ]
+ },
+ {
+  "district": "NC-2",
+  "name": "Deborah Ross",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "mixed",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Not a CPC member or Medicare for All cosponsor; voted for H.R. 8034 (2024) but for the 2026 Massie amendment to eliminate Israel FMF.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://www.govinfo.gov/content/pkg/BILLS-119hr3069ih/html/BILLS-119hr3069ih.htm",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml"
+  ]
+ },
+ {
+  "district": "NC-4",
+  "name": "Valerie Foushee",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus",
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member and Medicare for All cosponsor; cosponsored the Block the Bombs Act, refused AIPAC money in 2026 and voted for the 2026 Massie amendment. Borderline: AIPAC/UDP spent $2.1M for her in 2022, she voted for H.R. 8034, and she is also a New Democrat member.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://www.govinfo.gov/content/pkg/BILLS-119hr3069ih/html/BILLS-119hr3069ih.htm",
+   "https://clerk.house.gov/evs/2026/roll243.xml",
+   "https://indyweek.com/news/valerie-foushee-aipac-money-2026/"
+  ]
+ },
+ {
+  "district": "NC-6",
+  "name": "Cyril Jefferson",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Vote Common Good"
+   ]
+  },
+  "evidence": "Newcomer (High Point mayor) who defeated incumbent Addison McDowell (R); platform on affordability, public safety and border security. No progressive-group endorsements found; evidence thin.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+   "https://www.cyrilforcongress.com/issues"
+  ]
+ },
+ {
+  "district": "NC-8",
+  "name": "Mark Harris",
+  "party": "R",
+  "returning": true,
+  "wing": "Nationalist",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "opposed",
+   "immigration": "unknown",
+   "caucuses": [
+    "Freedom Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "First elected 2024; Freedom Caucus member; voted for both 2025 amendments to bar Ukraine funding; DW-NOMINATE in the most conservative ~5% of the GOP; former Baptist pastor.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Freedom_Caucus",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2025/roll255.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv"
+  ]
+ },
+ {
+  "district": "NC-9",
+  "name": "Richard Ojeda",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "economic": "unknown",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "NC Democratic Party Progressive Caucus",
+    "AFL-CIO/UAW/CWA",
+    "Patriotic Millionaires",
+    "Progressive Victory"
+   ]
+  },
+  "evidence": "Newcomer (ex-West Virginia state senator) who defeated incumbent Richard Hudson (R). Economic-populist, union-backed campaign; sources conflict on Medicare for All support and no national progressive-group endorsements found. Borderline; evidence thin.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+   "https://www.wfae.org/2026-11-04/richard-ojeda-defeats-republican-hudson-9th-district",
+   "https://www.predictionedge.com/elections/profile/richard-ojeda/"
+  ]
+ },
+ {
+  "district": "NC-11",
+  "name": "Jamie Ager",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Blue Dog PAC",
+    "NewDem Action Fund"
+   ]
+  },
+  "evidence": "Newcomer (farmer) who defeated incumbent Chuck Edwards (R); endorsed by Blue Dog PAC and NewDem Action Fund.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
+  ]
+ },
+ {
+  "district": "NC-12",
+  "name": "Alma Adams",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "supports",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member and Medicare for All cosponsor (left economic program), but voted for H.R. 8034 (2024) and against the 2026 Massie amendment to eliminate Israel FMF (98 Democrats voted no); Mainstream per the Israel rule.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://www.govinfo.gov/content/pkg/BILLS-119hr3069ih/html/BILLS-119hr3069ih.htm",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://clerk.house.gov/evs/2026/roll243.xml",
+   "https://www.wfae.org/politics/2026-10-13/rep-alma-adams-scolds-opponent-jack-codiga-at-forum-in-dispute-over-israel"
+  ]
+ },
+ {
+  "district": "NC-13",
+  "name": "Paul Barringer",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Blue Dog PAC",
+    "Adam Gray"
+   ]
+  },
+  "evidence": "Newcomer (attorney) who defeated incumbent Brad Knott (R); endorsed by Blue Dog PAC.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
+  ]
+ },
+ {
+  "district": "NC-14",
+  "name": "LaKesha Womack",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "low",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Collective PAC"
+   ]
+  },
+  "evidence": "Newcomer who defeated incumbent Tim Moore (R); platform on affordability, rural hospitals and public education; no progressive-group endorsements found. Evidence thin. Spelled 'Lakesha' in some sources.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+   "https://www.wfae.org/politics/2026-10-29/meet-lakesha-womack-the-first-time-candidate-challenging-tim-moore"
+  ]
+ },
+ {
+  "district": "ND-AL",
+  "name": "Julie Fedorchak",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "unknown",
+   "caucuses": [
+    "Main Street Caucus",
+    "Republican Governance Group"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "First elected 2024; Main Street and Republican Governance Group member; voted against both 2025 amendments to bar Ukraine funding.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Main_Street_Caucus",
+   "https://en.wikipedia.org/wiki/Republican_Governance_Group",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2025/roll255.xml",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_North_Dakota"
+  ]
+ },
+ {
+  "district": "NE-1",
+  "name": "Mike Flood",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [
+    "Main Street Caucus (chair)"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Main Street Caucus chair; voted for H.R. 8035 (2024) and against both 2025 amendments to bar Ukraine funding.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Main_Street_Caucus",
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2025/roll255.xml"
+  ]
+ },
+ {
+  "district": "NE-2",
+  "name": "Denise Powell",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "NewDem Action Fund",
+    "CHC BOLD PAC"
+   ]
+  },
+  "evidence": "Newcomer in open seat vacated by Don Bacon (R); endorsed by NewDem Action Fund and CHC BOLD PAC.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nebraska"
+  ]
+ },
+ {
+  "district": "NE-3",
+  "name": "Adrian Smith",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": []
+  },
+  "evidence": "Voted for both 2021 objections but for H.R. 8035 (2024) and against both 2025 amendments to bar Ukraine funding; senior Ways and Means trade member.",
+  "sources": [
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml",
+   "https://clerk.house.gov/evs/2025/roll255.xml"
+  ]
+ },
+ {
+  "district": "NH-1",
+  "name": "Stefany Shaheen",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "NewDem Action Fund",
+    "J Street"
+   ]
+  },
+  "evidence": "Newcomer in open seat vacated by Chris Pappas (ran for Senate); endorsed by NewDem Action Fund and J Street.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Hampshire"
+  ]
+ },
+ {
+  "district": "NH-2",
+  "name": "Maggie Goodlander",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "mixed",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": [
+    "AIPAC (endorsee per Jewish Insider)"
+   ]
+  },
+  "evidence": "New Democrat member, not a Medicare for All cosponsor; voted for the 2026 Massie amendment to eliminate Israel FMF despite AIPAC endorsement.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://www.govinfo.gov/content/pkg/BILLS-119hr3069ih/html/BILLS-119hr3069ih.htm",
+   "https://clerk.house.gov/evs/2026/roll243.xml",
+   "https://jewishinsider.com/2026/07/aipac-ends-fundraising-for-endorsees-who-voted-to-end-israel-aid/"
+  ]
+ }
+]

@@ -1,0 +1,249 @@
+[
+ {
+  "chamber": "house",
+  "district": "CA-48",
+  "name": "Jim Desmond",
+  "party": "R",
+  "winner": "Marni von Wilpert (D)",
+  "incumbent_before": "Darrell Issa",
+  "full_name": "Jim Desmond",
+  "wing": "Nationalist",
+  "confidence": "low",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "restrictionist"
+  },
+  "evidence": "San Diego County supervisor who made border/illegal immigration a signature theme (called San Diego sector the 'new epicenter' of illegal immigration, attacked the county's sanctuary/anti-ICE-cooperation policy as 'radical'); Trump-endorsed, also Issa-endorsed. No Ukraine record found; one voter guide oddly lists an ICE-tactics resolution, so evidence is mixed.",
+  "sources": [
+   "https://thenationaldesk.com/news/americas-news-now/california-lawmaker-slams-sanctuary-resolution-that-stonewalls-ice-direct-betrayal-san-diego-county-supervisor-jim-desmond-immigration-and-customs-enforcement-donald-trump-white-house-border-illegal-immigrants",
+   "https://voiceofsandiego.org/2026/04/14/trump-endorses-jim-desmond-for-48th-congressional-seat/",
+   "https://guides.vote/guide/2026-california-ca-48-us-house-voters-guide/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "TX-32",
+  "name": "Dan Barrios",
+  "party": "D",
+  "winner": "Jace Yarbrough (R)",
+  "incumbent_before": "Julie Johnson (D)",
+  "full_name": "Dan Barrios",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Richardson city councilman running on families, small business, healthcare costs and redistricting reform; rated a moderate Democrat, no progressive-group endorsements or left-economic platform found.",
+  "sources": [
+   "https://ballotpedia.org/Dan_Barrios",
+   "https://branch.vote/races/2026-texas-general-election-tx-state-us-representative-tx-congressional-32/candidates/dan-barrios",
+   "https://www.predictionedge.com/elections/profile/dan-barrios/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "KY-6",
+  "name": "Ralph Alvarado",
+  "party": "R",
+  "winner": "Zach Dembo (D)",
+  "incumbent_before": "Andy Barr",
+  "full_name": "Ralph Alvarado",
+  "wing": "Nationalist",
+  "confidence": "low",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "restrictionist"
+  },
+  "evidence": "Launched as a self-described America First movement leader pledging to 'stop the invasion at the southern border' and fight the 'woke agenda' (former Bevin running mate); in Aug 2026 rebranded as an independent-minded, bipartisan healthcare candidate and scrubbed Trump/America First references.",
+  "sources": [
+   "https://www.wsls.com/news/politics/2025/07/17/alvarado-kentuckys-first-hispanic-state-legislator-echoes-trump-in-launching-a-congressional-bid/",
+   "https://www.wymt.com/2026/08/26/gop-candidate-kentucky-sixth-congressional-race-rebrands-campaign/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "MI-10",
+  "name": "Michael Bouchard Jr.",
+  "party": "R",
+  "winner": "Christina Hines (D)",
+  "incumbent_before": "John James",
+  "full_name": "Michael Bouchard Jr.",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "moderate"
+  },
+  "evidence": "Army captain/Bronze Star veteran and son of the Oakland County sheriff; platform on border security, energy, hospital price transparency, and criticism of the trade fight with Canada; Trump-endorsed but no nationalist policy signals found.",
+  "sources": [
+   "https://wlos.com/news/nation-world/bronze-star-vet-michael-bouchard-jumps-into-michigan-house-race-after-iraq-return-republican-democrat-midterm-elections-kristina-hines-housing-iran-war-gas-prices-trump-administration",
+   "https://www.michfb.com/about/news-media/michael-bouchard-emphasizes-agriculture-10th-district-congressional-bid",
+   "https://ballotpedia.org/Michael_Bouchard_(Michigan_congressional_candidate)"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "NC-11",
+  "name": "Jennifer Balkcom",
+  "party": "R",
+  "winner": "Jamie Ager (D)",
+  "incumbent_before": "Chuck Edwards",
+  "full_name": "Jennifer Capps Balkcom",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown"
+  },
+  "evidence": "State representative (former Democrat until 2016, mortgage officer) picked by the NC-11 GOP executive committee to replace Chuck Edwards after his withdrawal; conventional conservative state record (citizens-only voting amendment, farmland protection), no Freedom Caucus or America First signals.",
+  "sources": [
+   "https://www.wunc.org/2026-08-10/state-rep-jennifer-balkcom-to-replace-rep-chuck-edwards-on-nc-11-ballot",
+   "https://en.wikipedia.org/wiki/Jennifer_Balkcom",
+   "https://ballotpedia.org/Jennifer_Capps_Balkcom"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "SC-1",
+  "name": "Jenny Costa Honeycutt",
+  "party": "R",
+  "winner": "Nancy Lacore (D)",
+  "incumbent_before": "Nancy Mace",
+  "full_name": "Jenny Costa Honeycutt",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "moderate"
+  },
+  "evidence": "Charleston County councilwoman and construction attorney who called herself non-polarizing and beat the harder-right state Rep. Mark Smith in the runoff (he attacked her county tax vote); supports a balanced-budget amendment and 287(g); Trump endorsed her as 'America First' only after the runoff.",
+  "sources": [
+   "https://scdailygazette.com/2026/06/23/retired-navy-admiral-charleston-attorney-advance-in-scs-1st-district-contest/",
+   "https://abcnews4.com/news/local/trump-breaks-silence-endorses-jenny-costa-honeycutt-in-scs-1st-congressional-district-nancy-lacore-south-carlina-democrat-republican-politics"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "TN-9",
+  "name": "Justin J. Pearson",
+  "party": "D",
+  "winner": "Brent Taylor (R)",
+  "incumbent_before": "Steve Cohen",
+  "full_name": "Justin J. Pearson",
+  "wing": "Progressive",
+  "confidence": "high",
+  "signals": {
+   "economic": "left",
+   "israel": "critical"
+  },
+  "evidence": "Tennessee Three state rep backed by Justice Democrats and Leaders We Deserve, running on Medicare for All and living wages; ousted pro-Israel Rep. Steve Cohen and opposed sending 'billions in bombs' overseas.",
+  "sources": [
+   "https://www.thenation.com/article/politics/justin-pearson-tennessee-ninth-congressional-district/",
+   "https://thegrio.com/2026/11/03/justin-j-pearson-is-defeated-by-brent-taylor-in-tennessees-9th-congressional-district-race/",
+   "https://en.wikipedia.org/wiki/Justin_J._Pearson"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "AZ-1",
+  "name": "Jay Feely",
+  "party": "R",
+  "winner": "Amish Shah (D)",
+  "incumbent_before": "David Schweikert",
+  "full_name": "Thomas \"Jay\" Feely IV",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "moderate"
+  },
+  "evidence": "Ex-NFL kicker, Trump-aligned (backs the Iran war, Trump enforcement) but favors streamlined/easier legal immigration and calls for ending tariffs; business-conservative tax/regulation platform, no Ukraine stance found.",
+  "sources": [
+   "https://www.predictionedge.com/elections/profile/jay-feely/",
+   "https://guides.vote/?p=5721",
+   "https://www.azfamily.com/2026/04/24/former-cardinals-kicker-jay-feely-runs-competitive-arizona-congressional-seat/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "NV-2",
+  "name": "David Flippo",
+  "party": "R",
+  "winner": "Teresa Benitez-Thompson (D)",
+  "incumbent_before": "Mark Amodei",
+  "full_name": "David Flippo",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown"
+  },
+  "evidence": "Retired Air Force Lt. Col., Trump-endorsed, campaigned on mining, water rights, fuel prices and affordability while pledging to back Trump's agenda; no distinct nationalist policy themes found (campaign dogged by military-record and carpetbagging issues).",
+  "sources": [
+   "https://www.kolotv.com/2026/06/10/trump-backed-david-flippo-wins-republican-primary-nevadas-2nd-congressional-district/",
+   "https://www.hppr.org/npr-news/2026-10-07/carpetbagger-allegation-misplaced-valor-make-nevadas-safe-red-house-seat-competitive"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "MT-1",
+  "name": "Aaron Flint",
+  "party": "R",
+  "winner": "Sam Forstag (D)",
+  "incumbent_before": "Ryan Zinke",
+  "full_name": "Aaron Flint",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown"
+  },
+  "evidence": "Conservative talk-radio host and former Zinke state director/Gianforte campaign aide, backed by Trump, Speaker Johnson, Gianforte and the NRCC; platform on housing regulation, trades and timber; raises talk-radio themes (Epstein, trans athletes, immigration) but no Ukraine or Freedom Caucus signals.",
+  "sources": [
+   "https://montanafreepress.org/2026/04/13/in-montanas-western-district-aaron-flint-is-the-talked-up-candidate-for-congress/",
+   "https://www.kulr8.com/montana/conservative-radio-host-aaron-flint-to-run-for-congress-in-montanas-first-district/article_ee0ccfea-0e1f-5164-ba09-ad9fb3d9cda6.html"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "IA-2",
+  "name": "Joe Mitchell",
+  "party": "R",
+  "winner": "Lindsay James (D)",
+  "incumbent_before": "Ashley Hinson",
+  "full_name": "Joe Mitchell",
+  "wing": "Nationalist",
+  "confidence": "low",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown"
+  },
+  "evidence": "Former state rep who worked in the Trump administration; calls the GOP's future 'an America First party', runs an anti-establishment anti-corruption platform (term limits, stock-trading ban, no corporate PAC money) and opposes 'endless wars'.",
+  "sources": [
+   "https://www.wgcu.org/2026-11-01/how-gen-z-republicans-running-for-congress-are-thinking-about-the-future-of-the-party",
+   "https://kcrg.com/2026/06/02/iowa-republicans-face-off-second-congressional-district-primary/"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "NE-2",
+  "name": "Brinker Harding",
+  "party": "R",
+  "winner": "Denise Powell (D)",
+  "incumbent_before": "Don Bacon",
+  "full_name": "Brinker Harding",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "unknown"
+  },
+  "evidence": "Omaha city council VP and businessman running to succeed Don Bacon on Omaha's balanced-budget/low-crime record, endorsed by Sen. Deb Fischer (and later Trump); framed the race as 'normal vs. crazy'.",
+  "sources": [
+   "https://nebraskaexaminer.com/?p=31347",
+   "https://www.clayandbuck.com/brinker-harding",
+   "https://www.wowt.com/2026/08/11/election-2026-endorsements-spending-candidate-focus-district-2/"
+  ]
+ }
+]

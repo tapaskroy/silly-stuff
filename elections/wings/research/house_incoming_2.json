@@ -1,0 +1,1583 @@
+[
+ {
+  "district": "CA-1",
+  "name": "Mike McGuire",
+  "party": "D",
+  "returning": false,
+  "wing": "Progressive",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [],
+   "key_endorsements": [
+    "Congressional Progressive Caucus PAC (general)",
+    "J Street",
+    "California Labor Federation",
+    "National Nurses United"
+   ]
+  },
+  "evidence": "Former CA Senate President pro Tem; beat Rep. James Gallagher (R, won 2026 special) 55.2-44.8 per SOS count. CPC PAC and Jayapal/Casar/Frost endorsed him after the primary, but his legislative profile is leadership/establishment and the primary's left candidate was Audrey Denney; classed Progressive on the CPC endorsement only.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)",
+   "https://api.sos.ca.gov/returns/us-rep/district/1"
+  ]
+ },
+ {
+  "district": "CA-2",
+  "name": "Jared Huffman",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "J Street",
+    "JAC",
+    "Sierra Club"
+   ]
+  },
+  "evidence": "CPC member; DW-NOMINATE -0.432 (36th pct of House Dems, left of median); voted yes on H.R. 8034; J Street/JAC endorsed (an AIPAC listing on Wikipedia is marked citation needed).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)"
+  ]
+ },
+ {
+  "district": "CA-3",
+  "name": "Ami Bera",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": [
+    "J Street PAC",
+    "314 Action"
+   ]
+  },
+  "evidence": "New Democrat Coalition member; DW-NOMINATE -0.247 (85th pct, right of caucus median); voted yes on H.R. 8034.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)"
+  ]
+ },
+ {
+  "district": "CA-4",
+  "name": "Eric Jones",
+  "party": "D",
+  "returning": false,
+  "wing": "Progressive",
+  "confidence": "low",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "Our Revolution",
+    "Center for Biological Diversity Action Fund",
+    "Ro Khanna"
+   ]
+  },
+  "evidence": "Input listed 'Mike Thompson / Eric Jones' (D vs D). Jones leads incumbent Thompson 52.6-47.4 in the SOS count (Nov 7), not yet certified. Our Revolution and Khanna endorsed Jones (a venture capitalist who put in $5M+ of his own money), and he proposes higher corporate taxes and expanded Medicare benefits. He has also courted centrists and Republicans and does not run on Medicare for All, so the evidence is thin. If Thompson wins instead: Mainstream (DW-NOMINATE -0.392, J Street, not CPC).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)",
+   "https://api.sos.ca.gov/returns/us-rep/district/4",
+   "https://calmatters.org/politics/2026/09/california-congressional-race-thompson-jones/"
+  ]
+ },
+ {
+  "district": "CA-5",
+  "name": "Tom McClintock",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "beyond-baseline",
+   "caucuses": [
+    "(former House Freedom Caucus, left 2015)"
+   ],
+   "key_endorsements": [
+    "U.S. Chamber of Commerce",
+    "California Republican Party"
+   ]
+  },
+  "evidence": "Voted yes on H.R. 8035 (Ukraine aid, Apr 2024) and voted against objecting to 2020 electors; libertarian-leaning on trade. Long-time immigration hawk who chairs the Judiciary immigration subcommittee and has DW-NOMINATE 0.671 (80th pct of GOP), hence borderline.",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/Freedom_Caucus",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)",
+   "https://abc7news.com/congress-capitol-building-california-name/9444612"
+  ]
+ },
+ {
+  "district": "CA-6",
+  "name": "Richard Pan",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "mixed",
+   "caucuses": [],
+   "key_endorsements": [
+    "J Street (co-endorsement)",
+    "AFSCME California",
+    "SEIU California",
+    "314 Action"
+   ]
+  },
+  "evidence": "Pediatrician and former state senator; beat Rep. Kevin Kiley (now Independent, redistricted from CA-3) 58.6-41.4. No CPC PAC/Justice Democrats/WFP backing (the CPC PAC endorsed rival Tomlinson in the primary); labor and J Street backed.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)",
+   "https://api.sos.ca.gov/returns/us-rep/district/6"
+  ]
+ },
+ {
+  "district": "CA-7",
+  "name": "Doris Matsui",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": [
+    "League of Conservation Voters",
+    "California Democratic Party",
+    "California Labor Federation (co-endorsement)"
+   ]
+  },
+  "evidence": "Input listed 'Doris Matsui; Mai Vang' (D vs D): Matsui leads 55.7-44.3 in SOS count (Nov 7), not yet certified. Not on the CPC roster; DW-NOMINATE -0.433 (35th pct); voted yes on H.R. 8034. Her opponent Vang was the Justice Democrats/DSA/WFP candidate. If Vang wins: Progressive, high.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)",
+   "https://api.sos.ca.gov/returns/us-rep/district/7",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus"
+  ]
+ },
+ {
+  "district": "CA-8",
+  "name": "John Garamendi",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "J Street PAC",
+    "Council for a Livable World"
+   ]
+  },
+  "evidence": "CPC member; voted no on H.R. 8034 (Israel supplemental). DW-NOMINATE -0.312 (71st pct) is right of caucus median, so confidence medium.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)"
+  ]
+ },
+ {
+  "district": "CA-9",
+  "name": "Josh Harder",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition",
+    "Problem Solvers Caucus"
+   ],
+   "key_endorsements": [
+    "AIPAC",
+    "Democratic Majority for Israel",
+    "JDCA"
+   ]
+  },
+  "evidence": "New Dem and Problem Solvers member; DW-NOMINATE -0.295 (77th pct); AIPAC- and DMFI-endorsed.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://en.wikipedia.org/wiki/Problem_Solvers_Caucus",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)"
+  ]
+ },
+ {
+  "district": "CA-10",
+  "name": "Mark DeSaulnier",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "CAIR Action",
+    "J Street"
+   ]
+  },
+  "evidence": "CPC member; DW-NOMINATE -0.507 (12th pct, left of caucus); voted no on H.R. 8034.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)"
+  ]
+ },
+ {
+  "district": "CA-11",
+  "name": "Scott Wiener",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "mixed",
+   "caucuses": [],
+   "key_endorsements": [
+    "J Street PAC",
+    "Democrats for Education Reform",
+    "GrowSF",
+    "Equality PAC",
+    "California Democratic Party"
+   ]
+  },
+  "evidence": "Input listed 'Scott Wiener; Connie Chan': Wiener won open Pelosi seat 53.8-46.2 (Chan conceded). State senator known for housing-supply/YIMBY bills, backed by DFER, GrowSF and tech donors; the WFP, Our Revolution, PDA and IfNotNow backed Chan. Israel: J Street-backed; shifted on Gaza during the campaign.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)",
+   "https://api.sos.ca.gov/returns/us-rep/district/11",
+   "https://abc7news.com/live-updates/live-california-election-2026-updates-what-voters-need-know-midterms-governors-race-prop-40-bay-area-contests/19969764/entry/20017681/"
+  ]
+ },
+ {
+  "district": "CA-12",
+  "name": "Lateefah Simon",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "California Working Families Party",
+    "Our Revolution",
+    "Progressive Democrats of America",
+    "Track AIPAC",
+    "CAIR Action"
+   ]
+  },
+  "evidence": "Input listed 'Lateefah Simon / Jamie Joyce': Simon re-elected 80.6-19.4. CPC member; DW-NOMINATE -0.603 (3rd pct); WFP and Track AIPAC endorsed.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)",
+   "https://api.sos.ca.gov/returns/us-rep/district/12"
+  ]
+ },
+ {
+  "district": "CA-13",
+  "name": "Adam Gray",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "Blue Dog Coalition",
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": [
+    "AIPAC",
+    "Democratic Majority for Israel",
+    "JDCA",
+    "WelcomePAC"
+   ]
+  },
+  "evidence": "Blue Dog; DW-NOMINATE -0.235 (89th pct); AIPAC/DMFI-endorsed.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Blue_Dog_Coalition",
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)"
+  ]
+ },
+ {
+  "district": "CA-14",
+  "name": "Aisha Wahab",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "Congressional Progressive Caucus PAC",
+    "California Working Families Party",
+    "Our Revolution",
+    "Bernie Sanders",
+    "CAIR Action"
+   ]
+  },
+  "evidence": "Input listed 'Aisha Wahab / Melissa Hernandez': Wahab (incumbent since 2026 special for Swalwell seat, so returning) won 57.5-42.5 over DMFI/New Dem-backed Hernandez. Listed CPC member; CPC PAC, WFP, Sanders endorsed. Too few votes for a DW-NOMINATE score.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)",
+   "https://api.sos.ca.gov/returns/us-rep/district/14",
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus"
+  ]
+ },
+ {
+  "district": "CA-15",
+  "name": "Kevin Mullin",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "supports",
+   "caucuses": [
+    "Congressional Progressive Caucus",
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": [
+    "Democratic Majority for Israel",
+    "JDCA",
+    "J Street"
+   ]
+  },
+  "evidence": "Listed in both CPC and New Dems; DW-NOMINATE -0.479 (19th pct, left). Endorsed by DMFI and voted yes on H.R. 8034, so Mainstream under the Israel rule.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)"
+  ]
+ },
+ {
+  "district": "CA-16",
+  "name": "Sam Liccardo",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "mixed",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": [
+    "Leading the Future",
+    "J Street",
+    "CAIR Action"
+   ]
+  },
+  "evidence": "New Dem; DW-NOMINATE -0.346 (63rd pct); backed by Leading the Future (AI-industry PAC).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)"
+  ]
+ },
+ {
+  "district": "CA-17",
+  "name": "Ro Khanna",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "Justice Democrats",
+    "California Working Families Party",
+    "Track AIPAC",
+    "Progressive Democrats of America"
+   ]
+  },
+  "evidence": "CPC member; voted no on H.R. 8034; Justice Democrats, WFP and Track AIPAC endorsed; DW-NOMINATE -0.458 (26th pct).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)"
+  ]
+ },
+ {
+  "district": "CA-18",
+  "name": "Zoe Lofgren",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "mixed",
+   "caucuses": [],
+   "key_endorsements": [
+    "J Street",
+    "CAIR Action",
+    "Sierra Club"
+   ]
+  },
+  "evidence": "Not on CPC or New Dem rosters; DW-NOMINATE -0.396 (49th pct, caucus median); voted yes on H.R. 8034; no progressive-group endorsements.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)"
+  ]
+ },
+ {
+  "district": "CA-19",
+  "name": "Jimmy Panetta",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition",
+    "Problem Solvers Caucus",
+    "Congressional Progressive Caucus (listed)"
+   ],
+   "key_endorsements": [
+    "AIPAC",
+    "Democratic Majority for Israel",
+    "U.S. Chamber of Commerce"
+   ]
+  },
+  "evidence": "New Dem and Problem Solvers member (also on the CPC list); DW-NOMINATE -0.279 (81st pct); AIPAC/DMFI- and Chamber-endorsed.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://en.wikipedia.org/wiki/Problem_Solvers_Caucus",
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)"
+  ]
+ },
+ {
+  "district": "CA-20",
+  "name": "Vince Fong",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": [
+    "U.S. Chamber of Commerce",
+    "California Republican Party"
+   ]
+  },
+  "evidence": "Sworn in June 2024, after the H.R. 8035 vote. DW-NOMINATE 0.449 (34th pct of GOP, left of party median); Chamber-endorsed; former McCarthy aide. No America First-group backing found.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)"
+  ]
+ },
+ {
+  "district": "CA-21",
+  "name": "Jim Costa",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "Blue Dog Coalition",
+    "New Democrat Coalition",
+    "Problem Solvers Caucus"
+   ],
+   "key_endorsements": [
+    "U.S. Chamber of Commerce"
+   ]
+  },
+  "evidence": "Blue Dog/Problem Solvers; DW-NOMINATE -0.199 (96th pct); Chamber-endorsed; voted yes on H.R. 8034.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Blue_Dog_Coalition",
+   "https://en.wikipedia.org/wiki/Problem_Solvers_Caucus",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)"
+  ]
+ },
+ {
+  "district": "CA-22",
+  "name": "Randy Villegas",
+  "party": "D",
+  "returning": false,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [],
+   "key_endorsements": [
+    "Congressional Progressive Caucus PAC",
+    "California Working Families Party",
+    "Our Revolution",
+    "Track AIPAC",
+    "Progressive Change Campaign Committee"
+   ]
+  },
+  "evidence": "Visalia school board trustee; beat Rep. David Valadao 66.6-33.4 per SOS count. In the primary, CPC PAC, WFP, Our Revolution and Track AIPAC backed him, while DMFI/Blue Dog/New Dems backed rival Jasmeet Bains.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)",
+   "https://api.sos.ca.gov/returns/us-rep/district/22"
+  ]
+ },
+ {
+  "district": "CA-24",
+  "name": "Salud Carbajal",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "mixed",
+   "caucuses": [
+    "New Democrat Coalition",
+    "Problem Solvers Caucus"
+   ],
+   "key_endorsements": [
+    "J Street",
+    "Brady Campaign"
+   ]
+  },
+  "evidence": "New Dem vice chair and Problem Solvers member; DW-NOMINATE -0.323 (69th pct).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://en.wikipedia.org/wiki/Problem_Solvers_Caucus",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)"
+  ]
+ },
+ {
+  "district": "CA-25",
+  "name": "Raul Ruiz",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": [
+    "AIPAC",
+    "Democratic Majority for Israel",
+    "JAC"
+   ]
+  },
+  "evidence": "New Dem; DW-NOMINATE -0.262 (84th pct); AIPAC/DMFI-endorsed.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)"
+  ]
+ },
+ {
+  "district": "CA-26",
+  "name": "Jacqui Irwin",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "California Labor Federation",
+    "314 Action",
+    "California Environmental Voters",
+    "Giffords"
+   ]
+  },
+  "evidence": "Assemblymember; won open Brownley seat 62.0-38.0. Labor/party-backed with no CPC PAC, WFP or Justice Democrats endorsement (the primary's progressive-group candidate was Chris Espinosa). Thin record on federal issues.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)",
+   "https://api.sos.ca.gov/returns/us-rep/district/26"
+  ]
+ },
+ {
+  "district": "CA-27",
+  "name": "George Whitesides",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": [
+    "AIPAC",
+    "JDCA",
+    "JAC"
+   ]
+  },
+  "evidence": "New Dem; DW-NOMINATE -0.204 (95th pct); AIPAC-endorsed.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)"
+  ]
+ },
+ {
+  "district": "CA-28",
+  "name": "Judy Chu",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "Progressive Democrats of America",
+    "J Street"
+   ]
+  },
+  "evidence": "CPC member; DW-NOMINATE -0.479 (19th pct); voted no on H.R. 8034.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)"
+  ]
+ },
+ {
+  "district": "CA-29",
+  "name": "Luz Rivas",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "supports",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "AIPAC",
+    "Democratic Majority for Israel",
+    "JDCA"
+   ]
+  },
+  "evidence": "Input listed 'Luz Rivas / Angélica Dueñas': Rivas re-elected 57.6-42.4. CPC member with DW-NOMINATE -0.521 (9th pct, left), but AIPAC- and DMFI-endorsed, so Mainstream under the Israel rule.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)",
+   "https://api.sos.ca.gov/returns/us-rep/district/29"
+  ]
+ },
+ {
+  "district": "CA-30",
+  "name": "Laura Friedman",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "supports",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "AIPAC",
+    "Democratic Majority for Israel",
+    "JDCA",
+    "J Street"
+   ]
+  },
+  "evidence": "CPC member (DW-NOMINATE -0.356, 60th pct); AIPAC- and DMFI-endorsed, so Mainstream under the Israel rule.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)"
+  ]
+ },
+ {
+  "district": "CA-31",
+  "name": "Gil Cisneros",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": [
+    "AIPAC",
+    "JDCA",
+    "J Street"
+   ]
+  },
+  "evidence": "New Dem; AIPAC-endorsed; DW-NOMINATE -0.457 (26th pct) is left-leaning but there are no progressive caucus or group signals.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)"
+  ]
+ },
+ {
+  "district": "CA-32",
+  "name": "Brad Sherman",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition",
+    "Congressional Progressive Caucus (listed)"
+   ],
+   "key_endorsements": [
+    "AIPAC",
+    "Democratic Majority for Israel",
+    "JDCA"
+   ]
+  },
+  "evidence": "New Dem (also on CPC list); DW-NOMINATE -0.345 (64th pct); AIPAC/DMFI-endorsed; voted yes on H.R. 8034.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)"
+  ]
+ },
+ {
+  "district": "CA-33",
+  "name": "Pete Aguilar",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": [
+    "AIPAC",
+    "JDCA",
+    "J Street"
+   ]
+  },
+  "evidence": "House Democratic Caucus chair; New Dem; DW-NOMINATE -0.328 (68th pct); AIPAC-endorsed.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)"
+  ]
+ },
+ {
+  "district": "CA-34",
+  "name": "Angela Gonzales-Torres",
+  "party": "D",
+  "returning": false,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [],
+   "key_endorsements": [
+    "Justice Democrats",
+    "California Working Families Party",
+    "Los Angeles DSA",
+    "Our Revolution",
+    "IfNotNow LA",
+    "Track AIPAC"
+   ]
+  },
+  "evidence": "NAME CORRECTION: input listed 'Jimmy Gomez / Angela Gonzales-Torres'. Gonzales-Torres beat incumbent Gomez (AIPAC/DMFI-backed) 61.9-38.1, so not returning. Backed by Justice Democrats, WFP and DSA.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)",
+   "https://api.sos.ca.gov/returns/us-rep/district/34"
+  ]
+ },
+ {
+  "district": "CA-35",
+  "name": "Norma Torres",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": [
+    "AIPAC",
+    "Democratic Majority for Israel"
+   ]
+  },
+  "evidence": "New Dem; DW-NOMINATE -0.366 (58th pct); AIPAC/DMFI-endorsed.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)"
+  ]
+ },
+ {
+  "district": "CA-36",
+  "name": "Ted Lieu",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "supports",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "AIPAC",
+    "JDCA"
+   ]
+  },
+  "evidence": "CPC member (DW-NOMINATE -0.37, 57th pct); AIPAC-endorsed and voted yes on H.R. 8034, so Mainstream under the Israel rule.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)"
+  ]
+ },
+ {
+  "district": "CA-37",
+  "name": "Sydney Kamlager-Dove",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "J Street",
+    "JDCA"
+   ]
+  },
+  "evidence": "Input listed 'Sydney Kamlager-Dove / Samantha Mota': re-elected 61.1-38.9. CPC member; DW-NOMINATE -0.519 (11th pct). Voted yes on H.R. 8034 but not AIPAC/DMFI-endorsed (J Street/JDCA only).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)",
+   "https://api.sos.ca.gov/returns/us-rep/district/37"
+  ]
+ },
+ {
+  "district": "CA-38",
+  "name": "Hilda Solis",
+  "party": "D",
+  "returning": false,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "unknown",
+   "caucuses": [
+    "(CPC member during prior House service 2001-2009)"
+   ],
+   "key_endorsements": [
+    "Congressional Progressive Caucus PAC",
+    "SEIU California",
+    "California Labor Federation"
+   ]
+  },
+  "evidence": "Former Labor Secretary and LA County supervisor; won new seat 67.4-32.6. CPC PAC endorsed; no recent Israel-position signals found.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)",
+   "https://api.sos.ca.gov/returns/us-rep/district/38"
+  ]
+ },
+ {
+  "district": "CA-39",
+  "name": "Mark Takano",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "J Street"
+   ]
+  },
+  "evidence": "CPC member; DW-NOMINATE -0.457 (26th pct); voted no on H.R. 8034.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)"
+  ]
+ },
+ {
+  "district": "CA-40",
+  "name": "Ken Calvert",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "supported",
+   "immigration": "baseline",
+   "caucuses": [],
+   "key_endorsements": [
+    "Log Cabin Republicans"
+   ]
+  },
+  "evidence": "Input listed 'Young Kim / Ken Calvert' (R vs R, two incumbents): Calvert leads Kim 53.8-46.2 in the SOS count (Nov 7), not yet certified. Defense appropriations chair; voted yes on H.R. 8035; DW-NOMINATE 0.34 (15th pct of GOP). He was among the Republicans who objected to 2020 electoral votes in Jan 2021. If Kim wins: Mainstream, high (yes on H.R. 8035, Problem Solvers).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)",
+   "https://api.sos.ca.gov/returns/us-rep/district/40",
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/Problem_Solvers_Caucus",
+   "https://abc7news.com/congress-capitol-building-california-name/9444612"
+  ]
+ },
+ {
+  "district": "CA-41",
+  "name": "Linda Sánchez",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "J Street",
+    "JAC",
+    "SEIU California"
+   ]
+  },
+  "evidence": "Redistricted from CA-38. CPC member; DW-NOMINATE -0.507 (12th pct). Voted yes on H.R. 8034 but not AIPAC/DMFI-endorsed.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)"
+  ]
+ },
+ {
+  "district": "CA-42",
+  "name": "Robert Garcia",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "J Street"
+   ]
+  },
+  "evidence": "CPC member; DW-NOMINATE -0.373 (55th pct, near median). Voted yes on H.R. 8034; J Street-endorsed, no AIPAC/DMFI listing.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)"
+  ]
+ },
+ {
+  "district": "CA-43",
+  "name": "Maxine Waters",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "CPC member; DW-NOMINATE -0.656 (1st pct); voted no on H.R. 8034.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)"
+  ]
+ },
+ {
+  "district": "CA-44",
+  "name": "Nanette Barragán",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "Center for Biological Diversity Action Fund",
+    "LCV"
+   ]
+  },
+  "evidence": "CPC member; DW-NOMINATE -0.497 (14th pct). Voted yes on H.R. 8034 with no AIPAC/DMFI endorsement.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)"
+  ]
+ },
+ {
+  "district": "CA-45",
+  "name": "Derek Tran",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": [
+    "JDCA",
+    "JAC",
+    "J Street"
+   ]
+  },
+  "evidence": "New Dem; DW-NOMINATE -0.233 (90th pct).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)"
+  ]
+ },
+ {
+  "district": "CA-46",
+  "name": "Lou Correa",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "Blue Dog Coalition (co-chair)",
+    "New Democrat Coalition",
+    "Problem Solvers Caucus"
+   ],
+   "key_endorsements": []
+  },
+  "evidence": "Blue Dog co-chair; DW-NOMINATE -0.285 (80th pct); voted yes on H.R. 8034.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Blue_Dog_Coalition",
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)"
+  ]
+ },
+ {
+  "district": "CA-47",
+  "name": "Dave Min",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "Congressional Progressive Caucus (listed)"
+   ],
+   "key_endorsements": [
+    "Democratic Majority for Israel",
+    "JDCA",
+    "JAC",
+    "J Street"
+   ]
+  },
+  "evidence": "DW-NOMINATE -0.207 (95th pct, right of caucus); DMFI-endorsed. Wikipedia lists him in the CPC, but his voting record is centrist.",
+  "sources": [
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)"
+  ]
+ },
+ {
+  "district": "CA-48",
+  "name": "Marni von Wilpert",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": [
+    "Democratic Majority for Israel",
+    "JAC",
+    "J Street",
+    "New Democrat Coalition Action Fund",
+    "EMILY's List"
+   ]
+  },
+  "evidence": "San Diego councilmember; won open Issa seat 59.3-40.7 over Jim Desmond. DMFI, JAC and New Dem Action Fund endorsed; the CPC PAC backed rival Campa-Najjar in the primary.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)",
+   "https://api.sos.ca.gov/returns/us-rep/district/48"
+  ]
+ },
+ {
+  "district": "CA-49",
+  "name": "Mike Levin",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition",
+    "Congressional Progressive Caucus (listed)"
+   ],
+   "key_endorsements": [
+    "AIPAC",
+    "Democratic Majority for Israel",
+    "JDCA"
+   ]
+  },
+  "evidence": "New Dem (also on CPC list); DW-NOMINATE -0.323 (69th pct); AIPAC/DMFI-endorsed.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)"
+  ]
+ },
+ {
+  "district": "CA-50",
+  "name": "Scott Peters",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition",
+    "Problem Solvers Caucus"
+   ],
+   "key_endorsements": [
+    "AIPAC",
+    "J Street"
+   ]
+  },
+  "evidence": "New Dem/Problem Solvers; DW-NOMINATE -0.194 (97th pct); AIPAC-endorsed.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://en.wikipedia.org/wiki/Problem_Solvers_Caucus",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)"
+  ]
+ },
+ {
+  "district": "CA-51",
+  "name": "Sara Jacobs",
+  "party": "D",
+  "returning": true,
+  "wing": "Progressive",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "mixed",
+   "caucuses": [
+    "Congressional Progressive Caucus",
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": [
+    "J Street",
+    "JDCA"
+   ]
+  },
+  "evidence": "In both CPC and New Dems; DW-NOMINATE -0.419 (41st pct). Voted yes on H.R. 8034; J Street-endorsed, no AIPAC/DMFI endorsement.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)"
+  ]
+ },
+ {
+  "district": "CA-52",
+  "name": "Juan Vargas",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "supports",
+   "caucuses": [
+    "Congressional Progressive Caucus",
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": [
+    "AIPAC",
+    "Democratic Majority for Israel"
+   ]
+  },
+  "evidence": "On both the CPC and New Dem lists (DW-NOMINATE -0.396, caucus median); AIPAC/DMFI-endorsed, so Mainstream under the Israel rule.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)"
+  ]
+ },
+ {
+  "district": "CO-1",
+  "name": "Melat Kiros",
+  "party": "D",
+  "returning": false,
+  "wing": "Progressive",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "left",
+   "israel": "critical",
+   "caucuses": [],
+   "key_endorsements": [
+    "Justice Democrats",
+    "Democratic Socialists of America",
+    "Colorado Working Families Party",
+    "Our Revolution",
+    "Sunrise Movement",
+    "Bernie Sanders",
+    "Track AIPAC"
+   ]
+  },
+  "evidence": "Defeated incumbent Diana DeGette in the Democratic primary. Endorsed by Justice Democrats, DSA, WFP, Sunrise, Our Revolution, Sanders, Jewish Voice for Peace Action and Track AIPAC. General result not yet on Wikipedia (Safe D seat).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado",
+   "https://en.wikipedia.org/wiki/2026_Colorado%27s_1st_congressional_district_election"
+  ]
+ },
+ {
+  "district": "CO-2",
+  "name": "Joe Neguse",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": true,
+  "signals": {
+   "economic": "left",
+   "israel": "supports",
+   "caucuses": [
+    "Congressional Progressive Caucus"
+   ],
+   "key_endorsements": [
+    "AIPAC",
+    "JDCA",
+    "JAC",
+    "J Street"
+   ]
+  },
+  "evidence": "CPC member and House Democratic leadership; DW-NOMINATE -0.431 (36th pct). AIPAC-endorsed and voted yes on H.R. 8034, so Mainstream under the Israel rule.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado"
+  ]
+ },
+ {
+  "district": "CO-3",
+  "name": "Jeff Hurd",
+  "party": "R",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "ukraine_aid": "unknown",
+   "immigration": "baseline",
+   "caucuses": [
+    "Problem Solvers Caucus"
+   ],
+   "key_endorsements": [
+    "AIPAC",
+    "Donald Trump (rescinded then re-endorsed)"
+   ]
+  },
+  "evidence": "Problem Solvers member; DW-NOMINATE 0.317 (9th pct of GOP). Beat America First challenger Ron Hanks (backed by Michael Flynn and Tom Tancredo) in the primary; re-elected 49.3-47.4. Took office 2025, after the H.R. 8035 vote.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Problem_Solvers_Caucus",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado"
+  ]
+ },
+ {
+  "district": "CO-5",
+  "name": "Jessica Killin",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [],
+   "key_endorsements": [
+    "New Democrat Coalition Action Fund",
+    "DCCC Red to Blue",
+    "Jewish Democratic Council of America",
+    "EMILY's List",
+    "VoteVets"
+   ]
+  },
+  "evidence": "Former chief of staff to Second Gentleman Doug Emhoff; beat Rep. Jeff Crank 50.5-45.8. New Dem Action Fund, JDCA and DCCC backed; no progressive-group endorsements.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado"
+  ]
+ },
+ {
+  "district": "CO-6",
+  "name": "Jason Crow",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition"
+   ],
+   "key_endorsements": [
+    "JDCA",
+    "J Street"
+   ]
+  },
+  "evidence": "New Dem; DW-NOMINATE -0.361 (59th pct); voted yes on H.R. 8034.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://clerk.house.gov/evs/2024/roll152.xml",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado"
+  ]
+ },
+ {
+  "district": "CO-7",
+  "name": "Brittany Pettersen",
+  "party": "D",
+  "returning": true,
+  "wing": "Mainstream",
+  "confidence": "high",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "supports",
+   "caucuses": [
+    "New Democrat Coalition",
+    "Problem Solvers Caucus"
+   ],
+   "key_endorsements": [
+    "AIPAC",
+    "JDCA",
+    "JAC"
+   ]
+  },
+  "evidence": "New Dem/Problem Solvers; DW-NOMINATE -0.376 (55th pct); AIPAC-endorsed.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+   "https://en.wikipedia.org/wiki/Problem_Solvers_Caucus",
+   "https://voteview.com/static/data/out/members/H119_members.csv",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado"
+  ]
+ },
+ {
+  "district": "CO-8",
+  "name": "Manny Rutinel",
+  "party": "D",
+  "returning": false,
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "borderline": false,
+  "signals": {
+   "economic": "center",
+   "israel": "unknown",
+   "caucuses": [],
+   "key_endorsements": [
+    "CHC BOLD PAC",
+    "314 Action",
+    "Latino Victory Fund",
+    "SEIU Colorado",
+    "Suzan DelBene (New Dem)"
+   ]
+  },
+  "evidence": "Former state representative; beat Rep. Gabe Evans 55.4-40.7. Backed by CHC BOLD PAC, 314 Action and Cory Booker; no CPC PAC, WFP or Justice Democrats endorsement (the WFP had backed Baca-Oehlert, who withdrew). Thin federal record.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado"
+  ]
+ }
+]
