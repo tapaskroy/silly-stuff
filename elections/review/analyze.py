@@ -189,7 +189,7 @@ def board(ch):
         rows.append(dict(id="nat:" + p["pollster"], name=f"{p['pollster']} national poll (D+{p['d_margin']:g}), uniform swing", kind="national_poll",
                          covered="all", right=right, wrong=len(rs) - right, nocall=0, n=len(rs), brier=None, upsets_caught=caught))
     # the plain polling average in each polled race
-    polled = [r for r in rs if r["poll"]]
+    polled = [r for r in rs if r["poll"] not in (None, 0)]  # a dead-even average has no leader to score
     right = sum((r["poll"] * r["sign"] > 0) == r["d_won"] for r in polled)
     rows.append(dict(id="pollavg", name="Polling-average leader (polled races only)", kind="polls", covered=len(polled), right=right,
                      wrong=len(polled) - right, nocall=0, n=len(polled), brier=None,
@@ -274,7 +274,7 @@ def upset_detail(r):
                 loser=r["b"] if r["winner"] == r["a"] else r["a"], names=r.get("names"),
                 p_winner=round(r["p_winner"], 3), tier=r["tier"], forecast_margin_winner=round(r["d_mean"] * wsign, 1),
                 actual_margin_winner=None if r["d_margin"] is None else round(r["d_margin"] * wsign, 1), counted=r["counted"],
-                poll_avg_winner=None if not r["poll"] else round(r["poll"] * r["sign"] * wsign, 1),
+                poll_avg_winner=None if r["poll"] is None else round(r["poll"] * r["sign"] * wsign, 1),
                 prior_winner=None if r["prior"] is None else round(r["prior"] * r["sign"] * wsign, 1),
                 prior_weight=None if r["prior_weight"] is None else round(r["prior_weight"], 2),
                 pres_2024_winner=None if r["pres"] is None else round(r["pres"] * wsign, 1),
@@ -354,7 +354,7 @@ def errors():
     states = grp(comp, lambda r: r["key"].split("-")[0])
     out["house"]["competitive_by_state"] = {k: v for k, v in sorted(states.items(), key=lambda kv: -kv[1]["mean"]) if v["n"] >= 3}
     out["house"]["competitive_by_inc"] = grp(comp, lambda r: r["inc"])
-    out["house"]["competitive_polled"] = grp(comp, lambda r: "polled" if r["poll"] else "no polls")
+    out["house"]["competitive_polled"] = grp(comp, lambda r: "polled" if r["poll"] is not None else "no polls")
     return out
 
 

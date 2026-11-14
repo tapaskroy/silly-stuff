@@ -1,0 +1,146 @@
+{
+ "CO-4": {
+  "chamber": "house",
+  "result": "Democrat Eileen Laubacher, a retired Navy rear admiral and former National Security Council official, unseated three-term Republican Rep. Lauren Boebert in Colorado's 4th District. With about 99% of the expected vote counted, AP had Laubacher at 187,745 (48.8%), Boebert at 184,220 (47.9%) and Libertarian Douglas Mangeris at 12,742 (3.3%), a margin of about 3,500 votes (0.9 points). AP called the race on Nov 13, 2026 (19:53 UTC). CNN's Decision Desk had projected it on Nov 9. Laubacher declared victory on Nov 9. As of the last reports found (Nov 10-11), Boebert had not conceded: she told CNN 'why would I concede if the votes aren't in?' and her lawyer Scott Gessler said the campaign expected a recount. The margin is outside Colorado's automatic-recount threshold (0.5% of the winner's total). It is a Democratic flip of the state's reddest seat; no Democrat has held it since Betsy Markey (2009-11), and that was on older lines.",
+  "pres_2024": "Trump 57.9%, Harris 39.6% (R+18.2), per PollCheck's precinct-based calculation (https://www.pollcheck.co.uk/us/house/co-4/). Colorado Politics also says Trump carried the district 'by over 18 points'. The 2026 lines are the same ones used since 2022, so there was no map change. Boebert won here by 11.6 points in 2024.",
+  "explanations": [
+   {
+    "claim": "Laubacher raised nearly $14 million to Boebert's $1.2 million, more than ten times as much. Outside groups spent about $1.5 million against Boebert, mostly on ads about the 2023 'Beetlejuice' incident, and about $600,000 for her.",
+    "kind": "fact",
+    "source": "https://www.coloradopolitics.com/2026/11/03/lauren-boebert-eileen-laubacher-election-results-colorado-cd4/"
+   },
+   {
+    "claim": "Trump fell out with Boebert in 2026. After she campaigned for Rep. Thomas Massie and signed the Epstein-files discharge petition, he called her 'dumb' and 'weak-minded' and invited a primary challenge. He re-endorsed her as a 'MAGA Warrior' days before the election.",
+    "kind": "fact",
+    "source": "https://www.rawstory.com/lauren-boebert-election-2678371501/"
+   },
+   {
+    "claim": "The race was part of a national Democratic wave. In Colorado, Democrats also beat GOP Reps. Gabe Evans (CO-8, by nearly 15 points) and Jeff Crank (CO-5, by almost 5).",
+    "kind": "fact",
+    "source": "https://www.coloradopolitics.com/2026/11/09/lauren-boebert-eileen-laubacher-claims-victory-election-results/"
+   },
+   {
+    "claim": "Laubacher, a former Republican, ran as a moderate national-security Democrat. She attacked Boebert over the Medicaid cuts in the One Big Beautiful Bill (citing rural hospitals), Trump's tariffs, the cost of the Iran war, and her votes against the PACT Act. She also campaigned hard in rural areas.",
+    "kind": "fact",
+    "source": "https://www.kunc.org/news/2026-11-04/lauren-boebert-in-big-fight-to-keep-her-seat-in-congress-in-too-close-to-call-race"
+   },
+   {
+    "claim": "When Sabato's Crystal Ball moved the seat from Likely to Lean Republican on Oct 20, Kyle Kondik said the district is 'redder' than most Lean seats but features 'an unusually weak Republican candidate'.",
+    "kind": "interpretation",
+    "source": "https://www.coloradopolitics.com/2026/10/21/election-forecaster-shifts-2-colorado-house-seats-toward-democrats/"
+   },
+   {
+    "claim": "Republican voter Jeff Conlon of northern Colorado wasn't surprised. He blamed Trump's policies, gas prices and the cost of goods for voters turning to Democrats.",
+    "kind": "interpretation",
+    "source": "https://www.denver7.com/news/politics/voters-weigh-in-on-close-race-in-colorados-4th-congressional-district"
+   },
+   {
+    "claim": "Laubacher's explanation: 'people are hungry for servant-leaders... the job description's in the title: representative.'",
+    "kind": "interpretation",
+    "source": "https://www.lgbtqnation.com/2026/11/lauren-boebert-refuses-to-concede-while-claiming-she-doesnt-care-about-losing-reelection/"
+   },
+   {
+    "claim": "Boebert, asked whether she blamed Trump: 'I don't blame any one person... We collectively failed. The American people let us know that we have failed in this governing experience for this Congress.'",
+    "kind": "interpretation",
+    "source": "https://www.thedailybeast.com/maga-star-lauren-boebert-mocked-for-clinging-to-slim-shot-at-election-victory"
+   }
+  ],
+  "late_polls_winner_ahead": [],
+  "picked_winner": [
+   {
+    "who": "Raters and markets (did not pick)",
+    "what": "No rater or market favored Laubacher. Final ratings: Cook Lean R, Sabato's Crystal Ball Lean R (moved from Likely R on Oct 20), Inside Elections Likely R. Kalshi had Boebert at roughly 69-76% (undated snapshots).",
+    "url": "https://www.coloradopolitics.com/2026/10/21/election-forecaster-shifts-2-colorado-house-seats-toward-democrats/"
+   }
+  ],
+  "summary": "Boebert lost an R+18 seat that Trump carried easily. Laubacher, a well-funded former Republican and retired admiral, outraised her more than ten to one, and Boebert's falling-out with Trump and her scandals hurt her. All of this happened inside a national Democratic wave driven by costs, tariffs and Medicaid cuts. No public polls of the race were found for the final three weeks; the only poll found (Impact Research, Sept 24, per a search snippet) had Boebert up 45-40. No rater or market favored Laubacher. Sabato moved the race to Lean R and Split Ticket called it a Toss-up, so a few saw an upset coming, but nobody predicted it.",
+  "_notes": "Our forecast gave Laubacher 6%. The AP figures and call time come from the brief; Ballotpedia's 187,518 / 184,066 / 12,722 matches them closely. Sources disagree on when AP called the race: LGBTQ Nation (Nov 11) says 'CNN and the AP' had called it, but Colorado Politics on Nov 9 said AP had not, and the brief says AP called it Nov 13. CNN's projection on Nov 9 is well sourced. I found no report of a concession after Nov 11; as of then Boebert had not conceded and was talking about a recount. The final ratings from Cook, Inside Elections, DDHQ and Split Ticket come only from an Axios search-result snippet dated Oct 8 (the page would not fetch), so the final pre-election values may differ. Colorado Politics (Nov 3) says 'national election forecasters' had moved the race to Lean R in the final week, without naming them. The Kalshi range comes from search snippets of undated market pages. I found no late public polls; the Impact Research Sept 24 poll (Boebert 45-40) appears only in a uspollingdata.com search snippet, and its sponsor is unknown. Final rater ratings replaced with the values in final_ratings.json (Wikipedia + 270toWin rater maps), which supersede the early-October Axios snippet."
+ },
+ "Kansas": {
+  "chamber": "governors",
+  "result": "Democrat Cindy Holscher, a state senator from Overland Park, beat Republican state Senate President Ty Masterson for the open governor's seat; Gov. Laura Kelly (D) was term-limited. With 98% of the vote counted, AP had Holscher at 552,328 (50.3%) and Masterson at 545,128 (49.7%), a margin of about 7,200 votes (0.6 points). AP called the race on Nov 12, 2026 (22:43 UTC); DDHQ had projected it earlier the same day. Holscher declared victory on Nov 4 and started transition work with Kelly. Masterson said he would wait for the statutory close-race audit and provisional ballots before conceding. I found no concession in the sources available. This is a Democratic hold, and it ends Kansas's roughly 60-year pattern of alternating the governor's party.",
+  "pres_2024": "Trump carried Kansas by 16.1 points (R+16.1), per PollCheck's Kansas race page (https://www.pollcheck.co.uk/us-midterms-2026/governor/kansas). This is a statewide race, so no map change applies.",
+  "explanations": [
+   {
+    "claim": "Holscher ran a populist campaign: taking on corporate interests, fully funding special education, legalizing recreational marijuana, expanding Medicaid, and pausing new data centers. Masterson ran on capping property-tax growth at 3%, cutting spending, and a Mississippi-style literacy push.",
+    "kind": "fact",
+    "source": "https://www.hppr.org/2026-11-04/theres-no-winner-in-the-kansas-governors-race-its-too-close-to-call"
+   },
+   {
+    "claim": "Democrats tied Masterson to former Gov. Sam Brownback's tax experiment. One ad clips him saying 'the Brownback plan, which by the way, I wrote.' Masterson called the clip a 'lie'.",
+    "kind": "fact",
+    "source": "https://www.multistate.us/elections/governor-race/kansas-2026"
+   },
+   {
+    "claim": "Masterson turned down two televised debates, so the Sept 12 State Fair debate was the only one.",
+    "kind": "fact",
+    "source": "https://www.multistate.us/elections/governor-race/kansas-2026"
+   },
+   {
+    "claim": "In Emerson's September poll, Trump's job approval among Kansas likely voters was 40% approve, 53% disapprove, while outgoing Gov. Kelly's was 46% approve, 39% disapprove.",
+    "kind": "fact",
+    "source": "https://emersoncollegepolling.com/kansas-2026/"
+   },
+   {
+    "claim": "National Republican groups spent more than $10 million, much of it on ads attacking Holscher; the DGA spent nearly $4 million for her. Holscher outraised Masterson $2.34 million to about $2 million from late July to Oct 22.",
+    "kind": "fact",
+    "source": "https://www.hppr.org/2026-11-04/theres-no-winner-in-the-kansas-governors-race-its-too-close-to-call"
+   },
+   {
+    "claim": "The wave reached the whole Kansas ballot: Democrat Adam Hamilton beat Republican Sen. Roger Marshall in the same election.",
+    "kind": "fact",
+    "source": "https://www.270towin.com/2026-election-results-live/state/kansas/"
+   },
+   {
+    "claim": "Gov. Laura Kelly: 'Kansans have once again rejected a return to the failed policies of the Brownback era and chosen to keep our state moving forward.'",
+    "kind": "interpretation",
+    "source": "https://www.kshb.com/news/local-news/kansas-governors-race-remains-in-limbo-as-race-is-still-too-close-to-call"
+   },
+   {
+    "claim": "Holscher's closing pitch: voters 'want their leaders to put politics aside and work together' on public schools, lower costs for families and farmers, and the economy.",
+    "kind": "interpretation",
+    "source": "https://www.kcur.org/politics-elections-and-government/2026-11-04/ty-masterson-trails-in-kansas-governor-race-by-5-500-votes-he-says-the-results-need-another-look"
+   }
+  ],
+  "late_polls_winner_ahead": [
+   {
+    "pollster": "AtlasIntel",
+    "dates": "Oct 28 - Nov 1, 2026",
+    "result": "Holscher 50, Masterson 46 (2,038 LV)",
+    "url": "https://www.pollcheck.co.uk/us-midterms-2026/governor/kansas"
+   },
+   {
+    "pollster": "Survey 160",
+    "dates": "Oct 27 - Nov 1, 2026",
+    "result": "Holscher 49, Masterson 48 (1,267 LV)",
+    "url": "https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026"
+   },
+   {
+    "pollster": "New York Times / Siena",
+    "dates": "Oct 27 - Nov 1, 2026",
+    "result": "Holscher 48, Masterson 47 (736 LV)",
+    "url": "https://www.270towin.com/2026-governor-polls/kansas"
+   },
+   {
+    "pollster": "Washington Post / Schar School (George Mason)",
+    "dates": "Oct 22-26, 2026",
+    "result": "Holscher 51, Masterson 45 (801 LV)",
+    "url": "https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026"
+   }
+  ],
+  "picked_winner": [
+   {
+    "who": "270toWin polling average (6 polls)",
+    "what": "Holscher 48.2, Masterson 48.0, in effect a tie with Holscher barely ahead. Other averages favored Masterson: PollCheck by 1.2 and RealClearPolling by 1.8.",
+    "url": "https://www.270towin.com/2026-governor-polls/kansas"
+   },
+   {
+    "who": "Raters and markets (did not pick)",
+    "what": "No rater or market favored Holscher. Cook moved the race to Toss-up on Oct 27 (no pick). Inside Elections had Tilt R and Sabato's Crystal Ball Lean R; MultiState's consensus was Tilt R. Polymarket had Masterson at about 70% and Kalshi had Republicans at about 70%.",
+    "url": "https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026"
+   }
+  ],
+  "summary": "Holscher held the seat for Democrats in a Trump+16 state. She tied Masterson to the Brownback tax years, ran a populist economic campaign, and benefited from a national Democratic wave (Kelly was popular and Trump was underwater in Kansas). The final polls were split. Four late polls had Holscher ahead (AtlasIntel +4, WaPo/Schar +6, NYT/Siena +1, Survey 160 +1), while Emerson (+4) and CNN/SSRS (+5) had Masterson ahead. Most averages leaned slightly to Masterson. Ratings ran from Toss-up (Cook) to Lean R and markets gave Masterson about 70%. Only 270toWin's near-tied average had Holscher fractionally ahead.",
+  "_notes": "Our forecast gave Holscher 46%, so this was a mild upset. The AP figures and call time come from the brief; PollCheck/MultiState showed 551,243 to 543,599 (50.4-49.6) as of Nov 13, with DDHQ's projection at 3:01 pm ET on Nov 12. The Masterson concession status comes from Nov 6 reporting (KCTV5: he would wait for statutory verification and provisional ballots); I found no later concession. The four late polls come from aggregators (PollCheck, 270toWin, Ballotpedia), not the original releases. Ballotpedia credits the WaPo poll to George Mason/Braun Research in one row and to SSPG in another. PollCheck lists Survey 160 with several versions (49-48 LV, 49-47, 48-47 RV); the headline LV figure is used here. The Global Strategy Group poll for Holscher's campaign (Oct 18-21) was tied 47-47, so it is excluded. Final ratings come from Ballotpedia's table (Nov 3 column) and MultiState. The market figures are MultiState's pre-election snapshot. 'Democratic hold' is because Kelly is a Democrat."
+ }
+}

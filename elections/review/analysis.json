@@ -1,10 +1,10 @@
 {
- "as_of": "2026-11-12T05:50:00+00:00",
+ "as_of": "2026-11-14T04:39:17+00:00",
  "seats": {
   "senate_d": 55,
   "senate_open": 1,
-  "house_d": 255,
-  "house_open": 12,
+  "house_d": 256,
+  "house_open": 10,
   "ours": {
    "senate_p_dem": 0.7909750000000002,
    "senate_median_dem": 53,
@@ -13,15 +13,15 @@
   }
  },
  "national": {
-  "actual": 13.6,
-  "eevp": 96.93,
+  "actual": 13.9,
+  "eevp": 98.04,
   "average": 8.7,
   "model_input": 7.7,
   "polls": [
    {
     "pollster": "AtlasIntel",
     "d_margin": 14.1,
-    "error": -0.5,
+    "error": -0.2,
     "house_right": 380,
     "upsets_caught": [
      "TX-23",
@@ -46,12 +46,12 @@
      "MO-2",
      "AL-2"
     ],
-    "house_d": 249
+    "house_d": 250
    },
    {
     "pollster": "Honest Poll",
     "d_margin": 13,
-    "error": 0.6,
+    "error": 0.9,
     "house_right": 381,
     "upsets_caught": [
      "TX-35",
@@ -72,13 +72,38 @@
      "MT-1",
      "MO-2"
     ],
-    "house_d": 240
+    "house_d": 241
    },
    {
     "pollster": "Big Data Poll",
     "d_margin": 12.3,
-    "error": 1.3,
+    "error": 1.6,
     "house_right": 383,
+    "upsets_caught": [
+     "TX-35",
+     "FL-22",
+     "NJ-2",
+     "PA-1",
+     "OH-7",
+     "OH-9",
+     "OH-10",
+     "OH-15",
+     "MI-4",
+     "MI-10",
+     "WI-1",
+     "VA-1",
+     "SC-1",
+     "CO-5",
+     "MT-1",
+     "MO-2"
+    ],
+    "house_d": 237
+   },
+   {
+    "pollster": "Tufts/YouGov",
+    "d_margin": 12,
+    "error": 1.9,
+    "house_right": 384,
     "upsets_caught": [
      "TX-35",
      "FL-22",
@@ -100,34 +125,9 @@
     "house_d": 236
    },
    {
-    "pollster": "Tufts/YouGov",
-    "d_margin": 12,
-    "error": 1.6,
-    "house_right": 384,
-    "upsets_caught": [
-     "TX-35",
-     "FL-22",
-     "NJ-2",
-     "PA-1",
-     "OH-7",
-     "OH-9",
-     "OH-10",
-     "OH-15",
-     "MI-4",
-     "MI-10",
-     "WI-1",
-     "VA-1",
-     "SC-1",
-     "CO-5",
-     "MT-1",
-     "MO-2"
-    ],
-    "house_d": 235
-   },
-   {
     "pollster": "Verasight/SIN",
     "d_margin": 12,
-    "error": 1.6,
+    "error": 1.9,
     "house_right": 384,
     "upsets_caught": [
      "TX-35",
@@ -147,12 +147,12 @@
      "MT-1",
      "MO-2"
     ],
-    "house_d": 235
+    "house_d": 236
    },
    {
     "pollster": "Verasight/The Argument",
     "d_margin": 11,
-    "error": 2.6,
+    "error": 2.9,
     "house_right": 385,
     "upsets_caught": [
      "TX-35",
@@ -170,12 +170,12 @@
      "MT-1",
      "MO-2"
     ],
-    "house_d": 230
+    "house_d": 231
    },
    {
     "pollster": "NYT/Siena",
     "d_margin": 11,
-    "error": 2.6,
+    "error": 2.9,
     "house_right": 385,
     "upsets_caught": [
      "TX-35",
@@ -193,12 +193,12 @@
      "MT-1",
      "MO-2"
     ],
-    "house_d": 230
+    "house_d": 231
    },
    {
     "pollster": "RMG/Napolitan",
     "d_margin": 11,
-    "error": 2.6,
+    "error": 2.9,
     "house_right": 385,
     "upsets_caught": [
      "TX-35",
@@ -216,12 +216,12 @@
      "MT-1",
      "MO-2"
     ],
-    "house_d": 230
+    "house_d": 231
    },
    {
     "pollster": "Prolific",
     "d_margin": 10.7,
-    "error": 2.9,
+    "error": 3.2,
     "house_right": 387,
     "upsets_caught": [
      "TX-35",
@@ -239,12 +239,12 @@
      "MT-1",
      "MO-2"
     ],
-    "house_d": 228
+    "house_d": 229
    },
    {
     "pollster": "TIPP",
     "d_margin": 10,
-    "error": 3.6,
+    "error": 3.9,
     "house_right": 386,
     "upsets_caught": [
      "TX-35",
@@ -261,12 +261,12 @@
      "CO-5",
      "MO-2"
     ],
-    "house_d": 225
+    "house_d": 226
    },
    {
     "pollster": "Emerson",
     "d_margin": 10,
-    "error": 3.6,
+    "error": 3.9,
     "house_right": 386,
     "upsets_caught": [
      "TX-35",
@@ -283,12 +283,12 @@
      "CO-5",
      "MO-2"
     ],
-    "house_d": 225
+    "house_d": 226
    },
    {
     "pollster": "CNN/SSRS",
     "d_margin": 10,
-    "error": 3.6,
+    "error": 3.9,
     "house_right": 386,
     "upsets_caught": [
      "TX-35",
@@ -305,12 +305,12 @@
      "CO-5",
      "MO-2"
     ],
-    "house_d": 225
+    "house_d": 226
    },
    {
     "pollster": "YouGov pre-election",
     "d_margin": 9,
-    "error": 4.6,
+    "error": 4.9,
     "house_right": 383,
     "upsets_caught": [
      "TX-35",
@@ -324,12 +324,12 @@
      "CO-5",
      "MO-2"
     ],
-    "house_d": 220
+    "house_d": 221
    },
    {
     "pollster": "Reuters/Ipsos",
     "d_margin": 8,
-    "error": 5.6,
+    "error": 5.9,
     "house_right": 379,
     "upsets_caught": [
      "PA-1",
@@ -341,12 +341,12 @@
      "CO-5",
      "MO-2"
     ],
-    "house_d": 212
+    "house_d": 213
    },
    {
     "pollster": "Cygnal",
     "d_margin": 8,
-    "error": 5.6,
+    "error": 5.9,
     "house_right": 379,
     "upsets_caught": [
      "PA-1",
@@ -358,12 +358,12 @@
      "CO-5",
      "MO-2"
     ],
-    "house_d": 212
+    "house_d": 213
    },
    {
     "pollster": "CBS/YouGov",
     "d_margin": 8,
-    "error": 5.6,
+    "error": 5.9,
     "house_right": 379,
     "upsets_caught": [
      "PA-1",
@@ -375,12 +375,12 @@
      "CO-5",
      "MO-2"
     ],
-    "house_d": 212
+    "house_d": 213
    },
    {
     "pollster": "Clarity",
     "d_margin": 8,
-    "error": 5.6,
+    "error": 5.9,
     "house_right": 379,
     "upsets_caught": [
      "PA-1",
@@ -392,12 +392,12 @@
      "CO-5",
      "MO-2"
     ],
-    "house_d": 212
+    "house_d": 213
    },
    {
     "pollster": "Bedrock",
     "d_margin": 8,
-    "error": 5.6,
+    "error": 5.9,
     "house_right": 379,
     "upsets_caught": [
      "PA-1",
@@ -409,12 +409,12 @@
      "CO-5",
      "MO-2"
     ],
-    "house_d": 212
+    "house_d": 213
    },
    {
     "pollster": "Marist",
     "d_margin": 8,
-    "error": 5.6,
+    "error": 5.9,
     "house_right": 379,
     "upsets_caught": [
      "PA-1",
@@ -426,12 +426,12 @@
      "CO-5",
      "MO-2"
     ],
-    "house_d": 212
+    "house_d": 213
    },
    {
     "pollster": "ABC/WaPo/Ipsos",
     "d_margin": 8,
-    "error": 5.6,
+    "error": 5.9,
     "house_right": 379,
     "upsets_caught": [
      "PA-1",
@@ -443,12 +443,12 @@
      "CO-5",
      "MO-2"
     ],
-    "house_d": 212
+    "house_d": 213
    },
    {
     "pollster": "Morning Consult",
     "d_margin": 7.9,
-    "error": 5.7,
+    "error": 6.0,
     "house_right": 379,
     "upsets_caught": [
      "PA-1",
@@ -460,13 +460,13 @@
      "CO-5",
      "MO-2"
     ],
-    "house_d": 212
+    "house_d": 213
    },
    {
     "pollster": "Focaldata/FT",
     "d_margin": 7.4,
-    "error": 6.2,
-    "house_right": 377,
+    "error": 6.5,
+    "house_right": 378,
     "upsets_caught": [
      "PA-1",
      "OH-10",
@@ -481,8 +481,8 @@
    {
     "pollster": "NBC (Hart/POS)",
     "d_margin": 7,
-    "error": 6.6,
-    "house_right": 376,
+    "error": 6.9,
+    "house_right": 377,
     "upsets_caught": [
      "PA-1",
      "OH-10",
@@ -497,8 +497,8 @@
    {
     "pollster": "ActiVote",
     "d_margin": 7,
-    "error": 6.6,
-    "house_right": 376,
+    "error": 6.9,
+    "house_right": 377,
     "upsets_caught": [
      "PA-1",
      "OH-10",
@@ -513,8 +513,8 @@
    {
     "pollster": "CNBC (Hart/POS)",
     "d_margin": 7,
-    "error": 6.6,
-    "house_right": 376,
+    "error": 6.9,
+    "house_right": 377,
     "upsets_caught": [
      "PA-1",
      "OH-10",
@@ -529,8 +529,8 @@
    {
     "pollster": "Zogby",
     "d_margin": 6,
-    "error": 7.6,
-    "house_right": 373,
+    "error": 7.9,
+    "house_right": 374,
     "upsets_caught": [
      "PA-1",
      "MI-4",
@@ -543,8 +543,8 @@
    {
     "pollster": "Ipsos mail study",
     "d_margin": 6,
-    "error": 7.6,
-    "house_right": 373,
+    "error": 7.9,
+    "house_right": 374,
     "upsets_caught": [
      "PA-1",
      "MI-4",
@@ -557,8 +557,8 @@
    {
     "pollster": "Rasmussen",
     "d_margin": 6,
-    "error": 7.6,
-    "house_right": 373,
+    "error": 7.9,
+    "house_right": 374,
     "upsets_caught": [
      "PA-1",
      "MI-4",
@@ -571,8 +571,8 @@
    {
     "pollster": "Leger",
     "d_margin": 6,
-    "error": 7.6,
-    "house_right": 373,
+    "error": 7.9,
+    "house_right": 374,
     "upsets_caught": [
      "PA-1",
      "MI-4",
@@ -585,8 +585,8 @@
    {
     "pollster": "Echelon/NetChoice",
     "d_margin": 5,
-    "error": 8.6,
-    "house_right": 371,
+    "error": 8.9,
+    "house_right": 372,
     "upsets_caught": [
      "PA-1",
      "MI-4",
@@ -598,8 +598,8 @@
    {
     "pollster": "Echelon omnibus",
     "d_margin": 5,
-    "error": 8.6,
-    "house_right": 371,
+    "error": 8.9,
+    "house_right": 372,
     "upsets_caught": [
      "PA-1",
      "MI-4",
@@ -611,8 +611,8 @@
    {
     "pollster": "Harvard-Harris",
     "d_margin": 4,
-    "error": 9.6,
-    "house_right": 370,
+    "error": 9.9,
+    "house_right": 371,
     "upsets_caught": [
      "PA-1",
      "WI-1",
@@ -623,8 +623,8 @@
    {
     "pollster": "Penn State/YouGov",
     "d_margin": 4,
-    "error": 9.6,
-    "house_right": 370,
+    "error": 9.9,
+    "house_right": 371,
     "upsets_caught": [
      "PA-1",
      "WI-1",
@@ -635,8 +635,8 @@
    {
     "pollster": "Targoz",
     "d_margin": 3,
-    "error": 10.6,
-    "house_right": 367,
+    "error": 10.9,
+    "house_right": 368,
     "upsets_caught": [
      "PA-1"
     ],
@@ -659,8 +659,8 @@
     },
     "Harris +10 or more": {
      "n": 6,
-     "mean": 3.5,
-     "sd": 6.0
+     "mean": 3.6,
+     "sd": 6.1
     },
     "Trump +10 to 20": {
      "n": 7,
@@ -674,19 +674,19 @@
     },
     "Harris +0 to 10": {
      "n": 6,
-     "mean": 5.3,
+     "mean": 5.4,
      "sd": 2.8
     }
    },
    "by_tier": {
     "Safe": {
      "n": 10,
-     "mean": 7.0,
+     "mean": 7.1,
      "sd": 3.0
     },
     "Likely": {
      "n": 14,
-     "mean": 1.9,
+     "mean": 2.0,
      "sd": 7.5
     },
     "Lean": {
@@ -701,20 +701,20 @@
     },
     "Tilt": {
      "n": 5,
-     "mean": 3.1,
-     "sd": 4.6
+     "mean": 3.2,
+     "sd": 4.5
     }
    }
   },
   "house": {
-   "n": 405,
-   "mean": 6.7,
+   "n": 407,
+   "mean": 6.8,
    "mae": 7.5,
-   "d_better": 354,
+   "d_better": 357,
    "by_pres": {
     "Harris +10 or more": {
      "n": 139,
-     "mean": 4.8,
+     "mean": 5.0,
      "sd": 7.2
     },
     "Trump +20 or more": {
@@ -724,40 +724,40 @@
     },
     "Harris +0 to 10": {
      "n": 45,
-     "mean": 6.4,
-     "sd": 4.9
+     "mean": 6.6,
+     "sd": 5.1
     },
     "Trump +0 to 10": {
-     "n": 33,
-     "mean": 6.8,
+     "n": 34,
+     "mean": 6.6,
      "sd": 6.1
     },
     "Trump +10 to 20": {
-     "n": 58,
-     "mean": 7.7,
+     "n": 59,
+     "mean": 7.8,
      "sd": 5.8
     }
    },
    "by_tier": {
     "Safe": {
      "n": 268,
-     "mean": 6.5,
+     "mean": 6.6,
      "sd": 6.7
     },
     "Likely": {
-     "n": 79,
+     "n": 80,
      "mean": 7.3,
      "sd": 4.9
     },
     "Lean": {
      "n": 28,
-     "mean": 6.8,
+     "mean": 6.9,
      "sd": 7.1
     },
     "Tilt": {
-     "n": 21,
-     "mean": 8.1,
-     "sd": 5.7
+     "n": 22,
+     "mean": 7.8,
+     "sd": 5.8
     },
     "Toss-up": {
      "n": 9,
@@ -768,13 +768,13 @@
    "competitive_by_state": {
     "NJ": {
      "n": 3,
-     "mean": 15.7,
-     "sd": 4.8
+     "mean": 15.9,
+     "sd": 4.7
     },
     "CA": {
      "n": 6,
-     "mean": 12.6,
-     "sd": 8.2
+     "mean": 13.0,
+     "sd": 7.9
     },
     "TX": {
      "n": 22,
@@ -798,8 +798,13 @@
     },
     "PA": {
      "n": 4,
-     "mean": 6.9,
+     "mean": 7.1,
      "sd": 0.8
+    },
+    "CO": {
+     "n": 4,
+     "mean": 6.9,
+     "sd": 4.2
     },
     "SC": {
      "n": 3,
@@ -811,14 +816,9 @@
      "mean": 6.3,
      "sd": 2.9
     },
-    "CO": {
-     "n": 3,
-     "mean": 5.7,
-     "sd": 4.5
-    },
     "VA": {
      "n": 4,
-     "mean": 5.3,
+     "mean": 5.6,
      "sd": 2.1
     },
     "AZ": {
@@ -826,15 +826,15 @@
      "mean": 5.3,
      "sd": 2.8
     },
-    "WA": {
-     "n": 3,
-     "mean": 4.3,
-     "sd": 0.6
-    },
     "FL": {
      "n": 18,
      "mean": 4.2,
      "sd": 3.2
+    },
+    "WA": {
+     "n": 3,
+     "mean": 4.1,
+     "sd": 0.5
     },
     "WI": {
      "n": 4,
@@ -869,43 +869,43 @@
    },
    "competitive_by_inc": {
     "R": {
-     "n": 74,
-     "mean": 7.0,
-     "sd": 5.3
+     "n": 75,
+     "mean": 7.1,
+     "sd": 5.2
     },
     "D": {
      "n": 25,
-     "mean": 7.9,
-     "sd": 7.0
+     "mean": 8.0,
+     "sd": 7.1
     },
     "open": {
-     "n": 38,
-     "mean": 7.1,
-     "sd": 4.6
+     "n": 39,
+     "mean": 6.9,
+     "sd": 4.7
     }
    },
    "competitive_polled": {
     "no polls": {
-     "n": 62,
-     "mean": 6.8,
-     "sd": 4.7
+     "n": 61,
+     "mean": 7.0,
+     "sd": 4.8
     },
     "polled": {
-     "n": 75,
-     "mean": 7.5,
+     "n": 78,
+     "mean": 7.4,
      "sd": 6.0
     }
    }
   },
   "governors": {
-   "n": 34,
+   "n": 35,
    "mean": 3.7,
-   "mae": 6.3,
-   "d_better": 28,
+   "mae": 6.1,
+   "d_better": 29,
    "by_pres": {
     "Trump +20 or more": {
      "n": 8,
-     "mean": -1.2,
+     "mean": -1.1,
      "sd": 8.9
     },
     "Trump +0 to 10": {
@@ -915,13 +915,13 @@
     },
     "Harris +10 or more": {
      "n": 11,
-     "mean": 5.9,
-     "sd": 6.4
+     "mean": 6.1,
+     "sd": 6.3
     },
     "Trump +10 to 20": {
-     "n": 5,
-     "mean": 5.6,
-     "sd": 2.3
+     "n": 6,
+     "mean": 4.9,
+     "sd": 2.7
     },
     "Harris +0 to 10": {
      "n": 4,
@@ -937,7 +937,7 @@
     },
     "Safe": {
      "n": 12,
-     "mean": 4.0,
+     "mean": 4.1,
      "sd": 5.9
     },
     "Lean": {
@@ -946,9 +946,9 @@
      "sd": 1.6
     },
     "Toss-up": {
-     "n": 1,
-     "mean": 7.6,
-     "sd": 0.0
+     "n": 2,
+     "mean": 4.3,
+     "sd": 3.2
     },
     "Tilt": {
      "n": 3,
@@ -964,8 +964,8 @@
    "races": 23,
    "right": 17,
    "ties": 1,
-   "bias_d": 2.5,
-   "mae": 5.6,
+   "bias_d": 2.6,
+   "mae": 5.7,
    "upsets_polled": 9,
    "upsets_right": 5,
    "upsets": [
@@ -1019,12 +1019,12 @@
   },
   {
    "pollster": "RedBox Research",
-   "races": 32,
+   "races": 33,
    "right": 27,
    "ties": 0,
-   "bias_d": 5.3,
-   "mae": 5.4,
-   "upsets_polled": 8,
+   "bias_d": 5.2,
+   "mae": 5.3,
+   "upsets_polled": 9,
    "upsets_right": 4,
    "upsets": [
     {
@@ -1063,6 +1063,11 @@
      "tie": false
     },
     {
+     "race": "Kansas",
+     "ok": false,
+     "tie": false
+    },
+    {
      "race": "Nevada",
      "ok": true,
      "tie": false
@@ -1072,12 +1077,12 @@
   },
   {
    "pollster": "Impact Research",
-   "races": 10,
+   "races": 12,
    "right": 9,
-   "ties": 1,
-   "bias_d": -0.5,
-   "mae": 4.5,
-   "upsets_polled": 4,
+   "ties": 2,
+   "bias_d": -0.1,
+   "mae": 4.3,
+   "upsets_polled": 5,
    "upsets_right": 4,
    "upsets": [
     {
@@ -1096,12 +1101,50 @@
      "tie": false
     },
     {
+     "race": "CO-4",
+     "ok": false,
+     "tie": false
+    },
+    {
      "race": "MT-1",
      "ok": true,
      "tie": false
     }
    ],
    "mostly": "D"
+  },
+  {
+   "pollster": "NYT/Siena",
+   "races": 26,
+   "right": 24,
+   "ties": 2,
+   "bias_d": 2.6,
+   "mae": 3.8,
+   "upsets_polled": 4,
+   "upsets_right": 3,
+   "upsets": [
+    {
+     "race": "South Carolina",
+     "ok": false,
+     "tie": true
+    },
+    {
+     "race": "PA-1",
+     "ok": true,
+     "tie": false
+    },
+    {
+     "race": "Kansas",
+     "ok": true,
+     "tie": false
+    },
+    {
+     "race": "Texas",
+     "ok": true,
+     "tie": false
+    }
+   ],
+   "mostly": "none"
   },
   {
    "pollster": "GBAO",
@@ -1133,12 +1176,12 @@
   },
   {
    "pollster": "Emerson College",
-   "races": 31,
+   "races": 32,
    "right": 24,
    "ties": 2,
    "bias_d": 4.3,
-   "mae": 6.3,
-   "upsets_polled": 4,
+   "mae": 6.2,
+   "upsets_polled": 5,
    "upsets_right": 2,
    "upsets": [
     {
@@ -1149,6 +1192,11 @@
     {
      "race": "MO-2",
      "ok": true,
+     "tie": false
+    },
+    {
+     "race": "Kansas",
+     "ok": false,
      "tie": false
     },
     {
@@ -1165,22 +1213,17 @@
    "mostly": "none"
   },
   {
-   "pollster": "NYT/Siena",
-   "races": 25,
-   "right": 23,
-   "ties": 2,
-   "bias_d": 2.7,
-   "mae": 3.9,
-   "upsets_polled": 3,
+   "pollster": "AtlasIntel",
+   "races": 16,
+   "right": 16,
+   "ties": 0,
+   "bias_d": 2.1,
+   "mae": 3.5,
+   "upsets_polled": 2,
    "upsets_right": 2,
    "upsets": [
     {
-     "race": "South Carolina",
-     "ok": false,
-     "tie": true
-    },
-    {
-     "race": "PA-1",
+     "race": "Kansas",
      "ok": true,
      "tie": false
     },
@@ -1197,8 +1240,8 @@
    "races": 7,
    "right": 6,
    "ties": 0,
-   "bias_d": 2.5,
-   "mae": 4.4,
+   "bias_d": 2.6,
+   "mae": 4.5,
    "upsets_polled": 3,
    "upsets_right": 2,
    "upsets": [
@@ -1221,17 +1264,22 @@
    "mostly": "D"
   },
   {
-   "pollster": "AtlasIntel",
-   "races": 15,
-   "right": 15,
+   "pollster": "Washington Post/Schar School",
+   "races": 5,
+   "right": 5,
    "ties": 0,
-   "bias_d": 2.5,
-   "mae": 3.5,
-   "upsets_polled": 1,
-   "upsets_right": 1,
+   "bias_d": -0.4,
+   "mae": 3.8,
+   "upsets_polled": 2,
+   "upsets_right": 2,
    "upsets": [
     {
-     "race": "Texas",
+     "race": "VA-1",
+     "ok": true,
+     "tie": false
+    },
+    {
+     "race": "Kansas",
      "ok": true,
      "tie": false
     }
@@ -1240,12 +1288,12 @@
   },
   {
    "pollster": "co/efficient",
-   "races": 23,
+   "races": 24,
    "right": 14,
    "ties": 2,
-   "bias_d": 7.8,
+   "bias_d": 7.9,
    "mae": 8.5,
-   "upsets_polled": 2,
+   "upsets_polled": 3,
    "upsets_right": 1,
    "upsets": [
     {
@@ -1257,18 +1305,41 @@
      "race": "SC-1",
      "ok": false,
      "tie": false
+    },
+    {
+     "race": "Kansas",
+     "ok": false,
+     "tie": false
     }
    ],
    "mostly": "R-lean"
   },
   {
+   "pollster": "Survey 160",
+   "races": 8,
+   "right": 8,
+   "ties": 0,
+   "bias_d": 1.2,
+   "mae": 2.0,
+   "upsets_polled": 1,
+   "upsets_right": 1,
+   "upsets": [
+    {
+     "race": "Kansas",
+     "ok": true,
+     "tie": false
+    }
+   ],
+   "mostly": "none"
+  },
+  {
    "pollster": "Global Strategy Group",
-   "races": 10,
+   "races": 11,
    "right": 6,
-   "ties": 2,
-   "bias_d": 0.9,
-   "mae": 3.9,
-   "upsets_polled": 4,
+   "ties": 3,
+   "bias_d": 1.0,
+   "mae": 3.5,
+   "upsets_polled": 5,
    "upsets_right": 1,
    "upsets": [
     {
@@ -1287,6 +1358,11 @@
      "tie": false
     },
     {
+     "race": "Kansas",
+     "ok": false,
+     "tie": true
+    },
+    {
      "race": "Nevada",
      "ok": false,
      "tie": false
@@ -1299,7 +1375,7 @@
    "races": 6,
    "right": 4,
    "ties": 1,
-   "bias_d": 1.6,
+   "bias_d": 1.7,
    "mae": 2.9,
    "upsets_polled": 2,
    "upsets_right": 1,
@@ -1316,24 +1392,6 @@
     }
    ],
    "mostly": "D"
-  },
-  {
-   "pollster": "Washington Post/Schar School",
-   "races": 4,
-   "right": 4,
-   "ties": 0,
-   "bias_d": 0.6,
-   "mae": 3.2,
-   "upsets_polled": 1,
-   "upsets_right": 1,
-   "upsets": [
-    {
-     "race": "VA-1",
-     "ok": true,
-     "tie": false
-    }
-   ],
-   "mostly": "none"
   },
   {
    "pollster": "Hart Research Associates",
@@ -1518,6 +1576,24 @@
    "mostly": "D-lean"
   },
   {
+   "pollster": "DCCC Targeting Team",
+   "races": 2,
+   "right": 2,
+   "ties": 0,
+   "bias_d": 0.6,
+   "mae": 1.2,
+   "upsets_polled": 1,
+   "upsets_right": 1,
+   "upsets": [
+    {
+     "race": "VA-1",
+     "ok": true,
+     "tie": false
+    }
+   ],
+   "mostly": "D"
+  },
+  {
    "pollster": "Braun Research",
    "races": 2,
    "right": 2,
@@ -1613,24 +1689,6 @@
    "mostly": "D"
   },
   {
-   "pollster": "DCCC Targeting Team",
-   "races": 1,
-   "right": 1,
-   "ties": 0,
-   "bias_d": 1.8,
-   "mae": 1.8,
-   "upsets_polled": 1,
-   "upsets_right": 1,
-   "upsets": [
-    {
-     "race": "VA-1",
-     "ok": true,
-     "tie": false
-    }
-   ],
-   "mostly": "D"
-  },
-  {
    "pollster": "Montana State University Billings (Mountain State Poll)",
    "races": 1,
    "right": 1,
@@ -1653,8 +1711,8 @@
    "races": 21,
    "right": 20,
    "ties": 0,
-   "bias_d": 5.4,
-   "mae": 5.8,
+   "bias_d": 5.5,
+   "mae": 5.9,
    "upsets_polled": 1,
    "upsets_right": 0,
    "upsets": [
@@ -1668,14 +1726,19 @@
   },
   {
    "pollster": "YouGov",
-   "races": 22,
+   "races": 23,
    "right": 19,
    "ties": 1,
    "bias_d": 4.2,
-   "mae": 5.2,
-   "upsets_polled": 1,
+   "mae": 5.1,
+   "upsets_polled": 2,
    "upsets_right": 0,
    "upsets": [
+    {
+     "race": "Kansas",
+     "ok": false,
+     "tie": false
+    },
     {
      "race": "Texas",
      "ok": false,
@@ -1689,8 +1752,8 @@
    "races": 14,
    "right": 12,
    "ties": 0,
-   "bias_d": 6.4,
-   "mae": 6.5,
+   "bias_d": 6.5,
+   "mae": 6.6,
    "upsets_polled": 1,
    "upsets_right": 0,
    "upsets": [
@@ -1798,6 +1861,24 @@
    "mostly": "none"
   },
   {
+   "pollster": "University of New Hampshire",
+   "races": 11,
+   "right": 9,
+   "ties": 1,
+   "bias_d": 2.7,
+   "mae": 6.7,
+   "upsets_polled": 1,
+   "upsets_right": 0,
+   "upsets": [
+    {
+     "race": "Vermont",
+     "ok": false,
+     "tie": false
+    }
+   ],
+   "mostly": "none"
+  },
+  {
    "pollster": "Big Data Poll",
    "races": 11,
    "right": 8,
@@ -1817,34 +1898,21 @@
   },
   {
    "pollster": "SSRS",
-   "races": 10,
+   "races": 11,
    "right": 8,
    "ties": 0,
-   "bias_d": 2.9,
-   "mae": 3.1,
-   "upsets_polled": 1,
+   "bias_d": 3.1,
+   "mae": 3.3,
+   "upsets_polled": 2,
    "upsets_right": 0,
    "upsets": [
     {
-     "race": "Texas",
+     "race": "Kansas",
      "ok": false,
      "tie": false
-    }
-   ],
-   "mostly": "none"
-  },
-  {
-   "pollster": "University of New Hampshire",
-   "races": 10,
-   "right": 8,
-   "ties": 1,
-   "bias_d": 2.6,
-   "mae": 7.0,
-   "upsets_polled": 1,
-   "upsets_right": 0,
-   "upsets": [
+    },
     {
-     "race": "Vermont",
+     "race": "Texas",
      "ok": false,
      "tie": false
     }
@@ -1868,18 +1936,6 @@
     }
    ],
    "mostly": "R-lean"
-  },
-  {
-   "pollster": "Survey 160",
-   "races": 7,
-   "right": 7,
-   "ties": 0,
-   "bias_d": 1.6,
-   "mae": 2.1,
-   "upsets_polled": 0,
-   "upsets_right": 0,
-   "upsets": [],
-   "mostly": "none"
   },
   {
    "pollster": "Targoz Market Research",
@@ -1916,8 +1972,8 @@
    "races": 7,
    "right": 5,
    "ties": 0,
-   "bias_d": 4.8,
-   "mae": 4.8,
+   "bias_d": 4.9,
+   "mae": 4.9,
    "upsets_polled": 2,
    "upsets_right": 0,
    "upsets": [
@@ -2041,7 +2097,7 @@
    "races": 4,
    "right": 4,
    "ties": 0,
-   "bias_d": 5.2,
+   "bias_d": 5.3,
    "mae": 6.8,
    "upsets_polled": 0,
    "upsets_right": 0,
@@ -2065,8 +2121,8 @@
    "races": 4,
    "right": 4,
    "ties": 0,
-   "bias_d": -2.1,
-   "mae": 3.0,
+   "bias_d": -2.0,
+   "mae": 2.9,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -2089,7 +2145,7 @@
    "races": 4,
    "right": 3,
    "ties": 0,
-   "bias_d": 2.8,
+   "bias_d": 2.9,
    "mae": 4.3,
    "upsets_polled": 0,
    "upsets_right": 0,
@@ -2131,8 +2187,8 @@
    "races": 3,
    "right": 3,
    "ties": 0,
-   "bias_d": 2.9,
-   "mae": 2.9,
+   "bias_d": 3.0,
+   "mae": 3.0,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -2158,11 +2214,11 @@
   },
   {
    "pollster": "Tulchin Research",
-   "races": 4,
+   "races": 5,
    "right": 3,
    "ties": 1,
-   "bias_d": 3.7,
-   "mae": 3.7,
+   "bias_d": 1.8,
+   "mae": 4.1,
    "upsets_polled": 1,
    "upsets_right": 0,
    "upsets": [
@@ -2179,8 +2235,8 @@
    "races": 3,
    "right": 3,
    "ties": 0,
-   "bias_d": 11.5,
-   "mae": 12.7,
+   "bias_d": 13.0,
+   "mae": 13.0,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -2191,7 +2247,7 @@
    "races": 3,
    "right": 3,
    "ties": 0,
-   "bias_d": 4.6,
+   "bias_d": 4.7,
    "mae": 5.1,
    "upsets_polled": 0,
    "upsets_right": 0,
@@ -2203,8 +2259,8 @@
    "races": 3,
    "right": 3,
    "ties": 0,
-   "bias_d": 0.7,
-   "mae": 3.1,
+   "bias_d": 0.8,
+   "mae": 3.0,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -2395,8 +2451,8 @@
    "races": 2,
    "right": 2,
    "ties": 0,
-   "bias_d": 3.0,
-   "mae": 3.0,
+   "bias_d": 2.9,
+   "mae": 2.9,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -2419,7 +2475,7 @@
    "races": 2,
    "right": 2,
    "ties": 0,
-   "bias_d": 3.0,
+   "bias_d": 2.9,
    "mae": 3.1,
    "upsets_polled": 0,
    "upsets_right": 0,
@@ -2576,7 +2632,7 @@
    "right": 2,
    "ties": 0,
    "bias_d": 0.4,
-   "mae": 1.5,
+   "mae": 1.6,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -2587,8 +2643,8 @@
    "races": 2,
    "right": 2,
    "ties": 0,
-   "bias_d": -4.6,
-   "mae": 10.4,
+   "bias_d": -4.1,
+   "mae": 10.9,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -2821,8 +2877,8 @@
    "races": 2,
    "right": 1,
    "ties": 0,
-   "bias_d": 2.6,
-   "mae": 4.6,
+   "bias_d": 2.8,
+   "mae": 4.5,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -3073,8 +3129,8 @@
    "races": 1,
    "right": 1,
    "ties": 0,
-   "bias_d": -1.1,
-   "mae": 1.1,
+   "bias_d": -1.2,
+   "mae": 1.2,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -3115,8 +3171,8 @@
    "races": 2,
    "right": 1,
    "ties": 0,
-   "bias_d": 5.2,
-   "mae": 9.2,
+   "bias_d": 5.3,
+   "mae": 9.3,
    "upsets_polled": 1,
    "upsets_right": 0,
    "upsets": [
@@ -3240,8 +3296,8 @@
    "races": 1,
    "right": 1,
    "ties": 0,
-   "bias_d": 16.6,
-   "mae": 16.6,
+   "bias_d": 16.2,
+   "mae": 16.2,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -3276,8 +3332,8 @@
    "races": 1,
    "right": 1,
    "ties": 0,
-   "bias_d": 11.4,
-   "mae": 11.4,
+   "bias_d": 11.6,
+   "mae": 11.6,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -3300,8 +3356,8 @@
    "races": 1,
    "right": 1,
    "ties": 0,
-   "bias_d": 6.2,
-   "mae": 6.2,
+   "bias_d": 6.4,
+   "mae": 6.4,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -3312,8 +3368,8 @@
    "races": 1,
    "right": 1,
    "ties": 0,
-   "bias_d": 36.0,
-   "mae": 36.0,
+   "bias_d": 36.4,
+   "mae": 36.4,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -3324,8 +3380,8 @@
    "races": 2,
    "right": 1,
    "ties": 0,
-   "bias_d": 1.5,
-   "mae": 2.8,
+   "bias_d": 1.8,
+   "mae": 2.5,
    "upsets_polled": 1,
    "upsets_right": 0,
    "upsets": [
@@ -3366,8 +3422,8 @@
    "races": 1,
    "right": 1,
    "ties": 0,
-   "bias_d": 5.7,
-   "mae": 5.7,
+   "bias_d": 5.9,
+   "mae": 5.9,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -3429,11 +3485,11 @@
   },
   {
    "pollster": "University of New Hampshire Survey Center (Pine Tree State Poll)",
-   "races": 1,
+   "races": 2,
    "right": 1,
    "ties": 0,
-   "bias_d": -1.2,
-   "mae": 1.2,
+   "bias_d": -4.4,
+   "mae": 4.4,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -3576,8 +3632,8 @@
    "races": 1,
    "right": 1,
    "ties": 0,
-   "bias_d": 11.3,
-   "mae": 11.3,
+   "bias_d": 11.2,
+   "mae": 11.2,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -3588,8 +3644,8 @@
    "races": 1,
    "right": 1,
    "ties": 0,
-   "bias_d": 13.3,
-   "mae": 13.3,
+   "bias_d": 13.2,
+   "mae": 13.2,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -3600,8 +3656,8 @@
    "races": 1,
    "right": 1,
    "ties": 0,
-   "bias_d": 21.3,
-   "mae": 21.3,
+   "bias_d": 21.2,
+   "mae": 21.2,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -3612,8 +3668,8 @@
    "races": 1,
    "right": 1,
    "ties": 0,
-   "bias_d": 4.3,
-   "mae": 4.3,
+   "bias_d": 4.2,
+   "mae": 4.2,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -3624,8 +3680,8 @@
    "races": 1,
    "right": 1,
    "ties": 0,
-   "bias_d": 7.3,
-   "mae": 7.3,
+   "bias_d": 7.2,
+   "mae": 7.2,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -3636,8 +3692,8 @@
    "races": 1,
    "right": 1,
    "ties": 0,
-   "bias_d": 8.5,
-   "mae": 8.5,
+   "bias_d": 8.4,
+   "mae": 8.4,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -3648,8 +3704,8 @@
    "races": 1,
    "right": 1,
    "ties": 0,
-   "bias_d": -4.0,
-   "mae": 4.0,
+   "bias_d": -3.9,
+   "mae": 3.9,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -3660,8 +3716,8 @@
    "races": 1,
    "right": 1,
    "ties": 0,
-   "bias_d": -3.9,
-   "mae": 3.9,
+   "bias_d": -3.8,
+   "mae": 3.8,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -3708,8 +3764,8 @@
    "races": 1,
    "right": 1,
    "ties": 0,
-   "bias_d": 5.7,
-   "mae": 5.7,
+   "bias_d": 6.8,
+   "mae": 6.8,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -3840,8 +3896,8 @@
    "races": 1,
    "right": 1,
    "ties": 0,
-   "bias_d": -7.8,
-   "mae": 7.8,
+   "bias_d": -7.6,
+   "mae": 7.6,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -3852,8 +3908,8 @@
    "races": 1,
    "right": 1,
    "ties": 0,
-   "bias_d": 2.2,
-   "mae": 2.2,
+   "bias_d": 2.4,
+   "mae": 2.4,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -3984,8 +4040,8 @@
    "races": 2,
    "right": 0,
    "ties": 1,
-   "bias_d": -1.7,
-   "mae": 1.7,
+   "bias_d": -1.6,
+   "mae": 1.6,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -4104,8 +4160,8 @@
    "races": 1,
    "right": 0,
    "ties": 0,
-   "bias_d": -10.6,
-   "mae": 10.6,
+   "bias_d": -10.3,
+   "mae": 10.3,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -6074,7 +6130,7 @@
     "p_winner": 0.084,
     "tier": "Likely",
     "forecast_margin_winner": -8.0,
-    "actual_margin_winner": 0.5,
+    "actual_margin_winner": 0.8,
     "counted": 99,
     "poll_avg_winner": -6.6,
     "prior_winner": -14.7,
@@ -6650,8 +6706,8 @@
  "house": {
   "summary": {
    "n": 417,
-   "called": 405,
-   "right": 377,
+   "called": 407,
+   "right": 378,
    "upsets": [
     "TX-9",
     "TX-15",
@@ -6676,19 +6732,20 @@
     "NC-14",
     "VA-1",
     "SC-1",
+    "CO-4",
     "CO-5",
     "NV-2",
     "MT-1",
     "MO-2",
     "AL-2"
    ],
-   "expected_upsets": 18.8,
+   "expected_upsets": 19.3,
    "upsets_by_winner": {
-    "D": 28
+    "D": 29
    },
-   "close_n": 36,
-   "close_right": 18,
-   "close_expected": 23.7,
+   "close_n": 37,
+   "close_right": 19,
+   "close_expected": 24.3,
    "close_fav": [
     {
      "fav": "D",
@@ -6703,7 +6760,7 @@
     {
      "fav": "R",
      "won": "R",
-     "n": 4
+     "n": 5
     }
    ],
    "uncalled": [
@@ -6713,10 +6770,8 @@
     "NC-7",
     "NC-10",
     "TN-4",
-    "CO-4",
     "AK-AL",
     "MN-1",
-    "ME-2",
     "LA-5",
     "LA-6"
    ],
@@ -6731,9 +6786,9 @@
     {
      "lo": 0.6,
      "hi": 0.7,
-     "n": 12,
-     "expected": 7.7,
-     "won": 5
+     "n": 13,
+     "expected": 8.4,
+     "won": 6
     },
     {
      "lo": 0.7,
@@ -6752,8 +6807,8 @@
     {
      "lo": 0.9,
      "hi": 0.99,
-     "n": 79,
-     "expected": 76.0,
+     "n": 80,
+     "expected": 76.9,
      "won": 73
     },
     {
@@ -6772,21 +6827,21 @@
     "kind": "model",
     "covered": "all",
     "upsets_caught": [],
-    "right": 377,
-    "wrong": 28,
+    "right": 378,
+    "wrong": 29,
     "nocall": 0,
-    "n": 405,
-    "brier": 0.0462
+    "n": 407,
+    "brier": 0.0485
    },
    {
     "id": "cook",
     "name": "Cook Political Report",
     "kind": "rater",
     "covered": "all",
-    "right": 372,
-    "wrong": 15,
+    "right": 373,
+    "wrong": 16,
     "nocall": 18,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "OH-9"
@@ -6804,6 +6859,7 @@
      "NC-9",
      "NC-13",
      "NC-14",
+     "CO-4",
      "NV-2",
      "MO-2",
      "AL-2"
@@ -6815,10 +6871,10 @@
     "name": "Sabato's Crystal Ball",
     "kind": "rater",
     "covered": "all",
-    "right": 387,
-    "wrong": 18,
+    "right": 388,
+    "wrong": 19,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "TX-15",
@@ -6851,6 +6907,7 @@
      "NC-14",
      "VA-5",
      "SC-1",
+     "CO-4",
      "NV-2",
      "MO-2"
     ],
@@ -6861,10 +6918,10 @@
     "name": "Inside Elections",
     "kind": "rater",
     "covered": "all",
-    "right": 374,
-    "wrong": 18,
+    "right": 375,
+    "wrong": 19,
     "nocall": 13,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "TX-15",
@@ -6887,6 +6944,7 @@
      "NC-14",
      "VA-1",
      "SC-1",
+     "CO-4",
      "NV-2",
      "MO-2",
      "AL-2"
@@ -6897,15 +6955,15 @@
     "id": "ddhq",
     "name": "Decision Desk HQ / The Hill",
     "kind": "model",
-    "covered": 142,
-    "right": 118,
-    "wrong": 24,
+    "covered": 144,
+    "right": 119,
+    "wrong": 25,
     "nocall": 0,
-    "n": 142,
-    "brier": 0.11,
-    "brier_ours_same": 0.1318,
-    "n_brier": 142,
-    "right_ours_same": 114,
+    "n": 144,
+    "brier": 0.1144,
+    "brier_ours_same": 0.1372,
+    "n_brier": 144,
+    "right_ours_same": 115,
     "upsets_caught": [
      "TX-35",
      "OH-7",
@@ -6932,6 +6990,7 @@
      "NC-14",
      "VA-1",
      "SC-1",
+     "CO-4",
      "CO-5",
      "NV-2",
      "MT-1",
@@ -6945,15 +7004,15 @@
     "id": "economist",
     "name": "The Economist",
     "kind": "model",
-    "covered": 142,
-    "right": 118,
-    "wrong": 24,
+    "covered": 144,
+    "right": 119,
+    "wrong": 25,
     "nocall": 0,
-    "n": 142,
-    "brier": 0.1267,
-    "brier_ours_same": 0.1318,
-    "n_brier": 142,
-    "right_ours_same": 114,
+    "n": 144,
+    "brier": 0.1299,
+    "brier_ours_same": 0.1372,
+    "n_brier": 144,
+    "right_ours_same": 115,
     "upsets_caught": [
      "TX-15",
      "FL-22",
@@ -6983,6 +7042,7 @@
      "NC-14",
      "VA-1",
      "SC-1",
+     "CO-4",
      "CO-5",
      "NV-2",
      "MO-2",
@@ -6995,15 +7055,15 @@
     "id": "fiftyplusone",
     "name": "FiftyPlusOne (G. Elliott Morris model; also published via Strength In Numbers)",
     "kind": "model",
-    "covered": 142,
+    "covered": 144,
     "right": 125,
-    "wrong": 17,
+    "wrong": 19,
     "nocall": 0,
-    "n": 142,
-    "brier": 0.0994,
-    "brier_ours_same": 0.1318,
-    "n_brier": 142,
-    "right_ours_same": 114,
+    "n": 144,
+    "brier": 0.1055,
+    "brier_ours_same": 0.1372,
+    "n_brier": 144,
+    "right_ours_same": 115,
     "upsets_caught": [
      "TX-35",
      "FL-22",
@@ -7032,8 +7092,10 @@
      "NC-13",
      "NC-14",
      "SC-1",
+     "CO-4",
      "NV-2",
      "MT-1",
+     "ME-2",
      "AL-2"
     ],
     "date": "2026-11-03T05:53:08Z",
@@ -7043,15 +7105,15 @@
     "id": "kalshi",
     "name": "Kalshi",
     "kind": "market",
-    "covered": 55,
-    "right": 53,
+    "covered": 56,
+    "right": 54,
     "wrong": 2,
     "nocall": 0,
-    "n": 55,
-    "brier": 0.0493,
-    "brier_ours_same": 0.1092,
-    "n_brier": 55,
-    "right_ours_same": 45,
+    "n": 56,
+    "brier": 0.0513,
+    "brier_ours_same": 0.1099,
+    "n_brier": 56,
+    "right_ours_same": 46,
     "upsets_caught": [
      "TX-15",
      "TX-35",
@@ -7074,15 +7136,15 @@
     "id": "polymarket",
     "name": "Polymarket",
     "kind": "market",
-    "covered": 142,
-    "right": 126,
-    "wrong": 16,
+    "covered": 144,
+    "right": 127,
+    "wrong": 17,
     "nocall": 0,
-    "n": 142,
-    "brier": 0.0777,
-    "brier_ours_same": 0.1318,
-    "n_brier": 142,
-    "right_ours_same": 114,
+    "n": 144,
+    "brier": 0.0806,
+    "brier_ours_same": 0.1372,
+    "n_brier": 144,
+    "right_ours_same": 115,
     "upsets_caught": [
      "TX-15",
      "TX-35",
@@ -7112,6 +7174,7 @@
      "NC-14",
      "SC-1",
      "CO-3",
+     "CO-4",
      "CO-5",
      "NV-2",
      "MO-2"
@@ -7123,15 +7186,15 @@
     "id": "rtwh",
     "name": "Race to the WH (Logan Phillips)",
     "kind": "model",
-    "covered": 142,
-    "right": 121,
-    "wrong": 21,
+    "covered": 144,
+    "right": 122,
+    "wrong": 22,
     "nocall": 0,
-    "n": 142,
-    "brier": 0.1121,
-    "brier_ours_same": 0.1318,
-    "n_brier": 142,
-    "right_ours_same": 114,
+    "n": 144,
+    "brier": 0.116,
+    "brier_ours_same": 0.1372,
+    "n_brier": 144,
+    "right_ours_same": 115,
     "upsets_caught": [
      "TX-15",
      "TX-23",
@@ -7160,6 +7223,7 @@
      "NC-13",
      "NC-14",
      "SC-1",
+     "CO-4",
      "CO-5",
      "NV-2",
      "MO-2",
@@ -7172,15 +7236,15 @@
     "id": "splitticket",
     "name": "Split Ticket (published by The Argument)",
     "kind": "model",
-    "covered": 142,
-    "right": 125,
-    "wrong": 16,
+    "covered": 144,
+    "right": 126,
+    "wrong": 17,
     "nocall": 1,
-    "n": 142,
-    "brier": 0.0944,
-    "brier_ours_same": 0.1318,
-    "n_brier": 142,
-    "right_ours_same": 114,
+    "n": 144,
+    "brier": 0.0968,
+    "brier_ours_same": 0.1372,
+    "n_brier": 144,
+    "right_ours_same": 115,
     "upsets_caught": [
      "TX-15",
      "TX-23",
@@ -7209,6 +7273,7 @@
      "NC-13",
      "NC-14",
      "SC-1",
+     "CO-4",
      "CO-5",
      "NV-2",
      "MO-2"
@@ -7222,9 +7287,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 385,
-    "wrong": 20,
+    "wrong": 22,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "TX-35",
@@ -7249,9 +7314,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 385,
-    "wrong": 20,
+    "wrong": 22,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "TX-35",
@@ -7276,9 +7341,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 385,
-    "wrong": 20,
+    "wrong": 22,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "TX-35",
@@ -7303,9 +7368,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 384,
-    "wrong": 21,
+    "wrong": 23,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "TX-35",
@@ -7332,9 +7397,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 384,
-    "wrong": 21,
+    "wrong": 23,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "TX-35",
@@ -7361,9 +7426,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 387,
-    "wrong": 18,
+    "wrong": 20,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "TX-35",
@@ -7388,9 +7453,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 383,
-    "wrong": 22,
+    "wrong": 24,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "TX-35",
@@ -7417,9 +7482,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 386,
-    "wrong": 19,
+    "wrong": 21,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "TX-35",
@@ -7443,9 +7508,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 386,
-    "wrong": 19,
+    "wrong": 21,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "TX-35",
@@ -7469,9 +7534,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 386,
-    "wrong": 19,
+    "wrong": 21,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "TX-35",
@@ -7495,9 +7560,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 381,
-    "wrong": 24,
+    "wrong": 26,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "TX-35",
@@ -7525,9 +7590,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 383,
-    "wrong": 22,
+    "wrong": 24,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "TX-35",
@@ -7548,9 +7613,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 380,
-    "wrong": 25,
+    "wrong": 27,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "TX-23",
@@ -7582,9 +7647,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 379,
-    "wrong": 26,
+    "wrong": 28,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "PA-1",
@@ -7603,9 +7668,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 379,
-    "wrong": 26,
+    "wrong": 28,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "PA-1",
@@ -7624,9 +7689,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 379,
-    "wrong": 26,
+    "wrong": 28,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "PA-1",
@@ -7645,9 +7710,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 379,
-    "wrong": 26,
+    "wrong": 28,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "PA-1",
@@ -7666,9 +7731,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 379,
-    "wrong": 26,
+    "wrong": 28,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "PA-1",
@@ -7687,9 +7752,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 379,
-    "wrong": 26,
+    "wrong": 28,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "PA-1",
@@ -7708,9 +7773,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 379,
-    "wrong": 26,
+    "wrong": 28,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "PA-1",
@@ -7729,9 +7794,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 379,
-    "wrong": 26,
+    "wrong": 28,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "PA-1",
@@ -7749,10 +7814,10 @@
     "name": "Focaldata/FT national poll (D+7.4), uniform swing",
     "kind": "national_poll",
     "covered": "all",
-    "right": 377,
-    "wrong": 28,
+    "right": 378,
+    "wrong": 29,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "PA-1",
@@ -7769,10 +7834,10 @@
     "name": "NBC (Hart/POS) national poll (D+7), uniform swing",
     "kind": "national_poll",
     "covered": "all",
-    "right": 376,
-    "wrong": 29,
+    "right": 377,
+    "wrong": 30,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "PA-1",
@@ -7789,10 +7854,10 @@
     "name": "ActiVote national poll (D+7), uniform swing",
     "kind": "national_poll",
     "covered": "all",
-    "right": 376,
-    "wrong": 29,
+    "right": 377,
+    "wrong": 30,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "PA-1",
@@ -7809,10 +7874,10 @@
     "name": "CNBC (Hart/POS) national poll (D+7), uniform swing",
     "kind": "national_poll",
     "covered": "all",
-    "right": 376,
-    "wrong": 29,
+    "right": 377,
+    "wrong": 30,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "PA-1",
@@ -7829,10 +7894,10 @@
     "name": "Zogby national poll (D+6), uniform swing",
     "kind": "national_poll",
     "covered": "all",
-    "right": 373,
-    "wrong": 32,
+    "right": 374,
+    "wrong": 33,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "PA-1",
@@ -7847,10 +7912,10 @@
     "name": "Ipsos mail study national poll (D+6), uniform swing",
     "kind": "national_poll",
     "covered": "all",
-    "right": 373,
-    "wrong": 32,
+    "right": 374,
+    "wrong": 33,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "PA-1",
@@ -7865,10 +7930,10 @@
     "name": "Rasmussen national poll (D+6), uniform swing",
     "kind": "national_poll",
     "covered": "all",
-    "right": 373,
-    "wrong": 32,
+    "right": 374,
+    "wrong": 33,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "PA-1",
@@ -7883,10 +7948,10 @@
     "name": "Leger national poll (D+6), uniform swing",
     "kind": "national_poll",
     "covered": "all",
-    "right": 373,
-    "wrong": 32,
+    "right": 374,
+    "wrong": 33,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "PA-1",
@@ -7901,10 +7966,10 @@
     "name": "Echelon/NetChoice national poll (D+5), uniform swing",
     "kind": "national_poll",
     "covered": "all",
-    "right": 371,
-    "wrong": 34,
+    "right": 372,
+    "wrong": 35,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "PA-1",
@@ -7918,10 +7983,10 @@
     "name": "Echelon omnibus national poll (D+5), uniform swing",
     "kind": "national_poll",
     "covered": "all",
-    "right": 371,
-    "wrong": 34,
+    "right": 372,
+    "wrong": 35,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "PA-1",
@@ -7935,10 +8000,10 @@
     "name": "Harvard-Harris national poll (D+4), uniform swing",
     "kind": "national_poll",
     "covered": "all",
-    "right": 370,
-    "wrong": 35,
+    "right": 371,
+    "wrong": 36,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "PA-1",
@@ -7951,10 +8016,10 @@
     "name": "Penn State/YouGov national poll (D+4), uniform swing",
     "kind": "national_poll",
     "covered": "all",
-    "right": 370,
-    "wrong": 35,
+    "right": 371,
+    "wrong": 36,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "PA-1",
@@ -7967,10 +8032,10 @@
     "name": "Targoz national poll (D+3), uniform swing",
     "kind": "national_poll",
     "covered": "all",
-    "right": 367,
-    "wrong": 38,
+    "right": 368,
+    "wrong": 39,
     "nocall": 0,
-    "n": 405,
+    "n": 407,
     "brier": null,
     "upsets_caught": [
      "PA-1"
@@ -7980,11 +8045,11 @@
     "id": "pollavg",
     "name": "Polling-average leader (polled races only)",
     "kind": "polls",
-    "covered": 104,
-    "right": 80,
-    "wrong": 24,
+    "covered": 106,
+    "right": 81,
+    "wrong": 25,
     "nocall": 0,
-    "n": 104,
+    "n": 106,
     "brier": null,
     "upsets_caught": [
      "TX-15",
@@ -7997,7 +8062,7 @@
    }
   ],
   "close": {
-   "n": 36,
+   "n": 37,
    "races": [
     "TX-15",
     "TX-34",
@@ -8033,6 +8098,7 @@
     "MT-1",
     "IA-2",
     "IA-3",
+    "ME-2",
     "MO-2",
     "AL-2"
    ],
@@ -8040,9 +8106,9 @@
     {
      "name": "This forecast",
      "kind": "model",
-     "covered": 36,
-     "calls": 36,
-     "right": 18,
+     "covered": 37,
+     "calls": 37,
+     "right": 19,
      "confident": 15,
      "confident_right": 8,
      "nocall": 0
@@ -8050,9 +8116,9 @@
     {
      "name": "Cook Political Report",
      "kind": "rater",
-     "covered": 36,
-     "calls": 20,
-     "right": 15,
+     "covered": 37,
+     "calls": 21,
+     "right": 16,
      "confident": 3,
      "confident_right": 2,
      "nocall": 16
@@ -8060,9 +8126,9 @@
     {
      "name": "Sabato's Crystal Ball",
      "kind": "rater",
-     "covered": 36,
-     "calls": 36,
-     "right": 29,
+     "covered": 37,
+     "calls": 37,
+     "right": 30,
      "confident": 1,
      "confident_right": 1,
      "nocall": 0
@@ -8070,9 +8136,9 @@
     {
      "name": "Inside Elections",
      "kind": "rater",
-     "covered": 36,
-     "calls": 26,
-     "right": 18,
+     "covered": 37,
+     "calls": 27,
+     "right": 19,
      "confident": 4,
      "confident_right": 3,
      "nocall": 10
@@ -8080,9 +8146,9 @@
     {
      "name": "Decision Desk HQ / The Hill",
      "kind": "model",
-     "covered": 36,
-     "calls": 36,
-     "right": 22,
+     "covered": 37,
+     "calls": 37,
+     "right": 23,
      "confident": 13,
      "confident_right": 10,
      "nocall": 0
@@ -8090,9 +8156,9 @@
     {
      "name": "The Economist",
      "kind": "model",
-     "covered": 36,
-     "calls": 36,
-     "right": 22,
+     "covered": 37,
+     "calls": 37,
+     "right": 23,
      "confident": 16,
      "confident_right": 10,
      "nocall": 0
@@ -8100,8 +8166,8 @@
     {
      "name": "FiftyPlusOne (G. Elliott Morris model; also published via Strength In Numbers)",
      "kind": "model",
-     "covered": 36,
-     "calls": 36,
+     "covered": 37,
+     "calls": 37,
      "right": 29,
      "confident": 12,
      "confident_right": 11,
@@ -8110,9 +8176,9 @@
     {
      "name": "Kalshi",
      "kind": "market",
-     "covered": 22,
-     "calls": 22,
-     "right": 21,
+     "covered": 23,
+     "calls": 23,
+     "right": 22,
      "confident": 14,
      "confident_right": 14,
      "nocall": 0
@@ -8120,9 +8186,9 @@
     {
      "name": "Polymarket",
      "kind": "market",
-     "covered": 36,
-     "calls": 36,
-     "right": 30,
+     "covered": 37,
+     "calls": 37,
+     "right": 31,
      "confident": 21,
      "confident_right": 20,
      "nocall": 0
@@ -8130,19 +8196,19 @@
     {
      "name": "Race to the WH (Logan Phillips)",
      "kind": "model",
-     "covered": 36,
-     "calls": 36,
-     "right": 23,
-     "confident": 17,
-     "confident_right": 13,
+     "covered": 37,
+     "calls": 37,
+     "right": 24,
+     "confident": 18,
+     "confident_right": 14,
      "nocall": 0
     },
     {
      "name": "Split Ticket (published by The Argument)",
      "kind": "model",
-     "covered": 36,
-     "calls": 35,
-     "right": 28,
+     "covered": 37,
+     "calls": 36,
+     "right": 29,
      "confident": 13,
      "confident_right": 13,
      "nocall": 1
@@ -8163,8 +8229,8 @@
     "p_winner": 0.034,
     "tier": "Likely",
     "forecast_margin_winner": -9.9,
-    "actual_margin_winner": 2.8,
-    "counted": 98,
+    "actual_margin_winner": 3.2,
+    "counted": 99,
     "poll_avg_winner": -12.6,
     "prior_winner": -7.8,
     "prior_weight": 0.56,
@@ -8644,6 +8710,154 @@
      "picked_winner": [],
      "picked_winner_note": "No rater picked Gutierrez. Final ratings: Cook Likely R (Sep 25), Inside Elections Lean R (Oct 29), Sabato Likely R (Sep 22), Silver Bulletin Likely R (Oct 22), DDHQ Likely R, per https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
      "summary": "A Trump +20 seat drawn for Republicans fell to a first-time Democrat who was outraised roughly 17:1. Reporting points to the statewide Democratic wave, a sharp Latino swing (AP VoteCast), and Trump's sagging popularity in the district. That last factor already showed up in October polls: Mealer led by only 6, then by 1 in a DCCC internal. No district-specific post-mortem was found."
+    }
+   },
+   {
+    "ch": "house",
+    "key": "CO-4",
+    "winner": "Laubacher",
+    "winner_party": "D",
+    "loser": "Boebert",
+    "names": [
+     "Eileen Laubacher",
+     "Lauren Boebert"
+    ],
+    "p_winner": 0.057,
+    "tier": "Likely",
+    "forecast_margin_winner": -8.7,
+    "actual_margin_winner": 0.9,
+    "counted": 99,
+    "poll_avg_winner": -9.5,
+    "prior_winner": -8.3,
+    "prior_weight": 0.63,
+    "pres_2024_winner": -18.3,
+    "ratings": {
+     "cook": "Lean R",
+     "sabato": "Lean R",
+     "inside": "Likely R"
+    },
+    "ratings_mid_oct": {
+     "cook": "Lean R",
+     "sabato": "Lean R",
+     "inside": "Solid R"
+    },
+    "models": [
+     {
+      "id": "ddhq",
+      "name": "Decision Desk HQ / The Hill",
+      "market": false,
+      "p_winner": 0.19,
+      "right": false,
+      "band": null
+     },
+     {
+      "id": "fiftyplusone",
+      "name": "FiftyPlusOne (G. Elliott Morris model; also published via Strength In Numbers)",
+      "market": false,
+      "p_winner": 0.108,
+      "right": false,
+      "band": null
+     },
+     {
+      "id": "rtwh",
+      "name": "Race to the WH (Logan Phillips)",
+      "market": false,
+      "p_winner": 0.157,
+      "right": false,
+      "band": null
+     },
+     {
+      "id": "splitticket",
+      "name": "Split Ticket (published by The Argument)",
+      "market": false,
+      "p_winner": 0.37,
+      "right": false,
+      "band": null
+     },
+     {
+      "id": "economist",
+      "name": "The Economist",
+      "market": false,
+      "p_winner": 0.296,
+      "right": false,
+      "band": null
+     },
+     {
+      "id": "polymarket",
+      "name": "Polymarket",
+      "market": true,
+      "p_winner": 0.345,
+      "right": false,
+      "band": null
+     }
+    ],
+    "polls": [
+     {
+      "pollster": "Impact Research (D internal, for Invest in Tomorrow Coalition PAC (anti-Boebert))",
+      "end": "2026-09-24",
+      "winner_lead": -5,
+      "partisan": "D",
+      "lean": null,
+      "url": "https://drive.google.com/file/d/12RT0LvE5BSSi6z_bud_At7MFBAH7p2FL/view",
+      "verified": true
+     }
+    ],
+    "research": {
+     "chamber": "house",
+     "result": "Democrat Eileen Laubacher, a retired Navy rear admiral and former National Security Council official, unseated three-term Republican Rep. Lauren Boebert in Colorado's 4th District. With about 99% of the expected vote counted, AP had Laubacher at 187,745 (48.8%), Boebert at 184,220 (47.9%) and Libertarian Douglas Mangeris at 12,742 (3.3%), a margin of about 3,500 votes (0.9 points). AP called the race on Nov 13, 2026 (19:53 UTC). CNN's Decision Desk had projected it on Nov 9. Laubacher declared victory on Nov 9. As of the last reports found (Nov 10-11), Boebert had not conceded: she told CNN 'why would I concede if the votes aren't in?' and her lawyer Scott Gessler said the campaign expected a recount. The margin is outside Colorado's automatic-recount threshold (0.5% of the winner's total). It is a Democratic flip of the state's reddest seat; no Democrat has held it since Betsy Markey (2009-11), and that was on older lines.",
+     "pres_2024": "Trump 57.9%, Harris 39.6% (R+18.2), per PollCheck's precinct-based calculation (https://www.pollcheck.co.uk/us/house/co-4/). Colorado Politics also says Trump carried the district 'by over 18 points'. The 2026 lines are the same ones used since 2022, so there was no map change. Boebert won here by 11.6 points in 2024.",
+     "explanations": [
+      {
+       "claim": "Laubacher raised nearly $14 million to Boebert's $1.2 million, more than ten times as much. Outside groups spent about $1.5 million against Boebert, mostly on ads about the 2023 'Beetlejuice' incident, and about $600,000 for her.",
+       "kind": "fact",
+       "source": "https://www.coloradopolitics.com/2026/11/03/lauren-boebert-eileen-laubacher-election-results-colorado-cd4/"
+      },
+      {
+       "claim": "Trump fell out with Boebert in 2026. After she campaigned for Rep. Thomas Massie and signed the Epstein-files discharge petition, he called her 'dumb' and 'weak-minded' and invited a primary challenge. He re-endorsed her as a 'MAGA Warrior' days before the election.",
+       "kind": "fact",
+       "source": "https://www.rawstory.com/lauren-boebert-election-2678371501/"
+      },
+      {
+       "claim": "The race was part of a national Democratic wave. In Colorado, Democrats also beat GOP Reps. Gabe Evans (CO-8, by nearly 15 points) and Jeff Crank (CO-5, by almost 5).",
+       "kind": "fact",
+       "source": "https://www.coloradopolitics.com/2026/11/09/lauren-boebert-eileen-laubacher-claims-victory-election-results/"
+      },
+      {
+       "claim": "Laubacher, a former Republican, ran as a moderate national-security Democrat. She attacked Boebert over the Medicaid cuts in the One Big Beautiful Bill (citing rural hospitals), Trump's tariffs, the cost of the Iran war, and her votes against the PACT Act. She also campaigned hard in rural areas.",
+       "kind": "fact",
+       "source": "https://www.kunc.org/news/2026-11-04/lauren-boebert-in-big-fight-to-keep-her-seat-in-congress-in-too-close-to-call-race"
+      },
+      {
+       "claim": "When Sabato's Crystal Ball moved the seat from Likely to Lean Republican on Oct 20, Kyle Kondik said the district is 'redder' than most Lean seats but features 'an unusually weak Republican candidate'.",
+       "kind": "interpretation",
+       "source": "https://www.coloradopolitics.com/2026/10/21/election-forecaster-shifts-2-colorado-house-seats-toward-democrats/"
+      },
+      {
+       "claim": "Republican voter Jeff Conlon of northern Colorado wasn't surprised. He blamed Trump's policies, gas prices and the cost of goods for voters turning to Democrats.",
+       "kind": "interpretation",
+       "source": "https://www.denver7.com/news/politics/voters-weigh-in-on-close-race-in-colorados-4th-congressional-district"
+      },
+      {
+       "claim": "Laubacher's explanation: 'people are hungry for servant-leaders... the job description's in the title: representative.'",
+       "kind": "interpretation",
+       "source": "https://www.lgbtqnation.com/2026/11/lauren-boebert-refuses-to-concede-while-claiming-she-doesnt-care-about-losing-reelection/"
+      },
+      {
+       "claim": "Boebert, asked whether she blamed Trump: 'I don't blame any one person... We collectively failed. The American people let us know that we have failed in this governing experience for this Congress.'",
+       "kind": "interpretation",
+       "source": "https://www.thedailybeast.com/maga-star-lauren-boebert-mocked-for-clinging-to-slim-shot-at-election-victory"
+      }
+     ],
+     "late_polls_winner_ahead": [],
+     "picked_winner": [
+      {
+       "who": "Raters and markets (did not pick)",
+       "what": "No rater or market favored Laubacher. Final ratings: Cook Lean R, Sabato's Crystal Ball Lean R (moved from Likely R on Oct 20), Inside Elections Likely R. Kalshi had Boebert at roughly 69-76% (undated snapshots).",
+       "url": "https://www.coloradopolitics.com/2026/10/21/election-forecaster-shifts-2-colorado-house-seats-toward-democrats/"
+      }
+     ],
+     "summary": "Boebert lost an R+18 seat that Trump carried easily. Laubacher, a well-funded former Republican and retired admiral, outraised her more than ten to one, and Boebert's falling-out with Trump and her scandals hurt her. All of this happened inside a national Democratic wave driven by costs, tariffs and Medicaid cuts. No public polls of the race were found for the final three weeks; the only poll found (Impact Research, Sept 24, per a search snippet) had Boebert up 45-40. No rater or market favored Laubacher. Sabato moved the race to Lean R and Split Ticket called it a Toss-up, so a few saw an upset coming, but nobody predicted it.",
+     "_notes": "Our forecast gave Laubacher 6%. The AP figures and call time come from the brief; Ballotpedia's 187,518 / 184,066 / 12,722 matches them closely. Sources disagree on when AP called the race: LGBTQ Nation (Nov 11) says 'CNN and the AP' had called it, but Colorado Politics on Nov 9 said AP had not, and the brief says AP called it Nov 13. CNN's projection on Nov 9 is well sourced. I found no report of a concession after Nov 11; as of then Boebert had not conceded and was talking about a recount. The final ratings from Cook, Inside Elections, DDHQ and Split Ticket come only from an Axios search-result snippet dated Oct 8 (the page would not fetch), so the final pre-election values may differ. Colorado Politics (Nov 3) says 'national election forecasters' had moved the race to Lean R in the final week, without naming them. The Kalshi range comes from search snippets of undated market pages. I found no late public polls; the Impact Research Sept 24 poll (Boebert 45-40) appears only in a uspollingdata.com search snippet, and its sponsor is unknown. Final rater ratings replaced with the values in final_ratings.json (Wikipedia + 270toWin rater maps), which supersede the early-October Axios snippet."
     }
    },
    {
@@ -10004,8 +10218,8 @@
     "p_winner": 0.264,
     "tier": "Tilt",
     "forecast_margin_winner": -3.2,
-    "actual_margin_winner": 4.7,
-    "counted": 95,
+    "actual_margin_winner": 5.1,
+    "counted": 99,
     "poll_avg_winner": -2.0,
     "prior_winner": -4.3,
     "prior_weight": 0.55,
@@ -11645,7 +11859,7 @@
     "p_winner": 0.388,
     "tier": "Tilt",
     "forecast_margin_winner": -1.4,
-    "actual_margin_winner": 2.8,
+    "actual_margin_winner": 2.9,
     "counted": 99,
     "poll_avg_winner": -1.4,
     "prior_winner": -1.4,
@@ -12417,7 +12631,7 @@
     "p_winner": 0.476,
     "tier": "Toss-up",
     "forecast_margin_winner": -0.3,
-    "actual_margin_winner": 5.5,
+    "actual_margin_winner": 5.7,
     "counted": 99,
     "poll_avg_winner": -2.0,
     "prior_winner": 1.4,
@@ -12636,7 +12850,7 @@
     "p_winner": 0.485,
     "tier": "Toss-up",
     "forecast_margin_winner": -0.2,
-    "actual_margin_winner": 5.5,
+    "actual_margin_winner": 5.4,
     "counted": 98,
     "poll_avg_winner": 0.2,
     "prior_winner": -0.5,
@@ -12800,21 +13014,22 @@
  "governors": {
   "summary": {
    "n": 36,
-   "called": 34,
+   "called": 35,
    "right": 31,
    "upsets": [
+    "Kansas",
     "Nevada",
     "Texas",
     "Vermont"
    ],
-   "expected_upsets": 2.8,
+   "expected_upsets": 3.3,
    "upsets_by_winner": {
-    "D": 2,
+    "D": 3,
     "R": 1
    },
-   "close_n": 6,
+   "close_n": 7,
    "close_right": 3,
-   "close_expected": 4.2,
+   "close_expected": 4.7,
    "close_fav": [
     {
      "fav": "D",
@@ -12829,19 +13044,18 @@
     {
      "fav": "R",
      "won": "D",
-     "n": 2
+     "n": 3
     }
    ],
    "uncalled": [
-    "Alaska",
-    "Kansas"
+    "Alaska"
    ],
    "calibration": [
     {
      "lo": 0.5,
      "hi": 0.6,
-     "n": 1,
-     "expected": 0.6,
+     "n": 2,
+     "expected": 1.1,
      "won": 1
     },
     {
@@ -12889,10 +13103,10 @@
     "covered": "all",
     "upsets_caught": [],
     "right": 31,
-    "wrong": 3,
+    "wrong": 4,
     "nocall": 0,
-    "n": 34,
-    "brier": 0.0536
+    "n": 35,
+    "brier": 0.0605
    },
    {
     "id": "cook",
@@ -12901,8 +13115,8 @@
     "covered": "all",
     "right": 31,
     "wrong": 1,
-    "nocall": 2,
-    "n": 34,
+    "nocall": 3,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Vermont"
@@ -12918,15 +13132,16 @@
     "kind": "rater",
     "covered": "all",
     "right": 33,
-    "wrong": 1,
+    "wrong": 2,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada",
      "Vermont"
     ],
     "wrong_races": [
+     "Kansas",
      "Texas"
     ],
     "date": "2026-11-02"
@@ -12937,14 +13152,15 @@
     "kind": "rater",
     "covered": "all",
     "right": 32,
-    "wrong": 1,
+    "wrong": 2,
     "nocall": 1,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Vermont"
     ],
     "wrong_races": [
+     "Kansas",
      "Texas"
     ],
     "date": "2026-10-29"
@@ -12953,19 +13169,20 @@
     "id": "cnalysis",
     "name": "CNalysis, now rebranded State Navigate",
     "kind": "model",
-    "covered": 19,
+    "covered": 20,
     "right": 17,
-    "wrong": 2,
+    "wrong": 3,
     "nocall": 0,
-    "n": 19,
-    "brier": 0.0777,
-    "brier_ours_same": 0.0956,
-    "n_brier": 19,
+    "n": 20,
+    "brier": 0.0901,
+    "brier_ours_same": 0.1055,
+    "n_brier": 20,
     "right_ours_same": 16,
     "upsets_caught": [
      "Vermont"
     ],
     "wrong_races": [
+     "Kansas",
      "Nevada",
      "Texas"
     ],
@@ -12998,20 +13215,21 @@
     "id": "kalshi",
     "name": "Kalshi",
     "kind": "market",
-    "covered": 23,
+    "covered": 24,
     "right": 22,
-    "wrong": 1,
+    "wrong": 2,
     "nocall": 0,
-    "n": 23,
-    "brier": 0.0418,
-    "brier_ours_same": 0.0792,
-    "n_brier": 23,
+    "n": 24,
+    "brier": 0.0571,
+    "brier_ours_same": 0.0882,
+    "n_brier": 24,
     "right_ours_same": 20,
     "upsets_caught": [
      "Nevada",
      "Vermont"
     ],
     "wrong_races": [
+     "Kansas",
      "Texas"
     ],
     "date": "2026-11-03",
@@ -13021,20 +13239,21 @@
     "id": "leantossup",
     "name": "LeanTossup.ca",
     "kind": "model",
-    "covered": 23,
+    "covered": 24,
     "right": 22,
-    "wrong": 1,
+    "wrong": 2,
     "nocall": 0,
-    "n": 23,
-    "brier": 0.0439,
-    "brier_ours_same": 0.0792,
-    "n_brier": 23,
+    "n": 24,
+    "brier": 0.0595,
+    "brier_ours_same": 0.0882,
+    "n_brier": 24,
     "right_ours_same": 20,
     "upsets_caught": [
      "Nevada",
      "Vermont"
     ],
     "wrong_races": [
+     "Kansas",
      "Texas"
     ],
     "date": "2026-11-02",
@@ -13044,16 +13263,17 @@
     "id": "onpoint",
     "name": "On Point Politics forecast (On Point Polling / VT Analytics)",
     "kind": "model",
-    "covered": 23,
-    "right": 22,
+    "covered": 24,
+    "right": 23,
     "wrong": 1,
     "nocall": 0,
-    "n": 23,
-    "brier": 0.0357,
-    "brier_ours_same": 0.0792,
-    "n_brier": 23,
+    "n": 24,
+    "brier": 0.0374,
+    "brier_ours_same": 0.0882,
+    "n_brier": 24,
     "right_ours_same": 20,
     "upsets_caught": [
+     "Kansas",
      "Nevada",
      "Vermont"
     ],
@@ -13067,20 +13287,21 @@
     "id": "polymarket",
     "name": "Polymarket",
     "kind": "market",
-    "covered": 23,
+    "covered": 24,
     "right": 22,
-    "wrong": 1,
+    "wrong": 2,
     "nocall": 0,
-    "n": 23,
-    "brier": 0.0391,
-    "brier_ours_same": 0.0792,
-    "n_brier": 23,
+    "n": 24,
+    "brier": 0.0548,
+    "brier_ours_same": 0.0882,
+    "n_brier": 24,
     "right_ours_same": 20,
     "upsets_caught": [
      "Nevada",
      "Vermont"
     ],
     "wrong_races": [
+     "Kansas",
      "Texas"
     ],
     "date": "2026-11-03",
@@ -13090,19 +13311,20 @@
     "id": "racetothewh",
     "name": "Race to the WH (Logan Phillips)",
     "kind": "model",
-    "covered": 23,
+    "covered": 24,
     "right": 21,
-    "wrong": 2,
+    "wrong": 3,
     "nocall": 0,
-    "n": 23,
-    "brier": 0.0643,
-    "brier_ours_same": 0.0792,
-    "n_brier": 23,
+    "n": 24,
+    "brier": 0.0851,
+    "brier_ours_same": 0.0882,
+    "n_brier": 24,
     "right_ours_same": 20,
     "upsets_caught": [
      "Vermont"
     ],
     "wrong_races": [
+     "Kansas",
      "Nevada",
      "Texas"
     ],
@@ -13113,11 +13335,11 @@
     "id": "silver",
     "name": "Silver Bulletin (FLIPR)",
     "kind": "model",
-    "covered": 11,
+    "covered": 12,
     "right": 10,
-    "wrong": 1,
+    "wrong": 2,
     "nocall": 0,
-    "n": 11,
+    "n": 12,
     "brier": null,
     "brier_ours_same": null,
     "n_brier": 0,
@@ -13127,6 +13349,7 @@
      "Vermont"
     ],
     "wrong_races": [
+     "Kansas",
      "Texas"
     ],
     "date": "2026-11-03",
@@ -13138,9 +13361,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 30,
-    "wrong": 4,
+    "wrong": 5,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13152,9 +13375,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 30,
-    "wrong": 4,
+    "wrong": 5,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13166,9 +13389,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 30,
-    "wrong": 4,
+    "wrong": 5,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13180,9 +13403,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 30,
-    "wrong": 4,
+    "wrong": 5,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13194,9 +13417,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 30,
-    "wrong": 4,
+    "wrong": 5,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13208,9 +13431,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 30,
-    "wrong": 4,
+    "wrong": 5,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13222,9 +13445,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 31,
-    "wrong": 3,
+    "wrong": 4,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada",
@@ -13237,9 +13460,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 30,
-    "wrong": 4,
+    "wrong": 5,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13251,9 +13474,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 30,
-    "wrong": 4,
+    "wrong": 5,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13265,9 +13488,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 30,
-    "wrong": 4,
+    "wrong": 5,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13279,9 +13502,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 31,
-    "wrong": 3,
+    "wrong": 4,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada",
@@ -13294,9 +13517,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 5,
+    "wrong": 6,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13308,9 +13531,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 31,
-    "wrong": 3,
+    "wrong": 4,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada",
@@ -13323,9 +13546,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 5,
+    "wrong": 6,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13337,9 +13560,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 5,
+    "wrong": 6,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13351,9 +13574,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 5,
+    "wrong": 6,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13365,9 +13588,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 5,
+    "wrong": 6,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13379,9 +13602,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 5,
+    "wrong": 6,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13393,9 +13616,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 5,
+    "wrong": 6,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13407,9 +13630,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 5,
+    "wrong": 6,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13421,9 +13644,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 5,
+    "wrong": 6,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13435,9 +13658,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 5,
+    "wrong": 6,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13449,9 +13672,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 5,
+    "wrong": 6,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13463,9 +13686,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 5,
+    "wrong": 6,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13477,9 +13700,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 5,
+    "wrong": 6,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13491,9 +13714,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 5,
+    "wrong": 6,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13505,9 +13728,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 5,
+    "wrong": 6,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13519,9 +13742,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 5,
+    "wrong": 6,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13533,9 +13756,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 5,
+    "wrong": 6,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13547,9 +13770,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 5,
+    "wrong": 6,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13561,9 +13784,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 5,
+    "wrong": 6,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13575,9 +13798,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 28,
-    "wrong": 6,
+    "wrong": 7,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13589,9 +13812,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 28,
-    "wrong": 6,
+    "wrong": 7,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13603,9 +13826,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 28,
-    "wrong": 6,
+    "wrong": 7,
     "nocall": 0,
-    "n": 34,
+    "n": 35,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13625,9 +13848,10 @@
    }
   ],
   "close": {
-   "n": 6,
+   "n": 7,
    "races": [
     "Georgia",
+    "Kansas",
     "Nevada",
     "Ohio",
     "Oregon",
@@ -13638,8 +13862,8 @@
     {
      "name": "This forecast",
      "kind": "model",
-     "covered": 6,
-     "calls": 6,
+     "covered": 7,
+     "calls": 7,
      "right": 3,
      "confident": 4,
      "confident_right": 2,
@@ -13648,18 +13872,18 @@
     {
      "name": "Cook Political Report",
      "kind": "rater",
-     "covered": 6,
+     "covered": 7,
      "calls": 4,
      "right": 3,
      "confident": 1,
      "confident_right": 1,
-     "nocall": 2
+     "nocall": 3
     },
     {
      "name": "Sabato's Crystal Ball",
      "kind": "rater",
-     "covered": 6,
-     "calls": 6,
+     "covered": 7,
+     "calls": 7,
      "right": 5,
      "confident": 0,
      "confident_right": 0,
@@ -13668,8 +13892,8 @@
     {
      "name": "Inside Elections",
      "kind": "rater",
-     "covered": 6,
-     "calls": 5,
+     "covered": 7,
+     "calls": 6,
      "right": 4,
      "confident": 1,
      "confident_right": 1,
@@ -13678,8 +13902,8 @@
     {
      "name": "CNalysis, now rebranded State Navigate",
      "kind": "model",
-     "covered": 6,
-     "calls": 6,
+     "covered": 7,
+     "calls": 7,
      "right": 4,
      "confident": 4,
      "confident_right": 3,
@@ -13698,8 +13922,8 @@
     {
      "name": "Kalshi",
      "kind": "market",
-     "covered": 6,
-     "calls": 6,
+     "covered": 7,
+     "calls": 7,
      "right": 5,
      "confident": 4,
      "confident_right": 4,
@@ -13708,8 +13932,8 @@
     {
      "name": "LeanTossup.ca",
      "kind": "model",
-     "covered": 6,
-     "calls": 6,
+     "covered": 7,
+     "calls": 7,
      "right": 5,
      "confident": 4,
      "confident_right": 3,
@@ -13718,18 +13942,18 @@
     {
      "name": "On Point Politics forecast (On Point Polling / VT Analytics)",
      "kind": "model",
-     "covered": 6,
-     "calls": 6,
-     "right": 5,
-     "confident": 5,
-     "confident_right": 5,
+     "covered": 7,
+     "calls": 7,
+     "right": 6,
+     "confident": 6,
+     "confident_right": 6,
      "nocall": 0
     },
     {
      "name": "Polymarket",
      "kind": "market",
-     "covered": 6,
-     "calls": 6,
+     "covered": 7,
+     "calls": 7,
      "right": 5,
      "confident": 4,
      "confident_right": 4,
@@ -13738,18 +13962,18 @@
     {
      "name": "Race to the WH (Logan Phillips)",
      "kind": "model",
-     "covered": 6,
-     "calls": 6,
+     "covered": 7,
+     "calls": 7,
      "right": 4,
-     "confident": 4,
+     "confident": 5,
      "confident_right": 3,
      "nocall": 0
     },
     {
      "name": "Silver Bulletin (FLIPR)",
      "kind": "model",
-     "covered": 5,
-     "calls": 5,
+     "covered": 6,
+     "calls": 6,
      "right": 4,
      "confident": 0,
      "confident_right": 0,
@@ -14392,7 +14616,7 @@
     "tier": "Tilt",
     "forecast_margin_winner": -3.1,
     "actual_margin_winner": 6.6,
-    "counted": 99,
+    "counted": 100,
     "poll_avg_winner": -2.2,
     "prior_winner": -7.6,
     "prior_weight": 0.16,
@@ -14829,6 +15053,315 @@
       }
      ],
      "summary": "Ford won the Nevada governorship comfortably (provisionally ~7 pts) even though polls showed a dead heat and Lombardo outspent him about 2.5 to 1 on ads. Post-election reporting credits a national anti-Trump wave, depressed Republican turnout (the first midterm since at least 2014 with lower GOP than Dem turnout), a ~25-pt swing back to Democrats among Latino voters, and nonpartisans breaking Democratic. Late polls were tied or showed Ford slightly ahead, mostly in Democratic internals, and Sabato called it Lean D."
+    }
+   },
+   {
+    "ch": "governors",
+    "key": "Kansas",
+    "winner": "Holscher",
+    "winner_party": "D",
+    "loser": "Masterson",
+    "names": null,
+    "p_winner": 0.458,
+    "tier": "Toss-up",
+    "forecast_margin_winner": -0.4,
+    "actual_margin_winner": 0.7,
+    "counted": 98,
+    "poll_avg_winner": 0.0,
+    "prior_winner": -3.8,
+    "prior_weight": 0.12,
+    "pres_2024_winner": -16.1,
+    "ratings": {
+     "cook": "Toss-up",
+     "sabato": "Lean R (flip)",
+     "inside": "Tilt R (flip)"
+    },
+    "ratings_mid_oct": {
+     "cook": "Lean R (flip)",
+     "sabato": "Lean R (flip)",
+     "inside": "Tilt R (flip)"
+    },
+    "models": [
+     {
+      "id": "onpoint",
+      "name": "On Point Politics forecast (On Point Polling / VT Analytics)",
+      "market": false,
+      "p_winner": 0.722,
+      "right": true,
+      "band": null
+     },
+     {
+      "id": "cnalysis",
+      "name": "CNalysis, now rebranded State Navigate",
+      "market": false,
+      "p_winner": 0.43,
+      "right": false,
+      "band": null
+     },
+     {
+      "id": "leantossup",
+      "name": "LeanTossup.ca",
+      "market": false,
+      "p_winner": 0.354,
+      "right": false,
+      "band": null
+     },
+     {
+      "id": "racetothewh",
+      "name": "Race to the WH (Logan Phillips)",
+      "market": false,
+      "p_winner": 0.25,
+      "right": false,
+      "band": null
+     },
+     {
+      "id": "silver",
+      "name": "Silver Bulletin (FLIPR)",
+      "market": false,
+      "p_winner": null,
+      "right": false,
+      "band": "30-40%"
+     },
+     {
+      "id": "kalshi",
+      "name": "Kalshi",
+      "market": true,
+      "p_winner": 0.36,
+      "right": false,
+      "band": null
+     },
+     {
+      "id": "polymarket",
+      "name": "Polymarket",
+      "market": true,
+      "p_winner": 0.355,
+      "right": false,
+      "band": null
+     }
+    ],
+    "polls": [
+     {
+      "pollster": "New York Times/Siena",
+      "end": "2026-11-01",
+      "winner_lead": 1,
+      "partisan": null,
+      "lean": null,
+      "url": "https://sri.siena.edu/2026/11/01/nytimes-siena-poll-of-likely-voters-alaska-iowa-kansas-maine-michigan-ohio-and-texas/",
+      "verified": true
+     },
+     {
+      "pollster": "AtlasIntel",
+      "end": "2026-11-01",
+      "winner_lead": 4.3,
+      "partisan": null,
+      "lean": null,
+      "url": "https://atlasintel.org/poll/usa-kansas-atlaspollstergraph-poll-2026-11-02",
+      "verified": true
+     },
+     {
+      "pollster": "Survey 160",
+      "end": "2026-11-01",
+      "winner_lead": 2,
+      "partisan": null,
+      "lean": null,
+      "url": "https://www.survey160.com/methodological-research-blog/survey-160-pre-election-surveys-in-four-states",
+      "verified": true
+     },
+     {
+      "pollster": "YouGov",
+      "end": "2026-10-29",
+      "winner_lead": -1,
+      "partisan": null,
+      "lean": null,
+      "url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ks_20261026_lv.pdf",
+      "verified": true
+     },
+     {
+      "pollster": "Emerson College",
+      "end": "2026-10-28",
+      "winner_lead": -4,
+      "partisan": null,
+      "lean": null,
+      "url": "https://emersoncollegepolling.com/october-2026-kansas-poll-hamilton-maintains-edge-over-marshall",
+      "verified": true
+     },
+     {
+      "pollster": "SSRS for CNN",
+      "end": "2026-10-26",
+      "winner_lead": -5,
+      "partisan": null,
+      "lean": null,
+      "url": "https://www.documentcloud.org/documents/28856723-cnn-poll-conducted-by-ssrs-kansas-october/",
+      "verified": true
+     },
+     {
+      "pollster": "Washington Post/Schar School",
+      "end": "2026-10-26",
+      "winner_lead": 6,
+      "partisan": null,
+      "lean": null,
+      "url": "https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election",
+      "verified": false
+     },
+     {
+      "pollster": "RedBox Research (D internal, for A Fight Worth Having (Democratic-aligned super PAC))",
+      "end": "2026-10-23",
+      "winner_lead": -2.4,
+      "partisan": "D",
+      "lean": null,
+      "url": "https://afightworthhaving.com/polling/2026/kansas",
+      "verified": true
+     },
+     {
+      "pollster": "Global Strategy Group (D internal, for Holscher campaign)",
+      "end": "2026-10-21",
+      "winner_lead": 0,
+      "partisan": "D",
+      "lean": null,
+      "url": "https://globalstrategygroup.app.box.com/s/vwojuwfb4y52lmvw4r5c5b60svfyrmqc",
+      "verified": false
+     },
+     {
+      "pollster": "YouGov",
+      "end": "2026-10-04",
+      "winner_lead": -3,
+      "partisan": null,
+      "lean": null,
+      "url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ks_20260921_lv.pdf",
+      "verified": false
+     },
+     {
+      "pollster": "New York Times/Siena",
+      "end": "2026-09-30",
+      "winner_lead": -5,
+      "partisan": null,
+      "lean": null,
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-kansas-poll-toplines.html",
+      "verified": false
+     },
+     {
+      "pollster": "Emerson College for Nexstar Media",
+      "end": "2026-09-16",
+      "winner_lead": -7,
+      "partisan": null,
+      "lean": null,
+      "url": "https://emersoncollegepolling.com/kansas-2026/",
+      "verified": true
+     },
+     {
+      "pollster": "Global Strategy Group (D internal, for Democratic Governors Association (memo))",
+      "end": "2026-09-16",
+      "winner_lead": 3,
+      "partisan": "D",
+      "lean": null,
+      "url": "https://static.politico.com/0f/52/d84e43ae45cf803b787113de4d91/daga-ks-interested-parties-memo-10-01-26.pdf",
+      "verified": false
+     },
+     {
+      "pollster": "co/efficient (R-leaning firm)",
+      "end": "2026-09-10",
+      "winner_lead": -8,
+      "partisan": null,
+      "lean": "R",
+      "url": "https://battlegrounds.coefficient.org/ks/",
+      "verified": false
+     },
+     {
+      "pollster": "Global Strategy Group (D internal, for Holscher campaign)",
+      "end": "2026-08-16",
+      "winner_lead": 1,
+      "partisan": "D",
+      "lean": null,
+      "url": "https://www.politico.com/f/?id=000001a0-45c2-dd5a-a9f6-7df322f70000",
+      "verified": true
+     }
+    ],
+    "research": {
+     "chamber": "governors",
+     "result": "Democrat Cindy Holscher, a state senator from Overland Park, beat Republican state Senate President Ty Masterson for the open governor's seat; Gov. Laura Kelly (D) was term-limited. With 98% of the vote counted, AP had Holscher at 552,328 (50.3%) and Masterson at 545,128 (49.7%), a margin of about 7,200 votes (0.6 points). AP called the race on Nov 12, 2026 (22:43 UTC); DDHQ had projected it earlier the same day. Holscher declared victory on Nov 4 and started transition work with Kelly. Masterson said he would wait for the statutory close-race audit and provisional ballots before conceding. I found no concession in the sources available. This is a Democratic hold, and it ends Kansas's roughly 60-year pattern of alternating the governor's party.",
+     "pres_2024": "Trump carried Kansas by 16.1 points (R+16.1), per PollCheck's Kansas race page (https://www.pollcheck.co.uk/us-midterms-2026/governor/kansas). This is a statewide race, so no map change applies.",
+     "explanations": [
+      {
+       "claim": "Holscher ran a populist campaign: taking on corporate interests, fully funding special education, legalizing recreational marijuana, expanding Medicaid, and pausing new data centers. Masterson ran on capping property-tax growth at 3%, cutting spending, and a Mississippi-style literacy push.",
+       "kind": "fact",
+       "source": "https://www.hppr.org/2026-11-04/theres-no-winner-in-the-kansas-governors-race-its-too-close-to-call"
+      },
+      {
+       "claim": "Democrats tied Masterson to former Gov. Sam Brownback's tax experiment. One ad clips him saying 'the Brownback plan, which by the way, I wrote.' Masterson called the clip a 'lie'.",
+       "kind": "fact",
+       "source": "https://www.multistate.us/elections/governor-race/kansas-2026"
+      },
+      {
+       "claim": "Masterson turned down two televised debates, so the Sept 12 State Fair debate was the only one.",
+       "kind": "fact",
+       "source": "https://www.multistate.us/elections/governor-race/kansas-2026"
+      },
+      {
+       "claim": "In Emerson's September poll, Trump's job approval among Kansas likely voters was 40% approve, 53% disapprove, while outgoing Gov. Kelly's was 46% approve, 39% disapprove.",
+       "kind": "fact",
+       "source": "https://emersoncollegepolling.com/kansas-2026/"
+      },
+      {
+       "claim": "National Republican groups spent more than $10 million, much of it on ads attacking Holscher; the DGA spent nearly $4 million for her. Holscher outraised Masterson $2.34 million to about $2 million from late July to Oct 22.",
+       "kind": "fact",
+       "source": "https://www.hppr.org/2026-11-04/theres-no-winner-in-the-kansas-governors-race-its-too-close-to-call"
+      },
+      {
+       "claim": "The wave reached the whole Kansas ballot: Democrat Adam Hamilton beat Republican Sen. Roger Marshall in the same election.",
+       "kind": "fact",
+       "source": "https://www.270towin.com/2026-election-results-live/state/kansas/"
+      },
+      {
+       "claim": "Gov. Laura Kelly: 'Kansans have once again rejected a return to the failed policies of the Brownback era and chosen to keep our state moving forward.'",
+       "kind": "interpretation",
+       "source": "https://www.kshb.com/news/local-news/kansas-governors-race-remains-in-limbo-as-race-is-still-too-close-to-call"
+      },
+      {
+       "claim": "Holscher's closing pitch: voters 'want their leaders to put politics aside and work together' on public schools, lower costs for families and farmers, and the economy.",
+       "kind": "interpretation",
+       "source": "https://www.kcur.org/politics-elections-and-government/2026-11-04/ty-masterson-trails-in-kansas-governor-race-by-5-500-votes-he-says-the-results-need-another-look"
+      }
+     ],
+     "late_polls_winner_ahead": [
+      {
+       "pollster": "AtlasIntel",
+       "dates": "Oct 28 - Nov 1, 2026",
+       "result": "Holscher 50, Masterson 46 (2,038 LV)",
+       "url": "https://www.pollcheck.co.uk/us-midterms-2026/governor/kansas"
+      },
+      {
+       "pollster": "Survey 160",
+       "dates": "Oct 27 - Nov 1, 2026",
+       "result": "Holscher 49, Masterson 48 (1,267 LV)",
+       "url": "https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026"
+      },
+      {
+       "pollster": "New York Times / Siena",
+       "dates": "Oct 27 - Nov 1, 2026",
+       "result": "Holscher 48, Masterson 47 (736 LV)",
+       "url": "https://www.270towin.com/2026-governor-polls/kansas"
+      },
+      {
+       "pollster": "Washington Post / Schar School (George Mason)",
+       "dates": "Oct 22-26, 2026",
+       "result": "Holscher 51, Masterson 45 (801 LV)",
+       "url": "https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026"
+      }
+     ],
+     "picked_winner": [
+      {
+       "who": "270toWin polling average (6 polls)",
+       "what": "Holscher 48.2, Masterson 48.0, in effect a tie with Holscher barely ahead. Other averages favored Masterson: PollCheck by 1.2 and RealClearPolling by 1.8.",
+       "url": "https://www.270towin.com/2026-governor-polls/kansas"
+      },
+      {
+       "who": "Raters and markets (did not pick)",
+       "what": "No rater or market favored Holscher. Cook moved the race to Toss-up on Oct 27 (no pick). Inside Elections had Tilt R and Sabato's Crystal Ball Lean R; MultiState's consensus was Tilt R. Polymarket had Masterson at about 70% and Kalshi had Republicans at about 70%.",
+       "url": "https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026"
+      }
+     ],
+     "summary": "Holscher held the seat for Democrats in a Trump+16 state. She tied Masterson to the Brownback tax years, ran a populist economic campaign, and benefited from a national Democratic wave (Kelly was popular and Trump was underwater in Kansas). The final polls were split. Four late polls had Holscher ahead (AtlasIntel +4, WaPo/Schar +6, NYT/Siena +1, Survey 160 +1), while Emerson (+4) and CNN/SSRS (+5) had Masterson ahead. Most averages leaned slightly to Masterson. Ratings ran from Toss-up (Cook) to Lean R and markets gave Masterson about 70%. Only 270toWin's near-tied average had Holscher fractionally ahead.",
+     "_notes": "Our forecast gave Holscher 46%, so this was a mild upset. The AP figures and call time come from the brief; PollCheck/MultiState showed 551,243 to 543,599 (50.4-49.6) as of Nov 13, with DDHQ's projection at 3:01 pm ET on Nov 12. The Masterson concession status comes from Nov 6 reporting (KCTV5: he would wait for statutory verification and provisional ballots); I found no later concession. The four late polls come from aggregators (PollCheck, 270toWin, Ballotpedia), not the original releases. Ballotpedia credits the WaPo poll to George Mason/Braun Research in one row and to SSPG in another. PollCheck lists Survey 160 with several versions (49-48 LV, 49-47, 48-47 RV); the headline LV figure is used here. The Global Strategy Group poll for Holscher's campaign (Oct 18-21) was tied 47-47, so it is excluded. Final ratings come from Ballotpedia's table (Nov 3 column) and MultiState. The market figures are MultiState's pre-election snapshot. 'Democratic hold' is because Kelly is a Democrat."
     }
    }
   ]

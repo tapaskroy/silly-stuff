@@ -230,6 +230,21 @@
   "actually_returning": false
  },
  {
+  "district": "CO-4",
+  "name": "Lauren Boebert",
+  "party": "R",
+  "wing": "Nationalist",
+  "confidence": "high",
+  "why_leaving": "lost general",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Nay",
+   "ukraine_ban_2025": "Aye"
+  },
+  "evidence": "Voted Aye on the 2025 Greene amendment barring Ukraine aid (2025 roll 209) and Nay on 2024 Ukraine aid (2024 roll 151); Freedom Caucus member.",
+  "actually_returning": false
+ },
+ {
   "district": "CO-5",
   "name": "Jeff Crank",
   "party": "R",
@@ -727,8 +742,7 @@
    "cpc": false
   },
   "evidence": "Blue Dog centrist, not CPC; voted No on the 2026 Massie amendment.",
-  "actually_returning": false,
-  "excluded": "successor not yet called"
+  "actually_returning": false
  },
  {
   "district": "MI-4",
