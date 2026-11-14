@@ -2639,5 +2639,28 @@
    "https://www.wrdw.com/2026/06/24/zyon-khalifa-wins-democratic-nomination-us-house-sc-2nd-congressional-district/",
    "https://kutv.com/news/nation-world/2026-11-06-sc-congressional-race-2-state-house-races-headed-to-recounts-after-close-election-results-us-rep-joe-wilson-democrat-zyon-khalifa-politics-voting"
   ]
+ },
+ {
+  "chamber": "house",
+  "district": "ME-2",
+  "name": "Matthew Dunlap",
+  "party": "D",
+  "winner": "Paul LePage (R)",
+  "incumbent_before": "Jared Golden (D)",
+  "full_name": "Matthew Dunlap",
+  "wing": "Progressive",
+  "confidence": "medium",
+  "signals": {
+   "economic": "left",
+   "israel": "critical"
+  },
+  "evidence": "Maine State Auditor and former secretary of state who ran a 'people's campaign' with no corporate PAC money and backed Medicare for All. He was endorsed by Sanders-founded Our Revolution, Ro Khanna and National Nurses United. He launched his campaign by criticizing Golden's AIPAC backing and votes to keep sending offensive weapons to Israel.",
+  "sources": [
+   "https://www.notus.org/campaigns/maine-matt-dunlap-our-revolution-progressive-endorsement-maine-house-race-2nd-district",
+   "https://ourrevolution.com/category/endorsement/me/",
+   "https://spectrumlocalnews.com/me/maine/politics/2026/04/08/dunlap-says-he-won-t-take-pac-money-in-2nd-cd-race---we-re-the-people-s-agenda-",
+   "https://www.yahoo.com/news/articles/democratic-primary-challengers-see-opening-000040123.html",
+   "https://www.themainewire.com/2026/04/democratic-cd2-debate-puts-progressive-wish-list-on-full-display-medicare-for-all-anti-war-messaging-and-attacks-on-trump-tariffs/"
+  ]
  }
 ]

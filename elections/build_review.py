@@ -8,6 +8,7 @@ Usage: python3 review/analyze.py && python3 build_review.py
 """
 import html
 import json
+import statistics
 from datetime import datetime, timedelta
 from pathlib import Path
 
@@ -378,8 +379,9 @@ CLAIMS = {
                                                        for k in ("NC-6", "NC-9", "NC-13", "NC-14")),
     "no rule change rescues Mississippi, South Carolina, TX-9, NJ-2 or the NC seats": not any(
         k in v["upsets_fixed"] for ch in CHS for v in CF[ch] for k in ("Mississippi", "South Carolina", "TX-9", "NJ-2", "NC-6", "NC-9", "NC-13", "NC-14")),
-    "Democratic internals were among the most accurate (Impact, GBAO all-right on upsets)": all(
-        any(p["pollster"] == n and p["upsets_polled"] and p["upsets_right"] == p["upsets_polled"] for p in pollsters) for n in ("Impact Research", "GBAO")),
+    "Democratic internals were among the most accurate (Impact, GBAO: below-median miss, right on most upsets they polled)": all(
+        any(p["pollster"] == n and p["mae"] is not None and p["mae"] < statistics.median(q["mae"] for q in pollsters if q["races"] >= 8 and q["mae"] is not None)
+            and p["upsets_polled"] and p["upsets_right"] / p["upsets_polled"] >= .75 for p in pollsters) for n in ("Impact Research", "GBAO")),
     "the House result ran past every forecaster's median": all((v.get("house_median_dem") or 0) < A["seats"]["house_d"]
                                                                for v in list((A.get("control") or {}).values()) + [A["seats"]["ours"]] if isinstance(v, dict)),
 }
