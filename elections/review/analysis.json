@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-14T04:39:17+00:00",
+ "as_of": "2026-11-16T01:17:47+00:00",
  "seats": {
   "senate_d": 55,
   "senate_open": 1,
@@ -14,7 +14,7 @@
  },
  "national": {
   "actual": 13.9,
-  "eevp": 98.04,
+  "eevp": 98.07,
   "average": 8.7,
   "model_input": 7.7,
   "polls": [
@@ -648,7 +648,7 @@
  "errors": {
   "senate": {
    "n": 34,
-   "mean": 3.7,
+   "mean": 3.8,
    "mae": 5.8,
    "d_better": 29,
    "by_pres": {
@@ -660,7 +660,7 @@
     "Harris +10 or more": {
      "n": 6,
      "mean": 3.6,
-     "sd": 6.1
+     "sd": 6.2
     },
     "Trump +10 to 20": {
      "n": 7,
@@ -898,15 +898,20 @@
    }
   },
   "governors": {
-   "n": 35,
-   "mean": 3.7,
-   "mae": 6.1,
-   "d_better": 29,
+   "n": 36,
+   "mean": 4.0,
+   "mae": 6.3,
+   "d_better": 30,
    "by_pres": {
     "Trump +20 or more": {
      "n": 8,
      "mean": -1.1,
      "sd": 8.9
+    },
+    "Trump +10 to 20": {
+     "n": 7,
+     "mean": 6.0,
+     "sd": 3.7
     },
     "Trump +0 to 10": {
      "n": 6,
@@ -918,11 +923,6 @@
      "mean": 6.1,
      "sd": 6.3
     },
-    "Trump +10 to 20": {
-     "n": 6,
-     "mean": 4.9,
-     "sd": 2.7
-    },
     "Harris +0 to 10": {
      "n": 4,
      "mean": 4.1,
@@ -931,9 +931,9 @@
    },
    "by_tier": {
     "Likely": {
-     "n": 12,
-     "mean": 3.4,
-     "sd": 8.0
+     "n": 13,
+     "mean": 4.1,
+     "sd": 8.1
     },
     "Safe": {
      "n": 12,
@@ -964,7 +964,7 @@
    "races": 23,
    "right": 17,
    "ties": 1,
-   "bias_d": 2.6,
+   "bias_d": 2.7,
    "mae": 5.7,
    "upsets_polled": 9,
    "upsets_right": 5,
@@ -1115,11 +1115,11 @@
   },
   {
    "pollster": "NYT/Siena",
-   "races": 26,
-   "right": 24,
+   "races": 27,
+   "right": 25,
    "ties": 2,
-   "bias_d": 2.6,
-   "mae": 3.8,
+   "bias_d": 2.7,
+   "mae": 3.9,
    "upsets_polled": 4,
    "upsets_right": 3,
    "upsets": [
@@ -1214,11 +1214,11 @@
   },
   {
    "pollster": "AtlasIntel",
-   "races": 16,
-   "right": 16,
+   "races": 17,
+   "right": 17,
    "ties": 0,
-   "bias_d": 2.1,
-   "mae": 3.5,
+   "bias_d": 2.3,
+   "mae": 3.6,
    "upsets_polled": 2,
    "upsets_right": 2,
    "upsets": [
@@ -1288,11 +1288,11 @@
   },
   {
    "pollster": "co/efficient",
-   "races": 24,
-   "right": 14,
+   "races": 25,
+   "right": 15,
    "ties": 2,
-   "bias_d": 7.9,
-   "mae": 8.5,
+   "bias_d": 7.6,
+   "mae": 8.2,
    "upsets_polled": 3,
    "upsets_right": 1,
    "upsets": [
@@ -1938,6 +1938,41 @@
    "mostly": "R-lean"
   },
   {
+   "pollster": "Data for Progress",
+   "races": 8,
+   "right": 6,
+   "ties": 0,
+   "bias_d": 4.9,
+   "mae": 4.9,
+   "upsets_polled": 2,
+   "upsets_right": 0,
+   "upsets": [
+    {
+     "race": "Mississippi",
+     "ok": false,
+     "tie": false
+    },
+    {
+     "race": "Texas",
+     "ok": false,
+     "tie": false
+    }
+   ],
+   "mostly": "D-lean"
+  },
+  {
+   "pollster": "Cygnal",
+   "races": 6,
+   "right": 5,
+   "ties": 1,
+   "bias_d": 4.6,
+   "mae": 4.6,
+   "upsets_polled": 0,
+   "upsets_right": 0,
+   "upsets": [],
+   "mostly": "R"
+  },
+  {
    "pollster": "Targoz Market Research",
    "races": 6,
    "right": 5,
@@ -1968,29 +2003,6 @@
    "mostly": "none"
   },
   {
-   "pollster": "Data for Progress",
-   "races": 7,
-   "right": 5,
-   "ties": 0,
-   "bias_d": 4.9,
-   "mae": 4.9,
-   "upsets_polled": 2,
-   "upsets_right": 0,
-   "upsets": [
-    {
-     "race": "Mississippi",
-     "ok": false,
-     "tie": false
-    },
-    {
-     "race": "Texas",
-     "ok": false,
-     "tie": false
-    }
-   ],
-   "mostly": "D-lean"
-  },
-  {
    "pollster": "TIPP Insights",
    "races": 5,
    "right": 5,
@@ -2019,18 +2031,6 @@
     }
    ],
    "mostly": "D"
-  },
-  {
-   "pollster": "Cygnal",
-   "races": 5,
-   "right": 4,
-   "ties": 1,
-   "bias_d": 4.9,
-   "mae": 4.9,
-   "upsets_polled": 0,
-   "upsets_right": 0,
-   "upsets": [],
-   "mostly": "R"
   },
   {
    "pollster": "VoteNexus Research",
@@ -2249,6 +2249,18 @@
    "ties": 0,
    "bias_d": 4.7,
    "mae": 5.1,
+   "upsets_polled": 0,
+   "upsets_right": 0,
+   "upsets": [],
+   "mostly": "none"
+  },
+  {
+   "pollster": "Fabrizio Ward (R) / Impact Research (D)",
+   "races": 3,
+   "right": 3,
+   "ties": 0,
+   "bias_d": 4.2,
+   "mae": 4.2,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -2765,18 +2777,6 @@
    "ties": 0,
    "bias_d": 1.5,
    "mae": 1.5,
-   "upsets_polled": 0,
-   "upsets_right": 0,
-   "upsets": [],
-   "mostly": "none"
-  },
-  {
-   "pollster": "Fabrizio Ward (R) / Impact Research (D)",
-   "races": 2,
-   "right": 2,
-   "ties": 0,
-   "bias_d": 4.9,
-   "mae": 4.9,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -3368,8 +3368,8 @@
    "races": 1,
    "right": 1,
    "ties": 0,
-   "bias_d": 36.4,
-   "mae": 36.4,
+   "bias_d": 36.5,
+   "mae": 36.5,
    "upsets_polled": 0,
    "upsets_right": 0,
    "upsets": [],
@@ -3536,6 +3536,18 @@
    "upsets_right": 0,
    "upsets": [],
    "mostly": "D-lean"
+  },
+  {
+   "pollster": "Alaska Survey Research",
+   "races": 1,
+   "right": 1,
+   "ties": 0,
+   "bias_d": 2.9,
+   "mae": 2.9,
+   "upsets_polled": 0,
+   "upsets_right": 0,
+   "upsets": [],
+   "mostly": "none"
   },
   {
    "pollster": "HighGround Inc.",
@@ -13014,8 +13026,8 @@
  "governors": {
   "summary": {
    "n": 36,
-   "called": 35,
-   "right": 31,
+   "called": 36,
+   "right": 32,
    "upsets": [
     "Kansas",
     "Nevada",
@@ -13047,9 +13059,7 @@
      "n": 3
     }
    ],
-   "uncalled": [
-    "Alaska"
-   ],
+   "uncalled": [],
    "calibration": [
     {
      "lo": 0.5,
@@ -13082,9 +13092,9 @@
     {
      "lo": 0.9,
      "hi": 0.99,
-     "n": 12,
-     "expected": 11.5,
-     "won": 12
+     "n": 13,
+     "expected": 12.5,
+     "won": 13
     },
     {
      "lo": 0.99,
@@ -13102,21 +13112,21 @@
     "kind": "model",
     "covered": "all",
     "upsets_caught": [],
-    "right": 31,
+    "right": 32,
     "wrong": 4,
     "nocall": 0,
-    "n": 35,
-    "brier": 0.0605
+    "n": 36,
+    "brier": 0.0588
    },
    {
     "id": "cook",
     "name": "Cook Political Report",
     "kind": "rater",
     "covered": "all",
-    "right": 31,
+    "right": 32,
     "wrong": 1,
     "nocall": 3,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Vermont"
@@ -13131,10 +13141,10 @@
     "name": "Sabato's Crystal Ball",
     "kind": "rater",
     "covered": "all",
-    "right": 33,
+    "right": 34,
     "wrong": 2,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada",
@@ -13151,10 +13161,10 @@
     "name": "Inside Elections",
     "kind": "rater",
     "covered": "all",
-    "right": 32,
+    "right": 33,
     "wrong": 2,
     "nocall": 1,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Vermont"
@@ -13169,15 +13179,15 @@
     "id": "cnalysis",
     "name": "CNalysis, now rebranded State Navigate",
     "kind": "model",
-    "covered": 20,
-    "right": 17,
+    "covered": 21,
+    "right": 18,
     "wrong": 3,
     "nocall": 0,
-    "n": 20,
-    "brier": 0.0901,
-    "brier_ours_same": 0.1055,
-    "n_brier": 20,
-    "right_ours_same": 16,
+    "n": 21,
+    "brier": 0.0872,
+    "brier_ours_same": 0.1005,
+    "n_brier": 21,
+    "right_ours_same": 17,
     "upsets_caught": [
      "Vermont"
     ],
@@ -13215,15 +13225,15 @@
     "id": "kalshi",
     "name": "Kalshi",
     "kind": "market",
-    "covered": 24,
-    "right": 22,
+    "covered": 25,
+    "right": 23,
     "wrong": 2,
     "nocall": 0,
-    "n": 24,
-    "brier": 0.0571,
-    "brier_ours_same": 0.0882,
-    "n_brier": 24,
-    "right_ours_same": 20,
+    "n": 25,
+    "brier": 0.0552,
+    "brier_ours_same": 0.0847,
+    "n_brier": 25,
+    "right_ours_same": 21,
     "upsets_caught": [
      "Nevada",
      "Vermont"
@@ -13239,15 +13249,15 @@
     "id": "leantossup",
     "name": "LeanTossup.ca",
     "kind": "model",
-    "covered": 24,
-    "right": 22,
+    "covered": 25,
+    "right": 23,
     "wrong": 2,
     "nocall": 0,
-    "n": 24,
-    "brier": 0.0595,
-    "brier_ours_same": 0.0882,
-    "n_brier": 24,
-    "right_ours_same": 20,
+    "n": 25,
+    "brier": 0.0602,
+    "brier_ours_same": 0.0847,
+    "n_brier": 25,
+    "right_ours_same": 21,
     "upsets_caught": [
      "Nevada",
      "Vermont"
@@ -13263,15 +13273,15 @@
     "id": "onpoint",
     "name": "On Point Politics forecast (On Point Polling / VT Analytics)",
     "kind": "model",
-    "covered": 24,
-    "right": 23,
+    "covered": 25,
+    "right": 24,
     "wrong": 1,
     "nocall": 0,
-    "n": 24,
-    "brier": 0.0374,
-    "brier_ours_same": 0.0882,
-    "n_brier": 24,
-    "right_ours_same": 20,
+    "n": 25,
+    "brier": 0.0361,
+    "brier_ours_same": 0.0847,
+    "n_brier": 25,
+    "right_ours_same": 21,
     "upsets_caught": [
      "Kansas",
      "Nevada",
@@ -13287,15 +13297,15 @@
     "id": "polymarket",
     "name": "Polymarket",
     "kind": "market",
-    "covered": 24,
-    "right": 22,
+    "covered": 25,
+    "right": 23,
     "wrong": 2,
     "nocall": 0,
-    "n": 24,
-    "brier": 0.0548,
-    "brier_ours_same": 0.0882,
-    "n_brier": 24,
-    "right_ours_same": 20,
+    "n": 25,
+    "brier": 0.053,
+    "brier_ours_same": 0.0847,
+    "n_brier": 25,
+    "right_ours_same": 21,
     "upsets_caught": [
      "Nevada",
      "Vermont"
@@ -13311,15 +13321,15 @@
     "id": "racetothewh",
     "name": "Race to the WH (Logan Phillips)",
     "kind": "model",
-    "covered": 24,
-    "right": 21,
+    "covered": 25,
+    "right": 22,
     "wrong": 3,
     "nocall": 0,
-    "n": 24,
-    "brier": 0.0851,
-    "brier_ours_same": 0.0882,
-    "n_brier": 24,
-    "right_ours_same": 20,
+    "n": 25,
+    "brier": 0.0833,
+    "brier_ours_same": 0.0847,
+    "n_brier": 25,
+    "right_ours_same": 21,
     "upsets_caught": [
      "Vermont"
     ],
@@ -13335,15 +13345,15 @@
     "id": "silver",
     "name": "Silver Bulletin (FLIPR)",
     "kind": "model",
-    "covered": 12,
-    "right": 10,
+    "covered": 13,
+    "right": 11,
     "wrong": 2,
     "nocall": 0,
-    "n": 12,
+    "n": 13,
     "brier": null,
     "brier_ours_same": null,
     "n_brier": 0,
-    "right_ours_same": 8,
+    "right_ours_same": 9,
     "upsets_caught": [
      "Nevada",
      "Vermont"
@@ -13361,9 +13371,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 30,
-    "wrong": 5,
+    "wrong": 6,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13375,9 +13385,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 30,
-    "wrong": 5,
+    "wrong": 6,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13389,9 +13399,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 30,
-    "wrong": 5,
+    "wrong": 6,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13402,10 +13412,10 @@
     "name": "Tufts/YouGov national poll (D+12), uniform swing",
     "kind": "national_poll",
     "covered": "all",
-    "right": 30,
+    "right": 31,
     "wrong": 5,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13416,10 +13426,10 @@
     "name": "Verasight/SIN national poll (D+12), uniform swing",
     "kind": "national_poll",
     "covered": "all",
-    "right": 30,
+    "right": 31,
     "wrong": 5,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13431,9 +13441,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 30,
-    "wrong": 5,
+    "wrong": 6,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13444,10 +13454,10 @@
     "name": "Big Data Poll national poll (D+12.3), uniform swing",
     "kind": "national_poll",
     "covered": "all",
-    "right": 31,
+    "right": 32,
     "wrong": 4,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada",
@@ -13460,9 +13470,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 30,
-    "wrong": 5,
+    "wrong": 6,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13474,9 +13484,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 30,
-    "wrong": 5,
+    "wrong": 6,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13488,9 +13498,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 30,
-    "wrong": 5,
+    "wrong": 6,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13501,10 +13511,10 @@
     "name": "Honest Poll national poll (D+13), uniform swing",
     "kind": "national_poll",
     "covered": "all",
-    "right": 31,
+    "right": 32,
     "wrong": 4,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada",
@@ -13517,9 +13527,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 6,
+    "wrong": 7,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13530,10 +13540,10 @@
     "name": "AtlasIntel national poll (D+14.1), uniform swing",
     "kind": "national_poll",
     "covered": "all",
-    "right": 31,
+    "right": 32,
     "wrong": 4,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada",
@@ -13546,9 +13556,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 6,
+    "wrong": 7,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13560,9 +13570,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 6,
+    "wrong": 7,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13574,9 +13584,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 6,
+    "wrong": 7,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13588,9 +13598,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 6,
+    "wrong": 7,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13602,9 +13612,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 6,
+    "wrong": 7,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13616,9 +13626,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 6,
+    "wrong": 7,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13630,9 +13640,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 6,
+    "wrong": 7,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13644,9 +13654,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 6,
+    "wrong": 7,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13658,9 +13668,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 6,
+    "wrong": 7,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13672,9 +13682,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 6,
+    "wrong": 7,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13686,9 +13696,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 6,
+    "wrong": 7,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13700,9 +13710,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 6,
+    "wrong": 7,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13714,9 +13724,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 6,
+    "wrong": 7,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13728,9 +13738,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 6,
+    "wrong": 7,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13742,9 +13752,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 6,
+    "wrong": 7,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13756,9 +13766,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 6,
+    "wrong": 7,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13770,9 +13780,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 6,
+    "wrong": 7,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13784,9 +13794,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 29,
-    "wrong": 6,
+    "wrong": 7,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13798,9 +13808,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 28,
-    "wrong": 7,
+    "wrong": 8,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13812,9 +13822,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 28,
-    "wrong": 7,
+    "wrong": 8,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13826,9 +13836,9 @@
     "kind": "national_poll",
     "covered": "all",
     "right": 28,
-    "wrong": 7,
+    "wrong": 8,
     "nocall": 0,
-    "n": 35,
+    "n": 36,
     "brier": null,
     "upsets_caught": [
      "Nevada"
@@ -13838,11 +13848,11 @@
     "id": "pollavg",
     "name": "Polling-average leader (polled races only)",
     "kind": "polls",
-    "covered": 32,
-    "right": 29,
+    "covered": 33,
+    "right": 30,
     "wrong": 3,
     "nocall": 0,
-    "n": 32,
+    "n": 33,
     "brier": null,
     "upsets_caught": []
    }

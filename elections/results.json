@@ -1,5 +1,5 @@
 {
- "_updated": "2026-11-14T04:39:17+00:00",
+ "_updated": "2026-11-16T01:17:47+00:00",
  "_sources": "Winners: AP race calls. Margins: AP's count once 95%+ of the expected vote is in, replaced by state election office figures at the one-week recheck and at certification.",
  "senate": {
   "Alabama": {
@@ -20,7 +20,7 @@
    "called_by": null,
    "called_at": null,
    "source": null,
-   "note": "AP: Too Early to Call; Active Tabulation; 88% of expected vote in"
+   "note": "AP: Too Early to Call; Active Tabulation; 97% of expected vote in"
   },
   "Arkansas": {
    "candidates": "Shoffner (D) vs Cotton (R)",
@@ -85,7 +85,7 @@
   "Illinois": {
    "candidates": "Stratton (D) vs Tracy (R)",
    "winner": "Stratton",
-   "margin": 25.4,
+   "margin": 25.5,
    "status": "called",
    "called_by": "AP",
    "called_at": "2026-11-04T01:00:40.102Z",
@@ -2433,7 +2433,7 @@
   "IL-1": {
    "candidates": "Jackson (D) vs Maxwell (R)",
    "winner": "Jackson",
-   "margin": 44.9,
+   "margin": 45.1,
    "status": "called",
    "called_by": "AP",
    "called_at": "2026-11-04T01:58:49.240Z",
@@ -2453,7 +2453,7 @@
   "IL-3": {
    "candidates": "Ramirez (D) vs Oakley (R)",
    "winner": "Ramirez",
-   "margin": 54.9,
+   "margin": 55.1,
    "status": "called",
    "called_by": "AP",
    "called_at": "2026-11-04T03:00:08.631Z",
@@ -2463,7 +2463,7 @@
   "IL-4": {
    "candidates": "Garcia (D) vs Castillo (R)",
    "winner": "Garcia",
-   "margin": 55.4,
+   "margin": 55.5,
    "status": "called",
    "called_by": "AP",
    "called_at": "2026-11-04T02:42:38.129Z",
@@ -2473,7 +2473,7 @@
   "IL-5": {
    "candidates": "Quigley (D) vs Hanson (R)",
    "winner": "Quigley",
-   "margin": 54.3,
+   "margin": 54.6,
    "status": "called",
    "called_by": "AP",
    "called_at": "2026-11-04T02:09:33.222Z",
@@ -2493,7 +2493,7 @@
   "IL-7": {
    "candidates": "Ford (D) vs Koppie (R)",
    "winner": "Ford",
-   "margin": 78.6,
+   "margin": 78.7,
    "status": "called",
    "called_by": "AP",
    "called_at": "2026-11-04T01:54:24.491Z",
@@ -2513,12 +2513,12 @@
   "IL-9": {
    "candidates": "Biss (D) vs Elleson (R)",
    "winner": "Biss",
-   "margin": 53.8,
+   "margin": 53.9,
    "status": "called",
    "called_by": "AP",
    "called_at": "2026-11-04T01:50:30.692Z",
    "source": "AP election results feed",
-   "note": "AP: Called; Active Tabulation; 98% of expected vote in"
+   "note": "AP: Called; Active Tabulation; 99% of expected vote in"
   },
   "IL-10": {
    "candidates": "Schneider (D) vs Lambrecht (R)",
@@ -3893,7 +3893,7 @@
    "called_by": null,
    "called_at": null,
    "source": null,
-   "note": "AP: Too Early to Call; Active Tabulation; 88% of expected vote in"
+   "note": "AP: Awaiting Ranked Choice Results; Active Tabulation; 97% of expected vote in"
   },
   "HI-1": {
    "candidates": "Case (D) vs Lam (R)",
@@ -4554,13 +4554,13 @@
   },
   "Alaska": {
    "candidates": "Kreiss-Tomkins (D) vs Wilson (R)",
-   "winner": null,
+   "winner": "Kreiss-Tomkins",
    "margin": null,
-   "status": "pending",
-   "called_by": null,
-   "called_at": null,
-   "source": null,
-   "note": "AP: Too Early to Call; Active Tabulation; 88% of expected vote in"
+   "status": "called",
+   "called_by": "AP",
+   "called_at": "2026-11-14T05:01:13.762Z",
+   "source": "AP election results feed",
+   "note": "AP: Called; Active Tabulation; 97% of expected vote in"
   },
   "Arizona": {
    "candidates": "Hobbs (D) vs Biggs (R)",
@@ -4656,7 +4656,7 @@
   "Illinois": {
    "candidates": "Pritzker (D) vs Bailey (R)",
    "winner": "Pritzker",
-   "margin": 24.7,
+   "margin": 24.8,
    "status": "called",
    "called_by": "AP",
    "called_at": "2026-11-04T01:00:40.195Z",

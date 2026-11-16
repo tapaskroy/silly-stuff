@@ -2886,7 +2886,7 @@
   "forecast_margin": 13.1,
   "p_d": 0.989,
   "pres_2024": 10.9,
-  "margin": 25.4,
+  "margin": 25.5,
   "counted": 98,
   "d": "Stratton",
   "d_wing": "Progressive",
@@ -2896,8 +2896,8 @@
   "r_inc": false,
   "winner": "D",
   "upset": false,
-  "vs_forecast": 12.3,
-  "vs_pres": 14.5
+  "vs_forecast": 12.4,
+  "vs_pres": 14.6
  },
  {
   "chamber": "Senate",
