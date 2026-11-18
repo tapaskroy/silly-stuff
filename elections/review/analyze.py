@@ -34,9 +34,11 @@ NPOLLS = load(RV / "national_polls.json")
 FINAL = load(RV / "research" / "final_ratings.json")
 QSG = opt(RV / "research" / "quant_senate_gov.json")
 QH = opt(RV / "research" / "quant_house.json")
-UPS = {}
+UPS = {}  # (chamber, race) -> reporting on that upset; statewide keys like "Kansas" name both a Senate and a governor race
 for f in sorted((RV / "research").glob("upsets_*.json")):
-    UPS.update(load(f))
+    for k, v in load(f).items():
+        assert (v["chamber"], k) not in UPS, f"{f.name}: {v['chamber']} {k} is already in another upsets file"
+        UPS[(v["chamber"], k)] = v
 CHS = ("senate", "house", "governors")
 WINDOW = "2026-08-01"
 RATERS = {"cook": "Cook Political Report", "sabato": "Sabato's Crystal Ball", "inside": "Inside Elections"}
@@ -189,10 +191,11 @@ def board(ch):
         rows.append(dict(id="nat:" + p["pollster"], name=f"{p['pollster']} national poll (D+{p['d_margin']:g}), uniform swing", kind="national_poll",
                          covered="all", right=right, wrong=len(rs) - right, nocall=0, n=len(rs), brier=None, upsets_caught=caught))
     # the plain polling average in each polled race
-    polled = [r for r in rs if r["poll"]]
-    right = sum((r["poll"] * r["sign"] > 0) == r["d_won"] for r in polled)
+    polled = [r for r in rs if r["poll"] is not None]
+    ties = sum(r["poll"] == 0 for r in polled)  # a dead-even average names no leader: scored like a toss-up rating
+    right = sum(r["poll"] != 0 and (r["poll"] * r["sign"] > 0) == r["d_won"] for r in polled)
     rows.append(dict(id="pollavg", name="Polling-average leader (polled races only)", kind="polls", covered=len(polled), right=right,
-                     wrong=len(polled) - right, nocall=0, n=len(polled), brier=None,
+                     wrong=len(polled) - right - ties, nocall=ties, n=len(polled), brier=None,
                      upsets_caught=[r["key"] for r in polled if r["upset"] and (r["poll"] * r["sign"] > 0) == r["d_won"]]))
     return rows
 
@@ -269,18 +272,26 @@ def upset_detail(r):
         models.append(dict(id=f, name=(names.get(f) or {}).get("name") or f, market=f in MARKETS,
                            p_winner=None if p is None else round(p if win_d else 1 - p, 3), right=side is not None and (side == "D") == win_d,
                            band=e.get("p_dem_band_from_chart") if isinstance(e, dict) else None))
-    research = UPS.get(r["key"]) or {}
+    research = UPS.get((r["ch"], r["key"])) or {}
     return dict(ch=r["ch"], key=r["key"], winner=r["winner_name"], winner_party=r["ap"] if r["winner"] == r["a"] else r["bp"],
                 loser=r["b"] if r["winner"] == r["a"] else r["a"], names=r.get("names"),
                 p_winner=round(r["p_winner"], 3), tier=r["tier"], forecast_margin_winner=round(r["d_mean"] * wsign, 1),
                 actual_margin_winner=None if r["d_margin"] is None else round(r["d_margin"] * wsign, 1), counted=r["counted"],
-                poll_avg_winner=None if not r["poll"] else round(r["poll"] * r["sign"] * wsign, 1),
+                poll_avg_winner=None if r["poll"] is None else round(r["poll"] * r["sign"] * wsign, 1),
                 prior_winner=None if r["prior"] is None else round(r["prior"] * r["sign"] * wsign, 1),
                 prior_weight=None if r["prior_weight"] is None else round(r["prior_weight"], 2),
                 pres_2024_winner=None if r["pres"] is None else round(r["pres"] * wsign, 1),
                 ratings={k: final_rating(r, k) for k in RATERS}, ratings_mid_oct={k: r["mid"].get(k) for k in RATERS},
                 models=sorted(models, key=lambda m: (not m["right"], m["market"], m["name"])), polls=polls,
                 research=research)
+
+
+def pollster_name(s):
+    """One name per firm: NYT/Siena's variants, Hart's long and short names, and the spacing variants of the bipartisan Fabrizio Ward / Impact Research polls
+    (kept apart from Impact's own polls for Democrats)."""
+    s = re.sub(r"^(New York Times/Siena|Siena College|Siena University|The New York Times/Siena College)$", "NYT/Siena", s.strip())
+    s = re.sub(r"^Hart Research( Associates)?$", "Hart Research", s)
+    return re.sub(r"^Fabrizio Ward( \(R\))? ?/ ?Impact Research( \(D\))?$", "Fabrizio Ward / Impact Research", s)
 
 
 def pollster_board():
@@ -293,7 +304,7 @@ def pollster_board():
         for p in r["polls"]:
             if (p.get("end") or "") < WINDOW or poll_margin(r, p) is None:
                 continue
-            k = re.sub(r"^(New York Times/Siena|Siena College|Siena University|The New York Times/Siena College)$", "NYT/Siena", p["pollster"].strip())
+            k = pollster_name(p["pollster"])
             if k not in latest or p["end"] > latest[k]["end"]:
                 latest[k] = p
         for k, p in latest.items():
@@ -354,7 +365,7 @@ def errors():
     states = grp(comp, lambda r: r["key"].split("-")[0])
     out["house"]["competitive_by_state"] = {k: v for k, v in sorted(states.items(), key=lambda kv: -kv[1]["mean"]) if v["n"] >= 3}
     out["house"]["competitive_by_inc"] = grp(comp, lambda r: r["inc"])
-    out["house"]["competitive_polled"] = grp(comp, lambda r: "polled" if r["poll"] else "no polls")
+    out["house"]["competitive_polled"] = grp(comp, lambda r: "polled" if r["poll"] is not None else "no polls")
     return out
 
 

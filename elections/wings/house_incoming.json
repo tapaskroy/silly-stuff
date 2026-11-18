@@ -8880,5 +8880,47 @@
   "wing": "Mainstream",
   "wing_without_israel_rule": "Mainstream",
   "basis": "2026 vote on the Massie Israel-aid amendment"
+ },
+ {
+  "district": "CO-4",
+  "name": "Eileen Laubacher",
+  "party": "D",
+  "returning": false,
+  "agent_wing": "Mainstream",
+  "confidence": "high",
+  "evidence": "Newcomer; beat Lauren Boebert (R). Retired Navy rear admiral and former NSC official, endorsed by the veteran-recruiting New Politics and described by KUNC as 'in the mold of moderate Democratic candidates with national security backgrounds' like Jason Crow. Her platform is moderate and centered on costs: middle-class tax cuts, ending tariffs, secure border plus a pathway to citizenship, fiscal responsibility, no corporate PAC money. There is no Medicare for All and no stated position on Israel.",
+  "sources": [
+   "https://www.eileenforcolorado.com/platform",
+   "https://www.kunc.org/news/2026-11-04/lauren-boebert-in-big-fight-to-keep-her-seat-in-congress-in-too-close-to-call-race",
+   "https://www.newpolitics.org/news/new-politics-endorsed-candidate-eileen-laubacher-wins-democratic-primary-in-colorados-4th-congressional-district",
+   "https://www.coloradopolitics.com/2026/11/09/lauren-boebert-eileen-laubacher-claims-victory-election-results/"
+  ],
+  "econ": "center",
+  "israel": "unknown",
+  "israel_vote_2026": null,
+  "israel_vote_2024": null,
+  "wing": "Mainstream",
+  "wing_without_israel_rule": "Mainstream",
+  "basis": "newcomer or no 2026 vote: endorsements and statements"
+ },
+ {
+  "district": "ME-2",
+  "name": "Paul LePage",
+  "party": "R",
+  "returning": false,
+  "agent_wing": "Nationalist",
+  "confidence": "medium",
+  "evidence": "Newcomer; open seat (Jared Golden, D, retired); beat Matthew Dunlap (D). Former Maine governor (2011-19). Trump endorsed him as 'a proven America First Fighter' who has been with the MAGA movement 'from the very beginning'. More to the point, he ran on Trump's immigration crackdown as a central theme ('Big time') and said 'I'm all for the tariffs'. He has no congressional votes, and I found no public Ukraine position. He also sought to stop a relative's deportation, which softens the immigration signal somewhat.",
+  "sources": [
+   "https://www.foxnews.com/politics/why-longtime-trump-ally-former-maine-gov-paul-lepage-aiming-political-comeback",
+   "https://www.themainewire.com/2026/06/trump-renews-lepage-endorsement-predicts-dunlap-will-be-the-democratic-nominee/",
+   "https://www.ibtimes.co.uk/paul-lepage-relative-deportation-immigration-appeal-1821698"
+  ],
+  "immigration": "restrictionist",
+  "ukraine_2024": null,
+  "ukraine_ban_2025": null,
+  "objected_2021": null,
+  "wing": "Nationalist",
+  "basis": "newcomer: placed on platform and endorsements"
  }
 ]

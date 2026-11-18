@@ -8,6 +8,7 @@ Usage: python3 review/analyze.py && python3 build_review.py
 """
 import html
 import json
+import statistics
 from datetime import datetime, timedelta
 from pathlib import Path
 
@@ -235,7 +236,7 @@ def appendix_card(u):
                      for p in r.get("picked_winner", []))
     facts = [f"We gave {esc(u['winner'])} {pct(u['p_winner'])} ({esc(u['tier'])})",
              f"forecast margin {num(u['forecast_margin_winner'])}, actual {num(u['actual_margin_winner'])}" + (f" with {esc(str(u['counted']))}% counted" if u.get("counted") else ""),
-             f"poll average {num(u['poll_avg_winner'])}" if u.get("poll_avg_winner") is not None else "no usable polling average",
+             (f"poll average {num(u['poll_avg_winner'])}" if u["poll_avg_winner"] else "poll average dead even") if u.get("poll_avg_winner") is not None else "no usable polling average",
              f"fundamentals prior {num(u['prior_winner'])} (weight {u['prior_weight']:.0%})" if u.get("prior_winner") is not None and u.get("prior_weight") is not None else None,
              f"2024 presidential margin {num(u['pres_2024_winner'])} for the winner's party" if u.get("pres_2024_winner") is not None else None]
     names = f" · {esc(u['names'][0])} (D) vs {esc(u['names'][1])} (R)" if u.get("names") else ""
@@ -275,6 +276,12 @@ pollsters = A["pollsters"]
 indep = [p for p in pollsters if p["mostly"] == "none" and p["races"] >= 8]
 indep.sort(key=lambda p: (p["mae"] if p["mae"] is not None else 99))
 dint = [p for p in pollsters if p["mostly"] == "D" and p["upsets_polled"] >= 3]
+pool_mae = [p["mae"] for p in pollsters if p["races"] >= 8 and p["mae"] is not None]
+MED_MAE = statistics.median(pool_mae) if pool_mae else None
+# Democratic internal pollsters that beat the typical pollster's miss and had the winner ahead in most of the upsets they polled
+good_dint = sorted((p for p in pollsters if p["mostly"] == "D" and p["races"] >= 5 and p["mae"] is not None and MED_MAE is not None
+                    and p["mae"] < MED_MAE and p["upsets_polled"] and 2 * p["upsets_right"] > p["upsets_polled"]), key=lambda p: p["mae"])
+good_dint_names = ", ".join(p["pollster"] for p in good_dint)
 
 
 def close_line():
@@ -378,8 +385,7 @@ CLAIMS = {
                                                        for k in ("NC-6", "NC-9", "NC-13", "NC-14")),
     "no rule change rescues Mississippi, South Carolina, TX-9, NJ-2 or the NC seats": not any(
         k in v["upsets_fixed"] for ch in CHS for v in CF[ch] for k in ("Mississippi", "South Carolina", "TX-9", "NJ-2", "NC-6", "NC-9", "NC-13", "NC-14")),
-    "Democratic internals were among the most accurate (Impact, GBAO all-right on upsets)": all(
-        any(p["pollster"] == n and p["upsets_polled"] and p["upsets_right"] == p["upsets_polled"] for p in pollsters) for n in ("Impact Research", "GBAO")),
+    "several Democratic internal pollsters beat the median miss and had most of their upset winners ahead": len(good_dint) >= 2,
     "the House result ran past every forecaster's median": all((v.get("house_median_dem") or 0) < A["seats"]["house_d"]
                                                                for v in list((A.get("control") or {}).values()) + [A["seats"]["ours"]] if isinstance(v, dict)),
 }
@@ -545,8 +551,8 @@ to measure how much of the miss was the national number.</p></div>
 <div class="prose">
 <p>Three things stand out:</p><ul>
 <li><b>We discounted the polls that were right.</b> Partisan polls are shifted {PSHIFT:g} points
-against their sponsor and given half weight. This year Democratic internal polls (Impact Research, GBAO, PPP for House Majority PAC, Hart) were
-among the most accurate in the field and were the polls most likely to show the upset winners ahead. Removing the shift alone fixes
+against their sponsor and given half weight. This year several Democratic internal pollsters ({esc(good_dint_names)}) missed by less than the typical
+pollster (a median miss of {MED_MAE:.1f} points) and had the winner ahead in most of the upsets they polled. Removing the shift alone fixes
 {len(cfh['no_partisan_shift']['upsets_fixed'])} House upsets and Nevada governor and cuts the House Brier score from {cfh['frozen']['brier']:.3f} to
 {cfh['no_partisan_shift']['brier']:.3f}. One cycle is not proof: the shift exists because internals usually do overstate their side.</li>
 <li><b>The 1-point shading pointed the wrong way</b>, and on its own fixes only {len(cfh['no_shade']['upsets_fixed'])} races. With both changes the House
@@ -617,7 +623,7 @@ themselves were expected; {tot_up} of them, all but one in one direction, were n
 For a presidential year, the national popular-vote polls and the state polls should be tied together explicitly, so a state that moves pulls its
 neighbors.</li>
 <li><b>Pollster-specific house effects.</b> Replace the flat partisan-sponsor penalty with each firm's measured bias from past cycles, shrunk toward
-zero for firms with little history. Track internal polls by sponsor and firm; this year that would have counted Impact and GBAO at close to face value.</li>
+zero for firms with little history. Track internal polls by sponsor and firm; this year that would have counted {esc(good_dint_names)} at close to face value.</li>
 <li><b>A lighter prior where polls are plentiful</b>, and an explicit turnout-composition term for the fundamentals (who voted in 2024 versus who is
 registered and voting early), so a South Carolina or Mississippi can move before election night.</li>
 <li><b>Extra error for redrawn districts and for groups that swung hard last time</b> (Latino voters in South Texas and Florida; rural Black turnout in
