@@ -456,8 +456,8 @@ ul.lst li.ok::marker {{ content:"✓  "; color:var(--conf) }} ul.lst li.no::mark
 <h1>Upsets and misses: a review of the 2026 forecast</h1>
 <p class="lede">How the frozen Nov 3 forecast did against the results and against other forecasters, where it went wrong, why, and what to change
 for 2028. Draft as of {esc(pt(A['as_of']))}: {tot_called} of {sum(S[c]['n'] for c in CHS)} races called; counts are AP's and still moving.</p>
-<p class="banner"><b>Draft.</b> Still uncalled: {esc('; '.join([f"{x} Senate" for x in S['senate']['uncalled']] + [f"{x} governor" for x in S['governors']['uncalled']])) or 'no statewide race'} and
-{len(S['house']['uncalled'])} House seats. Numbers will change as counting, recounts and certification finish. Other forecasters' numbers marked † come from news reports rather than their own files.</p>
+<p class="banner"><b>Draft.</b> Still uncalled: {esc('; '.join([f"{x} Senate" for x in S['senate']['uncalled']] + [f"{x} governor" for x in S['governors']['uncalled']]
++ ([f"{len(S['house']['uncalled'])} House seat{'s' if len(S['house']['uncalled']) != 1 else ''}"] if S['house']['uncalled'] else [])) or 'none')}. Numbers will change as counting, recounts and certification finish. Other forecasters' numbers marked † come from news reports rather than their own files.</p>
 <nav class="toc"><a href="#s1">1. How we did</a><a href="#s2">2. Where we went wrong</a><a href="#s3">3. Post-mortem</a>
 <a href="#s4">4. Who called the close ones</a><a href="#s5">5. Summary and 2028</a><a href="#appA">Appendix: every upset</a><a href="#appB">Pollsters</a><a href="#appC">Sources</a></nav>
 

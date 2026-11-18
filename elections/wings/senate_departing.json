@@ -291,5 +291,21 @@
   },
   "evidence": "Voteview S118 shows Hyde-Smith (icpsr 41707) voted Yea (cast_code 1) on final passage of H.R. 815 on Apr 23 2024, which passed 79-18. That is Voteview rollnumber 506; the Senate clerk number is 154, session 2. Voteview's own rollnumber 154 is a different vote, the Jun 13 2023 Elizabeth Allen nomination, where she voted Nay. She also voted Yea on cloture (rollnumber 504, 80-19).",
   "actually_returning": false
+ },
+ {
+  "state": "AK",
+  "name": "Dan Sullivan",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "lost general",
+  "votes": {
+   "israel": "supports (Nay on S.J.Res. 32 discharge, 2026 clerk vote #80 = Voteview S119 rollnumber 739)",
+   "ukraine": "Yea on H.R. 815 (Apr 23 2024; Voteview S118 rollnumber 506)",
+   "ukraine_ban_2025": "n/a (House only)"
+  },
+  "signals": {},
+  "evidence": "Voted Yea on the April 2024 Ukraine supplemental; lost to Mary Peltola.",
+  "actually_returning": false
  }
 ]

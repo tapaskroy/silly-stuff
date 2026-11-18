@@ -1252,5 +1252,19 @@
   "wing": "Mainstream",
   "wing_without_israel_rule": "Mainstream",
   "basis": "newcomer: platform and endorsements"
+ },
+ {
+  "state": "AK",
+  "name": "Mary Peltola",
+  "party": "D",
+  "returning": false,
+  "agent_wing": "Mainstream",
+  "confidence": "high",
+  "evidence": "Newcomer senator; beat Dan Sullivan (R). In the House she was a Blue Dog Coalition member (co-chair for policy) and a Problem Solvers Caucus member, not in the CPC, and she voted Yea on the 2024 Israel supplemental H.R. 8034 (roll 152), breaking with most of her party on pro-Israel measures. Her 2026 Senate platform centred on affordability, oil and gas development and term limits; JACPAC backed her.",
+  "econ": "center",
+  "israel": "supports",
+  "wing": "Mainstream",
+  "wing_without_israel_rule": "Mainstream",
+  "basis": "former House member: voted for the 2024 Israel supplemental (2024 roll 152); statements and backers"
  }
 ]
