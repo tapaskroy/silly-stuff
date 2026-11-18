@@ -1236,6 +1236,29 @@
    "mostly": "none"
   },
   {
+   "pollster": "Hart Research",
+   "races": 9,
+   "right": 6,
+   "ties": 1,
+   "bias_d": 1.6,
+   "mae": 2.9,
+   "upsets_polled": 2,
+   "upsets_right": 2,
+   "upsets": [
+    {
+     "race": "OH-15",
+     "ok": true,
+     "tie": false
+    },
+    {
+     "race": "Nevada",
+     "ok": true,
+     "tie": false
+    }
+   ],
+   "mostly": "D"
+  },
+  {
    "pollster": "GQR",
    "races": 7,
    "right": 6,
@@ -1387,42 +1410,6 @@
     },
     {
      "race": "KY-6",
-     "ok": true,
-     "tie": false
-    }
-   ],
-   "mostly": "D"
-  },
-  {
-   "pollster": "Hart Research Associates",
-   "races": 6,
-   "right": 3,
-   "ties": 1,
-   "bias_d": 0.7,
-   "mae": 2.7,
-   "upsets_polled": 1,
-   "upsets_right": 1,
-   "upsets": [
-    {
-     "race": "Nevada",
-     "ok": true,
-     "tie": false
-    }
-   ],
-   "mostly": "D"
-  },
-  {
-   "pollster": "Hart Research",
-   "races": 3,
-   "right": 3,
-   "ties": 0,
-   "bias_d": 3.5,
-   "mae": 3.5,
-   "upsets_polled": 1,
-   "upsets_right": 1,
-   "upsets": [
-    {
-     "race": "OH-15",
      "ok": true,
      "tie": false
     }
@@ -1938,6 +1925,24 @@
    "mostly": "R-lean"
   },
   {
+   "pollster": "Fabrizio Ward / Impact Research",
+   "races": 8,
+   "right": 7,
+   "ties": 0,
+   "bias_d": 6.1,
+   "mae": 6.1,
+   "upsets_polled": 1,
+   "upsets_right": 0,
+   "upsets": [
+    {
+     "race": "Texas",
+     "ok": false,
+     "tie": false
+    }
+   ],
+   "mostly": "none"
+  },
+  {
    "pollster": "Data for Progress",
    "races": 8,
    "right": 6,
@@ -2255,18 +2260,6 @@
    "mostly": "none"
   },
   {
-   "pollster": "Fabrizio Ward (R) / Impact Research (D)",
-   "races": 3,
-   "right": 3,
-   "ties": 0,
-   "bias_d": 4.2,
-   "mae": 4.2,
-   "upsets_polled": 0,
-   "upsets_right": 0,
-   "upsets": [],
-   "mostly": "none"
-  },
-  {
    "pollster": "Quinnipiac University",
    "races": 3,
    "right": 3,
@@ -2405,24 +2398,6 @@
    "ties": 0,
    "bias_d": 6.1,
    "mae": 6.1,
-   "upsets_polled": 1,
-   "upsets_right": 0,
-   "upsets": [
-    {
-     "race": "Texas",
-     "ok": false,
-     "tie": false
-    }
-   ],
-   "mostly": "none"
-  },
-  {
-   "pollster": "Fabrizio Ward (R)/Impact Research (D)",
-   "races": 3,
-   "right": 2,
-   "ties": 0,
-   "bias_d": 7.1,
-   "mae": 7.1,
    "upsets_polled": 1,
    "upsets_right": 0,
    "upsets": [
@@ -2945,18 +2920,6 @@
    "mostly": "none"
   },
   {
-   "pollster": "Fabrizio Ward/Impact Research",
-   "races": 1,
-   "right": 1,
-   "ties": 0,
-   "bias_d": 6.1,
-   "mae": 6.1,
-   "upsets_polled": 0,
-   "upsets_right": 0,
-   "upsets": [],
-   "mostly": "none"
-  },
-  {
    "pollster": "Upswing Research",
    "races": 1,
    "right": 1,
@@ -3074,18 +3037,6 @@
      "tie": false
     }
    ],
-   "mostly": "none"
-  },
-  {
-   "pollster": "Fabrizio Ward / Impact Research",
-   "races": 1,
-   "right": 1,
-   "ties": 0,
-   "bias_d": 8.7,
-   "mae": 8.7,
-   "upsets_polled": 0,
-   "upsets_right": 0,
-   "upsets": [],
    "mostly": "none"
   },
   {
@@ -8057,11 +8008,11 @@
     "id": "pollavg",
     "name": "Polling-average leader (polled races only)",
     "kind": "polls",
-    "covered": 106,
+    "covered": 107,
     "right": 81,
     "wrong": 25,
-    "nocall": 0,
-    "n": 106,
+    "nocall": 1,
+    "n": 107,
     "brier": null,
     "upsets_caught": [
      "TX-15",
@@ -13848,11 +13799,11 @@
     "id": "pollavg",
     "name": "Polling-average leader (polled races only)",
     "kind": "polls",
-    "covered": 33,
+    "covered": 34,
     "right": 30,
     "wrong": 3,
-    "nocall": 0,
-    "n": 33,
+    "nocall": 1,
+    "n": 34,
     "brier": null,
     "upsets_caught": []
    }
