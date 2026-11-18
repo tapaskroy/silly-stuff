@@ -2662,5 +2662,50 @@
    "https://www.yahoo.com/news/articles/democratic-primary-challengers-see-opening-000040123.html",
    "https://www.themainewire.com/2026/04/democratic-cd2-debate-puts-progressive-wish-list-on-full-display-medicare-for-all-anti-war-messaging-and-attacks-on-trump-tariffs/"
   ]
+ },
+ {
+  "chamber": "house",
+  "district": "CA-23",
+  "name": "Tessa Lynn Hodge",
+  "party": "D",
+  "winner": "Jay Obernolte (R)",
+  "incumbent_before": "Jay Obernolte (R)",
+  "full_name": "Tessa Lynn Hodge",
+  "wing": "Progressive",
+  "confidence": "high",
+  "signals": {
+   "economic": "left",
+   "israel": "critical"
+  },
+  "evidence": "Her campaign site pledges to fight for a single-payer healthcare system and take on profiteering CEOs. It calls Gaza a genocide, demands an immediate ceasefire, an end to funding for Israel and the elimination of anti-BDS laws, and says she will take no AIPAC or J Street money. High Desert Progressive Democrats endorsed her.",
+  "sources": [
+   "https://tessaforca.com/issues/issue-1",
+   "https://tessaforca.com/issues/national-security-and-foreign-policy",
+   "https://tessaforca.com/Endorsements",
+   "https://www.avdailynews.com/single-post/tessa-lynn-hodge-congressional-candidate-in-ca-23",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "NC-7",
+  "name": "Kimberly Hardy",
+  "party": "D",
+  "winner": "David Rouzer (R)",
+  "incumbent_before": "David Rouzer (R)",
+  "full_name": "Kimberly Hardy",
+  "wing": "Mainstream",
+  "confidence": "low",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Social-work professor and NC Democratic Party second vice chair whose platform is conventional: raise the minimum wage, close the overtime loophole, no tax on tips, protect Medicare and Medicaid, and support small-business loans and Opportunity Zones. She did not back Medicare for All or join the CPC, and nothing on Israel was found. Endorsements came from CWA, UAW, FIRE PAC and Patriotic Millionaires.",
+  "sources": [
+   "https://www.kimberlyhardyforcongress.com/priorities",
+   "https://patrioticmillionaires.org/people/dr-kimberly-hardy/",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+   "https://www.wect.com/2026/09/30/vote-2026-meet-candidates-running-district-7-seat-us-house-representatives/"
+  ]
  }
 ]
