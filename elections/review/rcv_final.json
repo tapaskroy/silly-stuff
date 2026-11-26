@@ -1,0 +1,7 @@
+{
+ "_note": "Final-round margins for ranked-choice races nobody won outright in round 1. fetch_ap.py --count-to uses these instead of AP's first-round shares. margin = first-listed minus second-listed (as in results.json), percent of continuing ballots in the last round.",
+ "house": {
+  "AK-AL": {"margin": -2.7, "final_round": {"Begich": 140346, "Hill": 132961}, "pct": {"Begich": 51.35, "Hill": 48.65},
+            "source": "https://www.elections.alaska.gov/enr/26GENR/results/RCV-USRep.pdf", "as_of": "2026-11-18 (unofficial, Alaska Division of Elections RCV Detailed Report)"}
+ }
+}

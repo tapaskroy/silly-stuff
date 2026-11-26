@@ -1790,5 +1790,35 @@
   },
   "evidence": "Voted Yea on 2024 Ukraine aid (2024 roll 151) and No on the 2025 Greene amendment barring Ukraine aid (2025 roll 209).",
   "actually_returning": false
+ },
+ {
+  "district": "NC-5",
+  "name": "Virginia Foxx",
+  "party": "R",
+  "wing": "Mainstream",
+  "confidence": "high",
+  "why_leaving": "lost general",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Yea",
+   "ukraine_ban_2025": "No"
+  },
+  "evidence": "Voted Yea on 2024 Ukraine aid (2024 roll 151) and No on the 2025 Greene amendment barring Ukraine aid (2025 roll 209); lost to Hubbard (D).",
+  "actually_returning": false
+ },
+ {
+  "district": "TN-4",
+  "name": "Scott DesJarlais",
+  "party": "R",
+  "wing": "Nationalist",
+  "confidence": "medium",
+  "why_leaving": "lost general",
+  "votes": {
+   "israel_2026": "No",
+   "ukraine_2024": "Nay",
+   "ukraine_ban_2025": "No"
+  },
+  "evidence": "Mixed record: voted Nay on 2024 Ukraine aid but No on the 2025 ban; placed on other policies: objected to both the Arizona and Pennsylvania electoral votes on Jan 6, 2021 (2021 rolls 10 and 11). Lost to Broderick (D).",
+  "actually_returning": false
  }
 ]

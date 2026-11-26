@@ -4,7 +4,7 @@
 Usage: python3 fetch_ap.py [--dry-run]
        python3 fetch_ap.py --count-to review/ap_count.json
   --count-to writes AP's current count for every race to that file instead (same shape as results.json, margins at any share
-  counted, ranked-choice races at their first-round shares, note = percent of expected vote in), plus AP's national House vote
+  counted, ranked-choice races at their first-round shares unless review/rcv_final.json has the final round, note = percent of expected vote in), plus AP's national House vote
   to national_vote.json beside it. results.json is not touched. The wings head-to-head and the upset review read these files.
 For each scored race it finds the AP race (same state and office, both our candidates on AP's ballot) and records:
   winner     our surname for AP's declared winner (AP marks it in progress.json: winner "X", calledAt); for the Louisiana House races,
@@ -34,6 +34,7 @@ DRY = "--dry-run" in sys.argv
 COUNT_TO = Path(sys.argv[sys.argv.index("--count-to") + 1]) if "--count-to" in sys.argv else None
 if COUNT_TO:
     MARGIN_EEVP = 0
+RCV_FINAL = json.loads((HERE / "review" / "rcv_final.json").read_text()) if COUNT_TO else {}
 
 
 def get(name):
@@ -128,6 +129,8 @@ for ch, races in results.items():
         total = {o: sum(share.get(c["candidateID"], 0) for c in side[o]) for o in (a, b)}
         new["margin"] = (round(total[a] - total[b], 1)
                          if winners and eevp >= MARGIN_EEVP and (COUNT_TO or not m.get("rankedChoice")) else None)
+        if COUNT_TO and m.get("rankedChoice") and key in RCV_FINAL.get(ch, {}):  # the state's final round, not AP's first-round shares
+            new["margin"] = RCV_FINAL[ch][key]["margin"]
         if new != x:
             changed += 1
             races[key] = new

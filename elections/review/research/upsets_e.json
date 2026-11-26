@@ -1,0 +1,121 @@
+{
+ "NC-5": {
+  "chamber": "house",
+  "result": "Chuck Hubbard (D) defeated Rep. Virginia Foxx (R). The AP count at 99% of expected vote was Hubbard 139,769 (48.74%), Foxx 139,439 (48.62%), Luffman (Lib) 7,578 (2.64%), a 330-vote margin; the AP called it Nov 22, 2026 at 17:44 UTC, after the recount. Hubbard led by 99 votes on election night. Foxx briefly retook the lead on Nov 10, but provisional ballots from Guilford and Watauga put Hubbard back ahead, by 325 votes once all provisionals were counted. After the county canvasses on Nov 13 the unofficial totals were Hubbard 139,770, Foxx 139,439 (331 votes). The margin was within 1%, so Foxx requested a recount. She announced it on Nov 16, and the written request was due by noon Nov 17. The machine recount did not change the outcome. On Sunday, Nov 22, Foxx said she had called Hubbard to concede ('a recount failed to close the narrow gap', per AP). State certification was scheduled for Nov 24. This is a Democratic flip of an 11-term incumbent who chairs the House Rules Committee.",
+  "pres_2024": "Trump +20.2 (59.5-39.3) on the 2026 lines (PollCheck precinct calculation). The district was not materially redrawn. The October 2025 mid-decade redraw (SB 249) changed only NC-1 and NC-3, so NC-5 kept its 2023 (SB 757) lines, which take in Ashe, Watauga, Wilkes, Surry, Stokes, Rockingham and Caldwell counties plus part of Guilford (Greensboro). PollCheck flags NC-5 as 'redrawn for 2026' but says under 2% of its area differs from the 2024 district. On those lines Foxx beat the same opponent, Hubbard, 59.5-40.5 in 2024.",
+  "explanations": [
+   {
+    "claim": "The October 2025 North Carolina redraw changed only the First and Third districts, which WFAE said 'appear to be the only differences' between the new map and the one already in use. NC-5's lines were effectively unchanged, so unlike NC-3, the redraw does not explain this flip.",
+    "kind": "fact",
+    "source": "https://www.wfae.org/2025-10-16/nc-republicans-release-map-redistricting"
+   },
+   {
+    "claim": "This was a rematch. On essentially the same lines, Foxx beat Hubbard 59.5% to 40.5% (R+18.9) in 2024, and Trump carried the district 59.5-39.3. Hubbard's 2026 result was a roughly 19-point swing in margin from his own 2024 race.",
+    "kind": "fact",
+    "source": "https://www.pollcheck.co.uk/us/house/nc-5/"
+   },
+   {
+    "claim": "Foxx outraised Hubbard. FEC totals through Oct 14, 2026: Foxx raised $2.2m (spent $1.6m, $3.5m cash on hand), Hubbard raised $863k (spent $719k, $152k cash). Foxx still had a large unspent war chest at the end.",
+    "kind": "fact",
+    "source": "https://www.pollcheck.co.uk/us/house/nc-5/"
+   },
+   {
+    "claim": "The race was decided in the post-election count. On Nov 10 Foxx briefly took the lead, then fell behind again when Guilford and Watauga counties reported ballots that netted Hubbard 385 votes. With all provisionals counted, Hubbard led by 325. Foxx had first won in 2004 and chaired the House Rules Committee.",
+    "kind": "fact",
+    "source": "https://www.wunc.org/politics/2026-11-10/with-provisional-ballots-counted-dems-poised-to-pick-up-yet-another-n-c-congressional-seat-their-11th"
+   },
+   {
+    "claim": "Statewide wave: AP reported that Democrats won 11 of North Carolina's 14 House seats despite redistricting meant to help Republicans, and Roy Cooper won the Senate race. Hubbard's win was the 'capstone' of that rout.",
+    "kind": "fact",
+    "source": "https://www.wbtv.com/2026/11/22/chuck-hubbard-defeats-rep-virginia-foxx-after-recount-their-north-carolina-house-race/"
+   },
+   {
+    "claim": "Campaign contrast: the Daily Beast, citing the Washington Sun, wrote that Foxx ran on anti-abortion and religious-liberty themes while Hubbard focused on healthcare, affordability and 'protecting women and girls'. Hubbard said he wanted to address affordability, inflation and corruption.",
+    "kind": "interpretation",
+    "source": "https://www.thedailybeast.com/maga-loser-virginia-foxx-83-refuses-to-acknowledge-reality"
+   },
+   {
+    "claim": "Hubbard, a former Wilkes County newspaper reporter and associate publisher, made Foxx's anti-LGBT record (calling the Matthew Shepard murder a 'hoax' on the House floor, opposing Obergefell) a personal issue in a viral clip about his lesbian daughter. How much this moved votes is not established.",
+    "kind": "interpretation",
+    "source": "https://www.wunc.org/politics/2026-11-10/with-provisional-ballots-counted-dems-poised-to-pick-up-yet-another-n-c-congressional-seat-their-11th"
+   },
+   {
+    "claim": "Hubbard called the seat vulnerable and said Foxx had not held a town hall in over a decade. Trump endorsed Foxx. The district includes Boone (Appalachian State) and much of Greensboro, which Hubbard called 'some of the most varied political terrain in the state'.",
+    "kind": "fact",
+    "source": "https://www.yahoo.com/news/foxx-hubbard-set-rematch-north-163046145.html"
+   },
+   {
+    "claim": "Foxx, 83, said a recount was 'the most sensible path forward' given the 'historically close' result. North Carolina lets the trailing candidate in a non-statewide race request a recount if the margin is within 1% of votes cast.",
+    "kind": "fact",
+    "source": "https://www.wbtv.com/2026/11/17/republican-rep-requests-recount-tight-us-house-race-north-carolina/"
+   }
+  ],
+  "late_polls_winner_ahead": [],
+  "picked_winner": [
+   {
+    "who": "Raters and markets (did not pick)",
+    "what": "No one favored Hubbard. Final ratings: Cook Likely R (moved from Solid R after mid-October), Sabato Safe R, Inside Elections Solid R. The most bullish signals were Polymarket (Hubbard 17% on Nov 3) and DDHQ (Likely R, Hubbard 15%). Others: Split Ticket Safe R (5%), FiftyPlusOne 4%, Economist 3%, RTWH 2%; our model gave Hubbard 6%.",
+    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_ratings"
+   }
+  ],
+  "summary": "A wave-year flip on unchanged lines in a seat Trump carried by about 20 points and Foxx won by 19 in 2024, against the same opponent. No redistricting story here: the 2025 redraw touched only NC-1 and NC-3. Hubbard, outraised about 2.5 to 1, won by 330 votes out of about 287,000. He led by 99 on election night, and provisional ballots from Guilford and Watauga widened the lead. Foxx requested a recount, it confirmed the result, and she conceded on Nov 22. No public poll of the race was found. No rater, model or market favored Hubbard: Cook had moved it only to Likely R, and the most bullish quant signals were Polymarket at 17% and DDHQ at 15%.",
+  "_notes": "Margins differ by source and date: 99 on election night (WBTV, WUNC). 325 after provisionals, Nov 10 (WUNC). 331 after canvass, 139,770-139,439 (IBTimes, Political.org, Daily Beast citing WFMY). 335 per WBTV's Nov 17 piece citing 'final tallies from Nov 13' (an outlier). 330 per AP after the recount ('330 votes out of 287,000 cast'). The brief's AP count (139,769-139,439, Luffman 7,578) matches the post-recount 330; it is one vote lower for Hubbard and one lower for Luffman than the canvass figures. Recount: Foxx announced the request Nov 16 (WBTV, IBTimes). Political.org says the written request was submitted Tuesday Nov 17, before the noon deadline; WBTV said it was not yet on the State Board's list on the 16th. Per IBTimes and Political.org, the machine recount was due by Nov 23 and certification on Nov 24. Foxx conceded by phone on Sunday Nov 22 (AP via WBTV), which fits an AP call at 17:44 UTC that day (the AP story time-stamps 2:21 PM EST). I did not independently confirm the call timestamp or the Nov 24 certification. Foxx said she intends to run again in 2028 (IBTimes). Daily Beast said she was the only GOP member to formally request a recount (Murphy in NC-3 conceded). Polls: none found for NC-5 in 2026. Ballotpedia, NC Newsline and NewsFromTheStates returned 403 or Cloudflare blocks and were not used. The PollCheck 'redrawn' flag (<2% of area differs) is probably a boundary-file artifact; WFAE says only NC-1 and NC-3 changed. Ratings are from final_ratings.json; model and market numbers are from quant_house.json (Polymarket p_dem 0.1725, DDHQ 0.15, Split Ticket 0.05, FiftyPlusOne 0.0386, Economist 0.0288, RTWH 0.017)."
+ },
+ "TN-4": {
+  "chamber": "house",
+  "result": "Victoria Broderick (D) defeated Rep. Scott DesJarlais (R). The AP count at 99% of expected vote was Broderick 95,722 (48.89%), DesJarlais 95,361 (48.71%), Anders (Ind) 2,836, Faircloth (Ind) 1,855, a 361-vote margin; the AP called it Nov 24, 2026 at 17:12 UTC. Unofficial election-night totals from the Secretary of State had Broderick ahead by 280 votes (95,585 to 95,305, 48.87%-48.73%). About 700 provisional ballots in Nashville then widened her lead. DesJarlais conceded in a Facebook statement on Monday, Nov 16, saying he had personally called Broderick to congratulate her. Tennessee has no automatic recount, and candidates cannot request one, whatever the margin. A recount can come only through a formal election contest alleging fraud, machine malfunction or other invalidity, and none was reported. County certification was due by Nov 23. This is a Democratic flip and ends DesJarlais's 16-year tenure. Broderick is the only Democrat in Tennessee's delegation (8R-1D).",
+  "pres_2024": "Trump +22.0 (60.2-38.2) on the 2026 lines (PollCheck precinct calculation). Political.org and Fox News say Trump won the redrawn district by 24 points. On the old 2024 lines it was Trump +43.6. The May 7, 2026 mid-decade redraw, signed by Gov. Bill Lee, split Memphis's majority-Black TN-9 among three Republican-leaning districts, with knock-on changes across West and Middle Tennessee. The new TN-4 took in southeast Nashville (part of Davidson County) and all of Rutherford County, and still runs to the Alabama border. DesJarlais beat Broderick 70.0-26.8 on the old lines in 2024.",
+  "explanations": [
+   {
+    "claim": "Tennessee Republicans passed a new map on May 7, 2026 that carved up the Memphis-based majority-Black Democratic district to try to win all nine seats. It was the first state map adopted after the Supreme Court weakened Voting Rights Act protections. The redraw changed districts throughout West and Middle Tennessee.",
+    "kind": "fact",
+    "source": "https://www.pbs.org/newshour/politics/tennessee-lawmakers-pass-u-s-house-map-carving-up-majority-black-district-in-memphis"
+   },
+   {
+    "claim": "The redraw moved southeast Nashville into TN-4 and combined it with all of Rutherford County. DesJarlais won 9 of the 11 counties, but Broderick won Rutherford by a few hundred votes and Davidson by nearly 3 to 1, and more than 80% of her votes came from those two counties. Political.org framed the result as an example of redistricting backfiring when it moves an urban Democratic-leaning area into a rural seat.",
+    "kind": "fact",
+    "source": "https://political.org/2026/11/16/desjarlais-concedes-tennessees-4th-district-to-democrat-victoria-broderick-after-a-razor-thin-race/"
+   },
+   {
+    "claim": "The redraw cut Trump's 2024 margin in the seat from 43.6 points (old lines) to 22.0 points (new lines). DesJarlais had won 70.0-26.8 over Broderick on the old lines in 2024.",
+    "kind": "fact",
+    "source": "https://www.pollcheck.co.uk/us/house/tn-4/"
+   },
+   {
+    "claim": "Broderick ran a shoestring campaign. FEC through Oct 14: DesJarlais raised $667,181 and spent $508,166; Broderick raised $94,217 and spent $90,062. Axios, citing AdImpact, found no record of Broderick airing paid TV ads. She credited a grassroots operation built over more than two years.",
+    "kind": "fact",
+    "source": "https://www.foxnews.com/politics/democrat-poised-flip-deep-red-house-seat-without-airing-single-tv-ad.print"
+   },
+   {
+    "claim": "The redraw put Broderick (Lincoln County) outside the new district; the legislature waived the residency requirement for 2026. She went from no primary opponents to four and said she was outspent 12.5 to 1 in the primary. She had begun campaigning for the 2026 race right after losing in 2024.",
+    "kind": "fact",
+    "source": "https://www.wsmv.com/2026/11/04/how-democrat-victoria-broderick-overcame-redistricting-become-one-tennessees-new-us-representatives/"
+   },
+   {
+    "claim": "National and outside Democratic money (including from JB Pritzker) went to the more competitive-looking TN-5 and TN-9 races, not TN-4, which drew little attention. Political.org said the House-ratings analysis described Broderick's win as the cycle's largest flip measured by Trump margin.",
+    "kind": "fact",
+    "source": "https://political.org/2026/11/16/desjarlais-concedes-tennessees-4th-district-to-democrat-victoria-broderick-after-a-razor-thin-race/"
+   },
+   {
+    "claim": "Broderick campaigned on affordability ('gas and groceries') and on DesJarlais being rarely present in the district ('16 years of neglect'), and talked to Republicans as well as Democrats over two and a half years.",
+    "kind": "interpretation",
+    "source": "https://www.newschannel5.com/news/newschannel-5-investigates/it-felt-so-good-victoria-broderick-on-her-shocking-upset-of-16-year-gop-incumbent"
+   },
+   {
+    "claim": "DesJarlais's 2012-era scandals (divorce-trial testimony about affairs with patients and an alleged abortion pressure call), which he had survived for a decade, were part of Broderick's case against a 'scandal-ridden' incumbent. IBTimes notes that no source shows how many voters weighed them.",
+    "kind": "interpretation",
+    "source": "https://www.ibtimes.co.uk/scott-desjarlais-loses-tennessee-seat-280-votes-1831500"
+   }
+  ],
+  "late_polls_winner_ahead": [],
+  "picked_winner": [
+   {
+    "who": "Raters and markets (did not pick)",
+    "what": "No one favored Broderick. Final ratings: Cook Solid R, Sabato Safe R, Inside Elections Solid R, unchanged from mid-October. Every quant signal had her at 3% or below: DDHQ Safe R (3%), Polymarket 1.9%, RTWH 1.5%, FiftyPlusOne 0.2%, Economist 0.2%, Split Ticket Safe R (0%); our model gave Broderick 1%.",
+    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_ratings"
+   }
+  ],
+  "summary": "The biggest House upset of the cycle by Trump margin, made possible by Republicans' own redraw. To break up Memphis's TN-9, the May 2026 map moved southeast Nashville and all of Rutherford County into TN-4, cutting Trump's margin there from about 44 points to about 22 (24 by some counts). Broderick lost 9 of 11 counties but carried Davidson nearly 3 to 1 and Rutherford narrowly, winning by 280 votes on election night and 361 in the AP count. She raised under $100,000, aired no TV ads, and the race drew no outside money. DesJarlais conceded on Nov 16. Tennessee allows no candidate-requested recount, and no contest was filed. Every rater had Solid/Safe R, and no model or market gave her more than 3%.",
+  "_notes": "Vote totals by source: election night per the Nashville Banner (via JoeMyGod) 95,585-95,305, a 280-vote margin (WSMV, NewsChannel 5, IBTimes and Fox all give 280 / 0.14 points). Political.org's unofficial shares are 48.87-48.73. The brief's AP count (95,722-95,361, 361 votes) presumably includes the roughly 700 Nashville provisionals that Political.org says widened the lead; I did not find a published post-provisional total. Timing: DesJarlais conceded Nov 16 (Fox 17, Political.org), but the AP call per the brief came Nov 24 at 17:12 UTC, after county certification (due Nov 23 per IBTimes). That ordering is plausible but I did not confirm the AP timestamp. Trump margin: PollCheck R+22.0 vs 'Trump won the redrawn district by 24 points' (Political.org, Fox); the method behind the 24 is unstated. Fundraising: NewsChannel 5 says Broderick 'raised only $45,000', which conflicts with FEC $94,217 through Oct 14 (Fox, PollCheck); the FEC figure is used. Recount law: per WSMV and IBTimes, Tennessee has no automatic recount and no candidate-requested recount; a recount happens only through an election contest. None was reported, and DesJarlais's concession makes one moot. Polls: no general-election poll found. A search snippet pointed to a June 2026 Jacob Anders (independent) internal on issuu (Anders 31, DesJarlais 29); I could not load it, and it is out of window and does not show Broderick ahead. Tennessee Lookout, Axios, WPLN and WKRN were blocked (403, Cloudflare or bot wall) and were not used. Ratings are from final_ratings.json; model and market numbers are from quant_house.json."
+ }
+}
