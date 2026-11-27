@@ -1,0 +1,59 @@
+{
+ "NC-3": {
+  "chamber": "house",
+  "result": "Raymond Smith Jr. (D) defeated Rep. Greg Murphy (R). The AP count at 99% of expected vote was Smith 118,434 (49.4%), Murphy 118,176 (49.3%), Cavender (Lib) 3,004 (1.3%), a 258-vote margin; the AP called it Nov 17, 2026 at 20:45 UTC. Murphy led by 233 votes after election night and declared victory on Nov 4, but Smith went ahead once provisional ballots were counted on Nov 10 (state board unofficial totals: Smith 118,488, Murphy 118,195, a 293-vote margin). Murphy conceded on Nov 11. The margin is within 1%, so Murphy could have requested a recount by noon Nov 17, but no request was reported and his concession made one unlikely. The State Board of Elections certifies on Nov 24. This is a Democratic flip.",
+  "pres_2024": "Trump +13.6 (56.2-42.7) on the 2026 lines (PollCheck precinct calculation; WUNC also gives about 13.6). On the old 2024 lines it was Trump +21.8. The October 2025 mid-decade redraw changed only NC-1 and NC-3: it moved Greene, Lenoir, Wayne and Wilson into NC-3 and moved Beaufort, Carteret, Craven, Dare, Hyde and Pamlico out to NC-1. The aim was to strengthen Republicans against Rep. Don Davis in NC-1. Sen. Ralph Hise said Trump's share in NC-3 fell from 60% to 56%.",
+  "explanations": [
+   {
+    "claim": "The October 2025 redraw moved Greene, Lenoir, Wayne and Wilson counties from NC-1 into NC-3 and moved Beaufort, Carteret, Craven, Dare, Hyde and Pamlico out to NC-1, to make Don Davis's NC-1 more Republican. Sen. Ralph Hise said NC-3 went from a seat where Trump won 60% to one where he won 56%.",
+    "kind": "fact",
+    "source": "https://www.wfae.org/2026-11-13/raymond-smith-dummymander-nc-3"
+   },
+   {
+    "claim": "Smith won the four counties moved into NC-3 by 2,532 votes, largely driven by Wilson County. WFAE wrote that if Republicans had not redrawn the map, Murphy would likely have been re-elected. Davis also held NC-1, so the redraw failed in both districts (a 'dummymander').",
+    "kind": "interpretation",
+    "source": "https://www.wfae.org/2026-11-13/raymond-smith-dummymander-nc-3"
+   },
+   {
+    "claim": "Murphy outspent Smith heavily. AdImpact: Murphy and Republican-aligned groups spent $1.46m on TV and digital ads, Democratic-aligned groups about $285,000, including only $7,561 from Smith's campaign. FEC through Oct 14: Murphy raised $2.9m, Smith $367k (Smith had $44k cash on hand).",
+    "kind": "fact",
+    "source": "https://www.wfae.org/2026-11-13/raymond-smith-dummymander-nc-3"
+   },
+   {
+    "claim": "Smith was not on the DCCC's 'Red to Blue' list, though NC-3 was among its 'Districts in Play'. Andy Jackson of the John Locke Foundation's Civitas Center said the redraw moved NC-3 from R+9 to R+5 and that 'A Smith win in the 3rd District would be a surprise, even in the current political environment.'",
+    "kind": "fact",
+    "source": "https://www.carolinajournal.com/nc-3-gains-late-attention-with-early-vote-surge-ratings-shift/"
+   },
+   {
+    "claim": "Smith is a Goldsboro resident, Army (Gulf War) veteran, former educator and two-term state House member (Wayne and Sampson counties). NCDP chair Anderson Clayton said the party knew the race would get little national money and relied on grassroots organizing.",
+    "kind": "fact",
+    "source": "https://www.wfae.org/2026-11-13/raymond-smith-dummymander-nc-3"
+   },
+   {
+    "claim": "National environment: Trump's approval was around 35%. The final Elon University Poll had him at 34-57 in North Carolina. Former RNC spokesman Doug Heye said 'If Trump were at 39% approval ... Murphy absolutely wins,' and that the redraw spread Republicans 'too thin, especially in Greg Murphy's district.'",
+    "kind": "interpretation",
+    "source": "https://www.wfae.org/2026-11-13/raymond-smith-dummymander-nc-3"
+   },
+   {
+    "claim": "WCTI reported that close to 40% of the district's voters had never seen Murphy's name on their ballot before, because of the redraw.",
+    "kind": "fact",
+    "source": "https://wcti12.com/news/local/ncs-3rd-district-still-uncalled-as-murphy-leads-smith-by-233-votes"
+   },
+   {
+    "claim": "Statewide context: Democrats went from 4 of 14 NC House seats to leads in 11. NC-3 and NC-5 were decided only after provisional ballots were counted on Nov 10.",
+    "kind": "fact",
+    "source": "https://www.wunc.org/politics/2026-11-10/with-provisional-ballots-counted-dems-poised-to-pick-up-yet-another-n-c-congressional-seat-their-11th"
+   }
+  ],
+  "late_polls_winner_ahead": [],
+  "picked_winner": [
+   {
+    "who": "Raters and markets (did not pick)",
+    "what": "No one favored Smith. Final ratings: Cook Likely R, Sabato Likely R, Inside Elections Likely R. The closest were Polymarket (Smith 42.5% on Nov 3) and DDHQ (Lean R, Smith 31%). Others: FiftyPlusOne 16%, Split Ticket Likely R (7%), RTWH 5%, Economist 2%; our model gave Smith 11%.",
+    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_ratings"
+   }
+  ],
+  "summary": "A wave-year flip in a seat the 2025 redraw had weakened for Republicans. To shore up the GOP in NC-1, mapmakers moved Wayne, Wilson, Lenoir and Greene into NC-3, cutting Trump's 2024 margin there from about 22 points to about 14. Smith won those new counties by 2,532 votes and the whole race by about 260 to 290 votes, despite being outspent about 5 to 1 on ads. No public poll was found after August, when a Democratic internal (Tulchin) had Murphy up 44-41. No rater, model or market favored Smith: all three raters had Likely R, and the most bullish signals were Polymarket at 42.5% and DDHQ at Lean R (31%).",
+  "_notes": "Figures that differ by source: AP (258-vote margin, from the brief) and the state board's unofficial post-provisional total (293, reported Nov 10-13). One report said Greene County was still outstanding at that point, and the AP figure may reflect later county canvasses; final certified numbers are due Nov 24. I did not independently find the AP call or its timestamp (Nov 17, 20:45 UTC, from the brief) in search results. No recount request was found as of the Nov 17 noon deadline, but absence was not confirmed. Ballotpedia and RealClearPolling pages did not load via curl. Polls: PollingSource lists only Tulchin Research (D), Jul 27-Aug 2, Murphy 44 Smith 41 (600 LV), which is outside the window and shows the loser ahead. Smith's Oct 19 press release says a 'summer poll had this race statistically tied' and that Sabato shifted NC-3 toward Democrats; final Sabato was still Likely R. Smith's press release also says Gov. Josh Stein carried the redrawn district in 2024 (not independently verified). Model and market probabilities come from review/research/quant_house.json, and rater values from final_ratings.json (Wikipedia table plus 270toWin). The 'dummymander' framing is WFAE's analysis plus Chris Cooper and Doug Heye quotes. Candidate name: Raymond E. Smith Jr."
+ }
+}

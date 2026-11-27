@@ -8922,5 +8922,70 @@
   "objected_2021": null,
   "wing": "Nationalist",
   "basis": "newcomer: placed on platform and endorsements"
+ },
+ {
+  "district": "CA-23",
+  "name": "Jay Obernolte",
+  "party": "R",
+  "returning": true,
+  "agent_wing": "Mainstream",
+  "confidence": "medium",
+  "evidence": "Returning; beat Tessa Lynn Hodge (D). Governing-conservative: Main Street Caucus and Republican Governance Group member, not Freedom Caucus, elected House GOP policy chair in 2026, voted for the Respect for Marriage Act, and his immigration platform pairs border enforcement with expanding legal immigration. Against that, he voted Yea on both Jan 6, 2021 objections (AZ roll 10, PA roll 11), and his Ukraine record is mixed (Nay on H.R. 8035, No on the 2025 Greene amendment).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jay_Obernolte",
+   "https://obernolte.house.gov/issues/immigration-border-security",
+   "https://clerk.house.gov/evs/2021/roll010.xml",
+   "https://clerk.house.gov/evs/2021/roll011.xml",
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml"
+  ],
+  "immigration": "moderate",
+  "ukraine_2024": "Nay",
+  "ukraine_ban_2025": "No",
+  "objected_2021": true,
+  "wing": "Mainstream",
+  "basis": "mixed record (opposed the 2024 aid, not the 2025 ban): placed on other policies"
+ },
+ {
+  "district": "NC-3",
+  "name": "Raymond Smith Jr.",
+  "party": "D",
+  "returning": false,
+  "agent_wing": "Mainstream",
+  "confidence": "medium",
+  "evidence": "Newcomer; beat Greg Murphy (R). Former NC state representative and Army veteran, backed by the CBC PAC, VoteVets, CWA and Red Wine & Blue. His platform is pragmatic and district-focused (manufacturing and defense investment, apprenticeships, rural health clinics, protecting Seymour Johnson AFB) with no Medicare for All, CPC or left-group signals, and nothing found on Israel.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Raymond_Smith_Jr.",
+   "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+   "https://branch.vote/races/2026-north-carolina-general-election-nc-state-us-representative-nc-congressional-3/candidates/raymond-smith",
+   "https://www.dailykos.com/stories/2026/4/9/2376142/-CBC-Roundup-Raymond-Smith-for-NC-3-the-most-important-person-is-the-voter",
+   "https://www.wunc.org/politics/2026-11-13/raymond-smith-dummymander-nc-3"
+  ],
+  "econ": "center",
+  "israel": "unknown",
+  "israel_vote_2026": null,
+  "israel_vote_2024": null,
+  "wing": "Mainstream",
+  "wing_without_israel_rule": "Mainstream",
+  "basis": "newcomer or no 2026 vote: endorsements and statements"
+ },
+ {
+  "district": "NC-7",
+  "name": "David Rouzer",
+  "party": "R",
+  "returning": true,
+  "agent_wing": "Mainstream",
+  "confidence": "high",
+  "evidence": "Returning; beat Kimberly Hardy (D). Voted Yea on 2024 Ukraine aid (2024 roll 151) and No on the 2025 Greene amendment barring Ukraine aid (2025 roll 209).",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml"
+  ],
+  "immigration": "unknown",
+  "ukraine_2024": "Yea",
+  "ukraine_ban_2025": "No",
+  "objected_2021": true,
+  "wing": "Mainstream",
+  "basis": "voted for the 2024 Ukraine aid and against the 2025 ban"
  }
 ]

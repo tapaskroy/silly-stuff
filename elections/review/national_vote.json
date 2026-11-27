@@ -1,10 +1,10 @@
 {
  "_source": "AP national U.S. House vote aggregate (the race with state 'US' in AP's results feed)",
- "as_of": "2026-11-16T01:55:23+00:00",
- "eevp": 98.07,
- "dem_pct": 56.21,
- "rep_pct": 42.3,
+ "as_of": "2026-11-18T04:03:33+00:00",
+ "eevp": 98.63,
+ "dem_pct": 56.24,
+ "rep_pct": 42.26,
  "other_pct": 1.49,
- "dem_votes": 66503497,
- "rep_votes": 50051363
+ "dem_votes": 66746047,
+ "rep_votes": 50154959
 }
