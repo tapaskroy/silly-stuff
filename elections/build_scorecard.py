@@ -309,7 +309,11 @@ def pt(iso):
 
 
 stamp = pt(stamp) if stamp else None
+LATER = [label.lower() for _, label in site.SHEETS[[h for h, _ in site.SHEETS].index("scorecard.html") + 1:]]  # nav links added after the freeze (nav_frozen.py)
 banner = (f"Scoring the forecast frozen at {esc(stamp)}; later updates can't change it."
+          + (f" The four forecast pages are shown as frozen, except for {'a link' if len(LATER) == 1 else 'links'} to the {' and '.join(LATER)}"
+             " added to their navigation bar after the freeze."
+             if LATER else "")
           if frozen else "Not frozen yet: the forecast freezes at 9:00 a.m. PT on Nov 3, and from then on this page scores only the frozen copy.")
 MAJORITY = {"Senate": 51, "House": 218, "Governors": 26}  # Senate: a 50-50 tie goes to Republicans (VP Vance)
 
