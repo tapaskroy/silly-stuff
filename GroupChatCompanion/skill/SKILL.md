@@ -45,7 +45,7 @@ Default is silence. Most messages get no reply and that is the expected outcome.
 ## Recognising that someone is talking to you
 
 Compute `addressed = mentions_agent || reply_to_agent` in the listener and have the loop
-read that field. **Never try to spot the mention id by eye in message text** — other
+read that field. **Never try to spot the mention id by eye in message text.** Other
 participants' ids look identical and matching the wrong one means answering a question
 nobody asked.
 
@@ -86,7 +86,7 @@ a missing re-arm looks exactly like a quiet room.
 
 ## Bootstrap
 
-1. Check bridge authentication. If it needs a QR scan, stop and ask the operator — the
+1. Check bridge authentication. If it needs a QR scan, stop and ask the operator, because the
    agent cannot do it.
 2. Clear stale locks if the lock file names a dead process.
 3. Start the watchdog as a background process.
@@ -99,7 +99,7 @@ a missing re-arm looks exactly like a quiet room.
 
 - Trust the watchdog for transport health; relaunch it or the waiter immediately if either
   exits.
-- **Every timer launches as its own command.** Never bundle a timer with other logic — one
+- **Every timer launches as its own command.** Never bundle a timer with other logic. One
   bundled failure takes down both.
 - **Actually fire the tool.** Never write "posting…" and end the turn without the call.
 - Use `pgrep -f "<pattern>" >/dev/null && echo UP || echo DOWN` for health checks. A
@@ -110,7 +110,7 @@ a missing re-arm looks exactly like a quiet room.
 
 ## Refires
 
-A message can fire more than once under the same id — an edit that changes the text, or
+A message can fire more than once under the same id: an edit that changes the text, or
 sometimes a refire with identical text. Both look like new messages. **The id is the
 identity.** Union the flags across refires, take the last text, and check whether that id
 was already answered before replying.

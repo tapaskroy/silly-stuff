@@ -83,7 +83,7 @@ inside a social room reads as both rude and anxious. One sentence, then move on.
 Group policy and DM policy are different problems. A DM to the agent's number is a 1:1
 channel with no audience to moderate it, so it gets a separate pattern: analyse, run an
 injection check, score the risk, and hand the scored record to whichever agent owns that
-decision. The score is a **label, not a gate** — the record travels regardless of what it
+decision. The score is a **label, not a gate.** The record travels regardless of what it
 scores, because withholding the ugly ones means an attacker earns silence by being
 obviously hostile.
 

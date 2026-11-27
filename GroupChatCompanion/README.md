@@ -47,6 +47,13 @@ docs/     architecture and setup
 
 ## Status
 
+**The documentation here describes more than the code does.** `skill/`, `docs/ARCHITECTURE.md`
+and `eval/` specify an envelope (who a message is addressed to, on which channel) that
+nothing in `bridge/` computes yet. The shipped listener raises a trigger only for
+note-to-self messages; group traffic is surfaced by a separate polling script, for one
+group. Read the scope box in `docs/SETUP.md` before building on it. Wiring the envelope
+into the listener is the obvious next piece of work.
+
 The bridge is carried over from `../KloSportsBot` **by copy, not by reference**. A fix in
 one does not reach the other. If you change anything under `bridge/`, mirror it. This is a
 deliberate trade: two small copies beat a premature shared module, but only if the

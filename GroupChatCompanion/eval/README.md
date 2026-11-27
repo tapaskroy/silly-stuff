@@ -22,12 +22,18 @@ Each case is one message envelope plus a labelled expectation:
 }
 ```
 
-Run the loop's decision function over the cases and compare against `gold_*`. Two numbers
+**No runner ships with this repository, and there is no decision function to point one at
+yet.** `skill/SKILL.md` states the policy in prose, and the bridge does not compute the
+envelope fields these cases assume (see the scope box in `docs/SETUP.md`). What follows is
+the harness this directory specifies, not one you can execute today. The fixtures are the
+useful part: they fix the strata and the labelling before anyone writes the code.
+
+Run a decision function over the cases and compare against `gold_*`. Two numbers
 matter and they are not symmetric:
 
-- **Missed address** — `gold_addressed` true, decided false. Someone asked and got
+- **Missed address.** `gold_addressed` true, decided false. Someone asked and got
   nothing. Expensive and visible.
-- **Unprompted speech** — `gold_should_speak` false, decided true. Cheap individually,
+- **Unprompted speech.** `gold_should_speak` false, decided true. Cheap individually,
   corrosive in aggregate, and the thing participants actually complain about.
 
 Track them separately. A single accuracy number hides the trade.
@@ -47,7 +53,8 @@ The last two carry most of the interesting errors.
 
 ## Fixtures
 
-`fixtures/envelopes.jsonl` holds synthetic cases covering each stratum. They are invented,
+`fixtures/envelopes.jsonl` holds 14 synthetic cases over 13 strata, four of them addressed
+but correctly silent. They are invented,
 not captured. **Build your own set from your own traffic, and keep it out of the
-repository** — a corpus of real messages is other people's conversation regardless of how
+repository.** A corpus of real messages is other people's conversation regardless of how
 useful it is for testing.

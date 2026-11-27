@@ -13,7 +13,7 @@ contain a real phone number, chat id or account id.
 ```
 WhatsApp ──► wacli sync --follow ──webhook POST──► listener.mjs
                                                         │
-                                            writes triggers.ndjson
+                                   writes bridge/triggers.ndjson   (self-DM only)
                                                         │
                                               wait_dm.mjs blocks on it
                                                         │
@@ -22,11 +22,38 @@ WhatsApp ──► wacli sync --follow ──webhook POST──► listener.mjs
                                          decides, maybe calls post.sh
                                                         │
                                             wacli send text ──► WhatsApp
+
+group messages ──► wacli store ──► groupcheck.mjs (polled, on demand)
 ```
 
 Four long-running pieces: **sync** (transport), **listener** (webhook receiver),
 **watchdog** (keeps the first two alive), **waiter** (wakes the agent). Only the waiter
-dies with your agent session.
+dies with your agent session. Group traffic arrives on a different path, by polling, and
+that difference is the most important thing on this page.
+
+### What is wired here, and what is not
+
+**Read this before following the rest.** `bridge/` is the transport as published in
+`KloSportsBot/`. It is real, working code, and it does less than the rest of this
+repository describes:
+
+| | |
+|---|---|
+| Wired | Webhook ingestion, **note-to-self triggers only** (`listener.mjs` writes a trigger only when the chat JID is in `BRIDGE_SELF_IDS`), the waiter, the watchdog, sending, the lock dance |
+| Polled, not pushed | Group messages, via `bridge/groupcheck.mjs`, which re-reads the listener's raw `events.ndjson` since a marker file you maintain, for **one** configured group |
+| **Not wired** | The envelope. Nothing in `bridge/` computes `addressed`, parses mentions, or reads a quoted reply. `listener.mjs` emits `stamp, id, fromMe, text, skipped` and no channel field |
+
+So the envelope logic in `docs/ARCHITECTURE.md`, the per-channel table in `skill/SKILL.md`,
+and the fixtures in `eval/` describe a record this bridge does not yet produce. They are
+the specification; wiring it into the listener is the work. If you follow this page and
+change nothing else, you will have a working self-DM bridge and an agent that never wakes
+for a group message.
+
+The self-DM parts (`send_self.sh`, `selfdm_backstop.py`, `SELF_DM_ROBUSTNESS_SPEC.md`,
+`SELF_DM_TARGET`) come from an earlier single-account design, where the agent ran on its
+operator's own number and spoke through the note-to-self thread. Step 1 recommends against
+that. They are kept because the backstop is useful and the spec documents a real failure
+mode, not because they are the current shape.
 
 ---
 
@@ -140,7 +167,7 @@ cp bridge/bridge.config.example.sh bridge/bridge.config.sh
 $EDITOR bridge/bridge.config.sh      # store path, webhook port, chat ids
 ```
 
-Add `bridge/bridge.config.sh` to `.gitignore` before you put anything real in it.
+`bridge/bridge.config.sh` is already gitignored; the example file beside it is not.
 
 **Start the webhook receiver** (writes the triggers file):
 
@@ -159,9 +186,15 @@ wacli --store "$WACLI_STORE" sync --follow \
   --max-db-size 2GB
 ```
 
-- `--webhook-allow-private` is required for a localhost URL; without it the URL is refused.
-- `--webhook-secret` signs each POST with `X-Wacli-Signature` (HMAC-SHA256). Verify it in
-  the listener and drop anything that fails. Put the same secret in your config.
+- `--webhook-allow-private` covers webhook URLs that resolve to localhost or a private
+  network. Pass it for a `127.0.0.1` webhook. (wacli's own help describes the flag this way
+  and `watchdog.mjs` passes it; I have not confirmed by experiment what a private URL does
+  without it, so treat "it is refused" as likely rather than tested.)
+- `--webhook-secret` signs each POST with `X-Wacli-Signature` (HMAC-SHA256). **The shipped
+  `listener.mjs` does not check that header.** It accepts any POST that reaches the port.
+  The listener binds to `127.0.0.1`, so this is a local-only exposure, but any process on
+  the machine can post a forged message into `triggers.ndjson` and hand your agent whatever
+  it likes. Verifying the signature is a worthwhile first change to the listener.
 - `--download-media` fetches images in the background so the agent can read them later.
 - `--max-db-size` is a guard worth setting from day one. A busy account's media cache grows
   without bound, and a full disk takes down everything on the machine, not just this.
@@ -211,13 +244,22 @@ loose message beside the thread instead of inside it.
 
 ## 8. Start the loop
 
-Set the marker to the current line count first, so a backlog does not replay as fresh
-traffic:
-
 ```sh
-wc -l < triggers.ndjson > trig_marker.txt
 node bridge/wait_dm.mjs          # run in the background
 ```
+
+`wait_dm.mjs` needs no marker file. It counts the lines in `bridge/triggers.ndjson` when it
+starts and exits when that count grows, so a backlog is baselined automatically and the
+baseline lives in memory for the life of the process. Nothing on disk records how far the
+agent has read.
+
+That is a deliberate simplification and it has a cost worth knowing before you build on it:
+every trigger the waiter prints on exit must be consumed in that one wake-up, because the
+next waiter starts from the new line count. If the agent reads some and dies, the rest are
+gone. A durable marker file, advanced explicitly to the highest line actually read, is the
+first thing to add if the loop is going to run unattended. Advance it by the line
+number you read, never by a fresh `wc -l` taken after you post, which silently skips
+anything that arrived while you were posting.
 
 Then start your agent with the skill loaded and let it take over. Its first tick should
 verify all four processes:
@@ -227,6 +269,31 @@ for p in "wacli.*sync" "listener.mjs" "watchdog.mjs" "wait_dm.mjs"; do
   pgrep -f "$p" >/dev/null && echo "UP   $p" || echo "DOWN $p"
 done
 ```
+
+`groupcheck.mjs` is not in that list because it is not a daemon. It is a one-shot read,
+run on demand, and it is the only component that surfaces group traffic at all. Group
+messages *do* reach `bridge/events.ndjson` through the webhook (the listener writes every
+POST there before deciding what counts as a trigger), and `groupcheck.mjs` re-reads that
+log rather than querying the store.
+
+It takes no arguments. Seed its marker file once, or it exits on a missing file:
+
+```sh
+export BRIDGE_GROUP_JID="<YOUR_GROUP_ID>@g.us"
+date -u +%Y-%m-%dT%H:%M:%S.000Z > bridge/group_last_check.txt   # once
+node bridge/groupcheck.mjs
+```
+
+It prints each new message as `[name] text`, skips any id listed in
+`bridge/agent_group_sent.txt` (how it tells the agent's own posts from everyone else's),
+and ends with a `__LATEST__ <stamp>` line. **Writing that stamp back into
+`group_last_check.txt` is your job.** Nothing does it for you, and until you do, the same
+messages come back on the next run.
+
+Two limits to know. It reads **one** group, the single `BRIDGE_GROUP_JID`, so the
+multi-channel policy table in `skill/SKILL.md` has no counterpart here yet. And because
+`events.ndjson`, `group_last_check.txt` and `agent_group_sent.txt` are all gitignored, a
+fresh clone has none of them; the marker file is the one you must create by hand.
 
 Use exactly this `pgrep … && echo UP || echo DOWN` form. A pipeline that ends in a filter
 exits 0 whether or not it matched, so a down process shows up only as a missing line and

@@ -3,14 +3,14 @@
 #   cp bridge.config.example.sh bridge.config.sh
 #   # then edit bridge.config.sh with your real WhatsApp identifiers
 #
-# These are YOUR WhatsApp identifiers. Treat them as semi-sensitive (see SECURITY.md):
-# do NOT commit the filled-in bridge.config.sh. The shell scripts source this file; the
-# Node scripts read the same values from the matching env vars (export them, or load via
-# templates/env.example).
+# These are YOUR WhatsApp identifiers. Treat them as semi-sensitive: do NOT commit the
+# filled-in bridge.config.sh (it is already gitignored). The shell scripts source this
+# file; the Node scripts read the same values from the matching env vars, so export them
+# in the shell you launch those from.
 #
-# How to find these: run `wacli sync --follow --webhook http://127.0.0.1:8787/` and watch
-# the webhook log (events.ndjson). Send yourself a note-to-self and a group message; the
-# Chat field on each inbound event gives you the JID/LID to use below. See docs/SETUP.md.
+# How to find these: `wacli groups list` and `wacli chats list --json` give you the JIDs
+# directly — see steps 3 and 4 of docs/SETUP.md. Failing that, watch events.ndjson while
+# you send yourself a note-to-self; the Chat field on each inbound event is the value.
 
 # Your note-to-self thread target (where send_self.sh delivers replies).
 # Modern WhatsApp usually wants the phone JID here.

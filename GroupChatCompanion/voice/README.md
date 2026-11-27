@@ -38,3 +38,21 @@ protect, invisibly, because the output passes.
 
 **Fix the rule, keep the sentence.** Then re-run against a known-positive example to
 confirm the rule still catches the real pattern.
+
+## Known limits
+
+The rules were derived by counting tics in a corpus of **chat messages**, and the
+thresholds do not transfer cleanly to other registers. Two over-firings are known and
+neither is worth rewriting good text to satisfy:
+
+- **Markdown structure.** Em-dashes in a heading (`## Step 1 — identify the sender`), in a
+  table cell, or as a bullet label are separators, not sentence-interruption punctuation.
+  The checker counts them all the same.
+- **Fenced code blocks.** An em-dash inside ``` is flagged exactly like one in prose, so a
+  shell sample or a quoted template can fail a file that reads perfectly.
+
+Both are false positives in a documentation repository, and the fix is a parser that strips
+fences and structural markup before counting. Until then, read the `[FIX]` lines rather
+than obeying the exit code: a checker that launders good prose into worse prose is worse
+than no checker. The soft counts (bold, colons) are tuned for short posts and will fire on
+any technical document; they are advisory by design.
