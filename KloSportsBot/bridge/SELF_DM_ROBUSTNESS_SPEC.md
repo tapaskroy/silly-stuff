@@ -151,3 +151,32 @@ Ingestion loss is inherent to push-only follow mode; can't be fully eliminated w
 - No code changes to `watchdog.mjs`, `wait_dm.mjs`, `listener.mjs`, or the send scripts beyond what's already noted as done.
 - No new daemons started.
 - No change to a live loop, which keeps running on the current mechanism while this is reviewed.
+
+---
+
+## 7. Implemented: snapshot backstop (`selfdm_backstop.py`) — A-reserve, refined
+
+**Status: shipped.** The A-reserve idea (§4) is implemented in `selfdm_backstop.py`, with one
+refinement that removes its main drawback.
+
+The original A-reserve worried about "reintroducing polling" — and a naive implementation
+(pause follow-sync → `wacli sync` catch-up → read store → resume) is actively *harmful*: it
+tears down follow-sync on every cycle, **adding exactly the offline windows** that cause
+Failure-A in the first place (a self-note sent during that window may never be delivered to
+the linked device, and is then unrecoverable).
+
+The fix: **read a snapshot copy of the store instead of pulling.** Each cycle copies
+`wacli.db` + `-wal` + `-shm` to a temp dir and opens it read-only via sqlite3. This:
+- never touches `wacli sync --follow` (zero added offline windows — it can't worsen Failure-A),
+- has zero lock contention (the live store keeps its single-writer lock),
+- sees recent writes (the `-wal` is copied alongside the main db),
+- appends any self-DM not already in `triggers.ndjson` / `agent_sent_ids.txt`, so the existing
+  waiter delivers it through the normal path (no new wake mechanism).
+
+Run it on a short recurring timer (~180s) next to the webhook waiter: webhook = instant primary
+path, snapshot backstop = safety net that recovers anything the webhook silently dropped.
+
+**Boundary (unchanged):** the snapshot only recovers messages that *reached the store*. A
+message WhatsApp never delivered to this linked device is not in the store and is recovered by
+neither path — the only mitigation there is keeping follow-sync alive (§ Fix C-mit), i.e. don't
+kill it more than each post strictly requires.
