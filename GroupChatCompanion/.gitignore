@@ -1,0 +1,48 @@
+# ============================================================================
+# SECRETS & PERSONAL DATA — NEVER COMMIT THESE (listed first, on purpose).
+# The rule of thumb: identifiers, message bodies and media never land in git.
+# ============================================================================
+
+# Credentials / environment
+.env
+.env.*
+
+# Filled-in bridge config (real WhatsApp JIDs / phone / LID)
+bridge/bridge.config.sh
+!bridge/bridge.config.example.sh
+
+# WhatsApp message bodies & run state (real personal content).
+# NOTE: *.ndjson is deliberately broad. The eval fixtures survive it only because they
+# are .jsonl — if you add a fixture as .ndjson it will be silently ignored.
+*.ndjson
+agent_sent_ids.txt
+agent_group_sent.txt
+group_last_check.txt
+state_*.txt
+BRIDGE_PAUSE
+
+# Logs (may contain message text / JIDs)
+*.log
+
+# Screenshots / images that may show real participant names
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Scratch dumps
+*.csv
+*.pdf
+
+# ============================================================================
+# Standard build / tooling ignores
+# ============================================================================
+node_modules/
+npm-debug.log*
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
