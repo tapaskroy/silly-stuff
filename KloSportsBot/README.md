@@ -2,6 +2,12 @@
 
 > **Status: experimental / personal project.** A hobby framework, not a product. Scrapers are best-effort and version-dated; sites change and things break.
 
+> **Scope note.** This framework covers *tournament coverage*: live commentary, result cards,
+> picks and leaderboard math. For running an agent as a general presence in a group chat —
+> addressing detection, when to stay quiet, DM triage — see
+> [`../GroupChatCompanion/`](../GroupChatCompanion/). The two share `bridge/` by copy, so a
+> fix in one needs mirroring in the other.
+
 A persona-neutral framework for a **personal AI WhatsApp sports-companion bot** that runs a prediction pool: live score commentary, kickoff and full-time result cards, automated picks, and leaderboard math — all delivered to a WhatsApp group, with a private self-DM "command channel" back to you.
 
 ## The worked example

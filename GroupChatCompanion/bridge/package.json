@@ -1,0 +1,8 @@
+{
+  "name": "sportsbot-bridge",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "WhatsApp I/O bridge (watchdog, webhook listener, self-DM waiter) over the external wacli CLI.",
+  "dependencies": {}
+}
