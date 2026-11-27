@@ -22,8 +22,11 @@ Forecast updates with new polls are a different skill (midterms-update); after N
 
 ## Standing rules
 
-- Never link these pages from the site root, the blog or each other unless Tapas says so. `wings.html`, `review.html` and `houseseats.html` are reachable only by URL.
-- `frozen/` and the four frozen pages (index, senate, house, governors) must never change. Check after every publish.
+- Never link these pages from the site root or the blog unless Tapas says so. The nav (`site_chrome.SHEETS`) links Overview, Senate,
+  House, Governors, Scorecard and, since Nov 27 at Tapas's request, Review. `wings.html` and `houseseats.html` are reachable only by URL.
+- `frozen/` must never change. The four live forecast pages (index, senate, house, governors) are the frozen copies with only the
+  nav links added since the freeze: `nav_frozen.py` writes them (`publish_site.sh` runs it) and asserts nothing else differs. Never
+  rebuild them with `build_index.py` or the other sheet builders. Check after every publish.
 - No judgment tilts, no hand-edited probabilities. The forecast stays as published; proposals for 2028 go in the review text only.
 - Don't rerun `merge_*.py`; don't change model parameter files.
 - Never send Tapas's email address or any personal identifier to an outside service. Fetch with `curl -A "Mozilla/5.0"` (or the same header in urllib), and tell every subagent the same.
@@ -85,8 +88,9 @@ python3 build_houseseats.py           # asserts state sums = AP's national House
 ./publish_site.sh
 B=https://tapaskroy.me/elections/midterms2026
 for p in scorecard.html wings.html review.html houseseats.html; do curl -s -A "Mozilla/5.0" "$B/$p" | cmp -s - $p && echo "$p ok"; done
-for p in index.html senate.html house.html governors.html; do curl -s -A "Mozilla/5.0" "$B/$p" | cmp -s - frozen/$p && echo "$p = frozen"; done
-for u in https://tapaskroy.me/ $B/ $B/scorecard.html; do echo "$u: $(curl -s -A 'Mozilla/5.0' $u | grep -c -E 'wings.html|review.html|houseseats.html') links"; done
+for p in index.html senate.html house.html governors.html; do curl -s -A "Mozilla/5.0" "$B/$p" | cmp -s - $p && echo "$p = nav_frozen copy"; done  # nav_frozen.py checked it against frozen/
+for u in https://tapaskroy.me/ https://tapaskroy.me/blog/; do echo "$u: $(curl -s -A 'Mozilla/5.0' $u | grep -c -E 'midterms2026|wings.html|review.html|houseseats.html') links"; done
+for u in $B/ $B/scorecard.html $B/review.html; do echo "$u: $(curl -s -A 'Mozilla/5.0' $u | grep -c -E 'wings.html|houseseats.html') links"; done
 python3 -c "import json,hashlib;m=json.load(open('frozen/manifest.json'))['files'];print(all(hashlib.sha256(open('frozen/'+f,'rb').read()).hexdigest()==h for f,h in m.items()))"
 ```
 CloudFront can lag a minute or two; recheck a mismatch before worrying.

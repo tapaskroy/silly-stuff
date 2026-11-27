@@ -28,6 +28,10 @@ cd elections && python3 -c "import json,hashlib; m=json.load(open('frozen/manife
 print(m['frozen_at']); print(all(hashlib.sha256(open('frozen/'+f,'rb').read()).hexdigest()==h for f,h in m['files'].items()))"
 ```
 
+The live forecast pages (`index.html`, `senate.html`, `house.html`, `governors.html`) are the frozen copies with one change: on Nov 27
+a link to the review was added to their navigation bar. `nav_frozen.py` writes them from `frozen/` and checks that taking the link
+back out gives the frozen file exactly; the files in `frozen/` themselves are untouched.
+
 `.snap/<date>/` holds the models and poll files as published for each daily update (Oct 25 to Nov 3), so you can see how the forecast moved.
 
 ## Files
@@ -38,7 +42,7 @@ print(m['frozen_at']); print(all(hashlib.sha256(open('frozen/'+f,'rb').read()).h
 | Inputs | `*_polls.json` (audited polls, ballots, fundamentals), `senate_config.json`, `gov_config.json`, `house_overrides.json`, `model_params*.json` (every parameter with its source), `house_data.json`, `house_meta.json`, `senate_data.json`, `gov_composition.json` |
 | Outputs | `*_model.json`, `update_history.json` |
 | Pages | `index.html`, `senate.html`, `house.html`, `governors.html` (built by `build_*.py` with `site_chrome.py`, `page.css`, and the in-page simulators `*_sim.js`) |
-| Pipeline | `refresh.py` (rerun models after new polls, report what moved), `check_polls.py`, `freeze.py`, `publish_site.sh` |
+| Pipeline | `refresh.py` (rerun models after new polls, report what moved), `check_polls.py`, `freeze.py`, `nav_frozen.py` (the frozen pages with later nav links added), `publish_site.sh` |
 | Scorecard | `fetch_ap.py` (AP race calls and counts into `results.json`), `build_scorecard.py` → `scorecard.html`; `scenarios.json` holds the polling-miss scenarios in both directions |
 | Review | `review/analyze.py` (scores, upsets, pollster accuracy, error breakdowns → `review/analysis.json`), `review/counterfactuals.py` (reruns the frozen models with one rule changed at a time; checks that the unchanged rerun reproduces the forecast), `build_review.py` → `review.html`; `review/research/` holds the final race ratings, other models and markets, and sourced reporting on each upset; `review/rcv_final.json` holds ranked-choice final rounds |
 | Party wings | `wings/` (incoming and departing members and losing nominees, each placed in a party wing by `wings/RULES.md`: recorded votes first, then platform; `wings/votes/` has the roll calls), `wings/combine_house.py`, `wings/matchups.py`, `build_wings.py` → `wings.html` |

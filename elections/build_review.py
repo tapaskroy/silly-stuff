@@ -311,9 +311,12 @@ def versus(ch):
     more = [short(b["name"]) for b in rows if b["right"] > b["right_ours_same"]]
     fewer = [short(b["name"]) for b in rows if b["right"] < b["right_ours_same"]]
     brier = [short(b["name"]) for b in rows if b.get("brier") is not None and b["brier"] < b["brier_ours_same"]]
-    return (f"in the {RACES_OF[ch]}, {len(more)} of {len(rows)} got more right than we did on the same races"
-            + (f" ({esc(', '.join(more))})" if more else "") + f", {len(fewer)} fewer"
-            + (f", and {len(brier)} had a better Brier score ({esc(', '.join(brier))})." if brier else ", and none had a better Brier score."))
+    words = "none one two three four five six seven eight nine ten".split()
+    count = lambda n: "all" if n and n == len(rows) else words[n] if n < len(words) else str(n)
+    parts = [f"{count(len(more))} got more races right" + (f" ({esc(', '.join(more))})" if more else ""),
+             f"{count(len(fewer))} got fewer", f"{count(len(rows) - len(more) - len(fewer))} tied"]
+    return (f"In the {RACES_OF[ch]}, of {words[len(rows)] if len(rows) < len(words) else len(rows)}, " + ", ".join(parts[:-1]) + f" and {parts[-1]}. "
+            + (f"{count(len(brier)).capitalize()} had a better Brier score ({esc(', '.join(brier))})." if brier else "None had a better Brier score."))
 
 
 def close_versus(ch):
@@ -476,7 +479,9 @@ hardest races uncalled. Scored only on the close races, the picture changes. We 
 made the Republican the favorite, and Democrats won {close_fav_r_lost} of them.</p>
 <p>The fairest single comparison is with Sabato's Crystal Ball, which, like us, made a call in every race. It beat us in the House
 ({sab['house']['right']} to {h['right']} of {h['called']}) and in governors' races ({sab['governors']['right']} to {g['right']}); we beat it in the
-Senate ({s_['right']} to {sab['senate']['right']}). Against the other models and the betting markets: {versus('senate')} {versus('governors')[0].upper() + versus('governors')[1:]}
+Senate ({s_['right']} to {sab['senate']['right']}). Each of the other models and betting markets is compared with us on the races it covered. {versus('senate')}
+(The Brier score grades the probabilities rather than the picks, so a forecaster with the same races right can still beat us by
+being less sure about the races it missed or surer about the ones it got right.) {versus('governors')}
 The House was the clear loss. {house_models_line()} And {nat_beat} of the {len(nat_best)} final
 national generic-ballot polls, applied evenly to every district, would have called more House races right than our district model did.</p>
 </div>

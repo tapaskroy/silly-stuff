@@ -1,8 +1,9 @@
 """Shared page chrome for the three sheets as published at tapaskroy.me/elections/midterms2026/ (unlisted)."""
 
-# Unlisted pages: keep them out of search results. Nothing on the site links here.
+# Unlisted pages: keep them out of search results. Nothing outside these pages links here.
 ROBOTS = '<meta name="robots" content="noindex, nofollow">'
-SHEETS = [("index.html", "Overview"), ("senate.html", "Senate"), ("house.html", "House"), ("governors.html", "Governors"), ("scorecard.html", "Scorecard")]
+SHEETS = [("index.html", "Overview"), ("senate.html", "Senate"), ("house.html", "House"), ("governors.html", "Governors"), ("scorecard.html", "Scorecard"),
+          ("review.html", "Review")]  # added Nov 27, after the freeze: nav_frozen.py adds it to the frozen pages' nav
 
 
 def nav(current):
