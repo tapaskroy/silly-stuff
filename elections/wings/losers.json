@@ -2707,5 +2707,50 @@
    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
    "https://www.wect.com/2026/09/30/vote-2026-meet-candidates-running-district-7-seat-us-house-representatives/"
   ]
+ },
+ {
+  "chamber": "house",
+  "district": "AK-AL",
+  "name": "Bill Hill",
+  "party": "I",
+  "winner": "Nick Begich (R)",
+  "incumbent_before": "Nick Begich (R)",
+  "full_name": "Bill Hill",
+  "wing": "Mainstream",
+  "confidence": "medium",
+  "signals": {
+   "economic": "center",
+   "israel": "unknown"
+  },
+  "evidence": "Bristol Bay fisherman and former superintendent, endorsed by the Alaska Democratic Party, AFL-CIO and NEA, who would not say which party he'd caucus with. His platform is center-left populist rather than Progressive-left: taxing billionaires, no corporate PAC money and overturning Citizens United, but also expanding Medicaid and ACA subsidies (not Medicare for All), 'all of the above' energy including oil and gas, pro-gun and deficit reduction. He took no stated position on Israel, and the only progressive tie is small 2025 ActBlue donations to Sanders and AOC.",
+  "sources": [
+   "https://www.adn.com/politics/2026/09/01/alaskas-bill-hill-is-one-of-several-independents-challenging-republicans-in-congress-can-he-win/",
+   "https://www.adn.com/alaska-journal/news/2026/10/26/at-us-house-debate-begich-defends-the-war-in-iran-while-hill-refuses-to-say-which-party-hell-caucus-with/",
+   "https://assets.nationbuilder.com/smcdfa/pages/1366/attachments/original/1772670849/BillHill.pdf",
+   "https://www.washingtonpost.com/politics/2026/08/31/alaska-democrats-back-independent-bill-hill-statewide-house-race/",
+   "https://ivoterguide.com/candidate/94010/race/34103/election/1493"
+  ]
+ },
+ {
+  "chamber": "house",
+  "district": "NC-10",
+  "name": "Ashley Bell",
+  "party": "D",
+  "winner": "Pat Harrigan (R)",
+  "incumbent_before": "Pat Harrigan (R)",
+  "full_name": "Ashley Bell",
+  "wing": "Progressive",
+  "confidence": "high",
+  "signals": {
+   "economic": "left",
+   "israel": "critical"
+  },
+  "evidence": "Physician associate whose campaign issues page backs universal healthcare not tied to employment, the Green New Deal and abolishing ICE, and says 'Stop funding Israel's genocide on the Palestinian people.' She lists endorsements from Track AIPAC, CAIR Action, the NCDP Progressive Caucus and Jasmine Crockett's Fire PAC.",
+  "sources": [
+   "https://ashleybellforcongress.com/issues",
+   "https://ashleybellforcongress.com/endorsements",
+   "https://ballotpedia.org/Ashley_Bell_(North_Carolina)",
+   "https://www.wfae.org/2026-11-16/democrat-ashley-bell-requests-recount-in-ncs-10th-congressional-district"
+  ]
  }
 ]

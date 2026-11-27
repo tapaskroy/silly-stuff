@@ -8987,5 +8987,92 @@
   "objected_2021": true,
   "wing": "Mainstream",
   "basis": "voted for the 2024 Ukraine aid and against the 2025 ban"
+ },
+ {
+  "district": "AK-AL",
+  "name": "Nick Begich",
+  "party": "R",
+  "returning": true,
+  "agent_wing": "Nationalist",
+  "confidence": "high",
+  "evidence": "Returning; beat Bill Hill (I) in the ranked-choice count. First elected 2024, so no vote on the 2024 Ukraine aid; voted Aye on the 2025 Greene amendment barring Ukraine aid (2025 roll 209).",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml"
+  ],
+  "immigration": "unknown",
+  "ukraine_2024": null,
+  "ukraine_ban_2025": "Aye",
+  "objected_2021": null,
+  "wing": "Nationalist",
+  "basis": "voted for the 2025 Greene amendment barring Ukraine aid"
+ },
+ {
+  "district": "NC-10",
+  "name": "Pat Harrigan",
+  "party": "R",
+  "returning": true,
+  "agent_wing": "Nationalist",
+  "confidence": "high",
+  "evidence": "Returning; beat Ashley Bell (D) by 0.85 points. First elected 2024, so no vote on the 2024 Ukraine aid; voted Aye on the 2025 Greene amendment barring Ukraine aid (2025 roll 209).",
+  "sources": [
+   "https://clerk.house.gov/evs/2024/roll151.xml",
+   "https://clerk.house.gov/evs/2025/roll209.xml"
+  ],
+  "immigration": "unknown",
+  "ukraine_2024": null,
+  "ukraine_ban_2025": "Aye",
+  "objected_2021": null,
+  "wing": "Nationalist",
+  "basis": "voted for the 2025 Greene amendment barring Ukraine aid"
+ },
+ {
+  "district": "NC-5",
+  "name": "Chuck Hubbard",
+  "party": "D",
+  "returning": false,
+  "agent_wing": "Mainstream",
+  "confidence": "medium",
+  "evidence": "Former Wilkes County journalist (2024 nominee, rematch winner over Foxx pending her recount request). Platform is conventional Democratic: protect Medicare/Medicaid/Social Security, a public option rather than Medicare for All, small business and public education; no progressive-group endorsements found (only Equality NC). He is mildly critical on Israel (US must 'exert some control on Netanyahu'), but economics are center-left, not the left populism the Progressive wing requires.",
+  "sources": [
+   "https://ballotpedia.org/Chuck_Hubbard",
+   "https://hubbardforcongress.com",
+   "https://www.predictionedge.com/elections/profile/chuck-hubbard/",
+   "https://ivoterguide.com/candidate/71283/race/1737/election/1206",
+   "https://jewishinsider.com/2026/11/where-the-incoming-democratic-freshmen-stand-on-israel/",
+   "https://www.newsfromthestates.com/article/hubbard-appears-defeat-foxx-nc-05-provisionals-cured-ballots-counted",
+   "https://www.wbtv.com/2026/11/17/republican-rep-requests-recount-tight-us-house-race-north-carolina/?outputType=amp"
+  ],
+  "econ": "center",
+  "israel": "critical",
+  "israel_vote_2026": null,
+  "israel_vote_2024": null,
+  "wing": "Mainstream",
+  "wing_without_israel_rule": "Mainstream",
+  "basis": "newcomer or no 2026 vote: endorsements and statements"
+ },
+ {
+  "district": "TN-4",
+  "name": "Victoria Isabel Broderick",
+  "party": "D",
+  "returning": false,
+  "agent_wing": "Progressive",
+  "confidence": "medium",
+  "evidence": "Customer-support worker and Lincoln County Democratic organizer (2024 nominee) who beat DesJarlais by ~280 votes; he conceded Nov 16. Lists universal healthcare as a top priority, along with taxing the wealthy, raising the minimum wage, paid leave and an expanded child tax credit. She calls the Gaza war a genocide and wants Israel aid conditioned on humanitarian access. No formal CPC/Justice Democrats/WFP endorsement found.",
+  "sources": [
+   "https://ballotpedia.org/Victoria_Broderick",
+   "https://www.victoria4tennessee.org/about",
+   "https://www.predictionedge.com/elections/profile/victoria-broderick/",
+   "https://jewishinsider.com/2026/11/where-the-incoming-democratic-freshmen-stand-on-israel/",
+   "https://tennesseelookout.com/2026/11/16/desjarlais-concedes-tennessee-4th-congressional-district-to-democrat-victoria-broderick/",
+   "https://axios.com/local/nashville/2026/11/04/inside-victoria-broderick-s-unlikely-congressional-win-in-tennessee"
+  ],
+  "econ": "left",
+  "israel": "critical",
+  "israel_vote_2026": null,
+  "israel_vote_2024": null,
+  "wing": "Progressive",
+  "wing_without_israel_rule": "Progressive",
+  "basis": "newcomer or no 2026 vote: endorsements and statements"
  }
 ]
