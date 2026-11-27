@@ -4,8 +4,8 @@
 Usage: python3 fetch_ap.py [--dry-run]
        python3 fetch_ap.py --count-to review/ap_count.json
   --count-to writes AP's current count for every race to that file instead (same shape as results.json, margins at any share
-  counted, ranked-choice races at their first-round shares unless review/rcv_final.json has the final round, note = percent of expected vote in), plus AP's national House vote
-  to national_vote.json beside it. results.json is not touched. The wings head-to-head and the upset review read these files.
+  counted, ranked-choice races at their first-round shares unless review/rcv_final.json has the final round, note = percent
+  of expected vote in), plus AP's national House vote to national_vote.json beside it. results.json is not touched. The wings head-to-head and the upset review read these files.
 For each scored race it finds the AP race (same state and office, both our candidates on AP's ballot) and records:
   winner     our surname for AP's declared winner (AP marks it in progress.json: winner "X", calledAt); for the Louisiana House races,
              where the model lists several names per side, the side of the winner's party, with winner_name for display

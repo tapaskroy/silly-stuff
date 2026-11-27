@@ -6,19 +6,23 @@ description: After the 2026 midterms, keep the results pages current - pull new 
 # 2026 midterms: results, wings and review
 
 The project lives in `~/code/elections` (not a git repo). The Nov 3 forecast is frozen in `frozen/` and is scored, never changed.
-Three results pages are built from it and published, unlisted, to **tapaskroy.me/elections/midterms2026/**:
+Four results pages are built from it and published, unlisted, to **tapaskroy.me/elections/midterms2026/**:
 
 | Page | Builder | Reads |
 |---|---|---|
 | `scorecard.html` | `build_scorecard.py` | `results.json` (AP calls), `frozen/`, `scenarios.json` |
 | `wings.html` | `build_wings.py` | `wings/*.json` (members and nominees by party wing), `wings/matchups.json`, `results.json` |
 | `review.html` | `build_review.py` | `review/analysis.json` (from `review/analyze.py`), `review/counterfactuals.json` |
+| `houseseats.html` | `build_houseseats.py` | AP's live feed directly (seats and House vote by state); cross-checks `results.json` |
+
+Run everything with Homebrew's Python (`/opt/homebrew/bin/python3`, or `PATH=/opt/homebrew/bin:$PATH ./publish_site.sh`): the
+system `python3` is 3.9 and the builders need 3.12+. `python3` below means that one.
 
 Forecast updates with new polls are a different skill (midterms-update); after Nov 3 there are none.
 
 ## Standing rules
 
-- Never link these pages from the site root, the blog or each other unless Tapas says so. `wings.html` and `review.html` are reachable only by URL.
+- Never link these pages from the site root, the blog or each other unless Tapas says so. `wings.html`, `review.html` and `houseseats.html` are reachable only by URL.
 - `frozen/` and the four frozen pages (index, senate, house, governors) must never change. Check after every publish.
 - No judgment tilts, no hand-edited probabilities. The forecast stays as published; proposals for 2028 go in the review text only.
 - Don't rerun `merge_*.py`; don't change model parameter files.
@@ -39,7 +43,9 @@ python3 analysis/summarize.py      # new calls with our chance for the winner, u
 
 - Every `CHECK:` line from `fetch_ap.py` needs a look: a withdrawn call, an AP name mismatch, a race AP doesn't list.
 - For each new upset (our chance for the winner under 50%), confirm the call in AP's feed directly (winner "X" in progress.json) before reporting it.
-- Margins in `results.json` appear only at 95%+ counted and are null for ranked-choice races, by design.
+- Margins in `results.json` appear only at 95%+ counted and are null for ranked-choice races, by design. In `review/ap_count.json`,
+  a ranked-choice race uses the state's final-round margin from `review/rcv_final.json` when it has one (add it from the state's
+  official RCV report once tabulated); otherwise AP's first-round shares.
 - If Tapas only asked whether races were called, report and ask before publishing.
 
 ## 2. Wings refresh (after new calls)
@@ -67,6 +73,7 @@ python3 fetch_ap.py --count-to review/ap_count.json
 python3 review/analyze.py              # all scores, upsets, pollsters, error breakdowns
 python3 review/counterfactuals.py      # only when calls changed; a few minutes; asserts the rerun reproduces the frozen forecast
 python3 build_review.py
+python3 build_houseseats.py           # asserts state sums = AP's national House count and every call matches results.json
 ```
 - Research inputs are in `review/research/`: `final_ratings.json` (Cook, Sabato, Inside Elections final ratings), `quant_senate_gov.json` and `quant_house.json` (other models and Polymarket/Kalshi), `upsets_*.json` (sourced reporting per upset). A new upset needs an entry in an `upsets_*.json` file (same shape: chamber, result, explanations with fact/interpretation and source URL, late polls, who picked the winner, summary); research it with a subagent.
 - The text in `build_review.py` is computed from the data where it cites numbers. Sentences that are still hand-written are listed in its `CLAIMS` checks: if new calls or research make one false, the build stops and names it. Rewrite the sentence, then its check; never just delete the check.
@@ -77,9 +84,9 @@ python3 build_review.py
 ```
 ./publish_site.sh
 B=https://tapaskroy.me/elections/midterms2026
-for p in scorecard.html wings.html review.html; do curl -s -A "Mozilla/5.0" "$B/$p" | cmp -s - $p && echo "$p ok"; done
+for p in scorecard.html wings.html review.html houseseats.html; do curl -s -A "Mozilla/5.0" "$B/$p" | cmp -s - $p && echo "$p ok"; done
 for p in index.html senate.html house.html governors.html; do curl -s -A "Mozilla/5.0" "$B/$p" | cmp -s - frozen/$p && echo "$p = frozen"; done
-for u in https://tapaskroy.me/ $B/ $B/scorecard.html; do echo "$u: $(curl -s -A 'Mozilla/5.0' $u | grep -c -E 'wings.html|review.html') links"; done
+for u in https://tapaskroy.me/ $B/ $B/scorecard.html; do echo "$u: $(curl -s -A 'Mozilla/5.0' $u | grep -c -E 'wings.html|review.html|houseseats.html') links"; done
 python3 -c "import json,hashlib;m=json.load(open('frozen/manifest.json'))['files'];print(all(hashlib.sha256(open('frozen/'+f,'rb').read()).hexdigest()==h for f,h in m.items()))"
 ```
 CloudFront can lag a minute or two; recheck a mismatch before worrying.
@@ -90,7 +97,8 @@ New calls (with our chance for the winner), upsets, chamber tallies (from `summa
 
 ## 6. GitHub sync (only when asked)
 
-The public copy is `~/code/silly-stuff/elections` in tapaskroy/silly-stuff. PR #5 (the first snapshot) is merged; new work goes on a new branch from `main` and a new PR.
+The public copy is `~/code/silly-stuff/elections` in tapaskroy/silly-stuff. New work goes on a new branch from `main` and a new PR. Check that earlier midterms PRs are merged first; PRs are
+squash-merged, so a branch stacked on an open PR must be rebased with `git rebase --onto origin/main <old PR commit>` after it lands.
 
 - Copy changed files from `~/code/elections` into `silly-stuff/elections`.
 - **Include:** code, inputs, outputs, `frozen/`, the pages, `wings/`, `review/`, `analysis/`, the paper, and this skill and midterms-update under `elections/skills/`.

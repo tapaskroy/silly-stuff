@@ -1,15 +1,15 @@
 {
  "_source": "AP election results feed",
- "as_of": "2026-11-26T19:36:57+00:00",
+ "as_of": "2026-11-27T19:32:40+00:00",
  "national_eevp": 99.0,
  "total": {
   "seats": 435,
   "D": 259,
   "R": 173,
   "uncalled": 3,
-  "D_votes": 66953450,
-  "R_votes": 50226679,
-  "other_votes": 1787220,
+  "D_votes": 66966021,
+  "R_votes": 50230444,
+  "other_votes": 1788696,
   "D_seat_pct": 60.0,
   "R_seat_pct": 40.0,
   "D_vote_pct": 56.3,
@@ -26,9 +26,9 @@
    "uncalled": 0,
    "D_seat_pct": 92.3,
    "R_seat_pct": 7.7,
-   "D_votes": 8922111,
-   "R_votes": 3810643,
-   "other_votes": 113093,
+   "D_votes": 8934682,
+   "R_votes": 3814408,
+   "other_votes": 114569,
    "D_vote_pct": 69.5,
    "R_vote_pct": 29.7,
    "other_vote_pct": 0.9,
@@ -724,7 +724,9 @@
    "D_vote_pct": 57.6,
    "R_vote_pct": 41.6,
    "other_vote_pct": 0.9,
-   "notes": []
+   "notes": [
+    "ME-2: ranked-choice; these are first-round counts"
+   ]
   },
   {
    "state": "Montana",
@@ -809,7 +811,9 @@
    "D_vote_pct": 7.9,
    "R_vote_pct": 47.5,
    "other_vote_pct": 44.6,
-   "notes": []
+   "notes": [
+    "AK-AL: ranked-choice; these are first-round counts"
+   ]
   },
   {
    "state": "Delaware",

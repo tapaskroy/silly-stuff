@@ -65,7 +65,7 @@ for k, m in house.items():
         notes[st].append(f"{dist}: {label} unopposed" + ("; no votes counted" if total == 0 else ""))
     elif not parties["R"] or not parties["D"]:
         notes[st].append(f"{dist}: no {'Republican' if not parties['R'] else 'Democrat'} on the ballot ({label})")
-    if m.get("rankedChoice") and not won:
+    if m.get("rankedChoice"):  # AP counts the first round only, called or not
         notes[st].append(f"{dist}: ranked-choice; these are first-round counts")
 
 # Check 1: the state sums equal AP's national aggregate.
