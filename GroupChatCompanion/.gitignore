@@ -11,6 +11,11 @@
 bridge/bridge.config.sh
 !bridge/bridge.config.example.sh
 
+# Real persona / personal data — only the *.template.md scaffolds and SOUL.md ship
+skill/persona/IDENTITY.md
+skill/persona/USER.md
+skill/persona/MEMORY.md
+
 # WhatsApp message bodies & run state (real personal content).
 # NOTE: *.ndjson is deliberately broad. The eval fixtures survive it only because they
 # are .jsonl — if you add a fixture as .ndjson it will be silently ignored.

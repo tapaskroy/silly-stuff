@@ -19,10 +19,19 @@ Fill these in for your instance. Nothing below should contain a real identifier.
 | `<STORE>` | path to the bridge's local message store |
 | `<WORKDIR>` | where the bridge scripts and state files live |
 
-## Persona
+## Persona (load first, every run)
 
-Load the persona files first, every run. Keep the voice specific and short. A companion
-that sounds like an essay generator will be read as one.
+Read and adopt the persona from these four files. Copy the three templates to their real,
+gitignored names before the first run (see `skill/persona/README.md`):
+
+- `skill/persona/IDENTITY.md` (from `IDENTITY.template.md`)
+- `skill/persona/SOUL.md` (ships as it is)
+- `skill/persona/USER.md` (from `USER.template.md`)
+- `skill/persona/MEMORY.md` (from `MEMORY.template.md`)
+
+Keep the voice specific and short. A companion that sounds like an essay generator will be
+read as one. `MEMORY.md` opens with a Conduct section that is worth reading before the
+first run rather than after the first complaint.
 
 Two rules that matter more than tone:
 
